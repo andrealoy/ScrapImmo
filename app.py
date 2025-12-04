@@ -1,34 +1,28 @@
 import streamlit as st
 import pandas as pd
-import folium
-from streamlit_folium import st_folium
+import pydeck as pdk
 
 # -------------------------------------------------------------------
-# 1. LOAD DATA
+# LOAD DATA
 # -------------------------------------------------------------------
 @st.cache_data
 def load_data():
     df = pd.read_csv("data/cleaned.csv")
 
-    # S'assurer que lon/lat sont bien en numérique
     df['lon'] = pd.to_numeric(df['lon'], errors='coerce')
     df['lat'] = pd.to_numeric(df['lat'], errors='coerce')
 
-    df = df.dropna(subset=['lon', 'lat'])  # garder les points valides
-    return df
+    return df.dropna(subset=['lon', 'lat'])
 
 df = load_data()
 
-st.title("🏡 Real Estate Data Explorer")
-st.markdown("Visualisation des biens + carte interactive + filtres")
+st.title("🏡 Real Estate Data Explorer — PyDeck Edition ⚡️")
+st.markdown("Deux cartes super rapides (Paris & Lyon) basées sur WebGL")
 
 # -------------------------------------------------------------------
-# 2. SIDEBAR FILTERS
+# SIDEBAR FILTERS
 # -------------------------------------------------------------------
 st.sidebar.header("Filtres")
-
-cities = df['city'].dropna().unique()
-selected_city = st.sidebar.selectbox("Ville", ["Toutes"] + list(cities))
 
 min_price, max_price = st.sidebar.slider(
     "Prix (€)",
@@ -45,48 +39,61 @@ min_space, max_space = st.sidebar.slider(
 )
 
 # -------------------------------------------------------------------
-# 3. APPLY FILTERS
+# APPLY FILTERS
 # -------------------------------------------------------------------
-df_filtered = df.copy()
-
-if selected_city != "Toutes":
-    df_filtered = df_filtered[df_filtered['city'] == selected_city]
-
-df_filtered = df_filtered[
-    (df_filtered['price_value'].between(min_price, max_price)) &
-    (df_filtered['livingSpace'].between(min_space, max_space))
+df_filtered = df[
+    (df['price_value'].between(min_price, max_price)) &
+    (df['livingSpace'].between(min_space, max_space))
 ]
 
-st.subheader(f"📊 {len(df_filtered)} biens trouvés")
+st.subheader(f"📊 {len(df_filtered)} biens filtrés")
+
+df_paris = df_filtered[df_filtered['city'].str.contains("paris", case=False, na=False)]
+df_lyon = df_filtered[df_filtered['city'].str.contains("lyon", case=False, na=False)]
 
 # -------------------------------------------------------------------
-# 4. MAP
+# PYDECK MAP GENERATOR
 # -------------------------------------------------------------------
-st.subheader("🗺️ Carte interactive")
+def make_map(df_city, lat, lon, title, color):
+    st.markdown(f"### {title}")
 
-center = [df_filtered['lat'].mean(), df_filtered['lon'].mean()]
+    layer = pdk.Layer(
+        "ScatterplotLayer",
+        df_city,
+        pickable=True,
+        get_position='[lon, lat]',
+        get_radius=40,
+        get_fill_color=color,
+        get_line_color=[0, 0, 0],
+        line_width_min_pixels=1,
+    )
 
-m = folium.Map(location=center, zoom_start=12)
+    view_state = pdk.ViewState(
+        latitude=lat,
+        longitude=lon,
+        zoom=11,
+        pitch=0,
+    )
 
-for _, row in df_filtered.iterrows():
-    folium.CircleMarker(
-        location=[row['lat'], row['lon']],
-        radius=3,
-        color="blue",
-        fill=True,
-        fill_opacity=0.7,
-        popup=f"{row['price_value']} € - {row['livingSpace']} m²"
-    ).add_to(m)
+    r = pdk.Deck(
+        map_style=None,
+        initial_view_state=view_state,
+        layers=[layer],
+        tooltip={
+            "html": "<b>Prix:</b> {price_value} €<br><b>Surface:</b> {livingSpace} m²",
+            "style": {"color": "white"}
+        }
+    )
 
-st_folium(m, width=800, height=500)
+    st.pydeck_chart(r)
 
 # -------------------------------------------------------------------
-# 5. HISTOGRAMS
+# TWO MAPS SIDE BY SIDE
 # -------------------------------------------------------------------
-st.subheader("📈 Histogrammes")
+col1, col2 = st.columns(2)
 
-st.write("Distribution des prix (€)")
-st.bar_chart(df_filtered['price_value'])
+with col1:
+    make_map(df_paris, 48.8566, 2.3522, "🗼 Paris", [0, 122, 255, 180])
 
-st.write("Distribution des surfaces (m²)")
-st.bar_chart(df_filtered['livingSpace'])
+with col2:
+    make_map(df_lyon, 45.7640, 4.8357, "🦁 Lyon", [255, 80, 0, 180])
