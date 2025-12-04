@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 import pydeck as pdk
+import plotly.express as px 
+
 
 # -------------------------------------------------------------------
 # LOAD DATA
@@ -52,35 +54,109 @@ df_paris = df_filtered[df_filtered['city'].str.contains("paris", case=False, na=
 df_lyon = df_filtered[df_filtered['city'].str.contains("lyon", case=False, na=False)]
 
 # -------------------------------------------------------------------
+# SCATTERPLOT PRICE PER M SQUARED
+# -------------------------------------------------------------------
+
+st.subheader("📉 Prix au mètre carré — Paris vs Lyon")
+
+df_plot = df_filtered.copy()
+
+fig = px.scatter(
+    df_plot,
+    x="livingSpace",
+    y="price_m2",
+    color="city",
+    labels={
+        "livingSpace": "Surface (m²)",
+        "price_m2": "Prix au m² (€)",
+        "city_clean": "Ville"
+    },
+    title="Prix au mètre carré en fonction de la surface",
+    opacity=0.7,
+)
+
+fig.update_traces(marker=dict(size=8))
+fig.update_layout(height=500)
+
+st.plotly_chart(fig, use_container_width=True)
+
+
+# -------------------------------------------------------------------
 # PYDECK MAP GENERATOR
 # -------------------------------------------------------------------
-def make_map(df_city, lat, lon, title, color):
+def make_map(df_city, lat, lon, title):
     st.markdown(f"### {title}")
 
-    layer = pdk.Layer(
-        "ScatterplotLayer",
+    # Color mapping for scatter points
+    p_min, p_max = df_city["price_m2"].min(), df_city["price_m2"].max()
+
+    def price_to_color(p):
+        t = (p - p_min) / (p_max - p_min + 1e-9)
+
+        # couleurs plus saturées / néon
+        r = int(255 * t)
+        g = int(30 * (1 - t))
+        b = int(255 * (1 - t))  # plus de bleu
+        return [r, g, b, 255]   # alpha max = hyper visible
+
+
+    df_city["color"] = df_city["price_m2"].apply(price_to_color)
+
+    # ---------------------------
+    # 1. HEATMAP LAYER
+    # ---------------------------
+    heat = pdk.Layer(
+        "HeatmapLayer",
         df_city,
-        pickable=True,
         get_position='[lon, lat]',
-        get_radius=40,
-        get_fill_color=color,
-        get_line_color=[0, 0, 0],
-        line_width_min_pixels=1,
+        get_weight="price_m2",
+        aggregation="MEAN",
+        color_range=[
+            [0, 0, 30],
+            [20, 0, 80],
+            [80, 0, 150],
+            [200, 0, 120],
+            [255, 50, 50],
+            [255, 200, 0],
+        ],
+        radiusPixels=40,
+        opacity = 0.35,
     )
 
+    # ---------------------------
+    # 2. SCATTER LAYER
+    # ---------------------------
+    points = pdk.Layer(
+        "ScatterplotLayer",
+        df_city,
+        get_position='[lon, lat]',
+        get_fill_color="color",
+        get_radius=30,
+        stroked=False,
+        opacity=1,
+        pickable=True,
+    )
+
+    # ---------------------------
+    # VIEW
+    # ---------------------------
     view_state = pdk.ViewState(
         latitude=lat,
         longitude=lon,
         zoom=11,
-        pitch=0,
+        pitch=45,
+        bearing=20,
     )
 
+    # ---------------------------
+    # RENDER
+    # ---------------------------
     r = pdk.Deck(
-        map_style=None,
+        layers=[heat, points],
         initial_view_state=view_state,
-        layers=[layer],
+        # map_style="mapbox://styles/mapbox/dark-v11",
         tooltip={
-            "html": "<b>Prix:</b> {price_value} €<br><b>Surface:</b> {livingSpace} m²",
+            "html": "<b>Prix/m²:</b> {price_m2} €<br><b>Surface:</b> {livingSpace} m²",
             "style": {"color": "white"}
         }
     )
@@ -93,7 +169,7 @@ def make_map(df_city, lat, lon, title, color):
 col1, col2 = st.columns(2)
 
 with col1:
-    make_map(df_paris, 48.8566, 2.3522, "🗼 Paris", [0, 122, 255, 180])
+    make_map(df_paris, 48.8566, 2.3522, "Paris")
 
 with col2:
-    make_map(df_lyon, 45.7640, 4.8357, "🦁 Lyon", [255, 80, 0, 180])
+    make_map(df_lyon, 45.7640, 4.8357, "Lyon")
