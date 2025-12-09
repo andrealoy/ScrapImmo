@@ -1,0 +1,1209 @@
+{
+  "brand": "seloger",
+  "id": "256CH492EAU2",
+  "metadata": {
+    "legacyId": "256132657",
+    "creationDate": "2025-12-09T10:04:00Z",
+    "updateDate": "2025-12-09T10:06:16.388Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 17ème",
+        "zipCode": "75017"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                2.29503,
+                48.87377
+              ],
+              [
+                2.27995,
+                48.87857
+              ],
+              [
+                2.28101,
+                48.88297
+              ],
+              [
+                2.29115,
+                48.8893
+              ],
+              [
+                2.29501,
+                48.88987
+              ],
+              [
+                2.30769,
+                48.89601
+              ],
+              [
+                2.32043,
+                48.90078
+              ],
+              [
+                2.33015,
+                48.90104
+              ],
+              [
+                2.3256,
+                48.88751
+              ],
+              [
+                2.32742,
+                48.88351
+              ],
+              [
+                2.29815,
+                48.87808
+              ],
+              [
+                2.29503,
+                48.87377
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "description": {
+      "description": "Au coeur du village Saint Ferdinand un appartement au calme sur cour de 61m2. L'espace de vie se compose d'un salon salle à manger, d'une cuisine aménagée et équipée séparée. L'espace nuit offre deux chambres et une salle de bains. Les toilettes sont séparées. Entièrement rénové en 2024 et meublé.\r\nLaurence Thepenier",
+      "texts": [
+        {
+          "text": "Au coeur du village Saint Ferdinand un appartement au calme sur cour de 61m2. L'espace de vie se compose d'un salon salle à manger, d'une cuisine aménagée et équipée séparée. L'espace nuit offre deux chambres et une salle de bains. Les toilettes sont séparées. Entièrement rénové en 2024 et meublé.\r\nLaurence Thepenier"
+        }
+      ],
+      "headline": "Location meublée 3 pièces Paris 17éme"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "60,8 m²",
+        "1er étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "60,8 m²",
+          "splitValue": "60,8",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1er étage",
+          "splitValue": "1er",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "2 260 €",
+        "formatted": "2 260 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "2260 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Entretenu"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel: Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "b01a0919-b435-4943-98a7-e1c4cf547ccd",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 909 et 1229 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 909 et 1229 € par an. Date d'indexation du prix des énergies non communiquée."
+            }
+          ],
+          "scales": [
+            {
+              "key": "4b47e84d-9fc5-4cb6-b51c-e134ba28a9e5",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "234 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "bc5fff06-8d89-48d2-af77-6a2befc00c01",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256132657"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "84053750"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "2 130 €/mois Loyer de base",
+          "ariaLabel": "2130 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "130 €/mois",
+            "ariaLabel": "130 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "2 260 €/mois",
+            "ariaLabel": "2260 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "35,03 €/mois/m²",
+            "ariaLabel": "35,03 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "4260"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "1er étage"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "value": "Sans vis-à-vis",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        },
+        {
+          "icon": "barrier-free",
+          "value": "Non accessible aux personnes à mobilité réduite"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "1er étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "livingRoom",
+                "value": "Salon (total 21,2 m²)"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              },
+              {
+                "value": "Sans vis-à-vis",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "7aefc4d6-a122-4add-bd9b-aa2c7e8f4d8a",
+          "url": "https://mms.seloger.com/7/a/e/f/7aefc4d6-a122-4add-bd9b-aa2c7e8f4d8a.jpg?ci_seal=017aaae781b833696fe4f8c5ab216a1f03f83cfc",
+          "alt": "Appartement à louer 2 260 € 3 pièces 2 chambres 60,8 m² 1er étage Paris 17ème 75017",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6d31df15-0025-41c1-8ac7-bb9c50ea5ab1",
+          "url": "https://mms.seloger.com/6/d/3/1/6d31df15-0025-41c1-8ac7-bb9c50ea5ab1.jpg?ci_seal=4ba4ad5fbc3cce127016dd067f592eca872e7f5a",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "01b5008a-2466-4088-aea6-4caa1143cd82",
+          "url": "https://mms.seloger.com/0/1/b/5/01b5008a-2466-4088-aea6-4caa1143cd82.jpg?ci_seal=5bd571d0cb6baa041bfa82aa66998233ef5826b5",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "bd110b8e-42eb-4066-8b70-1ec42fb61753",
+          "url": "https://mms.seloger.com/b/d/1/1/bd110b8e-42eb-4066-8b70-1ec42fb61753.jpg?ci_seal=c45e63868978c5f54299807d41b7d77b3ac3b016",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b6c3eeb7-628d-4aa0-a586-5468915ebf3b",
+          "url": "https://mms.seloger.com/b/6/c/3/b6c3eeb7-628d-4aa0-a586-5468915ebf3b.jpg?ci_seal=4aed715df22c3498524012da0059516544cbe47f",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c7108aea-e73a-4fad-9835-c71edc7f28ba",
+          "url": "https://mms.seloger.com/c/7/1/0/c7108aea-e73a-4fad-9835-c71edc7f28ba.jpg?ci_seal=de5672ac808aff747d80d9175e7f09a55fad54f7",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e7080cab-5c02-468b-a257-fff78394204f",
+          "url": "https://mms.seloger.com/e/7/0/8/e7080cab-5c02-468b-a257-fff78394204f.jpg?ci_seal=abfe5a8714b25f5587d1f402c4e386cf0e366f44",
+          "classification": {
+            "name": "LOGO",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256132657",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75017",
+      "city": "Paris 17ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 32.72,
+        "accuracy": 4,
+        "high": "43,28",
+        "low": "25,94"
+      },
+      "markerPosition": 52,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "35,03",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Location meublée 3 pièces Paris 17éme",
+      "description": "Au coeur du village Saint Ferdinand un appartement au calme sur cour de 61m2. L'espace de vie se compose d'un salon salle à manger, d'une cuisine aménagée et équipée séparée. L'espace nuit offre deux chambres et une salle de bains. Les toilettes sont séparées. Entièrement rénové en 2024 et meublé.\r\nLaurence Thepenier",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "132 vues",
+      "saves": "1 favori"
+    }
+  },
+  "contactSections": {
+    "id": "256CH492EAU2",
+    "legacyId": "256132657",
+    "brand": "seloger",
+    "agencyId": "RC-1022054",
+    "static": {
+      "phoneNumbers": [
+        "+33610610461 / 0610610461"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33610610461 / 0610610461"
+      ]
+    },
+    "contactCard": {
+      "title": "COLDWELL BANKER ENTALIA CAP WEST",
+      "subtitle": "Laurence Thepenier",
+      "phoneNumbers": [
+        "+33610610461 / 0610610461"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/f/8/9/2/f8928a19-2c39-452f-baf2-83d978fb8b12.jpg?ci_seal=11be2341745bdd8836e2b82ea489e091b2180955",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "COLDWELL BANKER ENTALIA CAP WEST",
+        "subtitle": "Laurence Thepenier",
+        "phoneNumbers": [
+          "+33610610461 / 0610610461"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/f/8/9/2/f8928a19-2c39-452f-baf2-83d978fb8b12.jpg?ci_seal=11be2341745bdd8836e2b82ea489e091b2180955"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Laurence Thepenier",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "COLDWELL BANKER ENTALIA CAP WEST",
+      "subtitle": "COLDWELL BANKER ENTALIA CAP WEST",
+      "phoneNumbers": [
+        "+33610610461 / 0610610461"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "COLDWELL BANKER ENTALIA CAP WEST",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/f/8/9/2/f8928a19-2c39-452f-baf2-83d978fb8b12.jpg?ci_seal=11be2341745bdd8836e2b82ea489e091b2180955",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/le-vesinet-78110/agence-100965/"
+      },
+      "contactCard": {
+        "title": "Laurence Thepenier",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.coldwellbanker.fr/agence/coldwell-banker-entalia-cap-west/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/le-vesinet-78110/agence-100965/",
+      "imprintUrl": null,
+      "feeUrl": "https://vd.seloger.com:443/files/0/y/m/3/0ym3f2vo21y4i49znfllri3h9r5b2xqiiq0ao2t4w/HONORAIRES%20AGENCE%20pdf.pdf",
+      "agencyLegalInformations": [
+        "SAS, société par actions simplifiée IXIOM",
+        "<b>Siège:</b> 20 Rue du Général Clavery, 78110 Le Vésinet",
+        "<b>RCS:</b> 884885088",
+        "<b>SIRET:</b> 88488508800010"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "20 Rue Général Clavery, 78110 Le Vésinet",
+      "phoneNumbers": [
+        "+33610610461 / 0610610461"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75017",
+    "av_city": "Paris",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "256CH492EAU2",
+        "price": 2260,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75017",
+        "building_state": "WELL_KEPT",
+        "legacy_id": "256132657",
+        "product_type": "standard",
+        "client_id": "RC-1022054",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "54808",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "75017",
+        "estate_type": 1,
+        "id": "256132657",
+        "id_duo": 256132657,
+        "id_solo": 256132657,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 7,
+        "position": 0,
+        "price": 2260,
+        "product_geolocation": "localisation_city",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 60.81
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75017",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256132657",
+      "prix": 2300,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 60.81,
+      "commodites": [
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "SalleDeBain-baignoire",
+        "sansVisAVis",
+        "Sejour"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-17eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 17ème arrondissement 75017",
+          "hoverLabel": "Appartements à louer Paris 17ème arrondissement 75017",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 60.81 m² 2260 € Paris (75017)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 60.81 m² 2260 € Paris (75017)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-17eme-75/256132657.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-17eme-75/256132657.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 60.81 m² 2260 € Paris (75017)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 60.81 m² 2260 € Paris (75017)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/7/a/e/f/7aefc4d6-a122-4add-bd9b-aa2c7e8f4d8a.jpg?ci_seal=017aaae781b833696fe4f8c5ab216a1f03f83cfc"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 60.81 m² 2260 € Paris (75017)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-17eme-75/256132657.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 60.81 m² 2260 € Paris (75017)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 60.81 m² 2260 € Paris (75017)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/7/a/e/f/7aefc4d6-a122-4add-bd9b-aa2c7e8f4d8a.jpg?ci_seal=017aaae781b833696fe4f8c5ab216a1f03f83cfc"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 60.81 m² 2260 € Paris (75017)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 60.81 m² 2260 € Paris (75017)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-17eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 17ème arrondissement 75017",
+          "hoverLabel": "Appartements à louer Paris 17ème arrondissement 75017",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-17eme-75/256132657.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#103070",
+    "textColor": "light",
+    "providerName": "COLDWELL BANKER ENTALIA CAP WEST",
+    "logo": {
+      "src": "https://mms.seloger.com/f/8/9/2/f8928a19-2c39-452f-baf2-83d978fb8b12.jpg?ci_seal=11be2341745bdd8836e2b82ea489e091b2180955",
+      "alt": "logo-RC-1022054",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/a/a/1/0/aa109968-86bf-4d52-b4bf-d86b3a3b07b1.png?ci_eqs=&ci_seal=9008e3305a597013f81675edeef0947697c70b6f",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/le-vesinet-78110/agence-100965/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/a/a/1/0/aa109968-86bf-4d52-b4bf-d86b3a3b07b1.png?ci_eqs=&ci_seal=9008e3305a597013f81675edeef0947697c70b6f",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/le-vesinet-78110/agence-100965/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/9/c/e/d/9cedb3ea-0ca2-4d49-8bfc-d5d952f3a900.png?ci_eqs=&ci_seal=66ea71e64e64834303fbd8dbf3b1f03b8ed837eb",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/le-vesinet-78110/agence-100965/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=AD09FR42&priceMax=2712&priceMin=1808",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "AD09FR42",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "256CH492EAU2"
+}

@@ -1,0 +1,1198 @@
+{
+  "brand": "seloger",
+  "id": "258WL2JRDCV1",
+  "metadata": {
+    "legacyId": "256050865",
+    "creationDate": "2025-12-08T08:24:00Z",
+    "updateDate": "2025-12-09T01:21:29.127Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 11ème",
+        "zipCode": "75011",
+        "district": "Belleville-Saint Maur"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.373582999999999,
+          48.86992299998636
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "2",
+                "color": "#003da5"
+              },
+              {
+                "name": "3",
+                "color": "#827a04"
+              },
+              {
+                "name": "11",
+                "color": "#6e4c1e"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "20",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "46",
+                "color": "#cec92a"
+              },
+              {
+                "name": "71",
+                "color": "#5a230a"
+              },
+              {
+                "name": "75",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "96",
+                "color": "#dc9609"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Exclusivité Guy Hoquet,\n\nVenez découvrir ce magnifique appartement de 58.14 m², situé au 1er étage sans ascenseur, proche des commerces et des transports.\n\nIl se compose d'une entrée, d'un grand et lumineux séjour, d'une cuisine séparée et équipée, de deux chambres avec dressing intégré, ainsi que d'une salle d'eau avec WC.\n\nChauffage et eau chaude individuels au Gaz.\nDisponible Immédiatement",
+      "texts": [
+        {
+          "text": "Exclusivité Guy Hoquet,\n\nVenez découvrir ce magnifique appartement de 58.14 m², situé au 1er étage sans ascenseur, proche des commerces et des transports.\n\nIl se compose d'une entrée, d'un grand et lumineux séjour, d'une cuisine séparée et équipée, de deux chambres avec dressing intégré, ainsi que d'une salle d'eau avec WC.\n\nChauffage et eau chaude individuels au Gaz.\nDisponible Immédiatement"
+        }
+      ],
+      "headline": "Appartement 3 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "58,1 m²",
+        "Étage 1/5"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "58,1 m²",
+          "splitValue": "58,1",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 1/5",
+          "splitValue": "Étage",
+          "label": "1/5"
+        }
+      ],
+      "price": {
+        "value": "2 072 €",
+        "formatted": "2 072 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "2072 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "a0e9cd36-fac6-4c2f-871b-ca30e1e699c2",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "6f966c35-373d-4d97-9d4b-005082506c2d",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "249 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "242 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "54 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est 242 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "3ff191b4-1c23-4417-9300-5875a999cb90",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "54 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est 242 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256050865"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "256050865"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 982 €/mois Loyer de base",
+          "ariaLabel": "1982 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "90 €/mois",
+            "ariaLabel": "90 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "2 072 €/mois",
+            "ariaLabel": "2072 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "34,09 €/mois/m²",
+            "ariaLabel": "34,09 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "3964"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "1er étage/5 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: ouest"
+        },
+        {
+          "value": "Sans vis-à-vis",
+          "icon": "with-view"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "Orientation",
+                "value": "Exposition: ouest"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "1er étage/5 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              },
+              {
+                "value": "Sans vis-à-vis",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "TV par câble",
+                "icon": "tv"
+              }
+            ],
+            "title": "Équipements"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              },
+              {
+                "value": "Alarme",
+                "icon": "intruder-alarm"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "f571d165-a6d0-46ce-b98b-0dc3b00e591e",
+          "url": "https://mms.seloger.com/f/5/7/1/f571d165-a6d0-46ce-b98b-0dc3b00e591e.jpg?ci_seal=024e25f05926539eaf42d22b202f2e5873ebe80d",
+          "alt": "Appartement à louer 2 072 € 3 pièces 2 chambres 58,1 m² Étage 1/5 Belleville-Saint Maur Paris 11ème 75011",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7d70ab21-5059-43c9-842c-733976378967",
+          "url": "https://mms.seloger.com/7/d/7/0/7d70ab21-5059-43c9-842c-733976378967.jpg?ci_seal=002713b2e41de0e4a31b98a3682ab4ef48226e0d",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b1dd61ca-cafb-439b-b619-3549bea85fd6",
+          "url": "https://mms.seloger.com/b/1/d/d/b1dd61ca-cafb-439b-b619-3549bea85fd6.jpg?ci_seal=03ecdfc203f3ef786af4540a57b87f91c93ac4b6",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "27b0185f-37b9-48d8-b134-1d8f545de043",
+          "url": "https://mms.seloger.com/2/7/b/0/27b0185f-37b9-48d8-b134-1d8f545de043.jpg?ci_seal=1db61e956b7a25161909da183f488e92867a4bae",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3281f93d-b6ed-4b48-b25c-d8f5fdafc0fa",
+          "url": "https://mms.seloger.com/3/2/8/1/3281f93d-b6ed-4b48-b25c-d8f5fdafc0fa.jpg?ci_seal=c2d6bbc2674b6a465df08206607afbfec5269a3a",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f84d5581-aa26-46fd-8c56-8d1d8e6b4bc5",
+          "url": "https://mms.seloger.com/f/8/4/d/f84d5581-aa26-46fd-8c56-8d1d8e6b4bc5.jpg?ci_seal=5c1ae204f6d42e63fe646f888ce488e80fbbd296",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "56807fef-9c81-45cd-a507-780cfacd1718",
+          "url": "https://mms.seloger.com/5/6/8/0/56807fef-9c81-45cd-a507-780cfacd1718.jpg?ci_seal=d37436777026adf0a4bf6c8a0eaed1af8e4c39a3",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e6b0f889-aedf-404a-8b40-cf08e72be7a9",
+          "url": "https://mms.seloger.com/e/6/b/0/e6b0f889-aedf-404a-8b40-cf08e72be7a9.jpg?ci_seal=bc617041153b46c93af5c32ae9531738e5995707",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256050865",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75011",
+      "city": "Paris 11ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 33.42,
+        "accuracy": 3,
+        "high": "44,41",
+        "low": "27,68"
+      },
+      "markerPosition": 38,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "34,09",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 3 pièces",
+      "description": "Exclusivité Guy Hoquet,\n\nVenez découvrir ce magnifique appartement de 58.14 m², situé au 1er étage sans ascenseur, proche des commerces et des transports.\n\nIl se compose d'une entrée, d'un grand et lumineux séjour, d'une cuisine séparée et équipée, de deux chambres avec dressing intégré, ainsi que d'une salle d'eau avec WC.\n\nChauffage et eau chaude individuels au Gaz.\nDisponible Immédiatement",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "270 vues",
+      "saves": "13 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "258WL2JRDCV1",
+    "legacyId": "256050865",
+    "brand": "seloger",
+    "agencyId": "RC-090243",
+    "static": {
+      "phoneNumbers": [
+        "0661807421"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0661807421"
+      ]
+    },
+    "contactCard": {
+      "title": "Guy Hoquet PARIS 10 SAINT-LOUIS",
+      "subtitle": "Guy Hoquet",
+      "phoneNumbers": [
+        "0661807421"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/d/0/e/2/d0e2d51d-c2fb-4b89-8ff3-96ef8359edfc.jpg?ci_seal=9e38d47dab1ca66359e95a3f208b769cabf460b1",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      },
+      "rating": 4.967741935483871
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Guy Hoquet PARIS 10 SAINT-LOUIS",
+        "subtitle": "Guy Hoquet",
+        "phoneNumbers": [
+          "0661807421"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/d/0/e/2/d0e2d51d-c2fb-4b89-8ff3-96ef8359edfc.jpg?ci_seal=9e38d47dab1ca66359e95a3f208b769cabf460b1"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Guy Hoquet",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Guy Hoquet PARIS 10 SAINT-LOUIS",
+      "subtitle": "Guy Hoquet PARIS 10 SAINT-LOUIS",
+      "phoneNumbers": [
+        "0661807421"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Guy Hoquet PARIS 10 SAINT-LOUIS",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/d/0/e/2/d0e2d51d-c2fb-4b89-8ff3-96ef8359edfc.jpg?ci_seal=9e38d47dab1ca66359e95a3f208b769cabf460b1",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-10eme-arrondissement-75010/agence-111056/"
+      },
+      "contactCard": {
+        "title": "Guy Hoquet",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-10eme-arrondissement-75010/agence-111056/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "Société à responsabilité limitée (sans autre indication) GONCOURT IMMOBILIER",
+        "<b>Siège:</b> 178 Rue Saint-maur, 75010 Paris",
+        "<b>RCS:</b> 841017965",
+        "<b>SIRET:</b> 84101796500010"
+      ],
+      "publisherType": "AGENCY",
+      "rating": {
+        "rating": 4.967741935483871,
+        "reviews": 31,
+        "link": "https://www.seloger.com/professionnels/agences-immobilieres/paris-10eme-arrondissement-75010/agence-111056/#?avisImmo=true"
+      },
+      "displayLinks": true,
+      "address": "178 Rue Saint-Maur, 75010 Paris",
+      "phoneNumbers": [
+        "0661807421"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75011",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "258WL2JRDCV1",
+        "price": 2072,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75011",
+        "legacy_id": "256050865",
+        "product_type": "standard",
+        "client_id": "RC-090243",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "64863",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75011",
+        "estate_type": 1,
+        "id": "256050865",
+        "id_duo": 256050865,
+        "id_solo": 256050865,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 8,
+        "position": 0,
+        "price": 2072,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 58.14
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75011",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256050865",
+      "prix": 2100,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 58.14,
+      "etage": 5,
+      "commodites": [
+        "alarme",
+        "ascenseur",
+        "Chauffage-gaz",
+        "Cuisine-équipée",
+        "Cuisine-séparée",
+        "parquet",
+        "SalleDEau-douche",
+        "sansVisAVis"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-11eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 11ème arrondissement 75011",
+          "hoverLabel": "Appartements à louer Paris 11ème arrondissement 75011",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 58.14 m² 2072 € Belleville-Saint Maur Paris (75011)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 58.14 m² 2072 € Belleville-Saint Maur Paris (75011)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-11eme-75/belleville-saint-maur/256050865.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-11eme-75/belleville-saint-maur/256050865.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 58.14 m² 2072 € Belleville-Saint Maur Paris (75011)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 58.14 m² 2072 € Belleville-Saint Maur Paris (75011)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/f/5/7/1/f571d165-a6d0-46ce-b98b-0dc3b00e591e.jpg?ci_seal=024e25f05926539eaf42d22b202f2e5873ebe80d"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 58.14 m² 2072 € Belleville-Saint Maur Paris (75011)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-11eme-75/belleville-saint-maur/256050865.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 58.14 m² 2072 € Belleville-Saint Maur Paris (75011)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 58.14 m² 2072 € Belleville-Saint Maur Paris (75011)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/f/5/7/1/f571d165-a6d0-46ce-b98b-0dc3b00e591e.jpg?ci_seal=024e25f05926539eaf42d22b202f2e5873ebe80d"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 58.14 m² 2072 € Belleville-Saint Maur Paris (75011)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 58.14 m² 2072 € Belleville-Saint Maur Paris (75011)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-11eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 11ème arrondissement 75011",
+          "hoverLabel": "Appartements à louer Paris 11ème arrondissement 75011",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-11eme-75/belleville-saint-maur/256050865.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR48&priceMax=2486.4&priceMin=1657.6",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR48",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR36",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "258WL2JRDCV1"
+}

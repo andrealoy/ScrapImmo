@@ -1,0 +1,1244 @@
+{
+  "brand": "seloger",
+  "id": "25Y5CSU12YNP",
+  "metadata": {
+    "legacyId": "254601789",
+    "creationDate": "2025-11-18T08:59:00Z",
+    "updateDate": "2025-11-18T09:01:16.745Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 18ème",
+        "zipCode": "75018",
+        "district": "Clignancourt-Jules Joffrin"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.335269,
+          48.892066
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "12",
+                "color": "#007a53"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "31",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "40",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "60",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "80",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "95",
+                "color": "#62259d"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "REF. 16773 Appartement meublé de 37m2, situé rue Damrémont dans le 18ème arrondissement de Paris - quartier Montmartre, dans un immeuble parisien de standing, au 3ème étage avec ascenseur. Cet appartement comporte une salon, une chambre, une cuisine séparée et une salle de douche avec WC. Le chauffage dans cet appartement est individuel électrique.",
+      "texts": [
+        {
+          "text": "REF. 16773 Appartement meublé de 37m2, situé rue Damrémont dans le 18ème arrondissement de Paris - quartier Montmartre, dans un immeuble parisien de standing, au 3ème étage avec ascenseur. Cet appartement comporte une salon, une chambre, une cuisine séparée et une salle de douche avec WC. Le chauffage dans cet appartement est individuel électrique."
+        }
+      ],
+      "headline": "2 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "37 m²",
+        "3ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3ème étage",
+          "splitValue": "3ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 600 €",
+        "formatted": "1 600 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1600 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1900"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Remis à neuf"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "ab197f89-b3e1-49c7-9f8a-954c80fa4288",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "32f3ae29-415c-40d1-bec8-cce3a9ea84b0",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "326 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "10 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "ef86fd56-3527-498a-987c-eba641c2cfc1",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "10 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "254601789"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "16773"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 600 €/mois Loyer charges comprises",
+          "ariaLabel": "1600 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "109 €/mois",
+            "ariaLabel": "109 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "43,24 €/mois/m²",
+            "ariaLabel": "43,24 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2982"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 16/12/2025"
+        },
+        {
+          "icon": "floors",
+          "value": "3ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "availability",
+                "value": "disponible à partir du 16/12/2025"
+              },
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "3ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              }
+            ],
+            "title": "Intérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "11099812-9641-415e-954d-d7e93254006d",
+          "url": "https://mms.seloger.com/1/1/0/9/11099812-9641-415e-954d-d7e93254006d.jpg?ci_seal=1f2aca28d50dbd281eda7ee3c6ee640179828d3b",
+          "alt": "Appartement à louer 1 600 € 2 pièces 1 chambre 37 m² 3ème étage Clignancourt-Jules Joffrin Paris 18ème 75018",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "af3e0426-ea82-44ee-8a54-2cb565a5c027",
+          "url": "https://mms.seloger.com/a/f/3/e/af3e0426-ea82-44ee-8a54-2cb565a5c027.jpg?ci_seal=4a1ee02dee66ecee3bc20b36f73965917f97b4d0",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f3726136-5038-4bad-9df8-2831b3a25813",
+          "url": "https://mms.seloger.com/f/3/7/2/f3726136-5038-4bad-9df8-2831b3a25813.jpg?ci_seal=78518878b829f28f2faf9668228fa962ce4a6e78",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8b8c10b6-34b7-4b76-a0fe-7fed93dfb4cd",
+          "url": "https://mms.seloger.com/8/b/8/c/8b8c10b6-34b7-4b76-a0fe-7fed93dfb4cd.jpg?ci_seal=041c708939e9ef0e76bdd4235e4834a39fb9f7b4",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "99c4de39-a340-48cb-a9fd-1aa30e52197a",
+          "url": "https://mms.seloger.com/9/9/c/4/99c4de39-a340-48cb-a9fd-1aa30e52197a.jpg?ci_seal=83b28ca21fc63d99d39b13a29c75e1f8066535f8",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4022680e-576b-444d-b0fc-7f487e590793",
+          "url": "https://mms.seloger.com/4/0/2/2/4022680e-576b-444d-b0fc-7f487e590793.jpg?ci_seal=33f3ddeaef542c444e80e3f6e8ac13a9214f4d08",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "40870120-6698-4ac3-9184-7ebfc150f700",
+          "url": "https://mms.seloger.com/4/0/8/7/40870120-6698-4ac3-9184-7ebfc150f700.jpg?ci_seal=d67b05f10d93d6f2142b012c93e0023947a4bba5",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "48239089-1640-452a-ad9d-c66e0a7d9ad7",
+          "url": "https://mms.seloger.com/4/8/2/3/48239089-1640-452a-ad9d-c66e0a7d9ad7.jpg?ci_seal=2b05f9527b257b7772674d49bdeced1b69b4197a",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fdc4954c-91d5-4740-9794-8c47da5e016a",
+          "url": "https://mms.seloger.com/f/d/c/4/fdc4954c-91d5-4740-9794-8c47da5e016a.jpg?ci_seal=57d791a87d719bd02b3f46522817dc41a5063688",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "17230237-3a0a-47e1-8557-4d47164b767e",
+          "url": "https://mms.seloger.com/1/7/2/3/17230237-3a0a-47e1-8557-4d47164b767e.jpg?ci_seal=167d831c87b84b3e52c8b1677c2cd72b9769a69c",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "545e8941-6cb6-4490-99f8-370a97b29396",
+          "url": "https://mms.seloger.com/5/4/5/e/545e8941-6cb6-4490-99f8-370a97b29396.jpg?ci_seal=13b3162620a937ce9d60d4ccb8c9cfb65b9db696",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d35e89e9-795e-4aff-98d6-72c3bb0088d0",
+          "url": "https://mms.seloger.com/d/3/5/e/d35e89e9-795e-4aff-98d6-72c3bb0088d0.jpg?ci_seal=d7eee0035463e694a7e4ecdb7b6dac834204bf00",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8f480e29-0815-46e1-8630-1dccfe582172",
+          "url": "https://mms.seloger.com/8/f/4/8/8f480e29-0815-46e1-8630-1dccfe582172.jpg?ci_seal=9409e7ddf0b123183f4393f0f6231a4aeca4d3b9",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "175fa5c1-3a5d-43b9-84c4-c128c98c39e6",
+          "url": "https://mms.seloger.com/1/7/5/f/175fa5c1-3a5d-43b9-84c4-c128c98c39e6.jpg?ci_seal=4266d5155a341a784d323a3c7031f7880cb1f729",
+          "classification": {
+            "name": "COURTYARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5c944103-0924-4bcc-87ed-0f525376c685",
+          "url": "https://mms.seloger.com/5/c/9/4/5c944103-0924-4bcc-87ed-0f525376c685.jpg?ci_seal=5bcc027a8bc3b2f3e455bc040b9cb31ca54950d5",
+          "classification": {
+            "name": "HOUSE_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b86c7243-eb60-43e9-9190-951372ce42bc",
+          "url": "https://mms.seloger.com/b/8/6/c/b86c7243-eb60-43e9-9190-951372ce42bc.jpg?ci_seal=e8e733f8e031f0cf234b64539503b7f7e91d7c9f",
+          "classification": {
+            "name": "COURTYARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b0ebb6c7-1363-4bd2-869c-626c93590463",
+          "url": "https://mms.seloger.com/b/0/e/b/b0ebb6c7-1363-4bd2-869c-626c93590463.jpg?ci_seal=b488857419b012fbad1bab8c8a349975e0b8b443",
+          "classification": {
+            "name": "LOGO",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "254601789",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75018",
+      "city": "Paris 18ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 31.18,
+        "accuracy": 3,
+        "high": "40,38",
+        "low": "25,79"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "43,24",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "2 pièces",
+      "description": "REF. 16773 Appartement meublé de 37m2, situé rue Damrémont dans le 18ème arrondissement de Paris - quartier Montmartre, dans un immeuble parisien de standing, au 3ème étage avec ascenseur. Cet appartement comporte une salon, une chambre, une cuisine séparée et une salle de douche avec WC. Le chauffage dans cet appartement est individuel électrique.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "21 jours en ligne",
+      "views": "105 vues",
+      "saves": "11 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25Y5CSU12YNP",
+    "legacyId": "254601789",
+    "brand": "seloger",
+    "agencyId": "RC-112046",
+    "static": {
+      "phoneNumbers": [
+        "+33 7 69 21 76 00"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33 7 69 21 76 00"
+      ]
+    },
+    "contactCard": {
+      "title": "BOOK A FLAT",
+      "subtitle": "Lucas Vonthron",
+      "phoneNumbers": [
+        "+33 7 69 21 76 00"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/a/b/b/a/abbab398-fb0c-42da-bb36-74a198391816.jpg?ci_seal=2c062a79ff50a83666bc36fbedca6df132f4dac6",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "BOOK A FLAT",
+        "subtitle": "Lucas Vonthron",
+        "phoneNumbers": [
+          "+33 7 69 21 76 00"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/a/b/b/a/abbab398-fb0c-42da-bb36-74a198391816.jpg?ci_seal=2c062a79ff50a83666bc36fbedca6df132f4dac6"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Lucas Vonthron",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "BOOK A FLAT",
+      "subtitle": "BOOK A FLAT",
+      "phoneNumbers": [
+        "+33 7 69 21 76 00"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "BOOK A FLAT",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/a/b/b/a/abbab398-fb0c-42da-bb36-74a198391816.jpg?ci_seal=2c062a79ff50a83666bc36fbedca6df132f4dac6",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/"
+      },
+      "contactCard": {
+        "title": "Lucas Vonthron",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "https://www.book-a-flat.com/fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 478941990",
+        "<b>SIRET:</b> 47894199000024"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "18 rue Volney, 75002 Paris 2ème",
+      "phoneNumbers": [
+        "+33 7 69 21 76 00"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75018",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25Y5CSU12YNP",
+        "price": 1600,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75018",
+        "building_state": "REFURBISHED",
+        "legacy_id": "254601789",
+        "product_type": "standard",
+        "client_id": "RC-112046",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "39742",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75018",
+        "estate_type": 1,
+        "id": "254601789",
+        "id_duo": 254601789,
+        "id_solo": 254601789,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 17,
+        "position": 0,
+        "price": 1600,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 37,
+        "year_of_construction": 1900
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75018",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "254601789",
+      "prix": 1600,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 37,
+      "commodites": [
+        "ascenseur",
+        "Cuisine-séparée",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-18eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 18ème arrondissement 75018",
+          "hoverLabel": "Appartements à louer Paris 18ème arrondissement 75018",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 37 m² 1600 € Clignancourt-Jules Joffrin Paris (75018)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 37 m² 1600 € Clignancourt-Jules Joffrin Paris (75018)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-18eme-75/grandes-carrieres-clichy/254601789.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-18eme-75/grandes-carrieres-clichy/254601789.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 37 m² 1600 € Clignancourt-Jules Joffrin Paris (75018)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 37 m² 1600 € Clignancourt-Jules Joffrin Paris (75018)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/1/1/0/9/11099812-9641-415e-954d-d7e93254006d.jpg?ci_seal=1f2aca28d50dbd281eda7ee3c6ee640179828d3b"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 37 m² 1600 € Clignancourt-Jules Joffrin Paris (75018)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-18eme-75/grandes-carrieres-clichy/254601789.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 37 m² 1600 € Clignancourt-Jules Joffrin Paris (75018)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 37 m² 1600 € Clignancourt-Jules Joffrin Paris (75018)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/1/1/0/9/11099812-9641-415e-954d-d7e93254006d.jpg?ci_seal=1f2aca28d50dbd281eda7ee3c6ee640179828d3b"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 37 m² 1600 € Clignancourt-Jules Joffrin Paris (75018)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 37 m² 1600 € Clignancourt-Jules Joffrin Paris (75018)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-18eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 18ème arrondissement 75018",
+          "hoverLabel": "Appartements à louer Paris 18ème arrondissement 75018",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-18eme-75/grandes-carrieres-clichy/254601789.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#101010",
+    "textColor": "light",
+    "providerName": "BOOK A FLAT",
+    "logo": {
+      "src": "https://mms.seloger.com/a/b/b/a/abbab398-fb0c-42da-bb36-74a198391816.jpg?ci_seal=2c062a79ff50a83666bc36fbedca6df132f4dac6",
+      "alt": "logo-RC-112046",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/a/0/e/9/a0e97e15-7f01-42d5-a47f-b312f6c413ee.png?ci_eqs=&ci_seal=0262c9e9284a5d3bc04c549e2ce60a56b4d75d72",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/a/0/e/9/a0e97e15-7f01-42d5-a47f-b312f6c413ee.png?ci_eqs=&ci_seal=0262c9e9284a5d3bc04c549e2ce60a56b4d75d72",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/f/a/d/f/fadf6d64-4533-4a92-939c-44481b90c475.png?ci_eqs=&ci_seal=76f3aec1b7594d48514db0194f60e6a75af534f5",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR104&priceMax=1920&priceMin=1280",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR104",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR43",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25Y5CSU12YNP"
+}

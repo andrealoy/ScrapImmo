@@ -1,0 +1,1224 @@
+{
+  "brand": "seloger",
+  "id": "2598YUDLBRW3",
+  "metadata": {
+    "creationDate": "2025-09-25T12:28:44.1826324Z",
+    "updateDate": "2025-11-25T11:57:55.8884810Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FR",
+        "city": "Paris",
+        "zipCode": "75016",
+        "district": "Porte Dauphine"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.281636,
+          48.870286999986355
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "2",
+                "color": "#003da5"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "52",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "82",
+                "color": "#f68f4b"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Bel appartement avec plan idéal (3 à 4 chambres). 1er étage, sans ascenseur, vue dégagée sur hôtel particulier,  rénové en 2021. Double salon, 2 grandes chambres de 15m2, 1 petite chambre de 9m2, 1 bureau/petite chambre de 7m2, cuisine dînatoire équipée, 1 SDE, 1 SDB, 2 WC. \nParquet-moulures-cheminée, charme de l’ancien. Camera de sécurité dans la rue.\nExposition Est, lumineux avec vue sur des arbres. Chaudière individuelle neuve, eau dans les charges de l’immeuble, gardienne.\nContrat direct propriétaire, bail code civil et Alur possibles, dossier Garantme ou GLI demandé.  Sous-location interdite. Pas de démarchage commercial. Bail standard meublé en résidence principale ou secondaire ou grande société. Appartement libre le 18 décembre 2025, visite dès maintenant matin (9-10h) et soir (17-18h). Place de stationnement possible dans la voie privée, non nominative, le long de la façade.",
+      "texts": [
+        {
+          "text": "Bel appartement avec plan idéal (3 à 4 chambres). 1er étage, sans ascenseur, vue dégagée sur hôtel particulier,  rénové en 2021. Double salon, 2 grandes chambres de 15m2, 1 petite chambre de 9m2, 1 bureau/petite chambre de 7m2, cuisine dînatoire équipée, 1 SDE, 1 SDB, 2 WC. \nParquet-moulures-cheminée, charme de l’ancien. Camera de sécurité dans la rue.\nExposition Est, lumineux avec vue sur des arbres. Chaudière individuelle neuve, eau dans les charges de l’immeuble, gardienne.\nContrat direct propriétaire, bail code civil et Alur possibles, dossier Garantme ou GLI demandé.  Sous-location interdite. Pas de démarchage commercial. Bail standard meublé en résidence principale ou secondaire ou grande société. Appartement libre le 18 décembre 2025, visite dès maintenant matin (9-10h) et soir (17-18h). Place de stationnement possible dans la voie privée, non nominative, le long de la façade."
+        }
+      ],
+      "headline": "Appartement familial meublé Haussmanien près de la place Victor Hugo"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "6 pièces",
+        "3 chambres",
+        "114 m²",
+        "Étage 1/3"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "6 pièces",
+          "splitValue": "6",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "3 chambres",
+          "splitValue": "3",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "114 m²",
+          "splitValue": "114",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 1/3",
+          "splitValue": "Étage",
+          "label": "1/3"
+        }
+      ],
+      "price": {
+        "value": "4 090 €",
+        "formatted": "4 090 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "4090 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1900"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Comme neuf"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "3293d885-9051-4551-8381-4ca59734542f",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 1000 et 2000 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 1000 et 2000 € par an. Prix moyens des énergies indexés au 30/11/2025 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "9aee3d03-6c06-4469-b197-4f1b18b223af",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "176 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "155 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "41 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est 155 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "06824f7e-ba7d-4c7c-813e-4abb14867473",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "41 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est 155 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "2598YUDLBRW3"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "3 850 €/mois Loyer de base",
+          "ariaLabel": "3850 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "240 €/mois",
+            "ariaLabel": "240 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "4 090 €/mois",
+            "ariaLabel": "4090 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "33,77 €/mois/m²",
+            "ariaLabel": "33,77 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "7640"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 17/12/2025"
+        },
+        {
+          "icon": "floors",
+          "value": "1er étage/3 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "value": "Cave",
+          "icon": "cellar"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Parking"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "3 chambres"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain; 1 salle de douches"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "availability",
+                "value": "disponible à partir du 17/12/2025"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "flat-share-possible",
+                "value": "Colocation non autorisée"
+              },
+              {
+                "icon": "floors",
+                "value": "1er étage/3 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain; 1 salle de douches"
+              },
+              {
+                "icon": "bedroom",
+                "value": "3 chambres"
+              },
+              {
+                "value": "Cave",
+                "icon": "cellar"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "parking-lots",
+                "value": "Parking"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "floorplans": [
+        {
+          "key": "cbb8be02-aef4-46cb-b3e4-b05fe307d138",
+          "url": "https://mms.seloger.com/c/b/b/8/cbb8be02-aef4-46cb-b3e4-b05fe307d138.jpg?ci_seal=44e6fd6b8e7a3213c7b4c33f1a24f9846473df8c",
+          "description": "cbb8be02-aef4-46cb-b3e4-b05fe307d138",
+          "alt": "Appartement à louer 4 090 € 6 pièces 3 chambres 114 m² Étage 1/3 Porte Dauphine Paris 75016",
+          "title": "cbb8be02-aef4-46cb-b3e4-b05fe307d138",
+          "ariaLabel": "cbb8be02-aef4-46cb-b3e4-b05fe307d138",
+          "classification": {
+            "name": "FLOORPLAN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ],
+      "images": [
+        {
+          "key": "b6e0e1e5-50f1-4558-9fa4-9bb534fcb0b9",
+          "url": "https://mms.seloger.com/b/6/e/0/b6e0e1e5-50f1-4558-9fa4-9bb534fcb0b9.jpg?ci_seal=b09c1270120d6d55dbe7ad186f4dd8cea56a1733",
+          "description": "b6e0e1e5-50f1-4558-9fa4-9bb534fcb0b9",
+          "alt": "Appartement à louer 4 090 € 6 pièces 3 chambres 114 m² Étage 1/3 Porte Dauphine Paris 75016",
+          "title": "b6e0e1e5-50f1-4558-9fa4-9bb534fcb0b9",
+          "ariaLabel": "b6e0e1e5-50f1-4558-9fa4-9bb534fcb0b9",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "294d932d-e113-4030-9a29-593d2e9a9c45",
+          "url": "https://mms.seloger.com/2/9/4/d/294d932d-e113-4030-9a29-593d2e9a9c45.jpg?ci_seal=fe52db4e0dfe2c1e0d19e52d4dbb373b6c466048",
+          "description": "294d932d-e113-4030-9a29-593d2e9a9c45",
+          "title": "294d932d-e113-4030-9a29-593d2e9a9c45",
+          "ariaLabel": "294d932d-e113-4030-9a29-593d2e9a9c45",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "07bc8a94-09cc-49a7-b3d0-a49c4ca93c4f",
+          "url": "https://mms.seloger.com/0/7/b/c/07bc8a94-09cc-49a7-b3d0-a49c4ca93c4f.jpg?ci_seal=d8d68864b0cedff7fe337d5ca75fa6edcc6dc480",
+          "description": "07bc8a94-09cc-49a7-b3d0-a49c4ca93c4f",
+          "title": "07bc8a94-09cc-49a7-b3d0-a49c4ca93c4f",
+          "ariaLabel": "07bc8a94-09cc-49a7-b3d0-a49c4ca93c4f",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a3dee9f6-b56a-47a8-a178-f23e96cc3242",
+          "url": "https://mms.seloger.com/a/3/d/e/a3dee9f6-b56a-47a8-a178-f23e96cc3242.jpg?ci_seal=bdb88665f052fb3bb2fb28ec5bd591f726b6f618",
+          "description": "a3dee9f6-b56a-47a8-a178-f23e96cc3242",
+          "title": "a3dee9f6-b56a-47a8-a178-f23e96cc3242",
+          "ariaLabel": "a3dee9f6-b56a-47a8-a178-f23e96cc3242",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "96ff35b6-cc26-46e0-a624-8eec6d0c1bd8",
+          "url": "https://mms.seloger.com/9/6/f/f/96ff35b6-cc26-46e0-a624-8eec6d0c1bd8.jpg?ci_seal=1ae8ea3d8e1c8a24bc770b39d7acf033a531ca18",
+          "description": "96ff35b6-cc26-46e0-a624-8eec6d0c1bd8",
+          "title": "96ff35b6-cc26-46e0-a624-8eec6d0c1bd8",
+          "ariaLabel": "96ff35b6-cc26-46e0-a624-8eec6d0c1bd8",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "236cf83f-734f-4963-8b9a-201e4ba17d44",
+          "url": "https://mms.seloger.com/2/3/6/c/236cf83f-734f-4963-8b9a-201e4ba17d44.jpg?ci_seal=39aecd355a1cb3022b4d1f8112969044954c0a89",
+          "description": "236cf83f-734f-4963-8b9a-201e4ba17d44",
+          "title": "236cf83f-734f-4963-8b9a-201e4ba17d44",
+          "ariaLabel": "236cf83f-734f-4963-8b9a-201e4ba17d44",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "33e64c9e-56bd-44f3-bc8b-aa7687151209",
+          "url": "https://mms.seloger.com/3/3/e/6/33e64c9e-56bd-44f3-bc8b-aa7687151209.jpg?ci_seal=e9d0862d917189724af2232a0ff8eb729396cf22",
+          "description": "33e64c9e-56bd-44f3-bc8b-aa7687151209",
+          "title": "33e64c9e-56bd-44f3-bc8b-aa7687151209",
+          "ariaLabel": "33e64c9e-56bd-44f3-bc8b-aa7687151209",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "975e08ca-8431-4306-8e2b-6379367c9b4b",
+          "url": "https://mms.seloger.com/9/7/5/e/975e08ca-8431-4306-8e2b-6379367c9b4b.jpg?ci_seal=c39b3841334b1ee1f90c90c15e3ca1c3a0d5f4a7",
+          "description": "975e08ca-8431-4306-8e2b-6379367c9b4b",
+          "title": "975e08ca-8431-4306-8e2b-6379367c9b4b",
+          "ariaLabel": "975e08ca-8431-4306-8e2b-6379367c9b4b",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6690f256-87ad-4529-8eba-0ccbd36a0ed1",
+          "url": "https://mms.seloger.com/6/6/9/0/6690f256-87ad-4529-8eba-0ccbd36a0ed1.jpg?ci_seal=6b1e7bbd2da27374920abfe8672b93dde0ce6d02",
+          "description": "6690f256-87ad-4529-8eba-0ccbd36a0ed1",
+          "title": "6690f256-87ad-4529-8eba-0ccbd36a0ed1",
+          "ariaLabel": "6690f256-87ad-4529-8eba-0ccbd36a0ed1",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d61b6efd-f61a-4380-a9a3-5ff29860fa20",
+          "url": "https://mms.seloger.com/d/6/1/b/d61b6efd-f61a-4380-a9a3-5ff29860fa20.jpg?ci_seal=f7ab03908a8915eedb181eaa73f1ee03d28dcd66",
+          "description": "d61b6efd-f61a-4380-a9a3-5ff29860fa20",
+          "title": "d61b6efd-f61a-4380-a9a3-5ff29860fa20",
+          "ariaLabel": "d61b6efd-f61a-4380-a9a3-5ff29860fa20",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "bee87320-bce4-434c-9081-8cc92ade9cc5",
+          "url": "https://mms.seloger.com/b/e/e/8/bee87320-bce4-434c-9081-8cc92ade9cc5.jpg?ci_seal=e8384bd43fe4eefdb772708957a8e273f38c45ab",
+          "description": "bee87320-bce4-434c-9081-8cc92ade9cc5",
+          "title": "bee87320-bce4-434c-9081-8cc92ade9cc5",
+          "ariaLabel": "bee87320-bce4-434c-9081-8cc92ade9cc5",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b60b05e6-1cc8-47a7-9015-5271b100af58",
+          "url": "https://mms.seloger.com/b/6/0/b/b60b05e6-1cc8-47a7-9015-5271b100af58.jpg?ci_seal=9b78d2798b466a9c244b6ed95007e0e97ea603b6",
+          "description": "b60b05e6-1cc8-47a7-9015-5271b100af58",
+          "title": "b60b05e6-1cc8-47a7-9015-5271b100af58",
+          "ariaLabel": "b60b05e6-1cc8-47a7-9015-5271b100af58",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ed394286-45b0-4b38-862e-e1e7b111e341",
+          "url": "https://mms.seloger.com/e/d/3/9/ed394286-45b0-4b38-862e-e1e7b111e341.jpg?ci_seal=75716b4c7800c384886513f7ac4a8e8d89b17b8f",
+          "description": "ed394286-45b0-4b38-862e-e1e7b111e341",
+          "title": "ed394286-45b0-4b38-862e-e1e7b111e341",
+          "ariaLabel": "ed394286-45b0-4b38-862e-e1e7b111e341",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f7949521-a365-4018-a62b-685dc0dad410",
+          "url": "https://mms.seloger.com/f/7/9/4/f7949521-a365-4018-a62b-685dc0dad410.jpg?ci_seal=5109bd637c0e5c88af169d834c4accabb8136736",
+          "description": "f7949521-a365-4018-a62b-685dc0dad410",
+          "title": "f7949521-a365-4018-a62b-685dc0dad410",
+          "ariaLabel": "f7949521-a365-4018-a62b-685dc0dad410",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75016",
+      "city": "Paris",
+      "country": "FR",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 38.19,
+        "accuracy": 3,
+        "high": "49,76",
+        "low": "30,26"
+      },
+      "markerPosition": 18,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "33,77",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement familial meublé Haussmanien près de la place Victor Hugo",
+      "description": "Bel appartement avec plan idéal (3 à 4 chambres). 1er étage, sans ascenseur, vue dégagée sur hôtel particulier,  rénové en 2021. Double salon, 2 grandes chambres de 15m2, 1 petite chambre de 9m2, 1 bureau/petite chambre de 7m2, cuisine dînatoire équipée, 1 SDE, 1 SDB, 2 WC. \nParquet-moulures-cheminée, charme de l’ancien. Camera de sécurité dans la rue.\nExposition Est, lumineux avec vue sur des arbres. Chaudière individuelle neuve, eau dans les charges de l’immeuble, gardienne.\nContrat direct propriétaire, bail code civil et Alur possibles, dossier Garantme ou GLI demandé.  Sous-location interdite. Pas de démarchage commercial. Bail standard meublé en résidence principale ou secondaire ou grande société. Appartement libre le 18 décembre 2025, visite dès maintenant matin (9-10h) et soir (17-18h). Place de stationnement possible dans la voie privée, non nominative, le long de la façade.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 mois en ligne",
+      "views": "999+ vues",
+      "saves": "25 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "2598YUDLBRW3",
+    "brand": "seloger",
+    "agencyId": "4a769f02-c48a-4413-935d-ecedf6402fb4",
+    "static": {
+      "phoneNumbers": [
+        "+33677253589"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33677253589"
+      ]
+    },
+    "contactCard": {
+      "title": "alex",
+      "subtitle": "Propriétaire particulier",
+      "phoneNumbers": [
+        "+33677253589"
+      ],
+      "isPrivateOwner": true,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": false
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": true
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "alex",
+        "subtitle": "Propriétaire particulier",
+        "phoneNumbers": [
+          "+33677253589"
+        ],
+        "isPrivateOwner": true,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à alex",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Propriétaire particulier",
+      "phoneNumbers": [
+        "+33677253589"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": true
+    },
+    "provider": {
+      "intermediaryCard": {
+        "display": false,
+        "title": "",
+        "subtitle": ""
+      },
+      "contactCard": {
+        "title": "alex",
+        "subtitle": "Propriétaire particulier",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": true,
+      "imprintUrl": null,
+      "agencyLegalInformations": [],
+      "displayLinks": false,
+      "phoneNumbers": [
+        "+33677253589"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "private",
+    "av_language": "fr",
+    "av_zip_code": "75016",
+    "av_city": "Paris",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "2598YUDLBRW3",
+        "price": 4090,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75016",
+        "building_state": "MINT_CONDITION",
+        "product_type": "standard",
+        "client_id": "4a769f02-c48a-4413-935d-ecedf6402fb4",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_type": "particulier",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "75016",
+        "estate_type": 1,
+        "id_duo": null,
+        "id_solo": null,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 3,
+        "nb_rooms": 6,
+        "parent_site": "SL",
+        "photos_nb": 15,
+        "position": 0,
+        "price": 4090,
+        "product_geolocation": "localisation_street",
+        "product_type": "client",
+        "product_variant": "classified",
+        "space": 0,
+        "year_of_construction": 1900
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75016",
+      "geodp": "75",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "prix": 4100,
+      "nb_pieces": 6,
+      "nb_chambres": 3,
+      "surface": 0,
+      "etage": 3,
+      "commodites": [
+        "cave",
+        "Chauffage-individuel",
+        "Chauffage-gaz",
+        "Cuisine-équipée",
+        "parking%20ouvert",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T6/F6 114 m² 4090 € Porte Dauphine Paris (75016)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T6/F6 114 m² 4090 € Porte Dauphine Paris (75016)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/porte-dauphine/2598YUDLBRW3.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/porte-dauphine/2598YUDLBRW3.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T6/F6 114 m² 4090 € Porte Dauphine Paris (75016)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T6/F6 114 m² 4090 € Porte Dauphine Paris (75016)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/c/b/b/8/cbb8be02-aef4-46cb-b3e4-b05fe307d138.jpg?ci_seal=44e6fd6b8e7a3213c7b4c33f1a24f9846473df8c"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T6/F6 114 m² 4090 € Porte Dauphine Paris (75016)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/porte-dauphine/2598YUDLBRW3.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T6/F6 114 m² 4090 € Porte Dauphine Paris (75016)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T6/F6 114 m² 4090 € Porte Dauphine Paris (75016)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/c/b/b/8/cbb8be02-aef4-46cb-b3e4-b05fe307d138.jpg?ci_seal=44e6fd6b8e7a3213c7b4c33f1a24f9846473df8c"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T6/F6 114 m² 4090 € Porte Dauphine Paris (75016)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T6/F6 114 m² 4090 € Porte Dauphine Paris (75016)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/porte-dauphine/2598YUDLBRW3.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR84&priceMax=4908&priceMin=3272",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR84",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR41",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ]
+  },
+  "cps": "2598YUDLBRW3"
+}

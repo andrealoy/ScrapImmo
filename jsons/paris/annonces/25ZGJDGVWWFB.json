@@ -1,0 +1,1112 @@
+{
+  "brand": "seloger",
+  "id": "25ZGJDGVWWFB",
+  "metadata": {
+    "legacyId": "255290405",
+    "creationDate": "2025-11-27T04:53:00Z",
+    "updateDate": "2025-12-04T01:17:11.357Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 16ème",
+        "zipCode": "75016",
+        "district": "Porte Dauphine"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.284021,
+          48.874146
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "1",
+                "color": "#ffcd00"
+              },
+              {
+                "name": "2",
+                "color": "#003da5"
+              }
+            ]
+          },
+          {
+            "type": "RER",
+            "lines": [
+              {
+                "name": "C",
+                "color": "#FCD946"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "2",
+                "color": "#0074ba"
+              },
+              {
+                "name": "52",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "73",
+                "color": "#5a230a"
+              },
+              {
+                "name": "82",
+                "color": "#f68f4b"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Crédit Agricole Immobilier vous propose à la location un 7 pièces de 357.90m² situé au 1er étage avenue de Malakoff. Dans un superbe immeuble. Une cave.\r\nHonoraires de location (TTC) à la charge du locataire pour la réalisation des services suivants :  visites, constitution de dossier, frais de rédaction de bail, état des lieux. Dépôt de garantie, à verser par le locataire correspond à 1 mois de loyer HC. Nous consulter pour disponibilité.\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  georisques. gouv. fr",
+      "texts": [
+        {
+          "text": "Crédit Agricole Immobilier vous propose à la location un 7 pièces de 357.90m² situé au 1er étage avenue de Malakoff. Dans un superbe immeuble. Une cave.\r\nHonoraires de location (TTC) à la charge du locataire pour la réalisation des services suivants :  visites, constitution de dossier, frais de rédaction de bail, état des lieux. Dépôt de garantie, à verser par le locataire correspond à 1 mois de loyer HC. Nous consulter pour disponibilité.\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  georisques. gouv. fr"
+        }
+      ],
+      "headline": "T6 et plus"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "7 pièces",
+        "357 m²",
+        "1er étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "7 pièces",
+          "splitValue": "7",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "357 m²",
+          "splitValue": "357",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1er étage",
+          "splitValue": "1er",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "12 044 €",
+        "formatted": "12 044 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "12044 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "06215583-48c4-47b8-a5d8-7d69d2c1ddc0",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 5040 et 6880 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 5040 et 6880 € par an. Date d'indexation du prix des énergies non communiquée."
+            }
+          ],
+          "scales": [
+            {
+              "key": "4750e9d7-3a40-49c6-93a9-af2aad088958",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "264 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "58 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "27db9a4d-f127-4396-bc6c-5431b418c3d4",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "58 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255290405"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "67153"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "12 044 €/mois Loyer charges comprises",
+          "ariaLabel": "12044 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "1 099 €/mois",
+            "ariaLabel": "1099 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "33,74 €/mois/m²",
+            "ariaLabel": "33,74 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "10945"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "1er étage"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "barrier-free",
+          "value": "Non accessible aux personnes à mobilité réduite"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "92928a5d-a0c5-48f9-ab00-6de66a17c621",
+          "url": "https://mms.seloger.com/9/2/9/2/92928a5d-a0c5-48f9-ab00-6de66a17c621.jpg?ci_seal=230000f3db7f493bed6bd32215910be844a245a9",
+          "alt": "Appartement à louer 12 044 € 7 pièces 357 m² 1er étage Porte Dauphine Paris 16ème 75016",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "33ef71b0-c149-47e2-918a-a9d33c91e22f",
+          "url": "https://mms.seloger.com/3/3/e/f/33ef71b0-c149-47e2-918a-a9d33c91e22f.jpg?ci_seal=f1c4162f62d30c000580f0d31e0aaf09dbd7e2df",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fb3b4f92-12ca-40a4-b190-057c3914b247",
+          "url": "https://mms.seloger.com/f/b/3/b/fb3b4f92-12ca-40a4-b190-057c3914b247.jpg?ci_seal=97d15f0ab680e1beb06c09c99c90396a1edd4179",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f89c93d9-738e-4811-8330-f91dc855ab84",
+          "url": "https://mms.seloger.com/f/8/9/c/f89c93d9-738e-4811-8330-f91dc855ab84.jpg?ci_seal=79e4a191b92d20e2faec4169e91a11bac5a4eee6",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "12b2e792-ba9e-4da3-87ca-c18351fc9964",
+          "url": "https://mms.seloger.com/1/2/b/2/12b2e792-ba9e-4da3-87ca-c18351fc9964.jpg?ci_seal=a7c4e653766429df80bb4bf98f2dc0a59e0dc8e5",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9e8e5639-969b-44f5-94c2-f7fe662821a8",
+          "url": "https://mms.seloger.com/9/e/8/e/9e8e5639-969b-44f5-94c2-f7fe662821a8.jpg?ci_seal=8a226aeec465a5e1327e65a9649448c775f12033",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "814c95b5-4d53-4b63-ba77-b535fd1013bc",
+          "url": "https://mms.seloger.com/8/1/4/c/814c95b5-4d53-4b63-ba77-b535fd1013bc.jpg?ci_seal=40f14d2c788ad363eb7cc9dc1684ad26bc5286b3",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "589b4aa8-9f22-414f-b675-15775931eb1e",
+          "url": "https://mms.seloger.com/5/8/9/b/589b4aa8-9f22-414f-b675-15775931eb1e.jpg?ci_seal=5946e1ac1af1db79391ec32702083d6b0a5de00f",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "67e1cd03-c29f-40f7-b856-d61953762411",
+          "url": "https://mms.seloger.com/6/7/e/1/67e1cd03-c29f-40f7-b856-d61953762411.jpg?ci_seal=ff1f8f9443a4f6aca1bae430fd3bca86bb2a53cc",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3cb9e366-57d8-4ca4-8ceb-0bc61c1c4066",
+          "url": "https://mms.seloger.com/3/c/b/9/3cb9e366-57d8-4ca4-8ceb-0bc61c1c4066.jpg?ci_seal=91375473fb84c0a0c0d1ed4317f5ddaaf1ff3371",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "848269ca-bbc5-421b-8268-4bacbd44ac5b",
+          "url": "https://mms.seloger.com/8/4/8/2/848269ca-bbc5-421b-8268-4bacbd44ac5b.jpg?ci_seal=d39ab705d7b9fed24905dab05f93f4cdf51d39e1",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9b95070a-07a7-4463-9efd-54c5ecd9576b",
+          "url": "https://mms.seloger.com/9/b/9/5/9b95070a-07a7-4463-9efd-54c5ecd9576b.jpg?ci_seal=a0a37725f918af75d8023745b5b24c4c7180efcd",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e68a4337-a383-4266-92aa-3ad0accab3af",
+          "url": "https://mms.seloger.com/e/6/8/a/e68a4337-a383-4266-92aa-3ad0accab3af.jpg?ci_seal=0f8226ef92307f5a7af5b38b873bb9a59fd95cbe",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "45cc81c6-b950-4a4a-949d-392f40e2fcbd",
+          "url": "https://mms.seloger.com/4/5/c/c/45cc81c6-b950-4a4a-949d-392f40e2fcbd.jpg?ci_seal=d3be0f0fe3d02c444ae6c7ebc3547bba194c8d39",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c6278721-20e8-4773-abfb-72088e1b6117",
+          "url": "https://mms.seloger.com/c/6/2/7/c6278721-20e8-4773-abfb-72088e1b6117.jpg?ci_seal=e9baaa0d23de7e582a7506311e131bb8448efe16",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255290405",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75016",
+      "city": "Paris 16ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 38.19,
+        "accuracy": 3,
+        "high": "49,76",
+        "low": "30,26"
+      },
+      "markerPosition": 18,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "33,74",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "T6 et plus",
+      "description": "Crédit Agricole Immobilier vous propose à la location un 7 pièces de 357.90m² situé au 1er étage avenue de Malakoff. Dans un superbe immeuble. Une cave.\r\nHonoraires de location (TTC) à la charge du locataire pour la réalisation des services suivants :  visites, constitution de dossier, frais de rédaction de bail, état des lieux. Dépôt de garantie, à verser par le locataire correspond à 1 mois de loyer HC. Nous consulter pour disponibilité.\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  georisques. gouv. fr",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "12 jours en ligne",
+      "views": "7 vues",
+      "saves": "0 favori"
+    }
+  },
+  "contactSections": {
+    "id": "25ZGJDGVWWFB",
+    "legacyId": "255290405",
+    "brand": "seloger",
+    "agencyId": "RC-108898",
+    "static": {
+      "phoneNumbers": [
+        "05 34 40 17 29"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "05 34 40 17 29"
+      ]
+    },
+    "contactCard": {
+      "title": "Crédit Agricole Immobilier",
+      "subtitle": "Hors Gestion Instit",
+      "phoneNumbers": [
+        "05 34 40 17 29"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/7/6/7/c/767ce398-f703-48e0-8aec-53a7a61248ba.jpg?ci_seal=8132a6918f8b3536db005af6fc10750ccd9b8dcf",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Crédit Agricole Immobilier",
+        "subtitle": "Hors Gestion Instit",
+        "phoneNumbers": [
+          "05 34 40 17 29"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/7/6/7/c/767ce398-f703-48e0-8aec-53a7a61248ba.jpg?ci_seal=8132a6918f8b3536db005af6fc10750ccd9b8dcf"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Hors Gestion Instit",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Crédit Agricole Immobilier",
+      "subtitle": "Crédit Agricole Immobilier",
+      "phoneNumbers": [
+        "05 34 40 17 29"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Crédit Agricole Immobilier",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/7/6/7/c/767ce398-f703-48e0-8aec-53a7a61248ba.jpg?ci_seal=8132a6918f8b3536db005af6fc10750ccd9b8dcf",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/toulouse-cdx-2-31204/agence-3624/"
+      },
+      "contactCard": {
+        "title": "Hors Gestion Instit",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/toulouse-cdx-2-31204/agence-3624/",
+      "imprintUrl": null,
+      "feeUrl": "https://www.ca-immobilier.fr/assets/pdf/bareme_location_et_transaction.pdf",
+      "agencyLegalInformations": [
+        "SAS CREDIT AGRICOLE IMMOBILIER SERVICES au capital de 1 791 868 €",
+        "Carte professionnelle CPI 9201 2016 000 010 635 délivrée par la Préfecture de NANTERRE",
+        "<b>Siège:</b> 12 Place des Etats-Unis, 92545 Montrouge Cedex",
+        "<b>RCS:</b> Paris 400777827",
+        "<b>SIRET:</b> 40077782700033"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "9 Impasse de Borderouge, 31204 Toulouse Cdx 2",
+      "phoneNumbers": [
+        "05 34 40 17 29"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75016",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25ZGJDGVWWFB",
+        "price": 12044,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75016",
+        "legacy_id": "255290405",
+        "product_type": "standard",
+        "client_id": "RC-108898",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "12251",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75016",
+        "estate_type": 1,
+        "id": "255290405",
+        "id_duo": 255290405,
+        "id_solo": 255290405,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 7,
+        "parent_site": "SL",
+        "photos_nb": 15,
+        "position": 0,
+        "price": 12044,
+        "product_geolocation": "localisation_district",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 357
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75016",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255290405",
+      "prix": 12100,
+      "nb_pieces": 7,
+      "surface": 357,
+      "commodites": [],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T7/F7 357 m² 12044 € Porte Dauphine Paris (75016)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T7/F7 357 m² 12044 € Porte Dauphine Paris (75016)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/porte-dauphine/255290405.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/porte-dauphine/255290405.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T7/F7 357 m² 12044 € Porte Dauphine Paris (75016)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T7/F7 357 m² 12044 € Porte Dauphine Paris (75016)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/9/2/9/2/92928a5d-a0c5-48f9-ab00-6de66a17c621.jpg?ci_seal=230000f3db7f493bed6bd32215910be844a245a9"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T7/F7 357 m² 12044 € Porte Dauphine Paris (75016)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/porte-dauphine/255290405.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T7/F7 357 m² 12044 € Porte Dauphine Paris (75016)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T7/F7 357 m² 12044 € Porte Dauphine Paris (75016)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/9/2/9/2/92928a5d-a0c5-48f9-ab00-6de66a17c621.jpg?ci_seal=230000f3db7f493bed6bd32215910be844a245a9"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T7/F7 357 m² 12044 € Porte Dauphine Paris (75016)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T7/F7 357 m² 12044 € Porte Dauphine Paris (75016)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/porte-dauphine/255290405.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR84&priceMax=14452.8&priceMin=9635.2",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR84",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR41",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25ZGJDGVWWFB"
+}

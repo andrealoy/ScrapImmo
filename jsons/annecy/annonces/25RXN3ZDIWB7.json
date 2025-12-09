@@ -1,0 +1,1168 @@
+{
+  "brand": "seloger",
+  "id": "25RXN3ZDIWB7",
+  "metadata": {
+    "legacyId": "244053337",
+    "creationDate": "2025-06-13T21:09:00Z",
+    "updateDate": "2025-11-20T21:40:13.652Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Annecy",
+        "zipCode": "74000",
+        "district": "Bonlieu"
+      },
+      "isAddressPublished": false,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                6.12736,
+                45.9012
+              ],
+              [
+                6.12168,
+                45.89967
+              ],
+              [
+                6.12109,
+                45.90136
+              ],
+              [
+                6.12337,
+                45.90293
+              ],
+              [
+                6.12205,
+                45.90314
+              ],
+              [
+                6.12116,
+                45.90517
+              ],
+              [
+                6.12595,
+                45.90556
+              ],
+              [
+                6.12611,
+                45.90534
+              ],
+              [
+                6.12526,
+                45.90444
+              ],
+              [
+                6.12736,
+                45.9012
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "description": {
+      "description": "Type T4 à louer sur Annecy, disponible.\r\nEn coeur de ville, dans un bâtiment de type haussmannien, cet appartement est au 1er étage sans\r\nascenseur. Il offre une belle surface de 95m² environ avec hauts plafonds et parquet. Il est composé\r\nd'un grand séjour, d'une cuisine indépendante, de 2 chambres, d'une pièce bureau, d'une salle de bain \r\néquipée d'un lavabo, d'une baignoire et d'un radiateur sèche-serviettes, WC séparé. Le chauffage est individuel gaz.",
+      "texts": [
+        {
+          "text": "Type T4 à louer sur Annecy, disponible.\r\nEn coeur de ville, dans un bâtiment de type haussmannien, cet appartement est au 1er étage sans\r\nascenseur. Il offre une belle surface de 95m² environ avec hauts plafonds et parquet. Il est composé\r\nd'un grand séjour, d'une cuisine indépendante, de 2 chambres, d'une pièce bureau, d'une salle de bain \r\néquipée d'un lavabo, d'une baignoire et d'un radiateur sèche-serviettes, WC séparé. Le chauffage est individuel gaz."
+        }
+      ],
+      "headline": "T4"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "4 pièces",
+        "3 chambres",
+        "95,3 m²",
+        "1er étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "4 pièces",
+          "splitValue": "4",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "3 chambres",
+          "splitValue": "3",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "95,3 m²",
+          "splitValue": "95,3",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1er étage",
+          "splitValue": "1er",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 560 €",
+        "formatted": "1 560 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "1560 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "2de66786-3e6a-4401-afb4-63db8a482b28",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "2526385f-9f4e-4c3b-ba0f-636ff47af81d",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "307 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "67 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "7988ac08-1ae8-4745-9323-24401c08c010",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "67 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "244053337"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "01010049511"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 515 €/mois Loyer de base",
+          "ariaLabel": "1515 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "45 €/mois",
+            "ariaLabel": "45 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 560 €/mois",
+            "ariaLabel": "1560 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "15,89 €/mois/m²",
+            "ariaLabel": "15,89 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1515"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "1er étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "3 chambres"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "1er étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "bedroom",
+                "value": "3 chambres"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "798c4883-bd37-4dbd-867a-2ad490cedde1",
+          "url": "https://mms.seloger.com/7/9/8/c/798c4883-bd37-4dbd-867a-2ad490cedde1.jpg?ci_seal=e15e1f97b35d59842d32300dafdc2df52e9789ad",
+          "alt": "Appartement à louer 1 560 € 4 pièces 3 chambres 95,3 m² 1er étage Bonlieu Annecy 74000",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "0bf6fedf-7f02-4c2a-866e-10b45b157be4",
+          "url": "https://mms.seloger.com/0/b/f/6/0bf6fedf-7f02-4c2a-866e-10b45b157be4.jpg?ci_seal=70a54b9645cec5e9a59c9da1d2055fa422975a8e",
+          "classification": {
+            "name": "STAIRCASE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3c864734-8c01-44ff-805f-a54ef14c5ca1",
+          "url": "https://mms.seloger.com/3/c/8/6/3c864734-8c01-44ff-805f-a54ef14c5ca1.jpg?ci_seal=a4197d42cde3d49bfc481e6a0b0263c5bf0084d6",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "ebfcb650-f388-4d3c-9b79-44d7236aa809",
+          "url": "https://mms.seloger.com/e/b/f/c/ebfcb650-f388-4d3c-9b79-44d7236aa809.jpg?ci_seal=b182381f07bd70709ffc1dd1002abd583106d35c",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "e56f0b48-c9ca-42cb-9b77-e221a496b3f9",
+          "url": "https://mms.seloger.com/e/5/6/f/e56f0b48-c9ca-42cb-9b77-e221a496b3f9.jpg?ci_seal=21c172549f891e1dd775c339c841bda0b8f0d4e8",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "c8fe6464-07db-43a0-99f7-31548664b73a",
+          "url": "https://mms.seloger.com/c/8/f/e/c8fe6464-07db-43a0-99f7-31548664b73a.jpg?ci_seal=9f6aa77120d4c7bbc5a80b971fb683d784c6f92a",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "d89c0190-a923-45f6-aad0-a197861e33f5",
+          "url": "https://mms.seloger.com/d/8/9/c/d89c0190-a923-45f6-aad0-a197861e33f5.jpg?ci_seal=9bf0cd9e3a39fb27080174fedccc8b7f5ed7496e",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "1e0b6a07-4041-404d-8a82-e7bf1e68f1dd",
+          "url": "https://mms.seloger.com/1/e/0/b/1e0b6a07-4041-404d-8a82-e7bf1e68f1dd.jpg?ci_seal=63498d0426dc4dd375c36ca8a6440cabc8568685",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "9d122449-3f43-4aff-9947-53edea4f0532",
+          "url": "https://mms.seloger.com/9/d/1/2/9d122449-3f43-4aff-9947-53edea4f0532.jpg?ci_seal=aff967c9a1f5b6b0e0829f24f8a0d6354df832ec",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "244053337",
+      "federalStateGeoId": "AD04FR31",
+      "zip": "74000",
+      "city": "Annecy",
+      "country": "FRA",
+      "region": "Auvergne-Rhône-Alpes",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 18.02,
+        "accuracy": 4,
+        "high": "28,52",
+        "low": "12,72"
+      },
+      "markerPosition": 20,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "15,89",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "T4",
+      "description": "Type T4 à louer sur Annecy, disponible.\r\nEn coeur de ville, dans un bâtiment de type haussmannien, cet appartement est au 1er étage sans\r\nascenseur. Il offre une belle surface de 95m² environ avec hauts plafonds et parquet. Il est composé\r\nd'un grand séjour, d'une cuisine indépendante, de 2 chambres, d'une pièce bureau, d'une salle de bain \r\néquipée d'un lavabo, d'une baignoire et d'un radiateur sèche-serviettes, WC séparé. Le chauffage est individuel gaz.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 mois en ligne",
+      "views": "999+ vues",
+      "saves": "48 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25RXN3ZDIWB7",
+    "legacyId": "244053337",
+    "brand": "seloger",
+    "agencyId": "RC-037177",
+    "static": {
+      "phoneNumbers": [
+        "0450450100"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0450450100"
+      ]
+    },
+    "contactCard": {
+      "title": "SBM Immobilier",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0450450100"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/e/9/d/6/e9d6bfda-4f9d-4fc3-bbf3-514295c3fc62.jpg?ci_seal=e08b695716ccf1e7cb700bfc01fe248d7e90a2be",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "SBM Immobilier",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "0450450100"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/e/9/d/6/e9d6bfda-4f9d-4fc3-bbf3-514295c3fc62.jpg?ci_seal=e08b695716ccf1e7cb700bfc01fe248d7e90a2be"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "SBM Immobilier",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0450450100"
+      ],
+      "logoUrl": "https://mms.seloger.com/e/9/d/6/e9d6bfda-4f9d-4fc3-bbf3-514295c3fc62.jpg?ci_seal=e08b695716ccf1e7cb700bfc01fe248d7e90a2be",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "SBM Immobilier",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/e/9/d/6/e9d6bfda-4f9d-4fc3-bbf3-514295c3fc62.jpg?ci_seal=e08b695716ccf1e7cb700bfc01fe248d7e90a2be",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/annecy-74000/agence-258369/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/annecy-74000/agence-258369/",
+      "imprintUrl": null,
+      "feeUrl": "https://www.sbm-immo.com:443/sites/sbm-immo.com/files/honoraires-agence.pdf",
+      "agencyLegalInformations": [
+        "SAS, société par actions simplifiée SAVOIE BATIMENT MODERNE",
+        "<b>Siège:</b> 24 Boulevard du lycée, 74000 Annecy",
+        "<b>RCS:</b> 326520574",
+        "<b>SIRET:</b> 32652057400061"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "24 boulevard du Lycée, 74000 Annecy",
+      "phoneNumbers": [
+        "0450450100"
+      ]
+    },
+    "plato": {
+      "available": true,
+      "eventType": "visit",
+      "settings": {
+        "agencyId": "RC-037177",
+        "source": "seloger.com",
+        "locale": "fr",
+        "reference": "01010049511"
+      }
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "74000",
+    "av_city": "Annecy",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25RXN3ZDIWB7",
+        "price": 1560,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Annecy",
+        "region": "Auvergne-Rhône-Alpes",
+        "province": "Upper Savoy",
+        "zip_code": "74000",
+        "legacy_id": "244053337",
+        "product_type": "standard",
+        "client_id": "RC-037177",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "82228",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "74000",
+        "estate_type": 1,
+        "id": "244053337",
+        "id_duo": 244053337,
+        "id_solo": 244053337,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 3,
+        "nb_rooms": 4,
+        "parent_site": "SL",
+        "photos_nb": 9,
+        "position": 0,
+        "price": 1560,
+        "product_geolocation": "localisation_city",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 95.32
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "74010",
+      "cp": "74000",
+      "geodp": "74",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "244053337",
+      "prix": 1600,
+      "nb_pieces": 4,
+      "nb_chambres": 3,
+      "surface": 95.32,
+      "commodites": [
+        "Chauffage-individuel",
+        "Chauffage-gaz",
+        "Cuisine-séparée",
+        "parquet",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/74/bien-appartement/",
+          "label": "Appartements à louer Haute-Savoie 74",
+          "hoverLabel": "Appartements à louer Haute-Savoie 74",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-annecy-74/bien-appartement/",
+          "label": "Appartements à louer Annecy 74000",
+          "hoverLabel": "Appartements à louer Annecy 74000",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T4/F4 95.32 m² 1560 € Bonlieu Annecy (74000)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T4/F4 95.32 m² 1560 € Bonlieu Annecy (74000)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/annecy-74/bonlieu/244053337.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/annecy-74/bonlieu/244053337.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T4/F4 95.32 m² 1560 € Bonlieu Annecy (74000)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T4/F4 95.32 m² 1560 € Bonlieu Annecy (74000)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/7/9/8/c/798c4883-bd37-4dbd-867a-2ad490cedde1.jpg?ci_seal=e15e1f97b35d59842d32300dafdc2df52e9789ad"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T4/F4 95.32 m² 1560 € Bonlieu Annecy (74000)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/annecy-74/bonlieu/244053337.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T4/F4 95.32 m² 1560 € Bonlieu Annecy (74000)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T4/F4 95.32 m² 1560 € Bonlieu Annecy (74000)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/7/9/8/c/798c4883-bd37-4dbd-867a-2ad490cedde1.jpg?ci_seal=e15e1f97b35d59842d32300dafdc2df52e9789ad"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T4/F4 95.32 m² 1560 € Bonlieu Annecy (74000)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T4/F4 95.32 m² 1560 € Bonlieu Annecy (74000)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/74/bien-appartement/",
+          "label": "Appartements à louer Haute-Savoie 74",
+          "hoverLabel": "Appartements à louer Haute-Savoie 74",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-annecy-74/bien-appartement/",
+          "label": "Appartements à louer Annecy 74000",
+          "hoverLabel": "Appartements à louer Annecy 74000",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/annecy-74/bonlieu/244053337.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR6023&priceMax=1872&priceMin=1248",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR6023",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD08FR30806",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR75",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR31",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25RXN3ZDIWB7"
+}

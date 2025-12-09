@@ -1,0 +1,1161 @@
+{
+  "brand": "seloger",
+  "id": "25E9VKLHL2TN",
+  "metadata": {
+    "legacyId": "256131933",
+    "creationDate": "2025-12-09T08:52:00Z",
+    "updateDate": "2025-12-09T10:01:08.261Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Lyon 3ème",
+        "zipCode": "69003",
+        "district": "Part-Dieu"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.854276186163628,
+          45.75493284324348
+        ]
+      }
+    },
+    "description": {
+      "description": "proche Part Dieu et métro Garibaldi, rue Léon Jouhaux, beau et grand T1 mezzanine esprit loft, grande pièce de vie, cuisine meublée et équipée d'une plaque de cuisson et hotte, une grande mezzanine avec placard, unes salle d'eau et un WC séparée\nEn rez-de-chaussée sur rue",
+      "texts": [
+        {
+          "text": "proche Part Dieu et métro Garibaldi, rue Léon Jouhaux, beau et grand T1 mezzanine esprit loft, grande pièce de vie, cuisine meublée et équipée d'une plaque de cuisson et hotte, une grande mezzanine avec placard, unes salle d'eau et un WC séparée\nEn rez-de-chaussée sur rue"
+        }
+      ],
+      "headline": "Grand T1 mezzanine esprit Loft"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "54,5 m²",
+        "RDC",
+        "dès le 09/01/2026"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "54,5 m²",
+          "splitValue": "54,5",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "RDC",
+          "splitValue": "RDC",
+          "label": ""
+        },
+        {
+          "type": "availability",
+          "value": "dès le 09/01/2026",
+          "splitValue": "dès",
+          "label": "le 09/01/2026"
+        }
+      ],
+      "price": {
+        "value": "921 €",
+        "formatted": "921 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "921 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Remis à neuf"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "7aa27c63-9902-479e-a3c9-3adcfa6e7aa0",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 730 et 1040 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 730 et 1040 € par an. Date d'indexation du prix des énergies non communiquée."
+            }
+          ],
+          "scales": [
+            {
+              "key": "14c8faaf-97f9-43b1-8e65-0afc237260a7",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "206 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "6 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "c58cc5f9-410a-4051-91b0-ad83b373f771",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "6 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256131933"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "JOUHAUX/11"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "888 €/mois Loyer de base",
+          "ariaLabel": "888 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "33 €/mois",
+            "ariaLabel": "33 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "921 €/mois",
+            "ariaLabel": "921 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "16,28 €/mois/m²",
+            "ariaLabel": "16,28 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "888"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 09/01/2026"
+        },
+        {
+          "icon": "floors",
+          "value": "Rez-de-chaussée"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: est"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "availability",
+                "value": "disponible à partir du 09/01/2026"
+              },
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "Orientation",
+                "value": "Exposition: est"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "Rez-de-chaussée"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "TV par câble",
+                "icon": "tv"
+              }
+            ],
+            "title": "Équipements"
+          },
+          {
+            "elements": [
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "7f49c10d-1960-46a5-93da-02d801e44783",
+          "url": "https://mms.seloger.com/7/f/4/9/7f49c10d-1960-46a5-93da-02d801e44783.jpg?ci_seal=a016825bfb82e3cd4e640458e928952827dfbd91",
+          "alt": "Appartement à louer 921 € 1 pièce 54,5 m² RDC dès le 09/01/2026 Part-Dieu Lyon 3ème 69003",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "15eef05d-981a-4029-8ad5-f75fbef69e93",
+          "url": "https://mms.seloger.com/1/5/e/e/15eef05d-981a-4029-8ad5-f75fbef69e93.jpg?ci_seal=3066ddeec5bee3738a93eeaaa1d43565ee7a774e",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1fdc26d9-67f3-4f89-91de-890b0b94d0b9",
+          "url": "https://mms.seloger.com/1/f/d/c/1fdc26d9-67f3-4f89-91de-890b0b94d0b9.jpg?ci_seal=fd2323ffb5002d5a3466f651598ef592a9ddc39d",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "01970ebe-ac36-49bd-9c7b-62c19bc045c0",
+          "url": "https://mms.seloger.com/0/1/9/7/01970ebe-ac36-49bd-9c7b-62c19bc045c0.jpg?ci_seal=a76dd66a914c4097b16821d590aae513280da21e",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d25c86c9-c1fa-42fe-b9b4-703deb8a78ea",
+          "url": "https://mms.seloger.com/d/2/5/c/d25c86c9-c1fa-42fe-b9b4-703deb8a78ea.jpg?ci_seal=dea44e4323c2a71e780d6ae8b64d2b0d2c18d54c",
+          "classification": {
+            "name": "STAIRCASE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e8ddfeb2-1b20-4626-94a3-f411dc31f02d",
+          "url": "https://mms.seloger.com/e/8/d/d/e8ddfeb2-1b20-4626-94a3-f411dc31f02d.jpg?ci_seal=bb30299e6a057e192a80209d97e2f900521b450f",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "827193ba-87e7-423f-9577-f54895857428",
+          "url": "https://mms.seloger.com/8/2/7/1/827193ba-87e7-423f-9577-f54895857428.jpg?ci_seal=50975d26f98d11690c1249a854b528dbea74e2c7",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "052e3b2c-fc95-47b9-871f-ce3816c3f5a4",
+          "url": "https://mms.seloger.com/0/5/2/e/052e3b2c-fc95-47b9-871f-ce3816c3f5a4.jpg?ci_seal=797ac1351f9477262ca5c821bc148ad5c855b0ab",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "33f44245-334e-4f74-8112-1127744f9b6e",
+          "url": "https://mms.seloger.com/3/3/f/4/33f44245-334e-4f74-8112-1127744f9b6e.jpg?ci_seal=5f9907e8a9b1a887fd52e91af029732c382368b8",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256131933",
+      "federalStateGeoId": "AD04FR31",
+      "zip": "69003",
+      "city": "Lyon 3ème",
+      "country": "FRA",
+      "region": "Auvergne-Rhône-Alpes",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 17.24,
+        "accuracy": 4,
+        "high": "26,76",
+        "low": "12,73"
+      },
+      "markerPosition": 25,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "16,28",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Grand T1 mezzanine esprit Loft",
+      "description": "proche Part Dieu et métro Garibaldi, rue Léon Jouhaux, beau et grand T1 mezzanine esprit loft, grande pièce de vie, cuisine meublée et équipée d'une plaque de cuisson et hotte, une grande mezzanine avec placard, unes salle d'eau et un WC séparée\nEn rez-de-chaussée sur rue",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "30 vues",
+      "saves": "3 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25E9VKLHL2TN",
+    "legacyId": "256131933",
+    "brand": "seloger",
+    "agencyId": "RC-049303",
+    "static": {
+      "phoneNumbers": [
+        "0472074582"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0472074582"
+      ]
+    },
+    "contactCard": {
+      "title": "INTERIMOB",
+      "subtitle": "Florence Marchand",
+      "phoneNumbers": [
+        "0472074582"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/0/6/d/d/06dd2335-824f-4a37-a597-99ab8a2dea61.jpg?ci_seal=87c0461667ef6de4b6af04270cc31e698161a0d4",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "INTERIMOB",
+        "subtitle": "Florence Marchand",
+        "phoneNumbers": [
+          "0472074582"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/0/6/d/d/06dd2335-824f-4a37-a597-99ab8a2dea61.jpg?ci_seal=87c0461667ef6de4b6af04270cc31e698161a0d4"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Florence Marchand",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "INTERIMOB",
+      "subtitle": "INTERIMOB",
+      "phoneNumbers": [
+        "0472074582"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "INTERIMOB",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/0/6/d/d/06dd2335-824f-4a37-a597-99ab8a2dea61.jpg?ci_seal=87c0461667ef6de4b6af04270cc31e698161a0d4",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-1er-arrondissement-69001/agence-75880/"
+      },
+      "contactCard": {
+        "title": "Florence Marchand",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://interimob.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-1er-arrondissement-69001/agence-75880/",
+      "imprintUrl": null,
+      "feeUrl": "http://www.interimob.com",
+      "agencyLegalInformations": [
+        "SARL INTERIMOB au capital de 249 999 €",
+        "Carte professionnelle CPI 6901 2016 000 00 délivrée par la Préfecture de RHONE",
+        "Garantie financière CREDIT AGRICOLE CENTRE EST pour un montant de 5 000 000 €",
+        "<b>Siège:</b> 8 quai Jean Moulin, 69001 LYON 1ER",
+        "<b>RCS:</b> 302527114",
+        "<b>SIRET:</b> 30252711400185"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "8 quai Jean Moulin, 69001 Lyon 1er",
+      "phoneNumbers": [
+        "0472074582"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "69003",
+    "av_city": "Lyon",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25E9VKLHL2TN",
+        "price": 921,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Lyon",
+        "region": "Auvergne-Rhône-Alpes",
+        "province": "Rhône",
+        "zip_code": "69003",
+        "building_state": "REFURBISHED",
+        "legacy_id": "256131933",
+        "product_type": "standard",
+        "client_id": "RC-049303",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "75244",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "69003",
+        "estate_type": 1,
+        "id": "256131933",
+        "id_duo": 256131933,
+        "id_solo": 256131933,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 9,
+        "position": 0,
+        "price": 921,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 54.54
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "69123",
+      "cp": "69003",
+      "geodp": "69",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256131933",
+      "prix": 1000,
+      "nb_pieces": 1,
+      "surface": 54.54,
+      "commodites": [
+        "ascenseur",
+        "Chauffage-electrique",
+        "Cuisine-américaine",
+        "Cuisine-équipée",
+        "parquet",
+        "rez-de-chaussee",
+        "SalleDEau-douche",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-3eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 3ème arrondissement 69003",
+          "hoverLabel": "Appartements à louer Lyon 3ème arrondissement 69003",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 54.54 m² 921 € Part-Dieu Lyon (69003)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 54.54 m² 921 € Part-Dieu Lyon (69003)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/lyon-3eme-69/part-dieu/256131933.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-3eme-69/part-dieu/256131933.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 54.54 m² 921 € Part-Dieu Lyon (69003)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 54.54 m² 921 € Part-Dieu Lyon (69003)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/7/f/4/9/7f49c10d-1960-46a5-93da-02d801e44783.jpg?ci_seal=a016825bfb82e3cd4e640458e928952827dfbd91"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 54.54 m² 921 € Part-Dieu Lyon (69003)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-3eme-69/part-dieu/256131933.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 54.54 m² 921 € Part-Dieu Lyon (69003)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 54.54 m² 921 € Part-Dieu Lyon (69003)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/7/f/4/9/7f49c10d-1960-46a5-93da-02d801e44783.jpg?ci_seal=a016825bfb82e3cd4e640458e928952827dfbd91"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 54.54 m² 921 € Part-Dieu Lyon (69003)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 54.54 m² 921 € Part-Dieu Lyon (69003)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-3eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 3ème arrondissement 69003",
+          "hoverLabel": "Appartements à louer Lyon 3ème arrondissement 69003",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/lyon-3eme-69/part-dieu/256131933.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR9348&priceMax=1105.2&priceMin=736.8",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR9348",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR19",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR28808",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR70",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR31",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25E9VKLHL2TN"
+}

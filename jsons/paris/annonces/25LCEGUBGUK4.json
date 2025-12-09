@@ -1,0 +1,1221 @@
+{
+  "brand": "seloger",
+  "id": "25LCEGUBGUK4",
+  "metadata": {
+    "legacyId": "256062535",
+    "creationDate": "2025-12-08T10:42:00Z",
+    "updateDate": "2025-12-09T01:17:16.542Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 13ème",
+        "zipCode": "75013",
+        "district": "Bièvres Sud Tolbiac"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.345806,
+          48.822149999986244
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "RER",
+            "lines": [
+              {
+                "name": "B",
+                "color": "#5291CE"
+              }
+            ]
+          },
+          {
+            "type": "TRAM",
+            "lines": [
+              {
+                "name": "T3a",
+                "color": "#F68C59"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "21",
+                "color": "#77c695"
+              },
+              {
+                "name": "57",
+                "color": "#9c983a"
+              },
+              {
+                "name": "62",
+                "color": "#5a230a"
+              },
+              {
+                "name": "67",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "184",
+                "color": "#dc9609"
+              },
+              {
+                "name": "216",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "513",
+                "color": "#a0006e"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Proche du Parc Montsouris et Cité Universitaire, immeuble ancien sans ascenseur, exposition sud-est,  43,32 m² au 6ème étage, 2 pièces : Entrée, séjour 15 m², chambre 12 m², cuisine séparée aménagée, salle d’eau, wc séparés, débarras, chauffage individuel au gaz, double vitrage, fibre optique,  cave, gardienne, système codé, interphone. Afin de gagner du temps, je vous remercie de préciser votre statut et votre rémunération. Pas de colocation.",
+      "texts": [
+        {
+          "text": "Proche du Parc Montsouris et Cité Universitaire, immeuble ancien sans ascenseur, exposition sud-est,  43,32 m² au 6ème étage, 2 pièces : Entrée, séjour 15 m², chambre 12 m², cuisine séparée aménagée, salle d’eau, wc séparés, débarras, chauffage individuel au gaz, double vitrage, fibre optique,  cave, gardienne, système codé, interphone. Afin de gagner du temps, je vous remercie de préciser votre statut et votre rémunération. Pas de colocation."
+        }
+      ],
+      "headline": "Appartement 43 m² 2 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "43 m²",
+        "Étage 6/6"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "43 m²",
+          "splitValue": "43",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 6/6",
+          "splitValue": "Étage",
+          "label": "6/6"
+        }
+      ],
+      "price": {
+        "value": "1 440 €",
+        "formatted": "1 440 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1440 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "b6b3cd68-33d2-4b26-a584-86a6e3a3a86f",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "65486d4e-0182-471d-a17c-3ed4dc4585a7",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "117 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "23 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "9831b6c0-aeb2-48dc-828d-5e0886fc260d",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "23 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256062535"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "304 - Rungis"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 370 €/mois Loyer de base",
+          "ariaLabel": "1370 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "70 €/mois",
+            "ariaLabel": "70 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 440 €/mois",
+            "ariaLabel": "1440 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "31,86 €/mois/m²",
+            "ariaLabel": "31,86 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1370"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Dernier étage, 6ème étage/6 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "value": "Cave",
+          "icon": "cellar"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: sud, est"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "Orientation",
+                "value": "Exposition: sud, est"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "Dernier étage, 6ème étage/6 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "livingRoom",
+                "value": "Salon (total 15 m²)"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "value": "Cave",
+                "icon": "cellar"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "TV par câble",
+                "icon": "tv"
+              }
+            ],
+            "title": "Équipements"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Gardien",
+                "icon": "custodian"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "884cd814-3243-43fd-8dc3-811721c481e7",
+          "url": "https://mms.seloger.com/8/8/4/c/884cd814-3243-43fd-8dc3-811721c481e7.jpg?ci_seal=3a0e3b7fe2fe047d0f886ef649405ef009a02d28",
+          "alt": "Appartement à louer 1 440 € 2 pièces 1 chambre 43 m² Étage 6/6 Bièvres Sud Tolbiac Paris 13ème 75013",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2750a27d-fcbb-4e47-9e44-205f5b1b633e",
+          "url": "https://mms.seloger.com/2/7/5/0/2750a27d-fcbb-4e47-9e44-205f5b1b633e.jpg?ci_seal=71f00129b7ecb372a181c3a1a68cacdb64bf01c5",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e8193cc4-59c5-4109-a3d0-d80079f655c3",
+          "url": "https://mms.seloger.com/e/8/1/9/e8193cc4-59c5-4109-a3d0-d80079f655c3.jpg?ci_seal=252b7eb928f57020c86aca6e3b617dde6cda7a6d",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "333cce80-ffea-4ef6-bbde-b9d4085923e8",
+          "url": "https://mms.seloger.com/3/3/3/c/333cce80-ffea-4ef6-bbde-b9d4085923e8.jpg?ci_seal=d42a72e1778f59b76ab023410a83e01ba545cf54",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b2147703-0df1-432d-98bf-d6700794071e",
+          "url": "https://mms.seloger.com/b/2/1/4/b2147703-0df1-432d-98bf-d6700794071e.jpg?ci_seal=4b05043940b3c9f315dc2c012d14a9581204d6bb",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fcbd89f7-d565-4afb-ade1-0be88ab93847",
+          "url": "https://mms.seloger.com/f/c/b/d/fcbd89f7-d565-4afb-ade1-0be88ab93847.jpg?ci_seal=df409abbcdb0b4506eca9c72f41b8a73fcb69f6e",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c59c4025-d0d3-4442-8d23-1f43a0346880",
+          "url": "https://mms.seloger.com/c/5/9/c/c59c4025-d0d3-4442-8d23-1f43a0346880.jpg?ci_seal=93b89d2d2eb8fbdfff998fb062e5776a6e61dc6d",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4d7f40d3-9694-40e7-9a06-cbc6c738396f",
+          "url": "https://mms.seloger.com/4/d/7/f/4d7f40d3-9694-40e7-9a06-cbc6c738396f.jpg?ci_seal=d16db98912a62be6700aaa65794ccc9a3ffb9026",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "af0c719e-9b0d-4eb1-8a0a-2a6f90cdb1b7",
+          "url": "https://mms.seloger.com/a/f/0/c/af0c719e-9b0d-4eb1-8a0a-2a6f90cdb1b7.jpg?ci_seal=d60a1e69d36bf2824f1f28d3be605861dd0c2c30",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d2b6ff6c-5429-4958-888b-8c500f330a86",
+          "url": "https://mms.seloger.com/d/2/b/6/d2b6ff6c-5429-4958-888b-8c500f330a86.jpg?ci_seal=7dcfe6e77925d30984f203e99e4b92a25bd0e55f",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "baccab61-6452-4bfa-ad9e-186c095d0914",
+          "url": "https://mms.seloger.com/b/a/c/c/baccab61-6452-4bfa-ad9e-186c095d0914.jpg?ci_seal=90a3a7a1e8e91db11f0a4110bef1fe042d75bdba",
+          "classification": {
+            "name": "STAIRCASE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1a6a7859-af61-4e4b-81f4-483517ac90e9",
+          "url": "https://mms.seloger.com/1/a/6/a/1a6a7859-af61-4e4b-81f4-483517ac90e9.jpg?ci_seal=864f6ea9c14792ccd6b5fe4414c90c6d4521efc8",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256062535",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75013",
+      "city": "Paris 13ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 30.2,
+        "accuracy": 3,
+        "high": "37,49",
+        "low": "24,89"
+      },
+      "markerPosition": 55,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "31,86",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 43 m² 2 pièces",
+      "description": "Proche du Parc Montsouris et Cité Universitaire, immeuble ancien sans ascenseur, exposition sud-est,  43,32 m² au 6ème étage, 2 pièces : Entrée, séjour 15 m², chambre 12 m², cuisine séparée aménagée, salle d’eau, wc séparés, débarras, chauffage individuel au gaz, double vitrage, fibre optique,  cave, gardienne, système codé, interphone. Afin de gagner du temps, je vous remercie de préciser votre statut et votre rémunération. Pas de colocation.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "426 vues",
+      "saves": "10 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25LCEGUBGUK4",
+    "legacyId": "256062535",
+    "brand": "seloger",
+    "agencyId": "RC-016223",
+    "static": {
+      "phoneNumbers": [
+        "0176214653"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0176214653"
+      ]
+    },
+    "contactCard": {
+      "title": "GRIFFATON SA",
+      "subtitle": "Mme Louvel",
+      "phoneNumbers": [
+        "0176214653"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/2/0/3/7/20371c43-a45d-409f-918e-0ecca69b7bd6.jpg?ci_seal=dae3ce3f99d65ae3a247ccea072371beb705fc6c",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "GRIFFATON SA",
+        "subtitle": "Mme Louvel",
+        "phoneNumbers": [
+          "0176214653"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/2/0/3/7/20371c43-a45d-409f-918e-0ecca69b7bd6.jpg?ci_seal=dae3ce3f99d65ae3a247ccea072371beb705fc6c"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Mme Louvel",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "GRIFFATON SA",
+      "subtitle": "GRIFFATON SA",
+      "phoneNumbers": [
+        "0176214653"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "GRIFFATON SA",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/2/0/3/7/20371c43-a45d-409f-918e-0ecca69b7bd6.jpg?ci_seal=dae3ce3f99d65ae3a247ccea072371beb705fc6c",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-7eme-arrondissement-75007/agence-39201/"
+      },
+      "contactCard": {
+        "title": "Mme Louvel",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-7eme-arrondissement-75007/agence-39201/",
+      "imprintUrl": null,
+      "feeUrl": "https://files.netty.immo/file/company36953poh/146/bE7ao/copie_de_bareme_des_honoraires_griff_new_logo_1__1.png",
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 632026423",
+        "<b>SIRET:</b> 63202642300046"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "54 rue de Varenne, 75007 Paris",
+      "phoneNumbers": [
+        "0176214653"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75013",
+    "av_city": "Paris",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25LCEGUBGUK4",
+        "price": 1440,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75013",
+        "legacy_id": "256062535",
+        "product_type": "standard",
+        "client_id": "RC-016223",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "41545",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "75013",
+        "estate_type": 1,
+        "id": "256062535",
+        "id_duo": 256062535,
+        "id_solo": 256062535,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 12,
+        "position": 0,
+        "price": 1440,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 43
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75013",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256062535",
+      "prix": 1500,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 43,
+      "etage": 6,
+      "commodites": [
+        "cave",
+        "Chauffage-individuel",
+        "Chauffage-gaz",
+        "Cuisine-séparée",
+        "dernier%20etage",
+        "parquet",
+        "SalleDEau-douche",
+        "Sejour",
+        "sud",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-13eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 13ème arrondissement 75013",
+          "hoverLabel": "Appartements à louer Paris 13ème arrondissement 75013",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 43 m² 1440 € Bièvres Sud Tolbiac Paris (75013)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 43 m² 1440 € Bièvres Sud Tolbiac Paris (75013)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/bievres-sud-tolbiac/256062535.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/bievres-sud-tolbiac/256062535.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 43 m² 1440 € Bièvres Sud Tolbiac Paris (75013)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 43 m² 1440 € Bièvres Sud Tolbiac Paris (75013)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/8/8/4/c/884cd814-3243-43fd-8dc3-811721c481e7.jpg?ci_seal=3a0e3b7fe2fe047d0f886ef649405ef009a02d28"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 43 m² 1440 € Bièvres Sud Tolbiac Paris (75013)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/bievres-sud-tolbiac/256062535.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 43 m² 1440 € Bièvres Sud Tolbiac Paris (75013)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 43 m² 1440 € Bièvres Sud Tolbiac Paris (75013)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/8/8/4/c/884cd814-3243-43fd-8dc3-811721c481e7.jpg?ci_seal=3a0e3b7fe2fe047d0f886ef649405ef009a02d28"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 43 m² 1440 € Bièvres Sud Tolbiac Paris (75013)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 43 m² 1440 € Bièvres Sud Tolbiac Paris (75013)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-13eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 13ème arrondissement 75013",
+          "hoverLabel": "Appartements à louer Paris 13ème arrondissement 75013",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/bievres-sud-tolbiac/256062535.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR67&priceMax=1728&priceMin=1152",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR67",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR38",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25LCEGUBGUK4"
+}

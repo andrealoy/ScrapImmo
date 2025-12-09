@@ -1,0 +1,1042 @@
+{
+  "brand": "seloger",
+  "id": "2557IRYFMFJP",
+  "metadata": {
+    "legacyId": "255681673",
+    "creationDate": "2025-12-02T16:27:00Z",
+    "updateDate": "2025-12-03T01:21:08.135Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 20ème",
+        "zipCode": "75020",
+        "district": "Belleville"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3834869999999992,
+          48.873103999986355
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "2",
+                "color": "#003da5"
+              },
+              {
+                "name": "11",
+                "color": "#6e4c1e"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "20",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "26",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "71",
+                "color": "#5a230a"
+              },
+              {
+                "name": "96",
+                "color": "#dc9609"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Rue PIAT . Quartier BELLEVILLE , proche du métro Pyrénées .Dans petit immeuble avec digicode , charmant appartement en duplex ( rez de chaussée et 1 er étage ) , refait à neuf en peinture , sur rue et cour , calme et clair, comprenant : Au rez de chaussée : entrée  sur séjour avec cuisine usa ,une salle d eau ,  wc séparé , une chambre de 10m2 , à l étage par escalier intérieur , une  grande chambre de 18 m2 , parquet au sol , fenêtres double vitrage, chauffage individuel au gaz .Proche tous commerces et transports.",
+      "texts": [
+        {
+          "text": "Rue PIAT . Quartier BELLEVILLE , proche du métro Pyrénées .Dans petit immeuble avec digicode , charmant appartement en duplex ( rez de chaussée et 1 er étage ) , refait à neuf en peinture , sur rue et cour , calme et clair, comprenant : Au rez de chaussée : entrée  sur séjour avec cuisine usa ,une salle d eau ,  wc séparé , une chambre de 10m2 , à l étage par escalier intérieur , une  grande chambre de 18 m2 , parquet au sol , fenêtres double vitrage, chauffage individuel au gaz .Proche tous commerces et transports."
+        }
+      ],
+      "headline": "Appartement 3 pièces"
+    },
+    "hardFacts": {
+      "title": "Duplex à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "54 m²",
+        "RDC/1"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "54 m²",
+          "splitValue": "54",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "RDC/1",
+          "splitValue": "RDC/1",
+          "label": ""
+        }
+      ],
+      "price": {
+        "value": "1 390 €",
+        "formatted": "1 390 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "1390 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1900"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Remis à neuf"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Radiateur"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "e5eaa984-4143-43ec-bddc-27e0c984fdbc",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 960 et 1350 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 960 et 1350 € par an. Date d'indexation du prix des énergies non communiquée."
+            }
+          ],
+          "scales": [
+            {
+              "key": "4d9f2c5f-6b6e-4920-b2ae-37a8e877a592",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "252 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "54 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "6ec7feed-4e20-47ba-97e0-18505db93bbb",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "54 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255681673"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "255681673"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 280 €/mois Loyer de base",
+          "ariaLabel": "1280 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "110 €/mois",
+            "ariaLabel": "110 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 390 €/mois",
+            "ariaLabel": "1390 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "23,70 €/mois/m²",
+            "ariaLabel": "23,70 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1280"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 14/12/2025"
+        },
+        {
+          "icon": "floors",
+          "value": "Rez-de-chaussée/1 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: ouest, est"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "availability",
+                "value": "disponible à partir du 14/12/2025"
+              },
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "Orientation",
+                "value": "Exposition: ouest, est"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "Rez-de-chaussée/1 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "TV par câble",
+                "icon": "tv"
+              }
+            ],
+            "title": "Équipements"
+          },
+          {
+            "elements": [
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "floorplans": [
+        {
+          "key": "1d1773f6-a5e6-4847-959a-a48f0fa91ed8",
+          "url": "https://mms.seloger.com/1/d/1/7/1d1773f6-a5e6-4847-959a-a48f0fa91ed8.jpg?ci_seal=e03abda8796f685f2d2fcf882b9f230b0b99e956",
+          "alt": "Duplex à louer 1 390 € 3 pièces 2 chambres 54 m² RDC/1 Belleville Paris 20ème 75020",
+          "classification": {
+            "name": "FLOORPLAN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ],
+      "images": [
+        {
+          "key": "ae9d7cc7-0805-465b-9ba2-1395a4f1c73d",
+          "url": "https://mms.seloger.com/a/e/9/d/ae9d7cc7-0805-465b-9ba2-1395a4f1c73d.jpg?ci_seal=4698e48db5f709174f279889e7063d014d2ce898",
+          "alt": "Duplex à louer 1 390 € 3 pièces 2 chambres 54 m² RDC/1 Belleville Paris 20ème 75020",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1b7e4b2a-c6a3-43da-afbe-c83f9e2fb103",
+          "url": "https://mms.seloger.com/1/b/7/e/1b7e4b2a-c6a3-43da-afbe-c83f9e2fb103.jpg?ci_seal=fabfc90655c469815eb43cdb24366e4242f9d96f",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d3506044-e122-415d-b91e-ded87735b447",
+          "url": "https://mms.seloger.com/d/3/5/0/d3506044-e122-415d-b91e-ded87735b447.jpg?ci_seal=fef8c5b43febc7287907d00b52256f787b9d4df3",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "76d0469b-6f6f-47c4-8963-74afafc56f5c",
+          "url": "https://mms.seloger.com/7/6/d/0/76d0469b-6f6f-47c4-8963-74afafc56f5c.jpg?ci_seal=013c4d585b0de0d66ff1520396636810e981d186",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fe72b6f6-4493-4b8c-86f5-96b9f86c7f4d",
+          "url": "https://mms.seloger.com/f/e/7/2/fe72b6f6-4493-4b8c-86f5-96b9f86c7f4d.jpg?ci_seal=b531f08901e96ba941a1a198a8ebbf1d5067cfc2",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "466209b7-acbf-450d-b201-825ea2bafdb6",
+          "url": "https://mms.seloger.com/4/6/6/2/466209b7-acbf-450d-b201-825ea2bafdb6.jpg?ci_seal=7a39403cacedbd72dee3443375ad4325cf3c1f73",
+          "classification": {
+            "name": "STAIRCASE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a1b51c02-786b-4aed-80b0-a14551c13492",
+          "url": "https://mms.seloger.com/a/1/b/5/a1b51c02-786b-4aed-80b0-a14551c13492.jpg?ci_seal=05b1fc92f92ee2f32bdb99cca9802549a72db259",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2ef6a383-1cb1-496d-b8c0-e23461a588b6",
+          "url": "https://mms.seloger.com/2/e/f/6/2ef6a383-1cb1-496d-b8c0-e23461a588b6.jpg?ci_seal=650ac81cf9174c9864b7e88fc388205c0208a0c5",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fc65040d-fea3-441f-9b3b-fc69aa993f18",
+          "url": "https://mms.seloger.com/f/c/6/5/fc65040d-fea3-441f-9b3b-fc69aa993f18.jpg?ci_seal=49db31db2a7d82c84beb87d66bcf977e3cba3935",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7ac82286-bad2-4350-83dd-bcbe32934537",
+          "url": "https://mms.seloger.com/7/a/c/8/7ac82286-bad2-4350-83dd-bcbe32934537.jpg?ci_seal=fa12c3d1d40668548502e6b7b7c25cc743e87d86",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "466209b7-acbf-450d-b201-825ea2bafdb6",
+          "url": "https://mms.seloger.com/4/6/6/2/466209b7-acbf-450d-b201-825ea2bafdb6.jpg?ci_seal=7a39403cacedbd72dee3443375ad4325cf3c1f73",
+          "classification": {
+            "name": "STAIRCASE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "cbba06af-57f8-46df-83b4-765f666e1f6d",
+          "url": "https://mms.seloger.com/c/b/b/a/cbba06af-57f8-46df-83b4-765f666e1f6d.jpg?ci_seal=6663231f1841b57e43c54c82ce86431318ffcb70",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7732538d-cbc7-41a6-b0b7-488efd56079c",
+          "url": "https://mms.seloger.com/7/7/3/2/7732538d-cbc7-41a6-b0b7-488efd56079c.jpg?ci_seal=2e2c064d1e0b8ef424e87199bee11a3d116b1f4f",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255681673",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75020",
+      "city": "Paris 20ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 30.67,
+        "accuracy": 3,
+        "high": "40,68",
+        "low": "23,98"
+      },
+      "markerPosition": 0,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "23,70",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 3 pièces",
+      "description": "Rue PIAT . Quartier BELLEVILLE , proche du métro Pyrénées .Dans petit immeuble avec digicode , charmant appartement en duplex ( rez de chaussée et 1 er étage ) , refait à neuf en peinture , sur rue et cour , calme et clair, comprenant : Au rez de chaussée : entrée  sur séjour avec cuisine usa ,une salle d eau ,  wc séparé , une chambre de 10m2 , à l étage par escalier intérieur , une  grande chambre de 18 m2 , parquet au sol , fenêtres double vitrage, chauffage individuel au gaz .Proche tous commerces et transports.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "7 jours en ligne",
+      "views": "999+ vues",
+      "saves": "64 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "2557IRYFMFJP",
+    "legacyId": "255681673",
+    "brand": "seloger",
+    "agencyId": "RC-010183",
+    "static": {
+      "phoneNumbers": [
+        "0140548008"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0140548008"
+      ]
+    },
+    "contactCard": {
+      "title": "P.B.I.",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0140548008"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "P.B.I.",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "0140548008"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "P.B.I.",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0140548008"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "P.B.I.",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-17eme-arrondissement-75017/agence-76057/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-17eme-arrondissement-75017/agence-76057/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 383826237",
+        "<b>SIRET:</b> 38382623700026"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "51 RUE LAUGIER, 75017 Paris 17ème",
+      "phoneNumbers": [
+        "0140548008"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75020",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "2557IRYFMFJP",
+        "price": 1390,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75020",
+        "building_state": "REFURBISHED",
+        "legacy_id": "255681673",
+        "product_type": "standard",
+        "client_id": "RC-010183",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "57",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75020",
+        "estate_type": 9,
+        "id": "255681673",
+        "id_duo": 255681673,
+        "id_solo": 255681673,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 14,
+        "position": 0,
+        "price": 1390,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 54,
+        "year_of_construction": 1900
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75020",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255681673",
+      "prix": 1400,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 54,
+      "etage": 1,
+      "commodites": [
+        "Cuisine-américaine",
+        "parquet",
+        "rez-de-chaussee",
+        "SalleDEau-douche",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {},
+    "headInfo": {
+      "title": "",
+      "titleWithCount": "",
+      "description": "",
+      "canonical": "",
+      "robots": "",
+      "breadcrumb": [],
+      "redirectUrl": ""
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR115&priceMax=1668&priceMin=1112",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR115",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR45",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "propertySubType": "MULTI_STOREY",
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "2557IRYFMFJP"
+}

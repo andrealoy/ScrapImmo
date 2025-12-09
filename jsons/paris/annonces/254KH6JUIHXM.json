@@ -1,0 +1,1128 @@
+{
+  "brand": "seloger",
+  "id": "254KH6JUIHXM",
+  "metadata": {
+    "legacyId": "255667535",
+    "creationDate": "2025-12-02T14:07:00Z",
+    "updateDate": "2025-12-09T18:16:18.102Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 13ème",
+        "zipCode": "75013",
+        "district": "Olympiades-Choisy"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.361288000000001,
+          48.82121399998625
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "7",
+                "color": "#f59bbb"
+              }
+            ]
+          },
+          {
+            "type": "TRAM",
+            "lines": [
+              {
+                "name": "T3a",
+                "color": "#F68C59"
+              },
+              {
+                "name": "T9",
+                "color": "#5291CE"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "47",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "131",
+                "color": "#5a230a"
+              },
+              {
+                "name": "184",
+                "color": "#dc9609"
+              },
+              {
+                "name": "185",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "186",
+                "color": "#a0006e"
+              },
+              {
+                "name": "513",
+                "color": "#a0006e"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Proche métro Maison Blanche (M7/M14) et Tram 3a/9, Rue des Malmaisons, 1er étage sans ascenseur, nous vous proposons un Appartement 3 pièces non meublé de 37,47m² comprenant : séjour, cuisine aménagée, 2 chambres dont 1 sans fenêtres, salle d'eau avec wc. Chauffage et eau chaude individuels électriques. \n\nContact par mail.",
+      "texts": [
+        {
+          "text": "Proche métro Maison Blanche (M7/M14) et Tram 3a/9, Rue des Malmaisons, 1er étage sans ascenseur, nous vous proposons un Appartement 3 pièces non meublé de 37,47m² comprenant : séjour, cuisine aménagée, 2 chambres dont 1 sans fenêtres, salle d'eau avec wc. Chauffage et eau chaude individuels électriques. \n\nContact par mail."
+        }
+      ],
+      "headline": "3 pièces 37,47m²"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "37,5 m²",
+        "1er étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37,5 m²",
+          "splitValue": "37,5",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1er étage",
+          "splitValue": "1er",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 115 €",
+        "formatted": "1 115 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "1115 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "45f03b36-444d-4024-8a46-6c8256e063bd",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "5e230850-522f-4ca0-b32f-061c2cb3c399",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "243 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "b1533892-75c0-4adb-b6e1-fc76010c4d9d",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255667535"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "(G886)"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 047 €/mois Loyer de base",
+          "ariaLabel": "1047 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "68 €/mois",
+            "ariaLabel": "68 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 115 €/mois",
+            "ariaLabel": "1115 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "27,94 €/mois/m²",
+            "ariaLabel": "27,94 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1047"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "1er étage"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        },
+        {
+          "icon": "barrier-free",
+          "value": "Non accessible aux personnes à mobilité réduite"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "1er étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "104105a8-f8a7-42e9-8503-daffae3a49b5",
+          "url": "https://mms.seloger.com/1/0/4/1/104105a8-f8a7-42e9-8503-daffae3a49b5.jpg?ci_seal=37b50312fc392901afdefb2bb49101d15b1ced0f",
+          "alt": "Appartement à louer 1 115 € 3 pièces 2 chambres 37,5 m² 1er étage Olympiades-Choisy Paris 13ème 75013",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a491bf92-5d69-4eb1-92d7-745c76b05e9d",
+          "url": "https://mms.seloger.com/a/4/9/1/a491bf92-5d69-4eb1-92d7-745c76b05e9d.jpg?ci_seal=eb14bae5e1b145f589b084251f19986d512c1f6f",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b676644b-32ed-41c2-8285-f1cf5ab81c79",
+          "url": "https://mms.seloger.com/b/6/7/6/b676644b-32ed-41c2-8285-f1cf5ab81c79.jpg?ci_seal=0f38a5f5744a27336e50c1af7596b87d9db403ea",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ea7d2b73-a05f-429d-aaa2-9b2ad3517add",
+          "url": "https://mms.seloger.com/e/a/7/d/ea7d2b73-a05f-429d-aaa2-9b2ad3517add.jpg?ci_seal=0b2285fb971d428e725b91cf908e4543129d6970",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c2851242-bcac-4d15-85a2-afae1b6cecaf",
+          "url": "https://mms.seloger.com/c/2/8/5/c2851242-bcac-4d15-85a2-afae1b6cecaf.jpg?ci_seal=58a85916bf1f4c96bce5b8a26652c2cf6211607b",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ],
+      "floorplans": [
+        {
+          "key": "076afbdd-5fa0-4811-9264-2b8df4baa1a1",
+          "url": "https://mms.seloger.com/0/7/6/a/076afbdd-5fa0-4811-9264-2b8df4baa1a1.jpg?ci_seal=4fde9e44c623d5068281d291f392ff6fceea5752",
+          "alt": "Appartement à louer 1 115 € 3 pièces 2 chambres 37,5 m² 1er étage Olympiades-Choisy Paris 13ème 75013",
+          "classification": {
+            "name": "FLOORPLAN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255667535",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75013",
+      "city": "Paris 13ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 29.77,
+        "accuracy": 3,
+        "high": "41,79",
+        "low": "21,78"
+      },
+      "markerPosition": 31,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "27,94",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "3 pièces 37,47m²",
+      "description": "Proche métro Maison Blanche (M7/M14) et Tram 3a/9, Rue des Malmaisons, 1er étage sans ascenseur, nous vous proposons un Appartement 3 pièces non meublé de 37,47m² comprenant : séjour, cuisine aménagée, 2 chambres dont 1 sans fenêtres, salle d'eau avec wc. Chauffage et eau chaude individuels électriques. \n\nContact par mail.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "7 jours en ligne",
+      "views": "321 vues",
+      "saves": "20 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "254KH6JUIHXM",
+    "legacyId": "255667535",
+    "brand": "seloger",
+    "agencyId": "RC-004926",
+    "static": {
+      "phoneNumbers": [
+        "0603489297"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0603489297"
+      ]
+    },
+    "contactCard": {
+      "title": "ALPHA IMMOBILIER",
+      "subtitle": "M. Oum",
+      "phoneNumbers": [
+        "0603489297"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "ALPHA IMMOBILIER",
+        "subtitle": "M. Oum",
+        "phoneNumbers": [
+          "0603489297"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à M. Oum",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "ALPHA IMMOBILIER",
+      "subtitle": "ALPHA IMMOBILIER",
+      "phoneNumbers": [
+        "0603489297"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "ALPHA IMMOBILIER",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-13eme-arrondissement-75013/agence-72541/"
+      },
+      "contactCard": {
+        "title": "M. Oum",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-13eme-arrondissement-75013/agence-72541/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 411291156",
+        "<b>SIRET:</b> 41129115600015"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "9 rue Philibert Lucot, 75013 Paris",
+      "phoneNumbers": [
+        "0603489297"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75013",
+    "av_city": "Paris",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "254KH6JUIHXM",
+        "price": 1115,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75013",
+        "legacy_id": "255667535",
+        "product_type": "standard",
+        "client_id": "RC-004926",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "34884",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "75013",
+        "estate_type": 1,
+        "id": "255667535",
+        "id_duo": 255667535,
+        "id_solo": 255667535,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 6,
+        "position": 0,
+        "price": 1115,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 37.47
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75013",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255667535",
+      "prix": 1200,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 37.47,
+      "commodites": [
+        "parquet",
+        "SalleDEau-douche"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-13eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 13ème arrondissement 75013",
+          "hoverLabel": "Appartements à louer Paris 13ème arrondissement 75013",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 37.47 m² 1115 € Olympiades-Choisy Paris (75013)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 37.47 m² 1115 € Olympiades-Choisy Paris (75013)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/olympiades-choisy/255667535.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/olympiades-choisy/255667535.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 37.47 m² 1115 € Olympiades-Choisy Paris (75013)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 37.47 m² 1115 € Olympiades-Choisy Paris (75013)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/1/0/4/1/104105a8-f8a7-42e9-8503-daffae3a49b5.jpg?ci_seal=37b50312fc392901afdefb2bb49101d15b1ced0f"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 37.47 m² 1115 € Olympiades-Choisy Paris (75013)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/olympiades-choisy/255667535.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 37.47 m² 1115 € Olympiades-Choisy Paris (75013)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 37.47 m² 1115 € Olympiades-Choisy Paris (75013)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/1/0/4/1/104105a8-f8a7-42e9-8503-daffae3a49b5.jpg?ci_seal=37b50312fc392901afdefb2bb49101d15b1ced0f"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 37.47 m² 1115 € Olympiades-Choisy Paris (75013)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 37.47 m² 1115 € Olympiades-Choisy Paris (75013)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-13eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 13ème arrondissement 75013",
+          "hoverLabel": "Appartements à louer Paris 13ème arrondissement 75013",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/olympiades-choisy/255667535.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR64&priceMax=1338&priceMin=892",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR64",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR38",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "254KH6JUIHXM"
+}

@@ -1,0 +1,1192 @@
+{
+  "brand": "seloger",
+  "id": "25JG5AU3RKE8",
+  "metadata": {
+    "legacyId": "255663805",
+    "creationDate": "2025-12-02T14:21:00Z",
+    "updateDate": "2025-12-09T11:26:23.141Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 6ème",
+        "zipCode": "75006",
+        "district": "Saint Placide"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3275379,
+          48.8470728
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "4",
+                "color": "#c800a1"
+              },
+              {
+                "name": "10",
+                "color": "#c69214"
+              },
+              {
+                "name": "12",
+                "color": "#007a53"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "28",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "39",
+                "color": "#a0006e"
+              },
+              {
+                "name": "58",
+                "color": "#00643c"
+              },
+              {
+                "name": "63",
+                "color": "#cec92a"
+              },
+              {
+                "name": "68",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "70",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "82",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "83",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "84",
+                "color": "#d282be"
+              },
+              {
+                "name": "87",
+                "color": "#62259d"
+              },
+              {
+                "name": "89",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "91",
+                "color": "#dc9609"
+              },
+              {
+                "name": "92",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "94",
+                "color": "#a0006e"
+              },
+              {
+                "name": "95",
+                "color": "#62259d"
+              },
+              {
+                "name": "96",
+                "color": "#dc9609"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "SAINT-PLACIDE - Rue de Vaugirard - Dans un bel immeuble ancien, au 3ème étage asc, un grand studio meublé comprenant une entrée, une pièce principale, une cuisine équipée et aménagée et une salle de bain avec WC - Dépôt de Garantie : 2080 euros - Honoraires locataire Bail 'Loi 89': 12 euros TTC/m² + état des lieux: 3 euros TTC/m² soit 457,80 euros TTC et si Bail 'code civil': un loyer net hors charges et hors taxes",
+      "texts": [
+        {
+          "text": "SAINT-PLACIDE - Rue de Vaugirard - Dans un bel immeuble ancien, au 3ème étage asc, un grand studio meublé comprenant une entrée, une pièce principale, une cuisine équipée et aménagée et une salle de bain avec WC - Dépôt de Garantie : 2080 euros - Honoraires locataire Bail 'Loi 89': 12 euros TTC/m² + état des lieux: 3 euros TTC/m² soit 457,80 euros TTC et si Bail 'code civil': un loyer net hors charges et hors taxes"
+        }
+      ],
+      "headline": "appartement"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "30,5 m²",
+        "Étage 3/4"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "30,5 m²",
+          "splitValue": "30,5",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 3/4",
+          "splitValue": "Étage",
+          "label": "3/4"
+        }
+      ],
+      "price": {
+        "value": "1 100 €",
+        "formatted": "1 100 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "1100 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel: Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "a0c89ab0-fc81-43d2-a7dd-b1a0e27bf9b2",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 620 et 880 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 620 et 880 € par an. Prix moyens des énergies indexés au 31/12/2020 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "a06e43a9-7878-4565-a2c9-9b1e13be66a4",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "235 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "e25f9a1f-d890-4fe0-971f-29023a881ea5",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255663805"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "ZB1-2046"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 100 €/mois Loyer charges comprises",
+          "ariaLabel": "1100 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "60 €/mois",
+            "ariaLabel": "60 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "36,04 €/mois/m²",
+            "ariaLabel": "36,04 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2080"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "3ème étage/4 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "barrier-free",
+          "value": "Non accessible aux personnes à mobilité réduite"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "3ème étage/4 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "2eefb027-ea41-44ff-a050-d6e359f777b8",
+          "url": "https://mms.seloger.com/2/e/e/f/2eefb027-ea41-44ff-a050-d6e359f777b8.jpg?ci_seal=e16f81b0d1ba836978deec6bdd532ca17906ebcd",
+          "alt": "Appartement à louer 1 100 € 1 pièce 30,5 m² Étage 3/4 Saint Placide Paris 6ème 75006",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f87ab22f-4088-47e1-b9dd-bc3cc4d7e040",
+          "url": "https://mms.seloger.com/f/8/7/a/f87ab22f-4088-47e1-b9dd-bc3cc4d7e040.jpg?ci_seal=7488b5a79a299c7984ce4ad69115687d899bb3c3",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e0a0221b-fae9-4a15-a8eb-4524ddbe2b5a",
+          "url": "https://mms.seloger.com/e/0/a/0/e0a0221b-fae9-4a15-a8eb-4524ddbe2b5a.jpg?ci_seal=b21c5f2579ee41eead0ce6c3ce28a2a00566a163",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "18329d40-634f-4d4b-80af-8da0742a9fb6",
+          "url": "https://mms.seloger.com/1/8/3/2/18329d40-634f-4d4b-80af-8da0742a9fb6.jpg?ci_seal=da22333bf4d0dc20b321a84577001ddb006546c7",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c3d3bab7-387f-46c5-a058-268952355a6f",
+          "url": "https://mms.seloger.com/c/3/d/3/c3d3bab7-387f-46c5-a058-268952355a6f.jpg?ci_seal=15650259005d3f234ed639d0200f85fe195d144e",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "64136dfd-ce75-486b-8ac3-ca3ada7b408f",
+          "url": "https://mms.seloger.com/6/4/1/3/64136dfd-ce75-486b-8ac3-ca3ada7b408f.jpg?ci_seal=bc59e19958e7c3aa935efb29af274d988775fb83",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255663805",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75006",
+      "city": "Paris 6ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 38.62,
+        "accuracy": 3,
+        "high": "53,59",
+        "low": "31,42"
+      },
+      "markerPosition": 21,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "36,04",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "appartement",
+      "description": "SAINT-PLACIDE - Rue de Vaugirard - Dans un bel immeuble ancien, au 3ème étage asc, un grand studio meublé comprenant une entrée, une pièce principale, une cuisine équipée et aménagée et une salle de bain avec WC - Dépôt de Garantie : 2080 euros - Honoraires locataire Bail 'Loi 89': 12 euros TTC/m² + état des lieux: 3 euros TTC/m² soit 457,80 euros TTC et si Bail 'code civil': un loyer net hors charges et hors taxes",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "7 jours en ligne",
+      "views": "352 vues",
+      "saves": "13 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25JG5AU3RKE8",
+    "legacyId": "255663805",
+    "brand": "seloger",
+    "agencyId": "RC-031807",
+    "static": {
+      "phoneNumbers": [
+        "0184148417"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0184148417"
+      ]
+    },
+    "contactCard": {
+      "title": "IMMOBILIER DE CARNE",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0184148417"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/1/a/7/f/1a7f34b1-9a55-4317-b142-69b13f818ed3.jpg?ci_seal=398bddf6a09ed09df92d7d17f706908df406808e",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "IMMOBILIER DE CARNE",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "0184148417"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/1/a/7/f/1a7f34b1-9a55-4317-b142-69b13f818ed3.jpg?ci_seal=398bddf6a09ed09df92d7d17f706908df406808e"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "IMMOBILIER DE CARNE",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0184148417"
+      ],
+      "logoUrl": "https://mms.seloger.com/1/a/7/f/1a7f34b1-9a55-4317-b142-69b13f818ed3.jpg?ci_seal=398bddf6a09ed09df92d7d17f706908df406808e",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "IMMOBILIER DE CARNE",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/1/a/7/f/1a7f34b1-9a55-4317-b142-69b13f818ed3.jpg?ci_seal=398bddf6a09ed09df92d7d17f706908df406808e",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-6eme-arrondissement-75006/agence-307222/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-6eme-arrondissement-75006/agence-307222/",
+      "imprintUrl": null,
+      "feeUrl": "https://www.immocarne.com:443/mentions-legales-bareme/",
+      "agencyLegalInformations": [
+        "SAS, société par actions simplifiée IMMOBILIER DE CARNE",
+        "<b>Siège:</b> 100 Rue De Vaugirard, 75006 Paris",
+        "<b>RCS:</b> 398982884",
+        "<b>SIRET:</b> 39898288400015"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "100 Rue de Vaugirard, 75006 Paris",
+      "phoneNumbers": [
+        "0184148417"
+      ]
+    },
+    "plato": {
+      "available": true,
+      "eventType": "visit",
+      "settings": {
+        "agencyId": "RC-031807",
+        "source": "seloger.com",
+        "locale": "fr",
+        "reference": "ZB1-2046"
+      }
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75006",
+    "av_city": "Paris",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25JG5AU3RKE8",
+        "price": 1100,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75006",
+        "legacy_id": "255663805",
+        "product_type": "standard",
+        "client_id": "RC-031807",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "726",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "75006",
+        "estate_type": 1,
+        "id": "255663805",
+        "id_duo": 255663805,
+        "id_solo": 255663805,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 6,
+        "position": 0,
+        "price": 1100,
+        "product_geolocation": "localisation_district",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 30.52
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75006",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255663805",
+      "prix": 1100,
+      "nb_pieces": 1,
+      "surface": 30.52,
+      "etage": 4,
+      "commodites": [
+        "ascenseur",
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "Cuisine-séparée",
+        "parquet",
+        "SalleDeBain-baignoire",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-75/bien-appartement/",
+          "label": "Appartements à louer Paris 75000",
+          "hoverLabel": "Appartements à louer Paris 75000",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 30.52 m² 1100 € Rennes Paris (75006)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 30.52 m² 1100 € Rennes Paris (75006)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-6eme-75/rennes/255663805.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-6eme-75/rennes/255663805.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 30.52 m² 1100 € Rennes Paris (75006)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 30.52 m² 1100 € Rennes Paris (75006)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/2/e/e/f/2eefb027-ea41-44ff-a050-d6e359f777b8.jpg?ci_seal=e16f81b0d1ba836978deec6bdd532ca17906ebcd"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 30.52 m² 1100 € Rennes Paris (75006)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-6eme-75/rennes/255663805.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 30.52 m² 1100 € Rennes Paris (75006)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 30.52 m² 1100 € Rennes Paris (75006)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/2/e/e/f/2eefb027-ea41-44ff-a050-d6e359f777b8.jpg?ci_seal=e16f81b0d1ba836978deec6bdd532ca17906ebcd"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 30.52 m² 1100 € Rennes Paris (75006)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 30.52 m² 1100 € Rennes Paris (75006)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-75/bien-appartement/",
+          "label": "Appartements à louer Paris 75000",
+          "hoverLabel": "Appartements à louer Paris 75000",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-6eme-75/rennes/255663805.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR24&priceMax=1320&priceMin=880",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR24",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR31",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25JG5AU3RKE8"
+}

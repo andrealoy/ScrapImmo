@@ -1,0 +1,1072 @@
+{
+  "brand": "seloger",
+  "id": "25XWPIXH76JK",
+  "metadata": {
+    "legacyId": "255072641",
+    "creationDate": "2025-11-24T13:47:00Z",
+    "updateDate": "2025-12-05T11:01:15.175Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 12ème",
+        "zipCode": "75012",
+        "district": "Bel-Air Nord"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4050610000000003,
+          48.840141999986294
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "6",
+                "color": "#71cc98"
+              },
+              {
+                "name": "8",
+                "color": "#dd9cdf"
+              }
+            ]
+          },
+          {
+            "type": "TRAM",
+            "lines": [
+              {
+                "name": "T3a",
+                "color": "#F68C59"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "29",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "46",
+                "color": "#cec92a"
+              },
+              {
+                "name": "56",
+                "color": "#a0006e"
+              },
+              {
+                "name": "64",
+                "color": "#77c695"
+              },
+              {
+                "name": "71",
+                "color": "#5a230a"
+              },
+              {
+                "name": "201",
+                "color": "#5a230a"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Au 1er étage sans ascenseur d'un immeuble en Pierre de Taille, appartement VIDE de 44 m² composé d'une entrée, un salon, une chambre, une cuisine séparée vide, un dressing et une salle de douche avec WC. \r\n\r\nChauffage et eau chaude Individuels électriques. \r\n\r\nDPE D\r\n\r\nHonoraires Loi ALUR 15 €/m² TTC résidence principale\r\nHonoraires hors Loi ALUR : Bail résidence secondaire – Bail société : 1 mois de loyer charges comprises + TVA",
+      "texts": [
+        {
+          "text": "Au 1er étage sans ascenseur d'un immeuble en Pierre de Taille, appartement VIDE de 44 m² composé d'une entrée, un salon, une chambre, une cuisine séparée vide, un dressing et une salle de douche avec WC. \r\n\r\nChauffage et eau chaude Individuels électriques. \r\n\r\nDPE D\r\n\r\nHonoraires Loi ALUR 15 €/m² TTC résidence principale\r\nHonoraires hors Loi ALUR : Bail résidence secondaire – Bail société : 1 mois de loyer charges comprises + TVA"
+        }
+      ],
+      "headline": "2 PIECES VIDE - RUE DU MONTEMPOIVRE"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "44,1 m²",
+        "1er étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44,1 m²",
+          "splitValue": "44,1",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1er étage",
+          "splitValue": "1er",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 380 €",
+        "formatted": "1 380 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "1380 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Entretenu"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel: Aérotherme"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "b7740d25-7ffb-43c7-b1c0-780ec751752f",
+          "scales": [
+            {
+              "key": "0d2527b2-45f6-4c6d-ae56-17c7cdc4f5a4",
+              "name": "Diagnostic de Performance Énergétique (DPE)",
+              "alternateText": "Un certificat énergétique n'est pas nécessaire pour ce bien.",
+              "ariaLabel": "Un certificat énergétique n'est pas nécessaire pour ce bien."
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255072641"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "86467983"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 285 €/mois Loyer de base",
+          "ariaLabel": "1285 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "95 €/mois",
+            "ariaLabel": "95 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 380 €/mois",
+            "ariaLabel": "1380 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "29,16 €/mois/m²",
+            "ariaLabel": "29,16 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1285"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "1er étage"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "value": "Sans vis-à-vis",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "barrier-free",
+          "value": "Non accessible aux personnes à mobilité réduite"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de douches"
+        },
+        {
+          "value": "Digicode",
+          "icon": "digital-lock"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "1er étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "livingRoom",
+                "value": "Salon (total 11,8 m²)"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              },
+              {
+                "value": "Sans vis-à-vis",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "75afc414-80aa-4d2a-9d60-60b2c526e84d",
+          "url": "https://mms.seloger.com/7/5/a/f/75afc414-80aa-4d2a-9d60-60b2c526e84d.jpg?ci_seal=dfe4fa93aa28e38344e7736b9a014877a887b2d9",
+          "alt": "Appartement à louer 1 380 € 2 pièces 1 chambre 44,1 m² 1er étage Bel-Air Nord Paris 12ème 75012",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "34e31980-94b3-4dc6-9d1f-ceaef7285dbb",
+          "url": "https://mms.seloger.com/3/4/e/3/34e31980-94b3-4dc6-9d1f-ceaef7285dbb.jpg?ci_seal=d1c5dc9841357bda49cd9a0e36e37f630a5ded0d",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "91086fbd-a2b0-43cf-b7fc-bf547ef2dcaa",
+          "url": "https://mms.seloger.com/9/1/0/8/91086fbd-a2b0-43cf-b7fc-bf547ef2dcaa.jpg?ci_seal=db60f6a55ee2309c4491c3fab4c18e5c74ae6b5e",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "62849e60-8cee-424e-b225-af4e07d1f18d",
+          "url": "https://mms.seloger.com/6/2/8/4/62849e60-8cee-424e-b225-af4e07d1f18d.jpg?ci_seal=2810096333dfb308df5bb4968e8e38a29de476d4",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ed911472-43f0-4d03-8b0a-811d9134efd7",
+          "url": "https://mms.seloger.com/e/d/9/1/ed911472-43f0-4d03-8b0a-811d9134efd7.jpg?ci_seal=bfe37d47d35330276fd08ea94ebf193e2cc4aaa8",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "33ef75e3-802a-42a3-b74a-b244d62eaa72",
+          "url": "https://mms.seloger.com/3/3/e/f/33ef75e3-802a-42a3-b74a-b244d62eaa72.jpg?ci_seal=b9f26e9b120c38761d4d7d574f8aeec091a7feae",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d4b98971-f782-4917-b5ac-a16ed0184143",
+          "url": "https://mms.seloger.com/d/4/b/9/d4b98971-f782-4917-b5ac-a16ed0184143.jpg?ci_seal=5a91be404ecc2b246f37ec5f6ce0991180240365",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "bce1dc41-d2fa-4c2f-b805-cb78c1651ad3",
+          "url": "https://mms.seloger.com/b/c/e/1/bce1dc41-d2fa-4c2f-b805-cb78c1651ad3.jpg?ci_seal=b6d9d666c7a9fe9a3a05a87f7b97fa40aeff2be3",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2d54f59c-8675-4147-b881-a24785bc1b8b",
+          "url": "https://mms.seloger.com/2/d/5/4/2d54f59c-8675-4147-b881-a24785bc1b8b.jpg?ci_seal=7b7e2ad7f39529d1ddf028188ad584fe54266d17",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255072641",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75012",
+      "city": "Paris 12ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 30.95,
+        "accuracy": 4,
+        "high": "42,32",
+        "low": "24,28"
+      },
+      "markerPosition": 27,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "29,16",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "2 PIECES VIDE - RUE DU MONTEMPOIVRE",
+      "description": "Au 1er étage sans ascenseur d'un immeuble en Pierre de Taille, appartement VIDE de 44 m² composé d'une entrée, un salon, une chambre, une cuisine séparée vide, un dressing et une salle de douche avec WC. \r\n\r\nChauffage et eau chaude Individuels électriques. \r\n\r\nDPE D\r\n\r\nHonoraires Loi ALUR 15 €/m² TTC résidence principale\r\nHonoraires hors Loi ALUR : Bail résidence secondaire – Bail société : 1 mois de loyer charges comprises + TVA",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "15 jours en ligne",
+      "views": "776 vues",
+      "saves": "45 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25XWPIXH76JK",
+    "legacyId": "255072641",
+    "brand": "seloger",
+    "agencyId": "RC-010552",
+    "static": {
+      "phoneNumbers": [
+        "+33 1 40 56 98 61"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33 1 40 56 98 61"
+      ]
+    },
+    "contactCard": {
+      "title": "AFFINITY HOME",
+      "subtitle": "Service Location",
+      "phoneNumbers": [
+        "+33 1 40 56 98 61"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "AFFINITY HOME",
+        "subtitle": "Service Location",
+        "phoneNumbers": [
+          "+33 1 40 56 98 61"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Service Location",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "AFFINITY HOME",
+      "subtitle": "AFFINITY HOME",
+      "phoneNumbers": [
+        "+33 1 40 56 98 61"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "AFFINITY HOME",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-38087/"
+      },
+      "contactCard": {
+        "title": "Service Location",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-38087/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "SARL Affinity Home au capital de 50 000 €",
+        "Carte professionnelle T9507 délivrée par la Préfecture de Paris",
+        "Garantie financière SOCAF pour un montant de 120 000 €",
+        "<b>Siège:</b> 15, rue de Miromesnil, 75008 Paris",
+        "<b>RCS:</b> PARIS 433029709",
+        "<b>SIRET:</b> 43302970900022"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "15 rue de Miromesnil, 75008 Paris 8ème",
+      "phoneNumbers": [
+        "+33 1 40 56 98 61"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75012",
+    "av_city": "Paris",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25XWPIXH76JK",
+        "price": 1380,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75012",
+        "building_state": "WELL_KEPT",
+        "legacy_id": "255072641",
+        "product_type": "standard",
+        "client_id": "RC-010552"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "12514",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "estate_postalcode": "75012",
+        "estate_type": 1,
+        "id": "255072641",
+        "id_duo": 255072641,
+        "id_solo": 255072641,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 9,
+        "position": 0,
+        "price": 1380,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 44.07
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75012",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255072641",
+      "prix": 1400,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 44.07,
+      "commodites": [
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "SalleDEau-douche",
+        "sansVisAVis",
+        "Sejour"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-12eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 12ème arrondissement 75012",
+          "hoverLabel": "Appartements à louer Paris 12ème arrondissement 75012",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 44.07 m² 1380 € Bel-Air Nord Paris (75012)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 44.07 m² 1380 € Bel-Air Nord Paris (75012)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-12eme-75/bel-air-nord/255072641.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-12eme-75/bel-air-nord/255072641.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 44.07 m² 1380 € Bel-Air Nord Paris (75012)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 44.07 m² 1380 € Bel-Air Nord Paris (75012)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/7/5/a/f/75afc414-80aa-4d2a-9d60-60b2c526e84d.jpg?ci_seal=dfe4fa93aa28e38344e7736b9a014877a887b2d9"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 44.07 m² 1380 € Bel-Air Nord Paris (75012)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-12eme-75/bel-air-nord/255072641.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 44.07 m² 1380 € Bel-Air Nord Paris (75012)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 44.07 m² 1380 € Bel-Air Nord Paris (75012)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/7/5/a/f/75afc414-80aa-4d2a-9d60-60b2c526e84d.jpg?ci_seal=dfe4fa93aa28e38344e7736b9a014877a887b2d9"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 44.07 m² 1380 € Bel-Air Nord Paris (75012)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 44.07 m² 1380 € Bel-Air Nord Paris (75012)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-12eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 12ème arrondissement 75012",
+          "hoverLabel": "Appartements à louer Paris 12ème arrondissement 75012",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-12eme-75/bel-air-nord/255072641.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR56&priceMax=1656&priceMin=1104",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR56",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR37",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25XWPIXH76JK"
+}

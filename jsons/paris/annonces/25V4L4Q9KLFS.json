@@ -1,0 +1,1160 @@
+{
+  "brand": "seloger",
+  "id": "25V4L4Q9KLFS",
+  "metadata": {
+    "legacyId": "255237331",
+    "creationDate": "2025-11-26T12:08:00Z",
+    "updateDate": "2025-11-26T12:11:07.686Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 16ème",
+        "zipCode": "75016",
+        "district": "Auteuil Nord"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.263394,
+          48.854291
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "9",
+                "color": "#b5bd00"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "32",
+                "color": "#9c983a"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "LOCATION MEUBLEE LODGIS (Référence : 41624927) : Cet appartement meublé de 130 m² est situé Boulevard Montmorency, dans un quartier résidentiel du 16ème arrondissement de Paris. Composé de 4 pièces dont 3 chambres, cet appartement en location meublée peut accueillir jusqu'à 6 personnes. Cet appartement au 2e étage avec ascenseur, bénéficie d'une terrasse et de l'équipement nécessaire pour vous sentir comme chez vous (Internet tout compris). Parfaitement desservi par les transports en commun (Jasmin/M 9, Ranelagh/M 9), vous trouverez à proximité de nombreux commerces et services (Boucherie Charcuterie, Boulangerie, Brasserie, Club de gym à proximité, Kiosque à journaux, Marché plein air, Parc, Pharmacie, Restaurant, Soins de beauté, Supermarché).",
+      "texts": [
+        {
+          "text": "LOCATION MEUBLEE LODGIS (Référence : 41624927) : Cet appartement meublé de 130 m² est situé Boulevard Montmorency, dans un quartier résidentiel du 16ème arrondissement de Paris. Composé de 4 pièces dont 3 chambres, cet appartement en location meublée peut accueillir jusqu'à 6 personnes. Cet appartement au 2e étage avec ascenseur, bénéficie d'une terrasse et de l'équipement nécessaire pour vous sentir comme chez vous (Internet tout compris). Parfaitement desservi par les transports en commun (Jasmin/M 9, Ranelagh/M 9), vous trouverez à proximité de nombreux commerces et services (Boucherie Charcuterie, Boulangerie, Brasserie, Club de gym à proximité, Kiosque à journaux, Marché plein air, Parc, Pharmacie, Restaurant, Soins de beauté, Supermarché)."
+        }
+      ],
+      "headline": "4 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "4 pièces",
+        "3 chambres",
+        "130 m²",
+        "2ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "4 pièces",
+          "splitValue": "4",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "3 chambres",
+          "splitValue": "3",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "130 m²",
+          "splitValue": "130",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2ème étage",
+          "splitValue": "2ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "6 400 €",
+        "formatted": "6 400 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "6400 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "bf42740a-f062-4e34-b9f2-54eaaf0c7188",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "800893d4-88a1-46e6-98d3-a819bcb30fba",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "134 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "20 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "2bb007a0-7642-45b4-984e-f8f621847112",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "20 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255237331"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "41624927"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "6 400 €/mois Loyer charges comprises",
+          "ariaLabel": "6400 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "1 200 €/mois",
+            "ariaLabel": "1200 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "49,23 €/mois/m²",
+            "ariaLabel": "49,23 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "10400"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "2 WCs séparées"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "terrace",
+          "value": "Terrasse"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "2ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain; 2 salles de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "2 WCs séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "3 chambres"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              },
+              {
+                "icon": "terrace",
+                "value": "Terrasse"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Gardien",
+                "icon": "custodian"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "b7f1dd2f-4fa9-454e-8e07-635e005595c8",
+          "url": "https://mms.seloger.com/b/7/f/1/b7f1dd2f-4fa9-454e-8e07-635e005595c8.jpg?ci_seal=e4b00f0c8d80ad8861bc05e554273c39943c1053",
+          "alt": "Appartement à louer 6 400 € 4 pièces 3 chambres 130 m² 2ème étage Auteuil Nord Paris 16ème 75016",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a56195e2-ec59-4770-a413-9cf3839b78bc",
+          "url": "https://mms.seloger.com/a/5/6/1/a56195e2-ec59-4770-a413-9cf3839b78bc.jpg?ci_seal=59a192a0a863c8d06df5b86de9ec8a8b4d83aa16",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "eba12795-ec6c-4802-986c-3c1cabb87326",
+          "url": "https://mms.seloger.com/e/b/a/1/eba12795-ec6c-4802-986c-3c1cabb87326.jpg?ci_seal=e32dc4496165e3717e72670bdba7b2ee906d9345",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "bc1ed467-9830-4a3b-a31f-316de3c5d3d7",
+          "url": "https://mms.seloger.com/b/c/1/e/bc1ed467-9830-4a3b-a31f-316de3c5d3d7.jpg?ci_seal=dbbe296ebc1132e8da6db17539409605626ecee0",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "448a7031-f8fe-4451-b022-d96bbf31a03b",
+          "url": "https://mms.seloger.com/4/4/8/a/448a7031-f8fe-4451-b022-d96bbf31a03b.jpg?ci_seal=5a8fe54692cd7490eb188fb9b97d0ff18d5fa3ec",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1469efb3-d422-4f2a-8c90-4a99292e30bd",
+          "url": "https://mms.seloger.com/1/4/6/9/1469efb3-d422-4f2a-8c90-4a99292e30bd.jpg?ci_seal=e47c65c717296ee1d2061473102b02419f530707",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9d627078-640e-4e65-be3d-74489814cee4",
+          "url": "https://mms.seloger.com/9/d/6/2/9d627078-640e-4e65-be3d-74489814cee4.jpg?ci_seal=a7ca1168ae57455028010ae96f73bebfdcb82739",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e6f5f115-6286-4ad4-8314-5a33855ad8ef",
+          "url": "https://mms.seloger.com/e/6/f/5/e6f5f115-6286-4ad4-8314-5a33855ad8ef.jpg?ci_seal=544c98cfedca3e81ee798568438c73d4a45934a2",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f123df58-a60e-454a-8c9b-e6d13d006b6f",
+          "url": "https://mms.seloger.com/f/1/2/3/f123df58-a60e-454a-8c9b-e6d13d006b6f.jpg?ci_seal=00034cd99230669a056c6e1bfea1b82cd3ef49a0",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "32c9f2c6-e25b-471c-9c19-b83e29f57abf",
+          "url": "https://mms.seloger.com/3/2/c/9/32c9f2c6-e25b-471c-9c19-b83e29f57abf.jpg?ci_seal=b139551faae2a478c7e95a6550c9c06846da143e",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fd647c1f-c1d4-4eef-86d8-bd9962481ab6",
+          "url": "https://mms.seloger.com/f/d/6/4/fd647c1f-c1d4-4eef-86d8-bd9962481ab6.jpg?ci_seal=d5f118d9fd2fd9507fcea39b034677be4edddafa",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b3628633-af92-40dc-a83b-79ee21c3cbb2",
+          "url": "https://mms.seloger.com/b/3/6/2/b3628633-af92-40dc-a83b-79ee21c3cbb2.jpg?ci_seal=ac7c20f13a2f84365d3b5dade6391843da4792c9",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255237331",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75016",
+      "city": "Paris 16ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 34.67,
+        "accuracy": 5,
+        "high": "49,13",
+        "low": "28,86"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "49,23",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "4 pièces",
+      "description": "LOCATION MEUBLEE LODGIS (Référence : 41624927) : Cet appartement meublé de 130 m² est situé Boulevard Montmorency, dans un quartier résidentiel du 16ème arrondissement de Paris. Composé de 4 pièces dont 3 chambres, cet appartement en location meublée peut accueillir jusqu'à 6 personnes. Cet appartement au 2e étage avec ascenseur, bénéficie d'une terrasse et de l'équipement nécessaire pour vous sentir comme chez vous (Internet tout compris). Parfaitement desservi par les transports en commun (Jasmin/M 9, Ranelagh/M 9), vous trouverez à proximité de nombreux commerces et services (Boucherie Charcuterie, Boulangerie, Brasserie, Club de gym à proximité, Kiosque à journaux, Marché plein air, Parc, Pharmacie, Restaurant, Soins de beauté, Supermarché).",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "13 jours en ligne",
+      "views": "5 vues",
+      "saves": "0 favori"
+    }
+  },
+  "contactSections": {
+    "id": "25V4L4Q9KLFS",
+    "legacyId": "255237331",
+    "brand": "seloger",
+    "agencyId": "RC-1017268",
+    "static": {
+      "phoneNumbers": [
+        "+33170391109"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33170391109"
+      ]
+    },
+    "contactCard": {
+      "title": "LODGIS",
+      "subtitle": "Lodgis",
+      "phoneNumbers": [
+        "+33170391109"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/f/b/a/b/fbabcdc0-c10a-4566-9086-0da70321aa57.jpg?ci_seal=4f8c325196fb080e6219469a6cae49485a313141",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "LODGIS",
+        "subtitle": "Lodgis",
+        "phoneNumbers": [
+          "+33170391109"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/f/b/a/b/fbabcdc0-c10a-4566-9086-0da70321aa57.jpg?ci_seal=4f8c325196fb080e6219469a6cae49485a313141"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Lodgis",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "LODGIS",
+      "subtitle": "LODGIS",
+      "phoneNumbers": [
+        "+33170391109"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "LODGIS",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/f/b/a/b/fbabcdc0-c10a-4566-9086-0da70321aa57.jpg?ci_seal=4f8c325196fb080e6219469a6cae49485a313141",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-46792/"
+      },
+      "contactCard": {
+        "title": "Lodgis",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://lodgis.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-46792/",
+      "imprintUrl": null,
+      "feeUrl": "https://www.lodgis.com/fr/l-agence-lodgis/honoraires/",
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 423936376",
+        "<b>SIRET:</b> 42393637600098"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "27-29 RUE DE CHOISEUL 75002, 75008 PARIS",
+      "phoneNumbers": [
+        "+33170391109"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75016",
+    "av_city": "Paris",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25V4L4Q9KLFS",
+        "price": 6400,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75016",
+        "legacy_id": "255237331",
+        "product_type": "standard",
+        "client_id": "RC-1017268",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "440512",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "75016",
+        "estate_type": 1,
+        "id": "255237331",
+        "id_duo": 255237331,
+        "id_solo": 255237331,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 3,
+        "nb_rooms": 4,
+        "parent_site": "SL",
+        "photos_nb": 12,
+        "position": 0,
+        "price": 6400,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 130
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75016",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255237331",
+      "prix": 6400,
+      "nb_pieces": 4,
+      "nb_chambres": 3,
+      "surface": 130,
+      "commodites": [
+        "ascenseur",
+        "Chauffage-central",
+        "Cuisine-américaine",
+        "Cuisine-équipée",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire",
+        "terrasse",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T4/F4 130 m² 6400 € Auteuil Nord Paris (75016)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T4/F4 130 m² 6400 € Auteuil Nord Paris (75016)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/auteuil-nord/255237331.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/auteuil-nord/255237331.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T4/F4 130 m² 6400 € Auteuil Nord Paris (75016)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T4/F4 130 m² 6400 € Auteuil Nord Paris (75016)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/b/7/f/1/b7f1dd2f-4fa9-454e-8e07-635e005595c8.jpg?ci_seal=e4b00f0c8d80ad8861bc05e554273c39943c1053"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T4/F4 130 m² 6400 € Auteuil Nord Paris (75016)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/auteuil-nord/255237331.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T4/F4 130 m² 6400 € Auteuil Nord Paris (75016)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T4/F4 130 m² 6400 € Auteuil Nord Paris (75016)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/b/7/f/1/b7f1dd2f-4fa9-454e-8e07-635e005595c8.jpg?ci_seal=e4b00f0c8d80ad8861bc05e554273c39943c1053"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T4/F4 130 m² 6400 € Auteuil Nord Paris (75016)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T4/F4 130 m² 6400 € Auteuil Nord Paris (75016)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.bellesdemeures.com/255237331/detail.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR87&priceMax=7680&priceMin=5120",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR87",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR41",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25V4L4Q9KLFS"
+}

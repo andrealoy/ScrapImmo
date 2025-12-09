@@ -1,0 +1,1198 @@
+{
+  "brand": "seloger",
+  "id": "25NVSTT7LM7K",
+  "metadata": {
+    "legacyId": "255799563",
+    "creationDate": "2025-12-04T08:44:00Z",
+    "updateDate": "2025-12-05T01:16:51.759Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 3ème",
+        "zipCode": "75003",
+        "district": "Arts et Métiers"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3580439999999996,
+          48.86520999998634
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "3",
+                "color": "#827a04"
+              },
+              {
+                "name": "4",
+                "color": "#c800a1"
+              },
+              {
+                "name": "5",
+                "color": "#FF7F32"
+              },
+              {
+                "name": "8",
+                "color": "#dd9cdf"
+              },
+              {
+                "name": "9",
+                "color": "#b5bd00"
+              },
+              {
+                "name": "11",
+                "color": "#6e4c1e"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "20",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "29",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "38",
+                "color": "#006cb8"
+              },
+              {
+                "name": "39",
+                "color": "#a0006e"
+              },
+              {
+                "name": "47",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "56",
+                "color": "#a0006e"
+              },
+              {
+                "name": "65"
+              },
+              {
+                "name": "75",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "91",
+                "color": "#dc9609"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Superbe trois pièces de 70m², à louer en plein cœur du 3ème arrondissement de Paris. Niché au 3ème étage d'une belle copropriété avec gardien de la rue Réaumur.\nIl se compose d'une entrée, d'un vaste séjour, d'une cuisine séparée entièrement équipée, de deux chambres et d'une salle de bain avec douche.\nLibre immédiatement / Bail code civil uniquement",
+      "texts": [
+        {
+          "text": "Superbe trois pièces de 70m², à louer en plein cœur du 3ème arrondissement de Paris. Niché au 3ème étage d'une belle copropriété avec gardien de la rue Réaumur.\nIl se compose d'une entrée, d'un vaste séjour, d'une cuisine séparée entièrement équipée, de deux chambres et d'une salle de bain avec douche.\nLibre immédiatement / Bail code civil uniquement"
+        }
+      ],
+      "headline": "Meublé - 70m² - 2 Chambres"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "70 m²",
+        "Étage 3/3"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "70 m²",
+          "splitValue": "70",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 3/3",
+          "splitValue": "Étage",
+          "label": "3/3"
+        }
+      ],
+      "price": {
+        "value": "3 000 €",
+        "formatted": "3 000 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "3000 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Première occupation"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Radiateur"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "c3843797-4fa1-48d3-a775-6d1f9f8d89e0",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "ccdf6a52-4c58-4535-8fac-22235df8b54a",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "456 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "87 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "684982c3-1d24-4c00-aba1-d4634cf21e63",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "87 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255799563"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "AI-REA-A"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "3 000 €/mois Loyer charges comprises",
+          "ariaLabel": "3000 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Prix ​​au m²",
+            "value": "42,86 €/mois/m²",
+            "ariaLabel": "42,86 euros par mètre carré"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Dernier étage, 3ème étage/3 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "Dernier étage, 3ème étage/3 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "TV par câble",
+                "icon": "tv"
+              }
+            ],
+            "title": "Équipements"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Gardien",
+                "icon": "custodian"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "2cf110c9-cf60-4b45-b2cf-c9a8c243ed9c",
+          "url": "https://mms.seloger.com/2/c/f/1/2cf110c9-cf60-4b45-b2cf-c9a8c243ed9c.jpg?ci_seal=c367859bf8ad3ed03070f428db841a01f6042198",
+          "alt": "Appartement à louer 3 000 € 3 pièces 2 chambres 70 m² Étage 3/3 Arts et Métiers Paris 3ème 75003",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e17a9c04-a1fd-4e35-a1df-5c2176822d07",
+          "url": "https://mms.seloger.com/e/1/7/a/e17a9c04-a1fd-4e35-a1df-5c2176822d07.jpg?ci_seal=6b75d5053278c03db51e79b531f28c9d733fa5fe",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e04b1891-2f06-4299-b277-b21027a636dc",
+          "url": "https://mms.seloger.com/e/0/4/b/e04b1891-2f06-4299-b277-b21027a636dc.jpg?ci_seal=7a3279f6d9ae2ca0be3bdd87df5a90d1e540dcbd",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5544c09f-fc77-4a8c-ba8b-066e1e1ca68b",
+          "url": "https://mms.seloger.com/5/5/4/4/5544c09f-fc77-4a8c-ba8b-066e1e1ca68b.jpg?ci_seal=9bb94b8d10b32f671b6fcaa570c466a310fd337d",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ef95e30d-c1fb-4ce4-b2ff-902bd014c867",
+          "url": "https://mms.seloger.com/e/f/9/5/ef95e30d-c1fb-4ce4-b2ff-902bd014c867.jpg?ci_seal=9aa4f6920eb005fafc8b49f6928489b0ad2b2de4",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3a7abd3a-f620-4336-a43a-7e7ee45ac319",
+          "url": "https://mms.seloger.com/3/a/7/a/3a7abd3a-f620-4336-a43a-7e7ee45ac319.jpg?ci_seal=5f07ce82227d75e638227854e5a695c2353b8c1a",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "34616ded-3e20-46d2-b3a8-8f32d1fcb9a9",
+          "url": "https://mms.seloger.com/3/4/6/1/34616ded-3e20-46d2-b3a8-8f32d1fcb9a9.jpg?ci_seal=8414e75edb02d5f5099ecf802091e18297babde6",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "78c2caa0-6184-4342-a610-2c25a7e77b60",
+          "url": "https://mms.seloger.com/7/8/c/2/78c2caa0-6184-4342-a610-2c25a7e77b60.jpg?ci_seal=0c3066a2c6534e676c33fdb31c9b0875cb9d280f",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8ba72bc3-f16c-466f-9f96-14af2316fd28",
+          "url": "https://mms.seloger.com/8/b/a/7/8ba72bc3-f16c-466f-9f96-14af2316fd28.jpg?ci_seal=d230418d29577a1c94087a38993fd58b8d1f2e39",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255799563",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75003",
+      "city": "Paris 3ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 37.63,
+        "accuracy": 3,
+        "high": "49,50",
+        "low": "29,14"
+      },
+      "markerPosition": 67,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "42,86",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Meublé - 70m² - 2 Chambres",
+      "description": "Superbe trois pièces de 70m², à louer en plein cœur du 3ème arrondissement de Paris. Niché au 3ème étage d'une belle copropriété avec gardien de la rue Réaumur.\nIl se compose d'une entrée, d'un vaste séjour, d'une cuisine séparée entièrement équipée, de deux chambres et d'une salle de bain avec douche.\nLibre immédiatement / Bail code civil uniquement",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "5 jours en ligne",
+      "views": "55 vues",
+      "saves": "10 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25NVSTT7LM7K",
+    "legacyId": "255799563",
+    "brand": "seloger",
+    "agencyId": "RC-808396",
+    "static": {
+      "phoneNumbers": [
+        "0652306878"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0652306878"
+      ]
+    },
+    "contactCard": {
+      "title": "ARMON IMMOBILIER",
+      "subtitle": "Armon Immobilier",
+      "phoneNumbers": [
+        "0652306878"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/9/0/b/2/90b246c0-2101-4621-a09a-1d8b1143de4c.jpg?ci_seal=b50171e976b1b9abeda09967d850f6edcbf454cd",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "ARMON IMMOBILIER",
+        "subtitle": "Armon Immobilier",
+        "phoneNumbers": [
+          "0652306878"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/9/0/b/2/90b246c0-2101-4621-a09a-1d8b1143de4c.jpg?ci_seal=b50171e976b1b9abeda09967d850f6edcbf454cd"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Armon Immobilier",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "ARMON IMMOBILIER",
+      "subtitle": "ARMON IMMOBILIER",
+      "phoneNumbers": [
+        "0652306878"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "ARMON IMMOBILIER",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/9/0/b/2/90b246c0-2101-4621-a09a-1d8b1143de4c.jpg?ci_seal=b50171e976b1b9abeda09967d850f6edcbf454cd",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-49870/"
+      },
+      "contactCard": {
+        "title": "Armon Immobilier",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-49870/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 809759715",
+        "<b>SIRET:</b> 80975971500075"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "30 RUE CAMBACERES, 75008 PARIS",
+      "phoneNumbers": [
+        "0652306878"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75003",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25NVSTT7LM7K",
+        "price": 3000,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75003",
+        "building_state": "FIRST_TIME_USE",
+        "legacy_id": "255799563",
+        "product_type": "standard",
+        "client_id": "RC-808396",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "435138",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75003",
+        "estate_type": 1,
+        "id": "255799563",
+        "id_duo": 255799563,
+        "id_solo": 255799563,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 9,
+        "position": 0,
+        "price": 3000,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 70
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75003",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255799563",
+      "prix": 3000,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 70,
+      "etage": 3,
+      "commodites": [
+        "Cuisine-équipée",
+        "Cuisine-séparée",
+        "dernier%20etage",
+        "parquet",
+        "SalleDeBain-baignoire",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-3eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 3ème arrondissement 75003",
+          "hoverLabel": "Appartements à louer Paris 3ème arrondissement 75003",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 70 m² 3000 € Arts et Métiers Paris (75003)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 70 m² 3000 € Arts et Métiers Paris (75003)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-3eme-75/arts-et-metiers/255799563.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-3eme-75/arts-et-metiers/255799563.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 70 m² 3000 € Arts et Métiers Paris (75003)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 70 m² 3000 € Arts et Métiers Paris (75003)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/2/c/f/1/2cf110c9-cf60-4b45-b2cf-c9a8c243ed9c.jpg?ci_seal=c367859bf8ad3ed03070f428db841a01f6042198"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 70 m² 3000 € Arts et Métiers Paris (75003)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-3eme-75/arts-et-metiers/255799563.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 70 m² 3000 € Arts et Métiers Paris (75003)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 70 m² 3000 € Arts et Métiers Paris (75003)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/2/c/f/1/2cf110c9-cf60-4b45-b2cf-c9a8c243ed9c.jpg?ci_seal=c367859bf8ad3ed03070f428db841a01f6042198"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 70 m² 3000 € Arts et Métiers Paris (75003)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 70 m² 3000 € Arts et Métiers Paris (75003)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-3eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 3ème arrondissement 75003",
+          "hoverLabel": "Appartements à louer Paris 3ème arrondissement 75003",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.bellesdemeures.com/255799563/detail.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR9&priceMax=3600&priceMin=2400",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR9",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR28",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25NVSTT7LM7K"
+}

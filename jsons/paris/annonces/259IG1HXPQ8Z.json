@@ -1,0 +1,1077 @@
+{
+  "brand": "seloger",
+  "id": "259IG1HXPQ8Z",
+  "metadata": {
+    "creationDate": "2025-07-16T13:43:02.7727796Z",
+    "updateDate": "2025-07-16T13:43:02.7727783Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FR",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Manin-Jaurès"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.386734,
+          48.88622099998638
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "5",
+                "color": "#FF7F32"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "48",
+                "color": "#006cb8"
+              },
+              {
+                "name": "60",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "71",
+                "color": "#5a230a"
+              },
+              {
+                "name": "75",
+                "color": "#ffbe02"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Idéalement situé dans le 19e arrondissement de Paris, à deux pas du métro Ourcq et à proximité immédiate de nombreux commerces, cet appartement se trouve au 2ème étage d'un bel immeuble ancien aux parties communes soignées.\n\nD'une surface bien agencée, ce 3 pièces lumineux et calme séduit par sa belle hauteur sous plafond et ses volumes harmonieux. Il se compose d'un vaste séjour baigné de lumière, d'une grande chambre au calme, d'un espace pouvant faire office de chambre bébé ou de bureau, d'une cuisine séparée, d'une salle d'eau, ainsi que de toilettes indépendants.\n\nL'appartement possède tout le charme de l'ancien : parquet, moulures et cheminées décoratives.",
+      "texts": [
+        {
+          "text": "Idéalement situé dans le 19e arrondissement de Paris, à deux pas du métro Ourcq et à proximité immédiate de nombreux commerces, cet appartement se trouve au 2ème étage d'un bel immeuble ancien aux parties communes soignées.\n\nD'une surface bien agencée, ce 3 pièces lumineux et calme séduit par sa belle hauteur sous plafond et ses volumes harmonieux. Il se compose d'un vaste séjour baigné de lumière, d'une grande chambre au calme, d'un espace pouvant faire office de chambre bébé ou de bureau, d'une cuisine séparée, d'une salle d'eau, ainsi que de toilettes indépendants.\n\nL'appartement possède tout le charme de l'ancien : parquet, moulures et cheminées décoratives."
+        }
+      ],
+      "headline": "Appartement 3 pièces style ancien paris 19ème"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "1 chambre",
+        "53 m²",
+        "Étage 2/4"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "53 m²",
+          "splitValue": "53",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 2/4",
+          "splitValue": "Étage",
+          "label": "2/4"
+        }
+      ],
+      "price": {
+        "value": "1 735 €",
+        "formatted": "1 735 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1735 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1905"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Entretenu"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "5042f760-6ad1-4ea9-9220-79ce5234ca73",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "de58087e-afa1-447d-add0-a6625d4622ee",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "254 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "55 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "c0b671b1-45b5-4fc4-8cae-60e0179a2b34",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "55 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "259IG1HXPQ8Z"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 485 €/mois Loyer de base",
+          "ariaLabel": "1485 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "250 €/mois",
+            "ariaLabel": "250 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 735 €/mois",
+            "ariaLabel": "1735 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "28,02 €/mois/m²",
+            "ariaLabel": "28,02 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1485"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage/4 étages"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de douches"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "b57399b6-6b77-4aab-8824-6f0707b5fadc",
+          "url": "https://mms.seloger.com/b/5/7/3/b57399b6-6b77-4aab-8824-6f0707b5fadc.jpg?ci_seal=43b2f3177410b43b607d1e46062d18f5184f22cd",
+          "alt": "Appartement à louer 1 735 € 3 pièces 1 chambre 53 m² Étage 2/4 Manin-Jaurès Paris 75019",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "95c64d8b-708f-45a4-8e82-0f7f69c62711",
+          "url": "https://mms.seloger.com/9/5/c/6/95c64d8b-708f-45a4-8e82-0f7f69c62711.jpg?ci_seal=101e66c298dcf8090df0b535aed4aee090beda64",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "5e6a4f1d-83c7-489b-8ac0-124f0855921f",
+          "url": "https://mms.seloger.com/5/e/6/a/5e6a4f1d-83c7-489b-8ac0-124f0855921f.jpg?ci_seal=2cf16846268812a8945c85fba016a0d1c72baf4e",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "16fa8d86-2f35-4fbf-8206-b26cb00dabb6",
+          "url": "https://mms.seloger.com/1/6/f/a/16fa8d86-2f35-4fbf-8206-b26cb00dabb6.jpg?ci_seal=050b865db86eb94994092c7f69f62c02adc1ee93",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "24547265-0434-4fac-a905-de94a98b626f",
+          "url": "https://mms.seloger.com/2/4/5/4/24547265-0434-4fac-a905-de94a98b626f.jpg?ci_seal=82cfe8a1bae7cf62a70d3918e184b5eff4072e19",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "89ccce84-26e7-4cd0-ac2f-036cf681d365",
+          "url": "https://mms.seloger.com/8/9/c/c/89ccce84-26e7-4cd0-ac2f-036cf681d365.jpg?ci_seal=7b52a6de75a191e2c4de6018ec395f3a073e77a4",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "6e636e8c-f94d-43a1-b9f7-5a79236fc198",
+          "url": "https://mms.seloger.com/6/e/6/3/6e636e8c-f94d-43a1-b9f7-5a79236fc198.jpg?ci_seal=02ec641db72774ce60bd53c3c2ebae88cf4567b6",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "e3a80d9d-08b8-459c-830f-abe564c77e57",
+          "url": "https://mms.seloger.com/e/3/a/8/e3a80d9d-08b8-459c-830f-abe564c77e57.jpg?ci_seal=d9f869a58301fbb03d9bab502369049029b1bba1",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "f34407c0-9269-4cc3-9aa8-be7bfb6496a2",
+          "url": "https://mms.seloger.com/f/3/4/4/f34407c0-9269-4cc3-9aa8-be7bfb6496a2.jpg?ci_seal=6b754666229adad48f39320a59b85279f5b728ae",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "400868ea-81cc-47c6-a50b-4c6ef1ea7e2f",
+          "url": "https://mms.seloger.com/4/0/0/8/400868ea-81cc-47c6-a50b-4c6ef1ea7e2f.jpg?ci_seal=a941b2301caade2ebb60e262b37d6b9b860cb9ce",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "577eb614-88eb-47d3-af84-59b56bc250ee",
+          "url": "https://mms.seloger.com/5/7/7/e/577eb614-88eb-47d3-af84-59b56bc250ee.jpg?ci_seal=fc8bc9bf1fc81f03553d47aba397f8eb2b14dfea",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "00c90d17-8e16-4c2f-9245-2a99bd440ee9",
+          "url": "https://mms.seloger.com/0/0/c/9/00c90d17-8e16-4c2f-9245-2a99bd440ee9.jpg?ci_seal=8f4af15af4d36970bbe824da31a4676194ab3dec",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "19ca2d9c-48fa-4142-91b8-2a51b84f91ad",
+          "url": "https://mms.seloger.com/1/9/c/a/19ca2d9c-48fa-4142-91b8-2a51b84f91ad.jpg?ci_seal=2e1106811c7051db95cbcb2fe29c88f185c570e5",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "47d7c4a6-2f73-4492-b189-c490c1d763af",
+          "url": "https://mms.seloger.com/4/7/d/7/47d7c4a6-2f73-4492-b189-c490c1d763af.jpg?ci_seal=109f9c0a16c452491cbbaa419f024514a112a775",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75019",
+      "city": "Paris",
+      "country": "FR",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 28.63,
+        "accuracy": 3,
+        "high": "36,20",
+        "low": "21,71"
+      },
+      "markerPosition": 44,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "28,02",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 3 pièces style ancien paris 19ème",
+      "description": "Idéalement situé dans le 19e arrondissement de Paris, à deux pas du métro Ourcq et à proximité immédiate de nombreux commerces, cet appartement se trouve au 2ème étage d'un bel immeuble ancien aux parties communes soignées.\n\nD'une surface bien agencée, ce 3 pièces lumineux et calme séduit par sa belle hauteur sous plafond et ses volumes harmonieux. Il se compose d'un vaste séjour baigné de lumière, d'une grande chambre au calme, d'un espace pouvant faire office de chambre bébé ou de bureau, d'une cuisine séparée, d'une salle d'eau, ainsi que de toilettes indépendants.\n\nL'appartement possède tout le charme de l'ancien : parquet, moulures et cheminées décoratives.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "en juil. 2025",
+      "views": "999+ vues",
+      "saves": "99 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "259IG1HXPQ8Z",
+    "brand": "seloger",
+    "agencyId": "bc0467ba-e2d7-4a06-b1e7-541ba662e378",
+    "static": {
+      "phoneNumbers": [
+        "+33769900809"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33769900809"
+      ]
+    },
+    "contactCard": {
+      "title": "Ruben",
+      "subtitle": "Propriétaire particulier",
+      "phoneNumbers": [
+        "+33769900809"
+      ],
+      "isPrivateOwner": true,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": false
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": true
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Ruben",
+        "subtitle": "Propriétaire particulier",
+        "phoneNumbers": [
+          "+33769900809"
+        ],
+        "isPrivateOwner": true,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Ruben",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Propriétaire particulier",
+      "phoneNumbers": [
+        "+33769900809"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": true
+    },
+    "provider": {
+      "intermediaryCard": {
+        "display": false,
+        "title": "",
+        "subtitle": ""
+      },
+      "contactCard": {
+        "title": "Ruben",
+        "subtitle": "Propriétaire particulier",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": true,
+      "imprintUrl": null,
+      "agencyLegalInformations": [],
+      "displayLinks": false,
+      "phoneNumbers": [
+        "+33769900809"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "private",
+    "av_language": "fr",
+    "av_zip_code": "75019",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "259IG1HXPQ8Z",
+        "price": 1735,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "currency": "EUR",
+        "zip_code": "75019",
+        "building_state": "WELL_KEPT",
+        "product_type": "standard",
+        "client_id": "bc0467ba-e2d7-4a06-b1e7-541ba662e378",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_type": "particulier",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75019",
+        "estate_type": 1,
+        "id_duo": null,
+        "id_solo": null,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 14,
+        "position": 0,
+        "price": 1735,
+        "product_geolocation": "localisation_street",
+        "product_type": "client",
+        "product_variant": "classified",
+        "space": 0,
+        "year_of_construction": 1905
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75019",
+      "geodp": "75",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "prix": 1800,
+      "nb_pieces": 3,
+      "nb_chambres": 1,
+      "surface": 0,
+      "etage": 4,
+      "commodites": [
+        "SalleDEau-douche"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-19eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 19ème arrondissement 75019",
+          "hoverLabel": "Appartements à louer Paris 19ème arrondissement 75019",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 53 m² 1735 € Manin-Jaurès Paris (75019)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 53 m² 1735 € Manin-Jaurès Paris (75019)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-19eme-75/manin-jaures/259IG1HXPQ8Z.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-19eme-75/manin-jaures/259IG1HXPQ8Z.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 53 m² 1735 € Manin-Jaurès Paris (75019)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 53 m² 1735 € Manin-Jaurès Paris (75019)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/b/5/7/3/b57399b6-6b77-4aab-8824-6f0707b5fadc.jpg?ci_seal=43b2f3177410b43b607d1e46062d18f5184f22cd"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 53 m² 1735 € Manin-Jaurès Paris (75019)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-19eme-75/manin-jaures/259IG1HXPQ8Z.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 53 m² 1735 € Manin-Jaurès Paris (75019)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 53 m² 1735 € Manin-Jaurès Paris (75019)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/b/5/7/3/b57399b6-6b77-4aab-8824-6f0707b5fadc.jpg?ci_seal=43b2f3177410b43b607d1e46062d18f5184f22cd"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 53 m² 1735 € Manin-Jaurès Paris (75019)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 53 m² 1735 € Manin-Jaurès Paris (75019)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-19eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 19ème arrondissement 75019",
+          "hoverLabel": "Appartements à louer Paris 19ème arrondissement 75019",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-19eme-75/manin-jaures/259IG1HXPQ8Z.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR112&priceMax=2082&priceMin=1388",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR112",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR44",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ]
+  },
+  "cps": "259IG1HXPQ8Z"
+}

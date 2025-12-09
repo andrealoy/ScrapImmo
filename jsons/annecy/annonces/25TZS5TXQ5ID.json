@@ -1,0 +1,990 @@
+{
+  "brand": "seloger",
+  "id": "25TZS5TXQ5ID",
+  "metadata": {
+    "legacyId": "255194097",
+    "creationDate": "2025-11-25T21:25:00Z",
+    "updateDate": "2025-11-25T21:26:09.299Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Annecy",
+        "zipCode": "74000",
+        "district": "Galbert"
+      },
+      "isAddressPublished": false,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                6.12116,
+                45.90517
+              ],
+              [
+                6.11572,
+                45.90614
+              ],
+              [
+                6.11444,
+                45.90615
+              ],
+              [
+                6.11406,
+                45.90641
+              ],
+              [
+                6.11691,
+                45.90945
+              ],
+              [
+                6.11722,
+                45.90928
+              ],
+              [
+                6.11971,
+                45.911
+              ],
+              [
+                6.12155,
+                45.91161
+              ],
+              [
+                6.12195,
+                45.90881
+              ],
+              [
+                6.12286,
+                45.9075
+              ],
+              [
+                6.12143,
+                45.90737
+              ],
+              [
+                6.12116,
+                45.90517
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "description": {
+      "description": "A LOUER A ANNECY - Appartement DUPLEX T4 récent - Au 3ème étage d'une petite copropriété Le Privilège avec ascenseur - Proche Gare. Cuisine équipée ouverte sur séjour - Terrasse couverte - Garage - Provision pour charges de 122 euros soumises à régularisation annuelle - DG - 1 465 euros - Honoraires TTC charge locataire - 1 047.72 euros (dont état des lieux : 261.93 euros ) - Libre le 22/12/2025 - Visite sur RDV",
+      "texts": [
+        {
+          "text": "A LOUER A ANNECY - Appartement DUPLEX T4 récent - Au 3ème étage d'une petite copropriété Le Privilège avec ascenseur - Proche Gare. Cuisine équipée ouverte sur séjour - Terrasse couverte - Garage - Provision pour charges de 122 euros soumises à régularisation annuelle - DG - 1 465 euros - Honoraires TTC charge locataire - 1 047.72 euros (dont état des lieux : 261.93 euros ) - Libre le 22/12/2025 - Visite sur RDV"
+        }
+      ],
+      "headline": "À propos de ce bien"
+    },
+    "hardFacts": {
+      "title": "Duplex à louer",
+      "keyfacts": [
+        "4 pièces",
+        "3 chambres",
+        "87,3 m²",
+        "Étage 3/4"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "4 pièces",
+          "splitValue": "4",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "3 chambres",
+          "splitValue": "3",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "87,3 m²",
+          "splitValue": "87,3",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 3/4",
+          "splitValue": "Étage",
+          "label": "3/4"
+        }
+      ],
+      "price": {
+        "value": "1 587 €",
+        "formatted": "1 587 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1587 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "2017"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "fdc7a59b-3cfc-4ad5-bbb4-70cee568c384",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 610 et 870 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 610 et 870 € par an. Prix moyens des énergies indexés au 31/12/2020 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "d38ec273-6d0a-4b57-8f65-97d6a7df8956",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "116 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "23 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "3f88faa5-e398-4b33-8184-2853be2c4ad4",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "23 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255194097"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "LEPRIVILEGE/18/SV"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 587 €/mois Loyer charges comprises",
+          "ariaLabel": "1587 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "122 €/mois",
+            "ariaLabel": "122 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "18,18 €/mois/m²",
+            "ariaLabel": "18,18 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1465"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "3ème étage/4 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Box de stationnement"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "2 WCs séparées"
+        },
+        {
+          "icon": "terrace",
+          "value": "Terrasse"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: sud"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "Orientation",
+                "value": "Exposition: sud"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "3ème étage/4 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Accessible aux personne à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain; 1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "2 WCs séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "3 chambres"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "terrace",
+                "value": "Terrasse"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "Box de stationnement"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "7a7fe300-1a07-4a16-a6e3-9e519b22b111",
+          "url": "https://mms.seloger.com/7/a/7/f/7a7fe300-1a07-4a16-a6e3-9e519b22b111.jpg?ci_seal=1548d6ca98099fad6e5ac958cadf04a137b0b337",
+          "alt": "Duplex à louer 1 587 € 4 pièces 3 chambres 87,3 m² Étage 3/4 Galbert Annecy 74000",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6338a220-589c-4857-88f9-71da9ca58734",
+          "url": "https://mms.seloger.com/6/3/3/8/6338a220-589c-4857-88f9-71da9ca58734.jpg?ci_seal=6c340f1420a06f65a451fcece96158556199d48d",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c46c3921-d6b1-42ad-afa7-550f8fe712ca",
+          "url": "https://mms.seloger.com/c/4/6/c/c46c3921-d6b1-42ad-afa7-550f8fe712ca.jpg?ci_seal=f9c0a084dcfdd05706b045a190d1adb14327499f",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8805019a-c931-43ec-a6c6-c1718adef8e5",
+          "url": "https://mms.seloger.com/8/8/0/5/8805019a-c931-43ec-a6c6-c1718adef8e5.jpg?ci_seal=88bd1d208282c088454eea355c9138998c255a33",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1e704890-7729-4d22-9c0b-8b2b31354186",
+          "url": "https://mms.seloger.com/1/e/7/0/1e704890-7729-4d22-9c0b-8b2b31354186.jpg?ci_seal=3232032e5d8f715c68536e1702151bb1e8b1bf0b",
+          "classification": {
+            "name": "STAIRCASE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "413e676e-004b-42cd-a1aa-5a4120033c76",
+          "url": "https://mms.seloger.com/4/1/3/e/413e676e-004b-42cd-a1aa-5a4120033c76.jpg?ci_seal=6cf38216dc71a8c7d5308df848a0e6ea69085eaf",
+          "classification": {
+            "name": "STAIRCASE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b26f9f95-ec8f-4b69-b509-a26b70d2f63a",
+          "url": "https://mms.seloger.com/b/2/6/f/b26f9f95-ec8f-4b69-b509-a26b70d2f63a.jpg?ci_seal=37d7238e0641cd8b864f0b4b6e71e2f0205f2abb",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b2d7f629-2052-4d00-9309-18115ff0f906",
+          "url": "https://mms.seloger.com/b/2/d/7/b2d7f629-2052-4d00-9309-18115ff0f906.jpg?ci_seal=b41dc4f4cfdd6d5cfac22102b8c2815f0df3b620",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "189bc705-effd-472d-ac58-b91a216bd315",
+          "url": "https://mms.seloger.com/1/8/9/b/189bc705-effd-472d-ac58-b91a216bd315.jpg?ci_seal=2ab00b2cc140b557fa86df6dbc1f44d64b49e91c",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255194097",
+      "federalStateGeoId": "AD04FR31",
+      "zip": "74000",
+      "city": "Annecy",
+      "country": "FRA",
+      "region": "Auvergne-Rhône-Alpes",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 18.02,
+        "accuracy": 3,
+        "high": "28,52",
+        "low": "12,72"
+      },
+      "markerPosition": 35,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "18,18",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "À propos de ce bien",
+      "description": "A LOUER A ANNECY - Appartement DUPLEX T4 récent - Au 3ème étage d'une petite copropriété Le Privilège avec ascenseur - Proche Gare. Cuisine équipée ouverte sur séjour - Terrasse couverte - Garage - Provision pour charges de 122 euros soumises à régularisation annuelle - DG - 1 465 euros - Honoraires TTC charge locataire - 1 047.72 euros (dont état des lieux : 261.93 euros ) - Libre le 22/12/2025 - Visite sur RDV",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "13 jours en ligne",
+      "views": "301 vues",
+      "saves": "8 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25TZS5TXQ5ID",
+    "legacyId": "255194097",
+    "brand": "seloger",
+    "agencyId": "RC-341381",
+    "static": {
+      "phoneNumbers": [
+        "0450511216"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0450511216"
+      ]
+    },
+    "contactCard": {
+      "title": "AGENCE ASSOCIES BOZON FANTIN MARIN",
+      "subtitle": "Agence Bfm",
+      "phoneNumbers": [
+        "0450511216"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/6/3/2/7/6327a5d6-a343-49f7-9a7e-f763835960ae.jpg?ci_seal=1025c09c822b4c1f1be8e8986fed9e4f00b1e49d",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "AGENCE ASSOCIES BOZON FANTIN MARIN",
+        "subtitle": "Agence Bfm",
+        "phoneNumbers": [
+          "0450511216"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/6/3/2/7/6327a5d6-a343-49f7-9a7e-f763835960ae.jpg?ci_seal=1025c09c822b4c1f1be8e8986fed9e4f00b1e49d"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Agence Bfm",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "AGENCE ASSOCIES BOZON FANTIN MARIN",
+      "subtitle": "AGENCE ASSOCIES BOZON FANTIN MARIN",
+      "phoneNumbers": [
+        "0450511216"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "AGENCE ASSOCIES BOZON FANTIN MARIN",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/6/3/2/7/6327a5d6-a343-49f7-9a7e-f763835960ae.jpg?ci_seal=1025c09c822b4c1f1be8e8986fed9e4f00b1e49d",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/annecy-74000/agence-66283/"
+      },
+      "contactCard": {
+        "title": "Agence Bfm",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/annecy-74000/agence-66283/",
+      "imprintUrl": null,
+      "feeUrl": "https://www.agencebfm-immo.com/fr/page/bareme-honoraires-2",
+      "agencyLegalInformations": [
+        "Carte professionnelle 74012015000001 délivrée par la Préfecture de annecy",
+        "Garantie financière GALIAN pour un montant de -1 €",
+        "<b>Siège:</b> 22 Rue Vaugelas, 74000 ANNECY",
+        "<b>RCS:</b> ANNECY 348738253",
+        "<b>SIRET:</b> 34873825300023"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "22 RUE VAUGELAS, 74000 ANNECY",
+      "phoneNumbers": [
+        "0450511216"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "74000",
+    "av_city": "Annecy",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25TZS5TXQ5ID",
+        "price": 1587,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Annecy",
+        "region": "Auvergne-Rhône-Alpes",
+        "province": "Upper Savoy",
+        "zip_code": "74000",
+        "legacy_id": "255194097",
+        "product_type": "standard",
+        "client_id": "RC-341381",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "440367",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "74000",
+        "estate_type": 9,
+        "id": "255194097",
+        "id_duo": 255194097,
+        "id_solo": 255194097,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 3,
+        "nb_rooms": 4,
+        "parent_site": "SL",
+        "photos_nb": 9,
+        "position": 0,
+        "price": 1587,
+        "product_geolocation": "localisation_city",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 87.31,
+        "year_of_construction": 2017
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "74010",
+      "cp": "74000",
+      "geodp": "74",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255194097",
+      "prix": 1600,
+      "nb_pieces": 4,
+      "nb_chambres": 3,
+      "surface": 87.31,
+      "etage": 4,
+      "commodites": [
+        "ascenseur",
+        "box",
+        "Chauffage-gaz",
+        "Cuisine-équipée",
+        "handicape",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire",
+        "sud",
+        "terrasse",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {},
+    "headInfo": {
+      "title": "",
+      "titleWithCount": "",
+      "description": "",
+      "canonical": "",
+      "robots": "",
+      "breadcrumb": [],
+      "redirectUrl": ""
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR6025&priceMax=1904.4&priceMin=1269.6",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR6025",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD08FR30806",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR75",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR31",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "propertySubType": "MULTI_STOREY",
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25TZS5TXQ5ID"
+}

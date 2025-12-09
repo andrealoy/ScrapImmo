@@ -1,0 +1,1156 @@
+{
+  "brand": "seloger",
+  "id": "255UDRSBYEVS",
+  "metadata": {
+    "legacyId": "254328759",
+    "creationDate": "2025-11-14T08:43:00Z",
+    "updateDate": "2025-11-17T08:00:05.952Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 6ème",
+        "zipCode": "75006",
+        "district": "Rennes"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.328671,
+          48.848903
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "4",
+                "color": "#c800a1"
+              },
+              {
+                "name": "10",
+                "color": "#c69214"
+              },
+              {
+                "name": "12",
+                "color": "#007a53"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "39",
+                "color": "#a0006e"
+              },
+              {
+                "name": "58",
+                "color": "#00643c"
+              },
+              {
+                "name": "63",
+                "color": "#cec92a"
+              },
+              {
+                "name": "68",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "70",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "82",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "83",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "84",
+                "color": "#d282be"
+              },
+              {
+                "name": "86",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "87",
+                "color": "#62259d"
+              },
+              {
+                "name": "89",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "94",
+                "color": "#a0006e"
+              },
+              {
+                "name": "95",
+                "color": "#62259d"
+              },
+              {
+                "name": "96",
+                "color": "#dc9609"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "REF. 26761 Studio meublé à Paris d'environ 20m2, situé rue de Rennes dans le 6ème arrondissement de Paris - quartier Montparnasse, dans un immeuble parisien de standing, au Rez-de-chaussée. Cet appartement comporte 1 salon, 1 cuisine ouverte, 1 salle de douche, WC séparés. Le chauffage dans cet appartement est électrique (Individuel).",
+      "texts": [
+        {
+          "text": "REF. 26761 Studio meublé à Paris d'environ 20m2, situé rue de Rennes dans le 6ème arrondissement de Paris - quartier Montparnasse, dans un immeuble parisien de standing, au Rez-de-chaussée. Cet appartement comporte 1 salon, 1 cuisine ouverte, 1 salle de douche, WC séparés. Le chauffage dans cet appartement est électrique (Individuel)."
+        }
+      ],
+      "headline": "Studio"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "20 m²",
+        "RDC",
+        "dès le 22/12/2025"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "20 m²",
+          "splitValue": "20",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "RDC",
+          "splitValue": "RDC",
+          "label": ""
+        },
+        {
+          "type": "availability",
+          "value": "dès le 22/12/2025",
+          "splitValue": "dès",
+          "label": "le 22/12/2025"
+        }
+      ],
+      "price": {
+        "value": "1 500 €",
+        "formatted": "1 500 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1500 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1900"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Remis à neuf"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "dfa45c9d-d471-4249-98ff-edc2de5aa83a",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "099620bc-fb58-4457-a50e-483361d3fe19",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "245 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "416ce660-bea8-4ffb-a9fc-f2443ebf1c73",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "254328759"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "26761"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 500 €/mois Loyer charges comprises",
+          "ariaLabel": "1500 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "50 €/mois",
+            "ariaLabel": "50 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "75 €/mois/m²",
+            "ariaLabel": "75 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2900"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 22/12/2025"
+        },
+        {
+          "icon": "floors",
+          "value": "Rez-de-chaussée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "82c00edc-5554-4bce-aa0b-abbf7939b9d3",
+          "url": "https://mms.seloger.com/8/2/c/0/82c00edc-5554-4bce-aa0b-abbf7939b9d3.jpg?ci_seal=76e6beb927a25f582178e63501894aec96d27b7e",
+          "alt": "Appartement à louer 1 500 € 1 pièce 20 m² RDC dès le 22/12/2025 Rennes Paris 6ème 75006",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "37834990-4111-430a-b515-4194070319b9",
+          "url": "https://mms.seloger.com/3/7/8/3/37834990-4111-430a-b515-4194070319b9.jpg?ci_seal=b749c1fde18958746ff2c32950084d9d6a61c38e",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "cb1c7a28-98a0-42f0-831a-d45c479a78ce",
+          "url": "https://mms.seloger.com/c/b/1/c/cb1c7a28-98a0-42f0-831a-d45c479a78ce.jpg?ci_seal=30979b4ae00a30f88a92e41b5c33bdeb9ac7ddea",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5e92da6e-c6e2-4eac-984c-832ce4dfadbf",
+          "url": "https://mms.seloger.com/5/e/9/2/5e92da6e-c6e2-4eac-984c-832ce4dfadbf.jpg?ci_seal=294c227f56d1f1e355b55265030d40c8079d51c9",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "cc6123c6-a212-4401-a505-1ecdfd8f347c",
+          "url": "https://mms.seloger.com/c/c/6/1/cc6123c6-a212-4401-a505-1ecdfd8f347c.jpg?ci_seal=09eb82e4f62ea676ed12f8b7613ed4dea7d7c09f",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6362260d-81ca-4e01-9c8c-d6fd7c1e3600",
+          "url": "https://mms.seloger.com/6/3/6/2/6362260d-81ca-4e01-9c8c-d6fd7c1e3600.jpg?ci_seal=6e91d09c92e6a837bb0a9d8543bdd5395697f23d",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e7dc9ead-8f27-43f9-879b-8fe9c5ced71d",
+          "url": "https://mms.seloger.com/e/7/d/c/e7dc9ead-8f27-43f9-879b-8fe9c5ced71d.jpg?ci_seal=9d14ec784af5e4696130bce88d324b73ddcfd68c",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ceecf2a8-d230-48f1-a9c2-e49a1bfeca51",
+          "url": "https://mms.seloger.com/c/e/e/c/ceecf2a8-d230-48f1-a9c2-e49a1bfeca51.jpg?ci_seal=fae1c35b3aaca644d1d8a4999417856ee8f80f03",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "254328759",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75006",
+      "city": "Paris 6ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 39.25,
+        "accuracy": 3,
+        "high": "52,18",
+        "low": "31,93"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "75",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Studio",
+      "description": "REF. 26761 Studio meublé à Paris d'environ 20m2, situé rue de Rennes dans le 6ème arrondissement de Paris - quartier Montparnasse, dans un immeuble parisien de standing, au Rez-de-chaussée. Cet appartement comporte 1 salon, 1 cuisine ouverte, 1 salle de douche, WC séparés. Le chauffage dans cet appartement est électrique (Individuel).",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "25 jours en ligne",
+      "views": "192 vues",
+      "saves": "15 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "255UDRSBYEVS",
+    "legacyId": "254328759",
+    "brand": "seloger",
+    "agencyId": "RC-112046",
+    "static": {
+      "phoneNumbers": [
+        "+33 6 64 98 59 77"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33 6 64 98 59 77"
+      ]
+    },
+    "contactCard": {
+      "title": "BOOK A FLAT",
+      "subtitle": "Géraldine de Fouquières",
+      "phoneNumbers": [
+        "+33 6 64 98 59 77"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/a/b/b/a/abbab398-fb0c-42da-bb36-74a198391816.jpg?ci_seal=2c062a79ff50a83666bc36fbedca6df132f4dac6",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "BOOK A FLAT",
+        "subtitle": "Géraldine de Fouquières",
+        "phoneNumbers": [
+          "+33 6 64 98 59 77"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/a/b/b/a/abbab398-fb0c-42da-bb36-74a198391816.jpg?ci_seal=2c062a79ff50a83666bc36fbedca6df132f4dac6"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Géraldine de Fouquières",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "BOOK A FLAT",
+      "subtitle": "BOOK A FLAT",
+      "phoneNumbers": [
+        "+33 6 64 98 59 77"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "BOOK A FLAT",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/a/b/b/a/abbab398-fb0c-42da-bb36-74a198391816.jpg?ci_seal=2c062a79ff50a83666bc36fbedca6df132f4dac6",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/"
+      },
+      "contactCard": {
+        "title": "Géraldine de Fouquières",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "https://www.book-a-flat.com/fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 478941990",
+        "<b>SIRET:</b> 47894199000024"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "18 rue Volney, 75002 Paris 2ème",
+      "phoneNumbers": [
+        "+33 6 64 98 59 77"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75006",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "255UDRSBYEVS",
+        "price": 1500,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75006",
+        "building_state": "REFURBISHED",
+        "legacy_id": "254328759",
+        "product_type": "standard",
+        "client_id": "RC-112046",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "39742",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75006",
+        "estate_type": 1,
+        "id": "254328759",
+        "id_duo": 254328759,
+        "id_solo": 254328759,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 8,
+        "position": 0,
+        "price": 1500,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 20,
+        "year_of_construction": 1900
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75006",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "254328759",
+      "prix": 1500,
+      "nb_pieces": 1,
+      "surface": 20,
+      "commodites": [
+        "ascenseur",
+        "rez-de-chaussee",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-6eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 6ème arrondissement 75006",
+          "hoverLabel": "Appartements à louer Paris 6ème arrondissement 75006",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 20 m² 1500 € Rennes Paris (75006)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 20 m² 1500 € Rennes Paris (75006)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-6eme-75/saint-germain-des-pres/254328759.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-6eme-75/saint-germain-des-pres/254328759.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 20 m² 1500 € Rennes Paris (75006)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 20 m² 1500 € Rennes Paris (75006)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/8/2/c/0/82c00edc-5554-4bce-aa0b-abbf7939b9d3.jpg?ci_seal=76e6beb927a25f582178e63501894aec96d27b7e"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 20 m² 1500 € Rennes Paris (75006)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-6eme-75/saint-germain-des-pres/254328759.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 20 m² 1500 € Rennes Paris (75006)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 20 m² 1500 € Rennes Paris (75006)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/8/2/c/0/82c00edc-5554-4bce-aa0b-abbf7939b9d3.jpg?ci_seal=76e6beb927a25f582178e63501894aec96d27b7e"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 20 m² 1500 € Rennes Paris (75006)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 20 m² 1500 € Rennes Paris (75006)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-6eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 6ème arrondissement 75006",
+          "hoverLabel": "Appartements à louer Paris 6ème arrondissement 75006",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-6eme-75/saint-germain-des-pres/254328759.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#101010",
+    "textColor": "light",
+    "providerName": "BOOK A FLAT",
+    "logo": {
+      "src": "https://mms.seloger.com/a/b/b/a/abbab398-fb0c-42da-bb36-74a198391816.jpg?ci_seal=2c062a79ff50a83666bc36fbedca6df132f4dac6",
+      "alt": "logo-RC-112046",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/a/0/e/9/a0e97e15-7f01-42d5-a47f-b312f6c413ee.png?ci_eqs=&ci_seal=0262c9e9284a5d3bc04c549e2ce60a56b4d75d72",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/a/0/e/9/a0e97e15-7f01-42d5-a47f-b312f6c413ee.png?ci_eqs=&ci_seal=0262c9e9284a5d3bc04c549e2ce60a56b4d75d72",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/f/a/d/f/fadf6d64-4533-4a92-939c-44481b90c475.png?ci_eqs=&ci_seal=76f3aec1b7594d48514db0194f60e6a75af534f5",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR22&priceMax=1800&priceMin=1200",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR22",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR31",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "255UDRSBYEVS"
+}

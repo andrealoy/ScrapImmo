@@ -1,0 +1,1189 @@
+{
+  "brand": "seloger",
+  "id": "255TUUA2RJ87",
+  "metadata": {
+    "legacyId": "255634561",
+    "creationDate": "2025-12-02T10:48:00Z",
+    "updateDate": "2025-12-05T14:01:21.645Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 15ème",
+        "zipCode": "75015",
+        "district": "Violet Commerce"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29564,
+          48.8466
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "6",
+                "color": "#71cc98"
+              },
+              {
+                "name": "8",
+                "color": "#dd9cdf"
+              },
+              {
+                "name": "10",
+                "color": "#c69214"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "42",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "70",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "80",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "88",
+                "color": "#cec92a"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Dans un immeuble  en plein cœur de la rue du commerce, appartement 2 pièces VIDE de 46 m² au 2e Etage avec ascenseur.\r\nIl est composé d'une entrée, d'un séjour, d'une cuisine équipée et aménagée, d'une chambre donnant sur cour, d'une salle de douche et WC séparés et une Cave.\r\n\r\nPeintures Neuves\r\n\r\n\r\nChauffage et eau chaude Individuels électriques\r\n\r\nParking compris à 50m de l'appartement.\r\n\r\nHonoraires loi ALUR (Résidence principale) 15 €/m² TTC\r\nHonoraires hors loi ALUR : Bail résidence secondaire – Bail société : 1 mois de loyer charges comprises + TVA",
+      "texts": [
+        {
+          "text": "Dans un immeuble  en plein cœur de la rue du commerce, appartement 2 pièces VIDE de 46 m² au 2e Etage avec ascenseur.\r\nIl est composé d'une entrée, d'un séjour, d'une cuisine équipée et aménagée, d'une chambre donnant sur cour, d'une salle de douche et WC séparés et une Cave.\r\n\r\nPeintures Neuves\r\n\r\n\r\nChauffage et eau chaude Individuels électriques\r\n\r\nParking compris à 50m de l'appartement.\r\n\r\nHonoraires loi ALUR (Résidence principale) 15 €/m² TTC\r\nHonoraires hors loi ALUR : Bail résidence secondaire – Bail société : 1 mois de loyer charges comprises + TVA"
+        }
+      ],
+      "headline": "2 PIECES VIDE - RUE DU COMMERCE"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "46 m²",
+        "2ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2ème étage",
+          "splitValue": "2ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 600 €",
+        "formatted": "1 600 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1600 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel: Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "c759f122-8e66-4268-aa8b-1cf81512e666",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 630 et 860 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 630 et 860 € par an. Prix moyens des énergies indexés au 01/01/2021 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "d185e447-14a1-4e40-80b2-fed0cb0c2b2d",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "155 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "67 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "5 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est 67 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "188ee22a-ceca-40f7-b3de-a89e1b3d39b0",
+              "efficiencyClass": {
+                "index": 0,
+                "rating": "A"
+              },
+              "values": [
+                {
+                  "value": "5 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : A avec une plage allant de A à G .La consommation d'énergie est 67 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255634561"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "86377005"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 546 €/mois Loyer de base",
+          "ariaLabel": "1546 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "54 €/mois",
+            "ariaLabel": "54 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 600 €/mois",
+            "ariaLabel": "1600 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "33,61 €/mois/m²",
+            "ariaLabel": "33,61 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "3092"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "value": "Cave",
+          "icon": "cellar"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "value": "Sans vis-à-vis",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "2ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain; 1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "livingRoom",
+                "value": "Salon (total 19,3 m²)"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "value": "Cave",
+                "icon": "cellar"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              },
+              {
+                "value": "Sans vis-à-vis",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "e1866b91-634f-434f-9dce-aa4c1fa45b9e",
+          "url": "https://mms.seloger.com/e/1/8/6/e1866b91-634f-434f-9dce-aa4c1fa45b9e.jpg?ci_seal=b525954142db2c8b3059b8c54e4f8e0f91fd880a",
+          "alt": "Appartement à louer 1 600 € 2 pièces 1 chambre 46 m² 2ème étage Violet Commerce Paris 15ème 75015",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d4ed25f0-267b-4e8e-ade4-7ee3a1034118",
+          "url": "https://mms.seloger.com/d/4/e/d/d4ed25f0-267b-4e8e-ade4-7ee3a1034118.jpg?ci_seal=24ad763fa7eb98999caf445f44a40778277b3da2",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "07b36609-29c6-4b6d-88aa-e963149ec2cc",
+          "url": "https://mms.seloger.com/0/7/b/3/07b36609-29c6-4b6d-88aa-e963149ec2cc.jpg?ci_seal=8507c428194388883efa81b236851bb316ae609e",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b6c80aff-adc0-457b-8f60-578a6f9cc47c",
+          "url": "https://mms.seloger.com/b/6/c/8/b6c80aff-adc0-457b-8f60-578a6f9cc47c.jpg?ci_seal=9174e7af622b22253f3b4a2c1fe01a9f07d94e53",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "591f05de-ee0d-4b6b-8dbe-955403b98773",
+          "url": "https://mms.seloger.com/5/9/1/f/591f05de-ee0d-4b6b-8dbe-955403b98773.jpg?ci_seal=219c9cede8decde699917e515edd23c911a921fb",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a9fc665e-f106-4d10-a6ab-73e43160b15c",
+          "url": "https://mms.seloger.com/a/9/f/c/a9fc665e-f106-4d10-a6ab-73e43160b15c.jpg?ci_seal=18c1b5413ab7711f8915ce2d0818187f658755aa",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8e87f4ff-77bf-4779-af01-5dbf5fac24d2",
+          "url": "https://mms.seloger.com/8/e/8/7/8e87f4ff-77bf-4779-af01-5dbf5fac24d2.jpg?ci_seal=e15364c3dcac227484035c07b4ecde5abd63c39c",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "81170996-8da3-4dc7-9ab8-b113cd6491f3",
+          "url": "https://mms.seloger.com/8/1/1/7/81170996-8da3-4dc7-9ab8-b113cd6491f3.jpg?ci_seal=8eb3ab8f94b1759ed8761a89631d12a3e567cb91",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "639b6db4-5b61-4ee9-8edf-6f8b0b47d821",
+          "url": "https://mms.seloger.com/6/3/9/b/639b6db4-5b61-4ee9-8edf-6f8b0b47d821.jpg?ci_seal=c0eb1bb28023aba9b376d2f1d31f11fe8e2a77f9",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255634561",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75015",
+      "city": "Paris 15ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 32.54,
+        "accuracy": 4,
+        "high": "40,31",
+        "low": "27,41"
+      },
+      "markerPosition": 48,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "33,61",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "2 PIECES VIDE - RUE DU COMMERCE",
+      "description": "Dans un immeuble  en plein cœur de la rue du commerce, appartement 2 pièces VIDE de 46 m² au 2e Etage avec ascenseur.\r\nIl est composé d'une entrée, d'un séjour, d'une cuisine équipée et aménagée, d'une chambre donnant sur cour, d'une salle de douche et WC séparés et une Cave.\r\n\r\nPeintures Neuves\r\n\r\n\r\nChauffage et eau chaude Individuels électriques\r\n\r\nParking compris à 50m de l'appartement.\r\n\r\nHonoraires loi ALUR (Résidence principale) 15 €/m² TTC\r\nHonoraires hors loi ALUR : Bail résidence secondaire – Bail société : 1 mois de loyer charges comprises + TVA",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "7 jours en ligne",
+      "views": "354 vues",
+      "saves": "20 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "255TUUA2RJ87",
+    "legacyId": "255634561",
+    "brand": "seloger",
+    "agencyId": "RC-010552",
+    "static": {
+      "phoneNumbers": [
+        "+33 1 40 56 98 61"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33 1 40 56 98 61"
+      ]
+    },
+    "contactCard": {
+      "title": "AFFINITY HOME",
+      "subtitle": "Service Location",
+      "phoneNumbers": [
+        "+33 1 40 56 98 61"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "AFFINITY HOME",
+        "subtitle": "Service Location",
+        "phoneNumbers": [
+          "+33 1 40 56 98 61"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Service Location",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "AFFINITY HOME",
+      "subtitle": "AFFINITY HOME",
+      "phoneNumbers": [
+        "+33 1 40 56 98 61"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "AFFINITY HOME",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-38087/"
+      },
+      "contactCard": {
+        "title": "Service Location",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-38087/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "SARL Affinity Home au capital de 50 000 €",
+        "Carte professionnelle T9507 délivrée par la Préfecture de Paris",
+        "Garantie financière SOCAF pour un montant de 120 000 €",
+        "<b>Siège:</b> 15, rue de Miromesnil, 75008 Paris",
+        "<b>RCS:</b> PARIS 433029709",
+        "<b>SIRET:</b> 43302970900022"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "15 rue de Miromesnil, 75008 Paris 8ème",
+      "phoneNumbers": [
+        "+33 1 40 56 98 61"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75015",
+    "av_city": "Paris",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "255TUUA2RJ87",
+        "price": 1600,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75015",
+        "legacy_id": "255634561",
+        "product_type": "standard",
+        "client_id": "RC-010552",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "12514",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "75015",
+        "estate_type": 1,
+        "id": "255634561",
+        "id_duo": 255634561,
+        "id_solo": 255634561,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 9,
+        "position": 0,
+        "price": 1600,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 46
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75015",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255634561",
+      "prix": 1600,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 46,
+      "commodites": [
+        "ascenseur",
+        "cave",
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire",
+        "sansVisAVis",
+        "Sejour"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-15eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 15ème arrondissement 75015",
+          "hoverLabel": "Appartements à louer Paris 15ème arrondissement 75015",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 46 m² 1600 € Violet Commerce Paris (75015)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 46 m² 1600 € Violet Commerce Paris (75015)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/violet-commerce/255634561.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/violet-commerce/255634561.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 46 m² 1600 € Violet Commerce Paris (75015)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 46 m² 1600 € Violet Commerce Paris (75015)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/e/1/8/6/e1866b91-634f-434f-9dce-aa4c1fa45b9e.jpg?ci_seal=b525954142db2c8b3059b8c54e4f8e0f91fd880a"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 46 m² 1600 € Violet Commerce Paris (75015)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/violet-commerce/255634561.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 46 m² 1600 € Violet Commerce Paris (75015)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 46 m² 1600 € Violet Commerce Paris (75015)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/e/1/8/6/e1866b91-634f-434f-9dce-aa4c1fa45b9e.jpg?ci_seal=b525954142db2c8b3059b8c54e4f8e0f91fd880a"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 46 m² 1600 € Violet Commerce Paris (75015)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 46 m² 1600 € Violet Commerce Paris (75015)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-15eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 15ème arrondissement 75015",
+          "hoverLabel": "Appartements à louer Paris 15ème arrondissement 75015",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/violet-commerce/255634561.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR81&priceMax=1920&priceMin=1280",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR81",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR40",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "255TUUA2RJ87"
+}

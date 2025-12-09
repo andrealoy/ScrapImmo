@@ -1,0 +1,1125 @@
+{
+  "brand": "seloger",
+  "id": "255X4J74V777",
+  "metadata": {
+    "creationDate": "2025-11-15T12:30:32.4401815Z",
+    "updateDate": "2025-11-15T15:43:53.1834308Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FR",
+        "city": "Paris",
+        "zipCode": "75003",
+        "district": "Enfants Rouges"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.363708999999999,
+          48.865938999986334
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "3",
+                "color": "#827a04"
+              },
+              {
+                "name": "5",
+                "color": "#FF7F32"
+              },
+              {
+                "name": "8",
+                "color": "#dd9cdf"
+              },
+              {
+                "name": "9",
+                "color": "#b5bd00"
+              },
+              {
+                "name": "11",
+                "color": "#6e4c1e"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "20",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "56",
+                "color": "#a0006e"
+              },
+              {
+                "name": "65"
+              },
+              {
+                "name": "75",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "91",
+                "color": "#dc9609"
+              },
+              {
+                "name": "96",
+                "color": "#dc9609"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Idéalement situé à seulement 20 mètres du Carreau du Temple, cet appartement lumineux offre un cadre de vie unique, à proximité immédiate des métros, commerces et restaurants.\n\nIl se compose de deux chambres en suite, d’une cuisine ouverte entièrement équipée et d’un espace de vie convivial.\nL’appartement est meublé et prêt à être loué, avec Internet et électricité inclus.\n\nNous recherchons une location longue durée et des locataires sérieux.",
+      "texts": [
+        {
+          "text": "Idéalement situé à seulement 20 mètres du Carreau du Temple, cet appartement lumineux offre un cadre de vie unique, à proximité immédiate des métros, commerces et restaurants.\n\nIl se compose de deux chambres en suite, d’une cuisine ouverte entièrement équipée et d’un espace de vie convivial.\nL’appartement est meublé et prêt à être loué, avec Internet et électricité inclus.\n\nNous recherchons une location longue durée et des locataires sérieux."
+        }
+      ],
+      "headline": "Appartement Carreau du Temple"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "83 m²",
+        "Étage 2/6"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "83 m²",
+          "splitValue": "83",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 2/6",
+          "splitValue": "Étage",
+          "label": "2/6"
+        }
+      ],
+      "price": {
+        "value": "3 900 €",
+        "formatted": "3 900 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "3900 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1940"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Entretenu"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "d9683ae8-e360-4d00-8739-d0402bcce007",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "4552bbbc-0c76-4703-bc3f-2ecae2c7d1d6",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "613c7585-7106-4b6e-81df-04ef8619fdc9",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255X4J74V777"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "3 650 €/mois Loyer de base",
+          "ariaLabel": "3650 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "250 €/mois",
+            "ariaLabel": "250 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "3 900 €/mois",
+            "ariaLabel": "3900 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "43,98 €/mois/m²",
+            "ariaLabel": "43,98 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "7300"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage/6 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "2 salles de bain; 2 salles de douches"
+        },
+        {
+          "icon": "flat-share-possible",
+          "value": "Colocation possible"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "d3f60f7b-d789-4243-a248-bca75ce26849",
+          "url": "https://mms.seloger.com/d/3/f/6/d3f60f7b-d789-4243-a248-bca75ce26849.jpg?ci_seal=726381f1fe6c813ef83afc0fd90167d8ffc4d8b7",
+          "description": "6d5b2557-4caf-4969-6c8f-ad941570ef00.jpeg",
+          "alt": "Appartement à louer 3 900 € 3 pièces 2 chambres 83 m² Étage 2/6 Enfants Rouges Paris 75003",
+          "title": "6d5b2557-4caf-4969-6c8f-ad941570ef00.jpeg",
+          "ariaLabel": "6d5b2557-4caf-4969-6c8f-ad941570ef00.jpeg",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3d8b5a98-60c3-41bb-9c26-3f2559100071",
+          "url": "https://mms.seloger.com/3/d/8/b/3d8b5a98-60c3-41bb-9c26-3f2559100071.jpg?ci_seal=199260330586e4610c62adcc80911d800dae5633",
+          "description": "7da6c17e-4efa-4bdd-750e-ef3030fc2c00.jpeg",
+          "title": "7da6c17e-4efa-4bdd-750e-ef3030fc2c00.jpeg",
+          "ariaLabel": "7da6c17e-4efa-4bdd-750e-ef3030fc2c00.jpeg",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "add66db6-9517-40cf-b280-dc2c77294f92",
+          "url": "https://mms.seloger.com/a/d/d/6/add66db6-9517-40cf-b280-dc2c77294f92.jpg?ci_seal=743e86603673b3f694f08bde060078fc876dd825",
+          "description": "104b9dc2-7453-465c-9320-5162e68c3b00.jpeg",
+          "title": "104b9dc2-7453-465c-9320-5162e68c3b00.jpeg",
+          "ariaLabel": "104b9dc2-7453-465c-9320-5162e68c3b00.jpeg",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ebfd0083-2fa0-4aba-ab31-700063ad8d2a",
+          "url": "https://mms.seloger.com/e/b/f/d/ebfd0083-2fa0-4aba-ab31-700063ad8d2a.jpg?ci_seal=09dd3607b45286dffabe9ff4d81fc6c82de6b948",
+          "description": "866aab4d-877b-4e34-1cb3-4d6b2a0b2b00.jpeg",
+          "title": "866aab4d-877b-4e34-1cb3-4d6b2a0b2b00.jpeg",
+          "ariaLabel": "866aab4d-877b-4e34-1cb3-4d6b2a0b2b00.jpeg",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f385b1da-b070-47a8-8769-518815b7571d",
+          "url": "https://mms.seloger.com/f/3/8/5/f385b1da-b070-47a8-8769-518815b7571d.jpg?ci_seal=5394ec8291693a60a1e84368219b5b8c197a73b4",
+          "description": "879dd321-1bfa-44fd-b760-e7fe6cbe6900.jpeg",
+          "title": "879dd321-1bfa-44fd-b760-e7fe6cbe6900.jpeg",
+          "ariaLabel": "879dd321-1bfa-44fd-b760-e7fe6cbe6900.jpeg",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "25dbe190-1853-4a13-b814-4f426a1b8f05",
+          "url": "https://mms.seloger.com/2/5/d/b/25dbe190-1853-4a13-b814-4f426a1b8f05.jpg?ci_seal=a5783158fd3615459c1c4d8ae7a12bf8130b3a2f",
+          "description": "2261bd91-fff2-4956-fc04-b34dfa0ec000.jpeg",
+          "title": "2261bd91-fff2-4956-fc04-b34dfa0ec000.jpeg",
+          "ariaLabel": "2261bd91-fff2-4956-fc04-b34dfa0ec000.jpeg",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "83c2c42f-d4ec-45c8-acb2-64582f76196d",
+          "url": "https://mms.seloger.com/8/3/c/2/83c2c42f-d4ec-45c8-acb2-64582f76196d.jpg?ci_seal=2990b31d4650e9cf2becc2560a14f67b52888bf5",
+          "description": "7076fa37-3051-42ed-d526-5304f10fbc00.jpeg",
+          "title": "7076fa37-3051-42ed-d526-5304f10fbc00.jpeg",
+          "ariaLabel": "7076fa37-3051-42ed-d526-5304f10fbc00.jpeg",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f8715343-9589-4e39-a581-39d1008fa5f5",
+          "url": "https://mms.seloger.com/f/8/7/1/f8715343-9589-4e39-a581-39d1008fa5f5.jpg?ci_seal=1407b75b6022a7dbb93394d7ad9969710f424f0c",
+          "description": "34563ab1-934d-4ba8-f0a0-7cb282051100.jpeg",
+          "title": "34563ab1-934d-4ba8-f0a0-7cb282051100.jpeg",
+          "ariaLabel": "34563ab1-934d-4ba8-f0a0-7cb282051100.jpeg",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "01f2288a-1531-4af6-9c08-caad7c89899b",
+          "url": "https://mms.seloger.com/0/1/f/2/01f2288a-1531-4af6-9c08-caad7c89899b.jpg?ci_seal=254ef68d942a786893e753e648bea54ae7ddbef6",
+          "description": "296713a0-1ca3-4fa0-a5ac-3c27933cb000.jpeg",
+          "title": "296713a0-1ca3-4fa0-a5ac-3c27933cb000.jpeg",
+          "ariaLabel": "296713a0-1ca3-4fa0-a5ac-3c27933cb000.jpeg",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "33c1de10-8f9e-4155-820e-0ccbfffd60b2",
+          "url": "https://mms.seloger.com/3/3/c/1/33c1de10-8f9e-4155-820e-0ccbfffd60b2.jpg?ci_seal=b2cac019395d779f1cc6ea5b5fb1173d4462c0f9",
+          "description": "acbf4246-8ec0-4f64-7d5e-1a976ac1cc00.jpeg",
+          "title": "acbf4246-8ec0-4f64-7d5e-1a976ac1cc00.jpeg",
+          "ariaLabel": "acbf4246-8ec0-4f64-7d5e-1a976ac1cc00.jpeg",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "437ff826-8187-4592-a10a-2e30c30d5892",
+          "url": "https://mms.seloger.com/4/3/7/f/437ff826-8187-4592-a10a-2e30c30d5892.jpg?ci_seal=e4020930ceda51a179061d1deb2157ae0fa7deb6",
+          "description": "ca1abbb1-e05f-493a-4b7c-4094fea3e200.jpeg",
+          "title": "ca1abbb1-e05f-493a-4b7c-4094fea3e200.jpeg",
+          "ariaLabel": "ca1abbb1-e05f-493a-4b7c-4094fea3e200.jpeg",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8f4c4d1a-b50a-482f-a705-c416ca31e4ed",
+          "url": "https://mms.seloger.com/8/f/4/c/8f4c4d1a-b50a-482f-a705-c416ca31e4ed.jpg?ci_seal=37d9e8025f1a942e989838980f11c5978fa60079",
+          "description": "e7c2025f-6dd5-4f14-fd73-afe56bdb8e00.jpeg",
+          "title": "e7c2025f-6dd5-4f14-fd73-afe56bdb8e00.jpeg",
+          "ariaLabel": "e7c2025f-6dd5-4f14-fd73-afe56bdb8e00.jpeg",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f39c61ac-80b9-4acc-9d9d-45dce98a96ab",
+          "url": "https://mms.seloger.com/f/3/9/c/f39c61ac-80b9-4acc-9d9d-45dce98a96ab.jpg?ci_seal=73bcd8bf45f2fbc434d449ea091ba6946b558693",
+          "description": "fb8daf61-3ae4-43a7-0a40-3e53f8889a00.jpeg",
+          "title": "fb8daf61-3ae4-43a7-0a40-3e53f8889a00.jpeg",
+          "ariaLabel": "fb8daf61-3ae4-43a7-0a40-3e53f8889a00.jpeg",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75003",
+      "city": "Paris",
+      "country": "FR",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 35.09,
+        "accuracy": 3,
+        "high": "45,52",
+        "low": "27,12"
+      },
+      "markerPosition": 92,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "43,98",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement Carreau du Temple",
+      "description": "Idéalement situé à seulement 20 mètres du Carreau du Temple, cet appartement lumineux offre un cadre de vie unique, à proximité immédiate des métros, commerces et restaurants.\n\nIl se compose de deux chambres en suite, d’une cuisine ouverte entièrement équipée et d’un espace de vie convivial.\nL’appartement est meublé et prêt à être loué, avec Internet et électricité inclus.\n\nNous recherchons une location longue durée et des locataires sérieux.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "24 jours en ligne",
+      "views": "239 vues",
+      "saves": "25 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "255X4J74V777",
+    "brand": "seloger",
+    "agencyId": "cea459e5-7cfa-4c78-bff1-131ad42339de",
+    "static": {
+      "phoneNumbers": []
+    },
+    "sticky": {
+      "phoneNumbers": []
+    },
+    "contactCard": {
+      "title": "REDA KABBAJ",
+      "subtitle": "Propriétaire particulier",
+      "phoneNumbers": [],
+      "isPrivateOwner": true,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": false
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": true
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "REDA KABBAJ",
+        "subtitle": "Propriétaire particulier",
+        "phoneNumbers": [],
+        "isPrivateOwner": true,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à REDA KABBAJ",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Propriétaire particulier",
+      "phoneNumbers": [],
+      "logoUrl": null,
+      "isPrivateOwner": true
+    },
+    "provider": {
+      "intermediaryCard": {
+        "display": false,
+        "title": "",
+        "subtitle": ""
+      },
+      "contactCard": {
+        "title": "REDA KABBAJ",
+        "subtitle": "Propriétaire particulier",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": true,
+      "imprintUrl": null,
+      "agencyLegalInformations": [],
+      "displayLinks": false,
+      "phoneNumbers": []
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "private",
+    "av_language": "fr",
+    "av_zip_code": "75003",
+    "av_city": "Paris",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "255X4J74V777",
+        "price": 3900,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75003",
+        "building_state": "WELL_KEPT",
+        "product_type": "standard",
+        "client_id": "cea459e5-7cfa-4c78-bff1-131ad42339de",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_type": "particulier",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "75003",
+        "estate_type": 1,
+        "id_duo": null,
+        "id_solo": null,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 13,
+        "position": 0,
+        "price": 3900,
+        "product_geolocation": "localisation_street",
+        "product_type": "client",
+        "product_variant": "classified",
+        "space": 0,
+        "year_of_construction": 1940
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75003",
+      "geodp": "75",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "prix": 3900,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 0,
+      "etage": 6,
+      "commodites": [
+        "ascenseur",
+        "Chauffage-individuel",
+        "Cuisine-équipée",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-3eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 3ème arrondissement 75003",
+          "hoverLabel": "Appartements à louer Paris 3ème arrondissement 75003",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 83 m² 3900 € Enfants Rouges Paris (75003)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 83 m² 3900 € Enfants Rouges Paris (75003)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-3eme-75/enfants-rouges/255X4J74V777.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-3eme-75/enfants-rouges/255X4J74V777.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 83 m² 3900 € Enfants Rouges Paris (75003)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 83 m² 3900 € Enfants Rouges Paris (75003)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/d/3/f/6/d3f60f7b-d789-4243-a248-bca75ce26849.jpg?ci_seal=726381f1fe6c813ef83afc0fd90167d8ffc4d8b7"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 83 m² 3900 € Enfants Rouges Paris (75003)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-3eme-75/enfants-rouges/255X4J74V777.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 83 m² 3900 € Enfants Rouges Paris (75003)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 83 m² 3900 € Enfants Rouges Paris (75003)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/d/3/f/6/d3f60f7b-d789-4243-a248-bca75ce26849.jpg?ci_seal=726381f1fe6c813ef83afc0fd90167d8ffc4d8b7"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 83 m² 3900 € Enfants Rouges Paris (75003)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 83 m² 3900 € Enfants Rouges Paris (75003)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-3eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 3ème arrondissement 75003",
+          "hoverLabel": "Appartements à louer Paris 3ème arrondissement 75003",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-3eme-75/enfants-rouges/255X4J74V777.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR10&priceMax=4680&priceMin=3120",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR10",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR28",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ]
+  },
+  "cps": "255X4J74V777"
+}

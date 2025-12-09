@@ -1,0 +1,1224 @@
+{
+  "brand": "seloger",
+  "id": "25V12H4RIPS4",
+  "metadata": {
+    "legacyId": "256102029",
+    "creationDate": "2025-12-08T21:42:00Z",
+    "updateDate": "2025-12-09T01:17:16.551Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 13ème",
+        "zipCode": "75013",
+        "district": "Patay-Masséna"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37558,
+          48.827488
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "14",
+                "color": "#5f259f"
+              }
+            ]
+          },
+          {
+            "type": "RER",
+            "lines": [
+              {
+                "name": "C",
+                "color": "#FCD946"
+              }
+            ]
+          },
+          {
+            "type": "TRAM",
+            "lines": [
+              {
+                "name": "T3a",
+                "color": "#F68C59"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "25",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "27",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "62",
+                "color": "#5a230a"
+              },
+              {
+                "name": "64",
+                "color": "#77c695"
+              },
+              {
+                "name": "71",
+                "color": "#5a230a"
+              },
+              {
+                "name": "83",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "89",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "132",
+                "color": "#62259d"
+              },
+              {
+                "name": "325",
+                "color": "#82c8e6"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Situé face à l'Université INACO, proche du RER C et ligne 14 \\\"François Mitterrand\\\", appartement 4 pièces meublés situé au 2ème étage avec terrasse/loggia, comprend : une entrée, un double séjour, une cuisine dînatoire meublée et équipée, trois chambres, une salle d'eau, une salle de bains et un wc séparé. De nombreux rangements. Un emplacement de parking en sous-sol. COLLOCATION ACCEPTEE en bail cosolidaire. Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisque :",
+      "texts": [
+        {
+          "text": "Situé face à l'Université INACO, proche du RER C et ligne 14 \\\"François Mitterrand\\\", appartement 4 pièces meublés situé au 2ème étage avec terrasse/loggia, comprend : une entrée, un double séjour, une cuisine dînatoire meublée et équipée, trois chambres, une salle d'eau, une salle de bains et un wc séparé. De nombreux rangements. Un emplacement de parking en sous-sol. COLLOCATION ACCEPTEE en bail cosolidaire. Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisque :"
+        }
+      ],
+      "headline": "Appart.T4 Meublé"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "4 pièces",
+        "3 chambres",
+        "97 m²",
+        "2ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "4 pièces",
+          "splitValue": "4",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "3 chambres",
+          "splitValue": "3",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "97 m²",
+          "splitValue": "97",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2ème étage",
+          "splitValue": "2ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "2 650 €",
+        "formatted": "2 650 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "2650 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "41f5f4ba-c2c8-4166-a8e7-7782f5d61195",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 1120 et 1560 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 1120 et 1560 € par an. Date d'indexation du prix des énergies non communiquée."
+            }
+          ],
+          "scales": [
+            {
+              "key": "3b1d472c-63a4-4389-bf2c-8e3800e8eab5",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "145 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "4 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "6970162a-4e0c-4001-8db1-33d1f4fc921e",
+              "efficiencyClass": {
+                "index": 0,
+                "rating": "A"
+              },
+              "values": [
+                {
+                  "value": "4 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : A avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256102029"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "30_1617_01_0043"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "2 650 €/mois Loyer charges comprises",
+          "ariaLabel": "2650 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "133 €/mois",
+            "ariaLabel": "133 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "27,32 €/mois/m²",
+            "ariaLabel": "27,32 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "5034"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "terrace",
+          "value": "Terrasse"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "3 chambres"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain; 1 salle de douches"
+        },
+        {
+          "icon": "separateEntrance",
+          "value": "Entrée séparée"
+        },
+        {
+          "icon": "closet",
+          "value": "Placard"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "51ff55eb-bf61-41ff-b6de-1b5ead383106",
+          "url": "https://mms.seloger.com/5/1/f/f/51ff55eb-bf61-41ff-b6de-1b5ead383106.jpg?ci_seal=4151ff8f9d28820ac94b98f8c5b9f15c36b51e2d",
+          "alt": "Appartement à louer 2 650 € 4 pièces 3 chambres 97 m² 2ème étage Patay-Masséna Paris 13ème 75013",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c272c9e6-e063-46b2-887c-d81250dab7ce",
+          "url": "https://mms.seloger.com/c/2/7/2/c272c9e6-e063-46b2-887c-d81250dab7ce.jpg?ci_seal=6d83f0fa8a542454f871631ba6d41c6f6aa49037",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "565bc01f-6482-480c-a01f-9dba2bd891f5",
+          "url": "https://mms.seloger.com/5/6/5/b/565bc01f-6482-480c-a01f-9dba2bd891f5.jpg?ci_seal=2c9283aeb7d4d9de72a551ef817ac56187ce5cb3",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6437490d-74d0-465a-a68f-8c040a1da01f",
+          "url": "https://mms.seloger.com/6/4/3/7/6437490d-74d0-465a-a68f-8c040a1da01f.jpg?ci_seal=a1db2d7884e81b5cf5ffc1f5a763b04add2df3c5",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "416d43d5-e86f-49f5-adf6-67bed3d86419",
+          "url": "https://mms.seloger.com/4/1/6/d/416d43d5-e86f-49f5-adf6-67bed3d86419.jpg?ci_seal=92f3c321427a23c0a5b4de577a020bbf4d245d47",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e76c73e5-b694-4d70-8162-9d04d184a84c",
+          "url": "https://mms.seloger.com/e/7/6/c/e76c73e5-b694-4d70-8162-9d04d184a84c.jpg?ci_seal=80d10f75f6955c28fe64867cc9f97e6ef3ed1fae",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fdf706c1-7f5a-43e7-a93c-91e4cd3453a7",
+          "url": "https://mms.seloger.com/f/d/f/7/fdf706c1-7f5a-43e7-a93c-91e4cd3453a7.jpg?ci_seal=a74247450330a3f951c2a40b35ad84c76d53919a",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "20cd0429-b1a1-4852-ab89-ce00cd1a36a0",
+          "url": "https://mms.seloger.com/2/0/c/d/20cd0429-b1a1-4852-ab89-ce00cd1a36a0.jpg?ci_seal=6a8778215b11dbd411e99fb2c1b28ddc1b526494",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "266582b0-d5f3-43a0-8e15-adf140284b24",
+          "url": "https://mms.seloger.com/2/6/6/5/266582b0-d5f3-43a0-8e15-adf140284b24.jpg?ci_seal=c1f339aac8ce2943f99a66eb6bf46aac4d2aa086",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1bedb7e9-d3e8-4518-8197-ae6871031f00",
+          "url": "https://mms.seloger.com/1/b/e/d/1bedb7e9-d3e8-4518-8197-ae6871031f00.jpg?ci_seal=1241250b9afc6f41e0a088695396d1f2a2534ecf",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "62d71e0c-ae92-4f7c-b648-c82af56583a2",
+          "url": "https://mms.seloger.com/6/2/d/7/62d71e0c-ae92-4f7c-b648-c82af56583a2.jpg?ci_seal=4f1c2c9da7edbe530d6f6542a662d9116fda2250",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b4bb3cfb-1abb-4d59-839f-469b2e3c0c7f",
+          "url": "https://mms.seloger.com/b/4/b/b/b4bb3cfb-1abb-4d59-839f-469b2e3c0c7f.jpg?ci_seal=af383a2862a615e9a74f1975e3b8f95688221cb2",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5176dcff-f6b1-4e69-9a5a-41254ce6b4b3",
+          "url": "https://mms.seloger.com/5/1/7/6/5176dcff-f6b1-4e69-9a5a-41254ce6b4b3.jpg?ci_seal=0cb16561c58a67fcc73a0d28eb9db33a57a5bca2",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2f0c8c5e-5a53-4e2a-822f-3963c4a51838",
+          "url": "https://mms.seloger.com/2/f/0/c/2f0c8c5e-5a53-4e2a-822f-3963c4a51838.jpg?ci_seal=ed5144941654e4356de7027199811c39941edb30",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3c0d78eb-134d-42b0-9344-e1d2ee9e6b86",
+          "url": "https://mms.seloger.com/3/c/0/d/3c0d78eb-134d-42b0-9344-e1d2ee9e6b86.jpg?ci_seal=2276b319a8c2877264e5bba5cd14ed482d0bf773",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d4cd5b5a-2ceb-4386-b7af-e957ef955e76",
+          "url": "https://mms.seloger.com/d/4/c/d/d4cd5b5a-2ceb-4386-b7af-e957ef955e76.jpg?ci_seal=26e3b5472e01d6982772e925aa622a19c5b605f3",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256102029",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75013",
+      "city": "Paris 13ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 29.83,
+        "accuracy": 3,
+        "high": "39,81",
+        "low": "23,73"
+      },
+      "markerPosition": 22,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "27,32",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appart.T4 Meublé",
+      "description": "Situé face à l'Université INACO, proche du RER C et ligne 14 \\\"François Mitterrand\\\", appartement 4 pièces meublés situé au 2ème étage avec terrasse/loggia, comprend : une entrée, un double séjour, une cuisine dînatoire meublée et équipée, trois chambres, une salle d'eau, une salle de bains et un wc séparé. De nombreux rangements. Un emplacement de parking en sous-sol. COLLOCATION ACCEPTEE en bail cosolidaire. Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisque :",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "45 vues",
+      "saves": "1 favori"
+    }
+  },
+  "contactSections": {
+    "id": "25V12H4RIPS4",
+    "legacyId": "256102029",
+    "brand": "seloger",
+    "agencyId": "RC-067015",
+    "static": {
+      "phoneNumbers": [
+        "01 56 58 66 01"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "01 56 58 66 01"
+      ]
+    },
+    "contactCard": {
+      "title": "SERGIC PARIS 15ème",
+      "subtitle": "Sergic Paris 15ème",
+      "phoneNumbers": [
+        "01 56 58 66 01"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/4/1/0/4/4104ae09-5e20-4baa-acf7-b1879c0f0613.jpg?ci_seal=532a1c9698516a5707036465aa7b86d7ef78f304",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "SERGIC PARIS 15ème",
+        "subtitle": "Sergic Paris 15ème",
+        "phoneNumbers": [
+          "01 56 58 66 01"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/4/1/0/4/4104ae09-5e20-4baa-acf7-b1879c0f0613.jpg?ci_seal=532a1c9698516a5707036465aa7b86d7ef78f304"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Sergic Paris 15ème",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "SERGIC PARIS 15ème",
+      "subtitle": "SERGIC PARIS 15ème",
+      "phoneNumbers": [
+        "01 56 58 66 01"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "SERGIC PARIS 15ème",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/4/1/0/4/4104ae09-5e20-4baa-acf7-b1879c0f0613.jpg?ci_seal=532a1c9698516a5707036465aa7b86d7ef78f304",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-15eme-arrondissement-75015/agence-76717/"
+      },
+      "contactCard": {
+        "title": "Sergic Paris 15ème",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.sergic.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-15eme-arrondissement-75015/agence-76717/",
+      "imprintUrl": null,
+      "feeUrl": "http://www.sergic.com/le-groupe/tarifs-paris-ile-de-france-3118",
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 428748909",
+        "<b>SIRET:</b> 42874890900317"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "45 rue de Lourmel, 75015 Paris",
+      "phoneNumbers": [
+        "01 56 58 66 01"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75013",
+    "av_city": "Paris",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25V12H4RIPS4",
+        "price": 2650,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75013",
+        "legacy_id": "256102029",
+        "product_type": "standard",
+        "client_id": "RC-067015",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "28269",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "75013",
+        "estate_type": 1,
+        "id": "256102029",
+        "id_duo": 256102029,
+        "id_solo": 256102029,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 3,
+        "nb_rooms": 4,
+        "parent_site": "SL",
+        "photos_nb": 16,
+        "position": 0,
+        "price": 2650,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 97
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75013",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256102029",
+      "prix": 2700,
+      "nb_pieces": 4,
+      "nb_chambres": 3,
+      "surface": 97,
+      "commodites": [
+        "ascenseur",
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire",
+        "terrasse"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-13eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 13ème arrondissement 75013",
+          "hoverLabel": "Appartements à louer Paris 13ème arrondissement 75013",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T4/F4 97 m² 2650 € Patay-Masséna Paris (75013)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T4/F4 97 m² 2650 € Patay-Masséna Paris (75013)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/patay-massena/256102029.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/patay-massena/256102029.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T4/F4 97 m² 2650 € Patay-Masséna Paris (75013)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T4/F4 97 m² 2650 € Patay-Masséna Paris (75013)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/5/1/f/f/51ff55eb-bf61-41ff-b6de-1b5ead383106.jpg?ci_seal=4151ff8f9d28820ac94b98f8c5b9f15c36b51e2d"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T4/F4 97 m² 2650 € Patay-Masséna Paris (75013)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/patay-massena/256102029.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T4/F4 97 m² 2650 € Patay-Masséna Paris (75013)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T4/F4 97 m² 2650 € Patay-Masséna Paris (75013)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/5/1/f/f/51ff55eb-bf61-41ff-b6de-1b5ead383106.jpg?ci_seal=4151ff8f9d28820ac94b98f8c5b9f15c36b51e2d"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T4/F4 97 m² 2650 € Patay-Masséna Paris (75013)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T4/F4 97 m² 2650 € Patay-Masséna Paris (75013)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-13eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 13ème arrondissement 75013",
+          "hoverLabel": "Appartements à louer Paris 13ème arrondissement 75013",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/patay-massena/256102029.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#101010",
+    "textColor": "light",
+    "providerName": "SERGIC PARIS 15ème",
+    "logo": {
+      "src": "https://mms.seloger.com/4/1/0/4/4104ae09-5e20-4baa-acf7-b1879c0f0613.jpg?ci_seal=532a1c9698516a5707036465aa7b86d7ef78f304",
+      "alt": "logo-RC-067015",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/b/3/7/c/b37c37ca-58ea-4331-bf88-211447e79f8b.png?ci_eqs=&ci_seal=707aab92e21a831f0a9b870c737cd54405161f43",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-15eme-arrondissement-75015/agence-76717/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/b/3/7/c/b37c37ca-58ea-4331-bf88-211447e79f8b.png?ci_eqs=&ci_seal=707aab92e21a831f0a9b870c737cd54405161f43",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-15eme-arrondissement-75015/agence-76717/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/0/7/5/1/07513a41-261f-4807-8662-0a43a5cf48ff.png?ci_eqs=&ci_seal=4f14ad4dfa684e92f9e663000344313ddd2cb132",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-15eme-arrondissement-75015/agence-76717/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR63&priceMax=3180&priceMin=2120",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR63",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR38",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25V12H4RIPS4"
+}

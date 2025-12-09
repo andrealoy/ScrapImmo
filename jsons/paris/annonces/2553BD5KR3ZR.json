@@ -1,0 +1,1314 @@
+{
+  "brand": "seloger",
+  "id": "2553BD5KR3ZR",
+  "metadata": {
+    "legacyId": "240119945",
+    "creationDate": "2025-04-18T11:10:00Z",
+    "updateDate": "2025-10-09T10:45:12.289Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 6ème",
+        "zipCode": "75006",
+        "district": "Rennes"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33044,
+          48.85087
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "4",
+                "color": "#c800a1"
+              },
+              {
+                "name": "10",
+                "color": "#c69214"
+              },
+              {
+                "name": "12",
+                "color": "#007a53"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "39",
+                "color": "#a0006e"
+              },
+              {
+                "name": "58",
+                "color": "#00643c"
+              },
+              {
+                "name": "63",
+                "color": "#cec92a"
+              },
+              {
+                "name": "68",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "70",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "83",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "84",
+                "color": "#d282be"
+              },
+              {
+                "name": "86",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "87",
+                "color": "#62259d"
+              },
+              {
+                "name": "94",
+                "color": "#a0006e"
+              },
+              {
+                "name": "95",
+                "color": "#62259d"
+              },
+              {
+                "name": "96",
+                "color": "#dc9609"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "L'agence Dauphine vous propose à la location . \r\nPlace Saint-Sulpice, Dans un magnifique immeuble ancien en pierre de taille avec ascenseur, un appartement au 6e étage face à l'église Saint-Sulpice avec une vue magique sur de nombreux monuments parisiens.\r\nAppartement meublé de 166 m² avec des prestations haut de gamme. inondé de lumière.\r\nIl se compose d'une entrée, d'une triple réception, d'une cuisine équipée, de trois chambres, d'une salle de bains, d'une salle de douche avec W-C et de W-C séparés. Chambres donnant sur une cour avec balcon, au calme.\r\nChauffage et eau chaude collectifs. Gardienne, digicode, interphone.\r\n\r\nBail code civil uniquement (bail au nom d'une société, résidence secondaire), honoraires charge locataire : 10 % HT du loyer annuel hors charges.",
+      "texts": [
+        {
+          "text": "L'agence Dauphine vous propose à la location . \r\nPlace Saint-Sulpice, Dans un magnifique immeuble ancien en pierre de taille avec ascenseur, un appartement au 6e étage face à l'église Saint-Sulpice avec une vue magique sur de nombreux monuments parisiens.\r\nAppartement meublé de 166 m² avec des prestations haut de gamme. inondé de lumière.\r\nIl se compose d'une entrée, d'une triple réception, d'une cuisine équipée, de trois chambres, d'une salle de bains, d'une salle de douche avec W-C et de W-C séparés. Chambres donnant sur une cour avec balcon, au calme.\r\nChauffage et eau chaude collectifs. Gardienne, digicode, interphone.\r\n\r\nBail code civil uniquement (bail au nom d'une société, résidence secondaire), honoraires charge locataire : 10 % HT du loyer annuel hors charges."
+        }
+      ],
+      "headline": "Place Saint Sulpice"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "6 pièces",
+        "3 chambres",
+        "166 m²",
+        "6ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "6 pièces",
+          "splitValue": "6",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "3 chambres",
+          "splitValue": "3",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "166 m²",
+          "splitValue": "166",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6ème étage",
+          "splitValue": "6ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "16 000 €",
+        "formatted": "16 000 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "16000 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Entretenu"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central: Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "0de27cd4-ae4e-41f5-bffa-07685a092d63",
+          "features": [
+            {
+              "type": "excessiveConsumption",
+              "label": "Consommation d'énergie",
+              "value": "Logement à consommation énergétique excessive: classe F"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "0a57f19b-ccef-45b1-a2df-b9f7e10846b1",
+              "efficiencyClass": {
+                "index": 5,
+                "rating": "F"
+              },
+              "values": [
+                {
+                  "value": "372 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "85 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : F avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": true
+            },
+            {
+              "key": "0b82d8ab-538e-471a-b9d4-af13f8fe933e",
+              "efficiencyClass": {
+                "index": 5,
+                "rating": "F"
+              },
+              "values": [
+                {
+                  "value": "85 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : F avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "240119945"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "85764788"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "15 500 €/mois Loyer de base",
+          "ariaLabel": "15500 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "500 €/mois",
+            "ariaLabel": "500 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "16 000 €/mois",
+            "ariaLabel": "16000 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "93,37 €/mois/m²",
+            "ariaLabel": "93,37 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "0"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "6ème étage"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "3 WCs"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: sud, ouest"
+        },
+        {
+          "value": "Belle vue",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "3 chambres"
+        },
+        {
+          "icon": "barrier-free",
+          "value": "Non accessible aux personnes à mobilité réduite"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "Orientation",
+                "value": "Exposition: sud, ouest"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "6ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "3 salles de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "3 WCs"
+              },
+              {
+                "icon": "bedroom",
+                "value": "3 chambres"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              },
+              {
+                "value": "Belle vue",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Gardien",
+                "icon": "custodian"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "b05e70be-449b-4220-a94f-bf1d7ffd5a1c",
+          "url": "https://mms.seloger.com/b/0/5/e/b05e70be-449b-4220-a94f-bf1d7ffd5a1c.jpg?ci_seal=39251868cd06edf165591f4583ee52d1b7d4caf6",
+          "alt": "Appartement à louer 16 000 € 6 pièces 3 chambres 166 m² 6ème étage Rennes Paris 6ème 75006",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "4dd6699c-0416-4fdc-a6a3-79a55ee964c7",
+          "url": "https://mms.seloger.com/4/d/d/6/4dd6699c-0416-4fdc-a6a3-79a55ee964c7.jpg?ci_seal=41c68bb28a3e6e49024bd5117c267038028686e9",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "c1ec2f70-9104-43b9-9a5e-37f4d27a00a7",
+          "url": "https://mms.seloger.com/c/1/e/c/c1ec2f70-9104-43b9-9a5e-37f4d27a00a7.jpg?ci_seal=e24bf3a81992d13d6540988a49a4f80c6d36f6fa",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "44e7cf53-f2ee-4b79-b175-48df1d0cebb9",
+          "url": "https://mms.seloger.com/4/4/e/7/44e7cf53-f2ee-4b79-b175-48df1d0cebb9.jpg?ci_seal=8156a3843bc498498c42e6e7270d45738388d20e",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "e05c2675-28c5-468b-892e-d9bd262bd4fb",
+          "url": "https://mms.seloger.com/e/0/5/c/e05c2675-28c5-468b-892e-d9bd262bd4fb.jpg?ci_seal=092e27d3715dad003007633dc75e07e08353a297",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "86a68395-bcad-4ebe-9926-b2e528d4c231",
+          "url": "https://mms.seloger.com/8/6/a/6/86a68395-bcad-4ebe-9926-b2e528d4c231.jpg?ci_seal=e7be6fa8083b447505f20b90e4e29441d160a78f",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "9d758688-0717-4b18-a61c-88ff03286e30",
+          "url": "https://mms.seloger.com/9/d/7/5/9d758688-0717-4b18-a61c-88ff03286e30.jpg?ci_seal=89e1b2deab12fb6ed2109fb4bc88480a0dd0f571",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "83b811e4-2157-48d1-83b5-351667710b00",
+          "url": "https://mms.seloger.com/8/3/b/8/83b811e4-2157-48d1-83b5-351667710b00.jpg?ci_seal=cf80d07b78b9ab2a64a9e177b3ca3c356b7cfd53",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "44d99d2c-908f-45f2-b653-ead14741a616",
+          "url": "https://mms.seloger.com/4/4/d/9/44d99d2c-908f-45f2-b653-ead14741a616.jpg?ci_seal=1e2fb8c06058e40042fffc6c4290d8cfcfa316a2",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "961931d5-b015-463f-b1ea-bf4742bdd92b",
+          "url": "https://mms.seloger.com/9/6/1/9/961931d5-b015-463f-b1ea-bf4742bdd92b.jpg?ci_seal=fcb92efd0aeb12581bd5dc150e3eb8bcc659e0b6",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "fd2ed87d-4973-4790-b490-9bca1b5e3c9f",
+          "url": "https://mms.seloger.com/f/d/2/e/fd2ed87d-4973-4790-b490-9bca1b5e3c9f.jpg?ci_seal=872883883a77a4b541465c9fb937869ead7ed15b",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "f5882165-8f33-411f-83bc-928ce418cafd",
+          "url": "https://mms.seloger.com/f/5/8/8/f5882165-8f33-411f-83bc-928ce418cafd.jpg?ci_seal=7c5f13ed475b8d1d7b8874f66da75d971d79d1a8",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "d24628f5-1033-4f5c-ac91-42bfd7dbd288",
+          "url": "https://mms.seloger.com/d/2/4/6/d24628f5-1033-4f5c-ac91-42bfd7dbd288.jpg?ci_seal=8fa2af7d47267584851d5da4bfe8eb63adda515f",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "cc84840a-861b-4924-a044-e5d8ba4dbef7",
+          "url": "https://mms.seloger.com/c/c/8/4/cc84840a-861b-4924-a044-e5d8ba4dbef7.jpg?ci_seal=f7211365f5e14407561b4b0ba7827f99c049706a",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "c42a6315-dfd4-43fc-80ef-45cc6896d538",
+          "url": "https://mms.seloger.com/c/4/2/a/c42a6315-dfd4-43fc-80ef-45cc6896d538.jpg?ci_seal=77f0a45e5efd04418788472a8993dd5de1903dc6",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": [
+        {
+          "urlType": "VIRTUAL_TOUR",
+          "url": "https://media.apimo.pro/video/ba257342b04654a4a24e76d0844ba301.mp4.html",
+          "key": "915a8dfd-003c-453e-8aaf-df1e62a2e43a",
+          "title": "Visite virtuelle",
+          "virtualTours": {},
+          "previewImage": {
+            "key": "b05e70be-449b-4220-a94f-bf1d7ffd5a1c",
+            "url": "https://mms.seloger.com/b/0/5/e/b05e70be-449b-4220-a94f-bf1d7ffd5a1c.jpg?ci_seal=39251868cd06edf165591f4583ee52d1b7d4caf6"
+          }
+        }
+      ]
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "240119945",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75006",
+      "city": "Paris 6ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 39.25,
+        "accuracy": 3,
+        "high": "52,18",
+        "low": "31,93"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "93,37",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Place Saint Sulpice",
+      "description": "L'agence Dauphine vous propose à la location . \r\nPlace Saint-Sulpice, Dans un magnifique immeuble ancien en pierre de taille avec ascenseur, un appartement au 6e étage face à l'église Saint-Sulpice avec une vue magique sur de nombreux monuments parisiens.\r\nAppartement meublé de 166 m² avec des prestations haut de gamme. inondé de lumière.\r\nIl se compose d'une entrée, d'une triple réception, d'une cuisine équipée, de trois chambres, d'une salle de bains, d'une salle de douche avec W-C et de W-C séparés. Chambres donnant sur une cour avec balcon, au calme.\r\nChauffage et eau chaude collectifs. Gardienne, digicode, interphone.\r\n\r\nBail code civil uniquement (bail au nom d'une société, résidence secondaire), honoraires charge locataire : 10 % HT du loyer annuel hors charges.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "2 mois en ligne",
+      "views": "471 vues",
+      "saves": "18 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "2553BD5KR3ZR",
+    "legacyId": "240119945",
+    "brand": "seloger",
+    "agencyId": "RC-094088",
+    "static": {
+      "phoneNumbers": [
+        "0143544343"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0143544343"
+      ]
+    },
+    "contactCard": {
+      "title": "DAUPHINE RIVE GAUCHE",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0143544343"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/1/5/f/4/15f4306a-677d-41ef-8097-794fad9d8247.jpg?ci_seal=c0e41a8b1098aa125a1fa3ab0b7e676eace9ed61",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "DAUPHINE RIVE GAUCHE",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "0143544343"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/1/5/f/4/15f4306a-677d-41ef-8097-794fad9d8247.jpg?ci_seal=c0e41a8b1098aa125a1fa3ab0b7e676eace9ed61"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "DAUPHINE RIVE GAUCHE",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0143544343"
+      ],
+      "logoUrl": "https://mms.seloger.com/1/5/f/4/15f4306a-677d-41ef-8097-794fad9d8247.jpg?ci_seal=c0e41a8b1098aa125a1fa3ab0b7e676eace9ed61",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "DAUPHINE RIVE GAUCHE",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/1/5/f/4/15f4306a-677d-41ef-8097-794fad9d8247.jpg?ci_seal=c0e41a8b1098aa125a1fa3ab0b7e676eace9ed61",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-6eme-arrondissement-75006/agence-48221/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "website": "https://www.agencedauphine.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-6eme-arrondissement-75006/agence-48221/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 330963612",
+        "<b>SIRET:</b> 33096361200032"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "24 rue Dauphine, 75006 Paris 6ème",
+      "phoneNumbers": [
+        "0143544343"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75006",
+    "av_city": "Paris",
+    "av_energy_certificate": "F",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "2553BD5KR3ZR",
+        "price": 16000,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75006",
+        "building_state": "WELL_KEPT",
+        "legacy_id": "240119945",
+        "product_type": "standard",
+        "client_id": "RC-094088",
+        "energy_certificate": "F"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "142536",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "F",
+        "estate_postalcode": "75006",
+        "estate_type": 1,
+        "id": "240119945",
+        "id_duo": 240119945,
+        "id_solo": 240119945,
+        "list_name": "detail",
+        "media": 1,
+        "nb_bedrooms": 3,
+        "nb_rooms": 6,
+        "parent_site": "SL",
+        "photos_nb": 15,
+        "position": 0,
+        "price": 16000,
+        "product_geolocation": "localisation_district",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 166
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75006",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "240119945",
+      "prix": 16000,
+      "nb_pieces": 6,
+      "nb_chambres": 3,
+      "surface": 166,
+      "commodites": [
+        "belleVue",
+        "Chauffage-central",
+        "Chauffage-gaz",
+        "SalleDeBain-baignoire",
+        "sud"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "F"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-6eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 6ème arrondissement 75006",
+          "hoverLabel": "Appartements à louer Paris 6ème arrondissement 75006",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T6/F6 166 m² 16000 € Rennes Paris (75006)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T6/F6 166 m² 16000 € Rennes Paris (75006)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-6eme-75/saint-germain-des-pres/240119945.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-6eme-75/saint-germain-des-pres/240119945.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T6/F6 166 m² 16000 € Rennes Paris (75006)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T6/F6 166 m² 16000 € Rennes Paris (75006)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/b/0/5/e/b05e70be-449b-4220-a94f-bf1d7ffd5a1c.jpg?ci_seal=39251868cd06edf165591f4583ee52d1b7d4caf6"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T6/F6 166 m² 16000 € Rennes Paris (75006)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-6eme-75/saint-germain-des-pres/240119945.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T6/F6 166 m² 16000 € Rennes Paris (75006)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T6/F6 166 m² 16000 € Rennes Paris (75006)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/b/0/5/e/b05e70be-449b-4220-a94f-bf1d7ffd5a1c.jpg?ci_seal=39251868cd06edf165591f4583ee52d1b7d4caf6"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T6/F6 166 m² 16000 € Rennes Paris (75006)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T6/F6 166 m² 16000 € Rennes Paris (75006)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-6eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 6ème arrondissement 75006",
+          "hoverLabel": "Appartements à louer Paris 6ème arrondissement 75006",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.bellesdemeures.com/240119945/detail.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#F4F0EC",
+    "textColor": "dark",
+    "providerName": "DAUPHINE RIVE GAUCHE",
+    "logo": {
+      "src": "https://mms.seloger.com/1/5/f/4/15f4306a-677d-41ef-8097-794fad9d8247.jpg?ci_seal=c0e41a8b1098aa125a1fa3ab0b7e676eace9ed61",
+      "alt": "logo-RC-094088",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/9/0/b/8/90b8bb3c-5dab-4e32-91a7-7acd789e1b95.jpg?ci_eqs=&ci_seal=5b2151d1e9481d6c7e1001d35bc63bc5964a52f2",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-6eme-arrondissement-75006/agence-48221/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/9/0/b/8/90b8bb3c-5dab-4e32-91a7-7acd789e1b95.jpg?ci_eqs=&ci_seal=5b2151d1e9481d6c7e1001d35bc63bc5964a52f2",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-6eme-arrondissement-75006/agence-48221/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/f/5/e/b/f5eb8406-fe1e-4e1e-ba07-fc0c1e01e0a7.jpg?ci_eqs=&ci_seal=2cf579f869510d606d600b9db6a937bd1b2f2fe1",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-6eme-arrondissement-75006/agence-48221/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR22&priceMax=19200&priceMin=12800",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": true,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR22",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR31",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "2553BD5KR3ZR"
+}

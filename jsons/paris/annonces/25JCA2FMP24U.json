@@ -1,0 +1,1281 @@
+{
+  "brand": "seloger",
+  "id": "25JCA2FMP24U",
+  "metadata": {
+    "legacyId": "255851631",
+    "creationDate": "2025-12-04T17:23:00Z",
+    "updateDate": "2025-12-07T11:11:13.284Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 19ème",
+        "zipCode": "75019",
+        "district": "Bassin de la Villette"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.378638,
+          48.885882
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "5",
+                "color": "#FF7F32"
+              },
+              {
+                "name": "7",
+                "color": "#f59bbb"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "48",
+                "color": "#006cb8"
+              },
+              {
+                "name": "54",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "60",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "71",
+                "color": "#5a230a"
+              },
+              {
+                "name": "75",
+                "color": "#ffbe02"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "- 2 pièces de 34.57 m²\r\n- 3 rue Tandou\r\n- Refait à neuf\r\n- Rangements\r\n- Parquet\r\n- Cuisine intégrée\r\n- Plaque vitrocéramique\r\n- Réfrigérateur / congélateur\r\n- Hotte\r\n- Machine à laver\r\n- Salle de douche\r\n- Métro Laumiere (100 m)\r\n- Loyer de base: 1003 euros\r\n- Complément de loyer: 192 euros\r\n- Charges: 85 euros\r\n- Coût annuel de la consommation d'énergie minimum: 790\r\n- Coût annuel de la consommation d'énergie maximum: 1110\r\n- Date de référence de la consommation du DPE: 2023-01-01\r\n- Aucun frais d'agence",
+      "texts": [
+        {
+          "text": "- 2 pièces de 34.57 m²\r\n- 3 rue Tandou\r\n- Refait à neuf\r\n- Rangements\r\n- Parquet\r\n- Cuisine intégrée\r\n- Plaque vitrocéramique\r\n- Réfrigérateur / congélateur\r\n- Hotte\r\n- Machine à laver\r\n- Salle de douche\r\n- Métro Laumiere (100 m)\r\n- Loyer de base: 1003 euros\r\n- Complément de loyer: 192 euros\r\n- Charges: 85 euros\r\n- Coût annuel de la consommation d'énergie minimum: 790\r\n- Coût annuel de la consommation d'énergie maximum: 1110\r\n- Date de référence de la consommation du DPE: 2023-01-01\r\n- Aucun frais d'agence"
+        }
+      ],
+      "headline": "À propos de ce bien"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "34,6 m²",
+        "Étage 5/8"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34,6 m²",
+          "splitValue": "34,6",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 5/8",
+          "splitValue": "Étage",
+          "label": "5/8"
+        }
+      ],
+      "price": {
+        "value": "1 280 €",
+        "formatted": "1 280 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1280 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1900"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Remis à neuf"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "44381f82-59dc-49cd-993e-35fcf3f060e4",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 790 et 1110 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 790 et 1110 € par an. Prix moyens des énergies indexés au 31/12/2022 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "98022593-9ec1-4fab-97e7-f7f2995b62b3",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "790 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "8 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "a031da8f-c011-465c-b42d-bce291fd2b1a",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "8 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255851631"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "6317_B52"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 280 €/mois Loyer charges comprises",
+          "ariaLabel": "1280 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "85 €/mois",
+            "ariaLabel": "85 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "31,47 €/mois/m²",
+            "ariaLabel": "31,47 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1195"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "5ème étage/8 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "WC dans la salle de bains"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "5ème étage/8 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "WC dans la salle de bains"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "4cc8120e-c05e-476e-b4ef-a198336de1dc",
+          "url": "https://mms.seloger.com/4/c/c/8/4cc8120e-c05e-476e-b4ef-a198336de1dc.jpg?ci_seal=98136f5ef4358a55d447fbca1364b1fb0f7d54ee",
+          "alt": "Appartement à louer 1 280 € 2 pièces 1 chambre 34,6 m² Étage 5/8 Bassin de la Villette Paris 19ème 75019",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d5ba6cf3-3614-4e06-b9db-1abb81696d02",
+          "url": "https://mms.seloger.com/d/5/b/a/d5ba6cf3-3614-4e06-b9db-1abb81696d02.jpg?ci_seal=2d3a6bec08c58d108cc274628b7efaccd73948fe",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "44c9e3b9-3193-4297-887c-347e7ab65ec0",
+          "url": "https://mms.seloger.com/4/4/c/9/44c9e3b9-3193-4297-887c-347e7ab65ec0.jpg?ci_seal=f262564c2dcb14dcc855d6627c95d794ba435a49",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "032e41c8-e9e0-4c3d-a5ff-73bccbd2018f",
+          "url": "https://mms.seloger.com/0/3/2/e/032e41c8-e9e0-4c3d-a5ff-73bccbd2018f.jpg?ci_seal=ad9429f486cb70e3725dc1e119828557d4a64efe",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4fa380da-1dc9-4cfc-882e-26877d65815f",
+          "url": "https://mms.seloger.com/4/f/a/3/4fa380da-1dc9-4cfc-882e-26877d65815f.jpg?ci_seal=42d001cd02d13d9570f533ffa65cd64378d2938a",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "62c4c92b-d464-48cf-abd2-b7d177cdc5d1",
+          "url": "https://mms.seloger.com/6/2/c/4/62c4c92b-d464-48cf-abd2-b7d177cdc5d1.jpg?ci_seal=b5bbdb0217a3c90e294a6057fc05158226d0ffc4",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e8eccbbe-d809-419a-bdb4-eb59bbc6b3b1",
+          "url": "https://mms.seloger.com/e/8/e/c/e8eccbbe-d809-419a-bdb4-eb59bbc6b3b1.jpg?ci_seal=5ba1c609995e55edeb6cdb29b81de139e4169b11",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "dbc6af8f-4cfe-43d8-98e9-8cf9caac27f3",
+          "url": "https://mms.seloger.com/d/b/c/6/dbc6af8f-4cfe-43d8-98e9-8cf9caac27f3.jpg?ci_seal=4620e9dda04de90d962ea282434bbb9e11faaedc",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d5b87867-b400-439f-8ee9-40d89195f17c",
+          "url": "https://mms.seloger.com/d/5/b/8/d5b87867-b400-439f-8ee9-40d89195f17c.jpg?ci_seal=c9bca0fa06e741d430073cb81a7ae918b7db69e3",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4ce3dd2d-a6d7-49b8-a63f-5c50457af60b",
+          "url": "https://mms.seloger.com/4/c/e/3/4ce3dd2d-a6d7-49b8-a63f-5c50457af60b.jpg?ci_seal=bb7ec62c8cbf7d862e06e519735d2d8aa59ce299",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "59a28570-6d41-4c80-b727-94ff3f0c41f1",
+          "url": "https://mms.seloger.com/5/9/a/2/59a28570-6d41-4c80-b727-94ff3f0c41f1.jpg?ci_seal=68b87fbffa9ca1086f2ea752c055786d29b73e76",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "baf3bf76-d797-46f1-8d75-6cf3d3408af9",
+          "url": "https://mms.seloger.com/b/a/f/3/baf3bf76-d797-46f1-8d75-6cf3d3408af9.jpg?ci_seal=9efe138c0ba3801843bd6788098be54e05468d63",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "dd40549b-eff9-4209-a95c-6d365dc48092",
+          "url": "https://mms.seloger.com/d/d/4/0/dd40549b-eff9-4209-a95c-6d365dc48092.jpg?ci_seal=f2ca57b5d10ce8f661dc7d62c474b3533d9779ff",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "84eb9525-bbcd-4847-804e-cd5f612d9d59",
+          "url": "https://mms.seloger.com/8/4/e/b/84eb9525-bbcd-4847-804e-cd5f612d9d59.jpg?ci_seal=a6a39d060657e767990d7e4a5793889a404df298",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "35c6ba16-a570-4529-97b8-0af034e75299",
+          "url": "https://mms.seloger.com/3/5/c/6/35c6ba16-a570-4529-97b8-0af034e75299.jpg?ci_seal=0f9e3d5270c3c6d79c0441939a7ca69e8b113372",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2d46866b-c783-4e5c-bc1f-c2db49f48805",
+          "url": "https://mms.seloger.com/2/d/4/6/2d46866b-c783-4e5c-bc1f-c2db49f48805.jpg?ci_seal=eabdefce17c0cf967aa7ad7b44dd7e0cea18b029",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "24da933f-9391-48ad-bed3-c07796fbfff6",
+          "url": "https://mms.seloger.com/2/4/d/a/24da933f-9391-48ad-bed3-c07796fbfff6.jpg?ci_seal=4943d2ed4296b4a870890cacaa2c4cbc44ded05c",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ],
+      "floorplans": [
+        {
+          "key": "e72ad0a9-e99c-47b9-a4e8-fdf992d65241",
+          "url": "https://mms.seloger.com/e/7/2/a/e72ad0a9-e99c-47b9-a4e8-fdf992d65241.jpg?ci_seal=f21bc293ea708a2d167cc33b6f241dca016f36dc",
+          "alt": "Appartement à louer 1 280 € 2 pièces 1 chambre 34,6 m² Étage 5/8 Bassin de la Villette Paris 19ème 75019",
+          "classification": {
+            "name": "FLOORPLAN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255851631",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75019",
+      "city": "Paris 19ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 28.5,
+        "accuracy": 3,
+        "high": "36,14",
+        "low": "21,08"
+      },
+      "markerPosition": 69,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "31,47",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "À propos de ce bien",
+      "description": "- 2 pièces de 34.57 m²\r\n- 3 rue Tandou\r\n- Refait à neuf\r\n- Rangements\r\n- Parquet\r\n- Cuisine intégrée\r\n- Plaque vitrocéramique\r\n- Réfrigérateur / congélateur\r\n- Hotte\r\n- Machine à laver\r\n- Salle de douche\r\n- Métro Laumiere (100 m)\r\n- Loyer de base: 1003 euros\r\n- Complément de loyer: 192 euros\r\n- Charges: 85 euros\r\n- Coût annuel de la consommation d'énergie minimum: 790\r\n- Coût annuel de la consommation d'énergie maximum: 1110\r\n- Date de référence de la consommation du DPE: 2023-01-01\r\n- Aucun frais d'agence",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "5 jours en ligne",
+      "views": "320 vues",
+      "saves": "47 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25JCA2FMP24U",
+    "legacyId": "255851631",
+    "brand": "seloger",
+    "agencyId": "RC-030113",
+    "static": {
+      "phoneNumbers": [
+        "0784391801"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0784391801"
+      ]
+    },
+    "contactCard": {
+      "title": "AKELIUS FRANCE MANAGEMENT",
+      "subtitle": "Faycal Daoudi",
+      "phoneNumbers": [
+        "0784391801"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/0/d/0/b/0d0b3be1-aa05-4460-9613-a9ec93af1c19.jpg?ci_seal=46b8e6c9f0640ac642a4257dc16d788b046b8da1",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "AKELIUS FRANCE MANAGEMENT",
+        "subtitle": "Faycal Daoudi",
+        "phoneNumbers": [
+          "0784391801"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/0/d/0/b/0d0b3be1-aa05-4460-9613-a9ec93af1c19.jpg?ci_seal=46b8e6c9f0640ac642a4257dc16d788b046b8da1"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Faycal Daoudi",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "AKELIUS FRANCE MANAGEMENT",
+      "subtitle": "AKELIUS FRANCE MANAGEMENT",
+      "phoneNumbers": [
+        "0784391801"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "AKELIUS FRANCE MANAGEMENT",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/0/d/0/b/0d0b3be1-aa05-4460-9613-a9ec93af1c19.jpg?ci_seal=46b8e6c9f0640ac642a4257dc16d788b046b8da1",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-27332/"
+      },
+      "contactCard": {
+        "title": "Faycal Daoudi",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "https://rent.akelius.com/fr/search/france/apartment/paris",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-27332/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 804128866",
+        "<b>SIRET:</b> 80412886600048"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "37-41 rue du Rocher Paris, 75008 Paris 8ème",
+      "phoneNumbers": [
+        "0784391801"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75019",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25JCA2FMP24U",
+        "price": 1280,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75019",
+        "building_state": "REFURBISHED",
+        "legacy_id": "255851631",
+        "product_type": "standard",
+        "client_id": "RC-030113",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "109745",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75019",
+        "estate_type": 1,
+        "id": "255851631",
+        "id_duo": 255851631,
+        "id_solo": 255851631,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 18,
+        "position": 0,
+        "price": 1280,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 34.57,
+        "year_of_construction": 1900
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75019",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255851631",
+      "prix": 1300,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 34.57,
+      "etage": 8,
+      "commodites": [
+        "Chauffage-electrique",
+        "Cuisine-équipée",
+        "parquet",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-19eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 19ème arrondissement 75019",
+          "hoverLabel": "Appartements à louer Paris 19ème arrondissement 75019",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 34.57 m² 1280 € Bassin de la Villette Paris (75019)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 34.57 m² 1280 € Bassin de la Villette Paris (75019)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-19eme-75/bassin-de-la-villette/255851631.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-19eme-75/bassin-de-la-villette/255851631.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 34.57 m² 1280 € Bassin de la Villette Paris (75019)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 34.57 m² 1280 € Bassin de la Villette Paris (75019)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/4/c/c/8/4cc8120e-c05e-476e-b4ef-a198336de1dc.jpg?ci_seal=98136f5ef4358a55d447fbca1364b1fb0f7d54ee"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 34.57 m² 1280 € Bassin de la Villette Paris (75019)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-19eme-75/bassin-de-la-villette/255851631.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 34.57 m² 1280 € Bassin de la Villette Paris (75019)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 34.57 m² 1280 € Bassin de la Villette Paris (75019)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/4/c/c/8/4cc8120e-c05e-476e-b4ef-a198336de1dc.jpg?ci_seal=98136f5ef4358a55d447fbca1364b1fb0f7d54ee"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 34.57 m² 1280 € Bassin de la Villette Paris (75019)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 34.57 m² 1280 € Bassin de la Villette Paris (75019)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-19eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 19ème arrondissement 75019",
+          "hoverLabel": "Appartements à louer Paris 19ème arrondissement 75019",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-19eme-75/bassin-de-la-villette/255851631.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#103050",
+    "textColor": "light",
+    "providerName": "AKELIUS FRANCE MANAGEMENT",
+    "logo": {
+      "src": "https://mms.seloger.com/0/d/0/b/0d0b3be1-aa05-4460-9613-a9ec93af1c19.jpg?ci_seal=46b8e6c9f0640ac642a4257dc16d788b046b8da1",
+      "alt": "logo-RC-030113",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/8/3/6/9/8369a777-313b-4341-a7d3-14d36007a67b.png?ci_eqs=&ci_seal=82a47f00891f683ecfa109472e5bffb4a11d1274",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-27332/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/8/3/6/9/8369a777-313b-4341-a7d3-14d36007a67b.png?ci_eqs=&ci_seal=82a47f00891f683ecfa109472e5bffb4a11d1274",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-27332/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/5/a/5/1/5a5113b7-8a66-4b1d-b0b0-5becb2883739.png?ci_eqs=&ci_seal=30558438864cecf24681a5bb480cd7dc1b0e0d8d",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-27332/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR107&priceMax=1536&priceMin=1024",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR107",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR44",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25JCA2FMP24U"
+}

@@ -1,0 +1,1148 @@
+{
+  "brand": "seloger",
+  "id": "252LJ3AFNZJE",
+  "metadata": {
+    "legacyId": "256150439",
+    "creationDate": "2025-12-09T12:33:00Z",
+    "updateDate": "2025-12-09T13:46:07.358Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 2ème",
+        "zipCode": "75002",
+        "district": "Vivienne-Gaillon"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33949097689591,
+          48.86640673403282
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "1",
+                "color": "#ffcd00"
+              },
+              {
+                "name": "3",
+                "color": "#827a04"
+              },
+              {
+                "name": "7",
+                "color": "#f59bbb"
+              },
+              {
+                "name": "14",
+                "color": "#5f259f"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "20",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "21",
+                "color": "#77c695"
+              },
+              {
+                "name": "27",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "29",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "39",
+                "color": "#a0006e"
+              },
+              {
+                "name": "67",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "68",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "69",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "72",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "74",
+                "color": "#cec92a"
+              },
+              {
+                "name": "81",
+                "color": "#f58f53"
+              },
+              {
+                "name": "85",
+                "color": "#5a230a"
+              },
+              {
+                "name": "95",
+                "color": "#62259d"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Galerie Vivienne\nL'agence Vecteur immobilier vous présente  un F3 au 3eme etages  sans ascenseur d'une surface de 75m2 d'un immeuble situé dans la galerie Vivienne.\nComposé d'un  sejour salle à manger avec cuisine ouverte  , 2 chambres, une  salle de bain et  1  WC separé\nDigicode ert gardiennage",
+      "texts": [
+        {
+          "text": "Galerie Vivienne\nL'agence Vecteur immobilier vous présente  un F3 au 3eme etages  sans ascenseur d'une surface de 75m2 d'un immeuble situé dans la galerie Vivienne.\nComposé d'un  sejour salle à manger avec cuisine ouverte  , 2 chambres, une  salle de bain et  1  WC separé\nDigicode ert gardiennage"
+        }
+      ],
+      "headline": "Appartement 3 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "75 m²",
+        "Étage 3/5"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "75 m²",
+          "splitValue": "75",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 3/5",
+          "splitValue": "Étage",
+          "label": "3/5"
+        }
+      ],
+      "price": {
+        "value": "2 413 €",
+        "formatted": "2 413 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "hors charges",
+        "addition": {
+          "value": "hc",
+          "priceLabelDesc": "hors charges"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "2413 €",
+        "chargesLabel": "hc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Première occupation"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "ff2b1212-1900-4e6a-8779-32e157dae7b7",
+          "scales": [
+            {
+              "key": "c60f2dbc-2038-48f8-8727-8e8af91adb45",
+              "name": "Diagnostic de Performance Énergétique (DPE)",
+              "alternateText": "DPE vierge - aucune donnée énergétique n'est disponible pour ce type de bien.",
+              "ariaLabel": "DPE vierge - aucune donnée énergétique n'est disponible pour ce type de bien."
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256150439"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "L3 Vivienne"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "2 413 €/mois Loyer de base",
+          "ariaLabel": "2413 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Prix ​​au m²",
+            "value": "32,17 €/mois/m²",
+            "ariaLabel": "32,17 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2413"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 30/12/2025"
+        },
+        {
+          "icon": "floors",
+          "value": "3ème étage/5 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "value": "Sans vis-à-vis",
+          "icon": "with-view"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "availability",
+                "value": "disponible à partir du 30/12/2025"
+              },
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "3ème étage/5 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Sans vis-à-vis",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "TV par câble",
+                "icon": "tv"
+              }
+            ],
+            "title": "Équipements"
+          },
+          {
+            "elements": [
+              {
+                "value": "Gardien",
+                "icon": "custodian"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "d926a38b-6787-4b0c-b429-6e3a7c6289b1",
+          "url": "https://mms.seloger.com/d/9/2/6/d926a38b-6787-4b0c-b429-6e3a7c6289b1.jpg?ci_seal=838d74497aa65516ef36b78a0be9896e6634204e",
+          "alt": "Appartement à louer 2 413 € 3 pièces 2 chambres 75 m² Étage 3/5 Vivienne-Gaillon Paris 2ème 75002",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9892ee28-314a-4d7e-aadc-09f645db33e8",
+          "url": "https://mms.seloger.com/9/8/9/2/9892ee28-314a-4d7e-aadc-09f645db33e8.jpg?ci_seal=db63272fcd8df5f54d69ec287f378eba6fa84f27",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d145c6c8-0b7b-4b85-930f-c914e9acbf3e",
+          "url": "https://mms.seloger.com/d/1/4/5/d145c6c8-0b7b-4b85-930f-c914e9acbf3e.jpg?ci_seal=c60b4dd5b32c94e54469e8e31c3b39c42254d0ed",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "16afc576-43d1-4007-9023-b2bd4791759b",
+          "url": "https://mms.seloger.com/1/6/a/f/16afc576-43d1-4007-9023-b2bd4791759b.jpg?ci_seal=422d7fc1f4f3616f640d6082c1886031538db6e7",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "33815f9b-196c-4003-af3f-ffe0598c4ad9",
+          "url": "https://mms.seloger.com/3/3/8/1/33815f9b-196c-4003-af3f-ffe0598c4ad9.jpg?ci_seal=b0440ae456e15f687ca57be047abc3a83e0a69b9",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "41ca986e-0085-4e77-b9c9-dee2d605bc2d",
+          "url": "https://mms.seloger.com/4/1/c/a/41ca986e-0085-4e77-b9c9-dee2d605bc2d.jpg?ci_seal=76f3ffae5fc86d355c5f75224bdfb24ea2415576",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "493f271d-0990-460c-bb1e-cd8f63d94745",
+          "url": "https://mms.seloger.com/4/9/3/f/493f271d-0990-460c-bb1e-cd8f63d94745.jpg?ci_seal=a8a452569d00565bd3107c1b990c0e2f8539aa31",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c989b54c-4885-4ed8-a79b-0cdb680861c3",
+          "url": "https://mms.seloger.com/c/9/8/9/c989b54c-4885-4ed8-a79b-0cdb680861c3.jpg?ci_seal=c780d07a3f8fffc610fdb3194ae5444ad1a3b9d1",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4fcb00a5-825e-41ba-bc86-69e9bea8f136",
+          "url": "https://mms.seloger.com/4/f/c/b/4fcb00a5-825e-41ba-bc86-69e9bea8f136.jpg?ci_seal=855f9bf3e555f1ea05fb7a3c78368476b952d0f7",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2bdceaba-38a5-44bc-a858-e394a8bafcd2",
+          "url": "https://mms.seloger.com/2/b/d/c/2bdceaba-38a5-44bc-a858-e394a8bafcd2.jpg?ci_seal=af82042fe296160b949be82c0d34a30bfa38a4cf",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "955bfb16-cdc4-473f-b7af-6af4b52780d9",
+          "url": "https://mms.seloger.com/9/5/5/b/955bfb16-cdc4-473f-b7af-6af4b52780d9.jpg?ci_seal=36daf4130e781f927bf3067abb17579e05cf6af7",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "662875dc-9916-482e-90a4-04555117713f",
+          "url": "https://mms.seloger.com/6/6/2/8/662875dc-9916-482e-90a4-04555117713f.jpg?ci_seal=d78edabf1abbaa3c10d59b81666569717017f7d3",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "25767a02-d6af-4042-887a-b975f84d75e3",
+          "url": "https://mms.seloger.com/2/5/7/6/25767a02-d6af-4042-887a-b975f84d75e3.jpg?ci_seal=85b512fb6bd730f2f88dcea9fcdbaa0dd6b1bf81",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "72835187-d42d-4218-bab8-20ae4f29c65d",
+          "url": "https://mms.seloger.com/7/2/8/3/72835187-d42d-4218-bab8-20ae4f29c65d.jpg?ci_seal=ee57f4507ddcc30a3698ccc3b63d1cc6caae0ca1",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256150439",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75002",
+      "city": "Paris 2ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 36.3,
+        "accuracy": 3,
+        "high": "49,75",
+        "low": "27,98"
+      },
+      "markerPosition": 19,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "32,17",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 3 pièces",
+      "description": "Galerie Vivienne\nL'agence Vecteur immobilier vous présente  un F3 au 3eme etages  sans ascenseur d'une surface de 75m2 d'un immeuble situé dans la galerie Vivienne.\nComposé d'un  sejour salle à manger avec cuisine ouverte  , 2 chambres, une  salle de bain et  1  WC separé\nDigicode ert gardiennage",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "338 vues",
+      "saves": "12 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "252LJ3AFNZJE",
+    "legacyId": "256150439",
+    "brand": "seloger",
+    "agencyId": "RC-022090",
+    "static": {
+      "phoneNumbers": [
+        "0184170032"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0184170032"
+      ]
+    },
+    "contactCard": {
+      "title": "Vecteur Immobilier",
+      "subtitle": "Vecteur Immobilier",
+      "phoneNumbers": [
+        "0184170032"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/b/b/c/2/bbc241ed-67aa-4e0f-a7ab-117aded06ffb.jpg?ci_seal=93cb9bd78453872c24e8d6f94689fd4439a6370e",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Vecteur Immobilier",
+        "subtitle": "Vecteur Immobilier",
+        "phoneNumbers": [
+          "0184170032"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/b/b/c/2/bbc241ed-67aa-4e0f-a7ab-117aded06ffb.jpg?ci_seal=93cb9bd78453872c24e8d6f94689fd4439a6370e"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Vecteur Immobilier",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Vecteur Immobilier",
+      "subtitle": "Vecteur Immobilier",
+      "phoneNumbers": [
+        "0184170032"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Vecteur Immobilier",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/b/b/c/2/bbc241ed-67aa-4e0f-a7ab-117aded06ffb.jpg?ci_seal=93cb9bd78453872c24e8d6f94689fd4439a6370e",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-15eme-arrondissement-75015/agence-75771/"
+      },
+      "contactCard": {
+        "title": "Vecteur Immobilier",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.vecteur-immobilier.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-15eme-arrondissement-75015/agence-75771/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>Siège:</b> 3, Boulevard Garibaldi, 75015 Paris",
+        "<b>RCS:</b> 379613730",
+        "<b>SIRET:</b> 37961373000017"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "3 boulevard Garibaldi 75005 Paris 5ème, 75015 Paris 15ème",
+      "phoneNumbers": [
+        "0184170032"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75002",
+    "av_city": "Paris",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "252LJ3AFNZJE",
+        "price": 2413,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75002",
+        "building_state": "FIRST_TIME_USE",
+        "legacy_id": "256150439",
+        "product_type": "standard",
+        "client_id": "RC-022090"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "37238",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "estate_postalcode": "75002",
+        "estate_type": 1,
+        "id": "256150439",
+        "id_duo": 256150439,
+        "id_solo": 256150439,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 14,
+        "position": 0,
+        "price": 2413,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 75
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75002",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256150439",
+      "prix": 2500,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 75,
+      "etage": 5,
+      "commodites": [
+        "Cuisine-américaine",
+        "parquet",
+        "SalleDeBain-baignoire",
+        "sansVisAVis",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-2eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 2ème arrondissement 75002",
+          "hoverLabel": "Appartements à louer Paris 2ème arrondissement 75002",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 75 m² 2413 € Vivienne-Gaillon Paris (75002)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 75 m² 2413 € Vivienne-Gaillon Paris (75002)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-2eme-75/vivienne-gaillon/256150439.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-2eme-75/vivienne-gaillon/256150439.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 75 m² 2413 € Vivienne-Gaillon Paris (75002)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 75 m² 2413 € Vivienne-Gaillon Paris (75002)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/d/9/2/6/d926a38b-6787-4b0c-b429-6e3a7c6289b1.jpg?ci_seal=838d74497aa65516ef36b78a0be9896e6634204e"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 75 m² 2413 € Vivienne-Gaillon Paris (75002)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-2eme-75/vivienne-gaillon/256150439.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 75 m² 2413 € Vivienne-Gaillon Paris (75002)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 75 m² 2413 € Vivienne-Gaillon Paris (75002)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/d/9/2/6/d926a38b-6787-4b0c-b429-6e3a7c6289b1.jpg?ci_seal=838d74497aa65516ef36b78a0be9896e6634204e"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 75 m² 2413 € Vivienne-Gaillon Paris (75002)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 75 m² 2413 € Vivienne-Gaillon Paris (75002)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-2eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 2ème arrondissement 75002",
+          "hoverLabel": "Appartements à louer Paris 2ème arrondissement 75002",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-2eme-75/vivienne-gaillon/256150439.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR6&priceMax=2895.6&priceMin=1930.4",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR6",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR27",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "252LJ3AFNZJE"
+}

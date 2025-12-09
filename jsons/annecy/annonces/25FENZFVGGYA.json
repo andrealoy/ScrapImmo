@@ -1,0 +1,1110 @@
+{
+  "brand": "seloger",
+  "id": "25FENZFVGGYA",
+  "metadata": {
+    "legacyId": "253609547",
+    "creationDate": "2025-11-04T02:56:00Z",
+    "updateDate": "2025-12-04T03:20:05.933Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Annecy",
+        "zipCode": "74000",
+        "district": "Les Fins"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.129875,
+          45.924325
+        ]
+      }
+    },
+    "description": {
+      "description": "Venez découvrir ce bel appartement T3 idéalement situé à proximité du carrefour de l'Avenue de Genève.Ce logement bénéficie d'un emplacement pratique, à quelques minutes des axes routiers et de l'autoroute Annecy Nord, facilitant vos déplacements quotidiens.Il se compose d'une entrée avec rangements, d'une cuisine équipée (four, plaques de cuisson, hotte et meubles de rangement), ainsi que d'un grand séjour ouvrant sur un large balcon.L'appartement dispose de deux chambres, d'une salle de bains et de toilettes séparées.Une cave et une place de stationnement extérieure complètent ce bien.",
+      "texts": [
+        {
+          "text": "Venez découvrir ce bel appartement T3 idéalement situé à proximité du carrefour de l'Avenue de Genève.Ce logement bénéficie d'un emplacement pratique, à quelques minutes des axes routiers et de l'autoroute Annecy Nord, facilitant vos déplacements quotidiens.Il se compose d'une entrée avec rangements, d'une cuisine équipée (four, plaques de cuisson, hotte et meubles de rangement), ainsi que d'un grand séjour ouvrant sur un large balcon.L'appartement dispose de deux chambres, d'une salle de bains et de toilettes séparées.Une cave et une place de stationnement extérieure complètent ce bien."
+        }
+      ],
+      "headline": "Appartement"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "66,8 m²",
+        "Étage 5/6"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "66,8 m²",
+          "splitValue": "66,8",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 5/6",
+          "splitValue": "Étage",
+          "label": "5/6"
+        }
+      ],
+      "price": {
+        "value": "1 220 €",
+        "formatted": "1 220 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "1220 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "0eaa16ce-8834-4dcd-a909-6d55c854cc98",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "aed6ca0b-dd8b-4931-b146-a433b0d2f4fd",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "222 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "37e013ae-e009-4d03-8aaf-c22bd8c5a3cc",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "253609547"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "FL0848781"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 220 €/mois Loyer charges comprises",
+          "ariaLabel": "1220 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "70 €/mois",
+            "ariaLabel": "70 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "18,27 €/mois/m²",
+            "ariaLabel": "18,27 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1150,00"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "5ème étage/6 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "value": "Cave",
+          "icon": "cellar"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Parking"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "balcony",
+          "value": "Balcon (Total 14,8 m²)"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "5ème étage/6 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "value": "Cave",
+                "icon": "cellar"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Balcon (Total 14,8 m²)"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "Parking"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "fd3e1e7c-9c3d-45b6-83c6-00884c0b3b41",
+          "url": "https://mms.seloger.com/f/d/3/e/fd3e1e7c-9c3d-45b6-83c6-00884c0b3b41.jpg?ci_seal=ee6749b14868772460be0d44b73d71a82697cfd4",
+          "alt": "Appartement à louer 1 220 € 3 pièces 2 chambres 66,8 m² Étage 5/6 Les Fins Annecy 74000",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "10d1af18-8667-4a3a-b7ae-88145e83f684",
+          "url": "https://mms.seloger.com/1/0/d/1/10d1af18-8667-4a3a-b7ae-88145e83f684.jpg?ci_seal=22319b066c041df5ef3fa9ae272374f77a20cd89",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0ae4dd95-4514-4bac-a9ad-4e52367056a4",
+          "url": "https://mms.seloger.com/0/a/e/4/0ae4dd95-4514-4bac-a9ad-4e52367056a4.jpg?ci_seal=0920e25bf73ec20c94e4d5bab3cced5be5410ce8",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "91f59f7f-720d-46e1-bd1b-7c0eb37c30dd",
+          "url": "https://mms.seloger.com/9/1/f/5/91f59f7f-720d-46e1-bd1b-7c0eb37c30dd.jpg?ci_seal=9377bfb271c23d5ff5a0d52975dc267f6cd2759c",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "adbc7ee1-5d37-47bd-a14f-44fc1074032c",
+          "url": "https://mms.seloger.com/a/d/b/c/adbc7ee1-5d37-47bd-a14f-44fc1074032c.jpg?ci_seal=c19ef71f27fe2ffe707268af99fefc7b755645e5",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c933a0fb-4e72-4035-99d8-9b393d91ed13",
+          "url": "https://mms.seloger.com/c/9/3/3/c933a0fb-4e72-4035-99d8-9b393d91ed13.jpg?ci_seal=9d5c46f9b164bc85056c7e76666cc859f8a35459",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "05f31c54-fc25-498f-9893-6c634d8192d7",
+          "url": "https://mms.seloger.com/0/5/f/3/05f31c54-fc25-498f-9893-6c634d8192d7.jpg?ci_seal=c7796889bc74b51066244665b1e8c69f6fda9ff6",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6dc9b4cd-d604-48ee-94db-10332cb1127b",
+          "url": "https://mms.seloger.com/6/d/c/9/6dc9b4cd-d604-48ee-94db-10332cb1127b.jpg?ci_seal=c28c4ff09cfe609d5a8ad1290166821c969528cd",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ba43a705-5a76-4755-98c9-fa97f14f8e13",
+          "url": "https://mms.seloger.com/b/a/4/3/ba43a705-5a76-4755-98c9-fa97f14f8e13.jpg?ci_seal=c92df4a8f6bde529553773871854b36e10900e6f",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "253609547",
+      "federalStateGeoId": "AD04FR31",
+      "zip": "74000",
+      "city": "Annecy",
+      "country": "FRA",
+      "region": "Auvergne-Rhône-Alpes",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 18.02,
+        "accuracy": 4,
+        "high": "28,52",
+        "low": "12,72"
+      },
+      "markerPosition": 35,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "18,27",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement",
+      "description": "Venez découvrir ce bel appartement T3 idéalement situé à proximité du carrefour de l'Avenue de Genève.Ce logement bénéficie d'un emplacement pratique, à quelques minutes des axes routiers et de l'autoroute Annecy Nord, facilitant vos déplacements quotidiens.Il se compose d'une entrée avec rangements, d'une cuisine équipée (four, plaques de cuisson, hotte et meubles de rangement), ainsi que d'un grand séjour ouvrant sur un large balcon.L'appartement dispose de deux chambres, d'une salle de bains et de toilettes séparées.Une cave et une place de stationnement extérieure complètent ce bien.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 mois en ligne",
+      "views": "911 vues",
+      "saves": "43 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25FENZFVGGYA",
+    "legacyId": "253609547",
+    "brand": "seloger",
+    "agencyId": "RC-062303",
+    "static": {
+      "phoneNumbers": [
+        "0450101703"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0450101703"
+      ]
+    },
+    "contactCard": {
+      "title": "Lamy Location",
+      "subtitle": "Lamy Annecy",
+      "phoneNumbers": [
+        "0450101703"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/b/c/5/1/bc51e6cb-b044-4eb6-a560-35be52d7a64a.jpg?ci_seal=107dfaadac8a7fc4a697110dd61ac52e8f380bc3",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Lamy Location",
+        "subtitle": "Lamy Annecy",
+        "phoneNumbers": [
+          "0450101703"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/b/c/5/1/bc51e6cb-b044-4eb6-a560-35be52d7a64a.jpg?ci_seal=107dfaadac8a7fc4a697110dd61ac52e8f380bc3"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Lamy Annecy",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Lamy Location",
+      "subtitle": "Lamy Location",
+      "phoneNumbers": [
+        "0450101703"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Lamy Location",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/b/c/5/1/bc51e6cb-b044-4eb6-a560-35be52d7a64a.jpg?ci_seal=107dfaadac8a7fc4a697110dd61ac52e8f380bc3",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-284225/"
+      },
+      "contactCard": {
+        "title": "Lamy Annecy",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-284225/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 399381821",
+        "<b>SIRET:</b> 39938182100061"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "19 RUE DE VIENNE, 75008 PARIS",
+      "phoneNumbers": [
+        "0450101703"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "74000",
+    "av_city": "Annecy",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25FENZFVGGYA",
+        "price": 1220,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Annecy",
+        "region": "Auvergne-Rhône-Alpes",
+        "province": "Upper Savoy",
+        "zip_code": "74000",
+        "legacy_id": "253609547",
+        "product_type": "standard",
+        "client_id": "RC-062303",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "508549",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "74000",
+        "estate_type": 1,
+        "id": "253609547",
+        "id_duo": 253609547,
+        "id_solo": 253609547,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 9,
+        "position": 0,
+        "price": 1220,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 66.77
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "74010",
+      "cp": "74000",
+      "geodp": "74",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "253609547",
+      "prix": 1300,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 66.77,
+      "etage": 6,
+      "commodites": [
+        "ascenseur",
+        "balcon",
+        "cave",
+        "Cuisine-équipée",
+        "parking%20ouvert",
+        "SalleDeBain-baignoire",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/74/bien-appartement/",
+          "label": "Appartements à louer Haute-Savoie 74",
+          "hoverLabel": "Appartements à louer Haute-Savoie 74",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-annecy-74/bien-appartement/",
+          "label": "Appartements à louer Annecy 74000",
+          "hoverLabel": "Appartements à louer Annecy 74000",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 66.77 m² 1220 € Les Fins Annecy (74000)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 66.77 m² 1220 € Les Fins Annecy (74000)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/annecy-74/les-fins/253609547.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/annecy-74/les-fins/253609547.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 66.77 m² 1220 € Les Fins Annecy (74000)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 66.77 m² 1220 € Les Fins Annecy (74000)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/f/d/3/e/fd3e1e7c-9c3d-45b6-83c6-00884c0b3b41.jpg?ci_seal=ee6749b14868772460be0d44b73d71a82697cfd4"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 66.77 m² 1220 € Les Fins Annecy (74000)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/annecy-74/les-fins/253609547.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 66.77 m² 1220 € Les Fins Annecy (74000)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 66.77 m² 1220 € Les Fins Annecy (74000)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/f/d/3/e/fd3e1e7c-9c3d-45b6-83c6-00884c0b3b41.jpg?ci_seal=ee6749b14868772460be0d44b73d71a82697cfd4"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 66.77 m² 1220 € Les Fins Annecy (74000)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 66.77 m² 1220 € Les Fins Annecy (74000)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/74/bien-appartement/",
+          "label": "Appartements à louer Haute-Savoie 74",
+          "hoverLabel": "Appartements à louer Haute-Savoie 74",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-annecy-74/bien-appartement/",
+          "label": "Appartements à louer Annecy 74000",
+          "hoverLabel": "Appartements à louer Annecy 74000",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/annecy-74/les-fins/253609547.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR6028&priceMax=1464&priceMin=976",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR6028",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD08FR30806",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR75",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR31",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25FENZFVGGYA"
+}

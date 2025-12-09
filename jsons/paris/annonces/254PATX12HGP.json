@@ -1,0 +1,1066 @@
+{
+  "brand": "seloger",
+  "id": "254PATX12HGP",
+  "metadata": {
+    "legacyId": "255760739",
+    "creationDate": "2025-12-03T15:38:00Z",
+    "updateDate": "2025-12-04T13:50:09.248Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 16ème",
+        "zipCode": "75016",
+        "district": "Porte Dauphine"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2754595250008713,
+          48.86813145842657
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "2",
+                "color": "#003da5"
+              },
+              {
+                "name": "9",
+                "color": "#b5bd00"
+              }
+            ]
+          },
+          {
+            "type": "RER",
+            "lines": [
+              {
+                "name": "C",
+                "color": "#FCD946"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "52",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "63",
+                "color": "#cec92a"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "FAISANDERIE - Appartement meublé avec goût, de 60 m², situé au 5ème étage avec ascenseur d'un bel immeuble récent bien entretenu et sécurisé. Il se compose d'un vaste séjour de 31 m² ouvrant sur balcon filant, d'une chambre au calme avec balcon, d'une cuisine séparée entièrement équipée et meublée, d'une salle de bain, de toilettes séparées. Nombreux rangements. Digicode. Interphone. Cave. Possibilité box en sus ( 230 €).",
+      "texts": [
+        {
+          "text": "FAISANDERIE - Appartement meublé avec goût, de 60 m², situé au 5ème étage avec ascenseur d'un bel immeuble récent bien entretenu et sécurisé. Il se compose d'un vaste séjour de 31 m² ouvrant sur balcon filant, d'une chambre au calme avec balcon, d'une cuisine séparée entièrement équipée et meublée, d'une salle de bain, de toilettes séparées. Nombreux rangements. Digicode. Interphone. Cave. Possibilité box en sus ( 230 €)."
+        }
+      ],
+      "headline": "Appartement 2 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "60 m²",
+        "Étage 5/6"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "60 m²",
+          "splitValue": "60",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 5/6",
+          "splitValue": "Étage",
+          "label": "5/6"
+        }
+      ],
+      "price": {
+        "value": "2 570 €",
+        "formatted": "2 570 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "2570 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1979"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "5bdd02e4-7c0a-4d4f-bd4c-279572e4c54c",
+          "scales": [
+            {
+              "key": "bea5a476-10a0-42e8-a484-a4ff4d1058a1",
+              "name": "Diagnostic de Performance Énergétique (DPE)",
+              "alternateText": "DPE vierge - aucune donnée énergétique n'est disponible pour ce type de bien.",
+              "ariaLabel": "DPE vierge - aucune donnée énergétique n'est disponible pour ce type de bien."
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255760739"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "255760739"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "2 570 €/mois Loyer charges comprises",
+          "ariaLabel": "2570 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Prix ​​au m²",
+            "value": "42,83 €/mois/m²",
+            "ariaLabel": "42,83 euros par mètre carré"
+          },
+          {
+            "label": "Prix du parking",
+            "value": "inclus dans le loyer"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "5ème étage/6 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "value": "Cave",
+          "icon": "cellar"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Box de stationnement"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "balcony",
+          "value": "Balcon"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "5ème étage/6 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "value": "Cave",
+                "icon": "cellar"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Balcon"
+              },
+              {
+                "value": "Sans vis-à-vis",
+                "icon": "with-view"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "Box de stationnement"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "TV par câble",
+                "icon": "tv"
+              }
+            ],
+            "title": "Équipements"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "b1578ada-de85-4e27-80e5-b0fd14e53b10",
+          "url": "https://mms.seloger.com/b/1/5/7/b1578ada-de85-4e27-80e5-b0fd14e53b10.jpg?ci_seal=8e835da3f0f30e17c3d416bd24827bf88130f20d",
+          "alt": "Appartement à louer 2 570 € 2 pièces 1 chambre 60 m² Étage 5/6 Porte Dauphine Paris 16ème 75016",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1ee495e0-6455-4e91-9712-900d2d2eba6d",
+          "url": "https://mms.seloger.com/1/e/e/4/1ee495e0-6455-4e91-9712-900d2d2eba6d.jpg?ci_seal=a5f0b7d19b3fb6e07fe27d897d9a5da775319387",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7d5271b9-a241-4b5f-b1c0-dca80fc8de17",
+          "url": "https://mms.seloger.com/7/d/5/2/7d5271b9-a241-4b5f-b1c0-dca80fc8de17.jpg?ci_seal=fc3f67a40334f12ea6151352ae86ee904fcac08e",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c16772d5-d8f4-4f8e-a324-b868ec20dc9c",
+          "url": "https://mms.seloger.com/c/1/6/7/c16772d5-d8f4-4f8e-a324-b868ec20dc9c.jpg?ci_seal=fdbcac7b5ae0294d65a4c68944eb16d65bec7ba6",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1c27bd89-9615-48ad-9575-9a1a142bdc07",
+          "url": "https://mms.seloger.com/1/c/2/7/1c27bd89-9615-48ad-9575-9a1a142bdc07.jpg?ci_seal=ecf2a46808f314a7c743a002248c17808b966283",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d4aa585a-f325-4efb-aef6-ba4e58d4f45a",
+          "url": "https://mms.seloger.com/d/4/a/a/d4aa585a-f325-4efb-aef6-ba4e58d4f45a.jpg?ci_seal=29025fc0dc4c7f85476fb66c8e196c2c550bcfc5",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f524c374-b3f8-47a2-b3dd-5586a10d0bae",
+          "url": "https://mms.seloger.com/f/5/2/4/f524c374-b3f8-47a2-b3dd-5586a10d0bae.jpg?ci_seal=178a8931b7310701c465bc73a04082746c9da1d0",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255760739",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75016",
+      "city": "Paris 16ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 38.19,
+        "accuracy": 3,
+        "high": "49,76",
+        "low": "30,26"
+      },
+      "markerPosition": 64,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "42,83",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 2 pièces",
+      "description": "FAISANDERIE - Appartement meublé avec goût, de 60 m², situé au 5ème étage avec ascenseur d'un bel immeuble récent bien entretenu et sécurisé. Il se compose d'un vaste séjour de 31 m² ouvrant sur balcon filant, d'une chambre au calme avec balcon, d'une cuisine séparée entièrement équipée et meublée, d'une salle de bain, de toilettes séparées. Nombreux rangements. Digicode. Interphone. Cave. Possibilité box en sus ( 230 €).",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "6 jours en ligne",
+      "views": "52 vues",
+      "saves": "2 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "254PATX12HGP",
+    "legacyId": "255760739",
+    "brand": "seloger",
+    "agencyId": "RC-005210",
+    "static": {
+      "phoneNumbers": [
+        "0153706040"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0153706040"
+      ]
+    },
+    "contactCard": {
+      "title": "ACTEA",
+      "subtitle": "Actea",
+      "phoneNumbers": [
+        "0153706040"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/c/f/a/b/cfab3d48-74c6-498f-8d18-d3eb6130b158.jpg?ci_seal=42a9e25bb02e0e704a78fccf9816204f451bd71c",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "ACTEA",
+        "subtitle": "Actea",
+        "phoneNumbers": [
+          "0153706040"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/c/f/a/b/cfab3d48-74c6-498f-8d18-d3eb6130b158.jpg?ci_seal=42a9e25bb02e0e704a78fccf9816204f451bd71c"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Actea",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "ACTEA",
+      "subtitle": "ACTEA",
+      "phoneNumbers": [
+        "0153706040"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "ACTEA",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/c/f/a/b/cfab3d48-74c6-498f-8d18-d3eb6130b158.jpg?ci_seal=42a9e25bb02e0e704a78fccf9816204f451bd71c",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-16eme-arrondissement-75016/agence-14203/"
+      },
+      "contactCard": {
+        "title": "Actea",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.actea-conseil.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-16eme-arrondissement-75016/agence-14203/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 410494918",
+        "<b>SIRET:</b> 41049491800015"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "26 avenue Bugeaud, 75016 Paris",
+      "phoneNumbers": [
+        "0153706040"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75016",
+    "av_city": "Paris",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "254PATX12HGP",
+        "price": 2570,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75016",
+        "legacy_id": "255760739",
+        "product_type": "standard",
+        "client_id": "RC-005210"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "35020",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "estate_postalcode": "75016",
+        "estate_type": 1,
+        "id": "255760739",
+        "id_duo": 255760739,
+        "id_solo": 255760739,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 7,
+        "position": 0,
+        "price": 2570,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 60,
+        "year_of_construction": 1979
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75016",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255760739",
+      "prix": 2600,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 60,
+      "etage": 6,
+      "commodites": [
+        "ascenseur",
+        "balcon",
+        "box",
+        "cave",
+        "Chauffage-central",
+        "Cuisine-équipée",
+        "Cuisine-séparée",
+        "parquet",
+        "SalleDeBain-baignoire",
+        "sansVisAVis",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 60 m² 2570 € Porte Dauphine Paris (75016)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 60 m² 2570 € Porte Dauphine Paris (75016)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/porte-dauphine/255760739.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/porte-dauphine/255760739.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 60 m² 2570 € Porte Dauphine Paris (75016)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 60 m² 2570 € Porte Dauphine Paris (75016)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/b/1/5/7/b1578ada-de85-4e27-80e5-b0fd14e53b10.jpg?ci_seal=8e835da3f0f30e17c3d416bd24827bf88130f20d"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 60 m² 2570 € Porte Dauphine Paris (75016)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/porte-dauphine/255760739.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 60 m² 2570 € Porte Dauphine Paris (75016)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 60 m² 2570 € Porte Dauphine Paris (75016)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/b/1/5/7/b1578ada-de85-4e27-80e5-b0fd14e53b10.jpg?ci_seal=8e835da3f0f30e17c3d416bd24827bf88130f20d"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 60 m² 2570 € Porte Dauphine Paris (75016)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 60 m² 2570 € Porte Dauphine Paris (75016)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/porte-dauphine/255760739.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR84&priceMax=3084&priceMin=2056",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR84",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR41",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "254PATX12HGP"
+}

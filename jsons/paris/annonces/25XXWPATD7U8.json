@@ -1,0 +1,1229 @@
+{
+  "brand": "seloger",
+  "id": "25XXWPATD7U8",
+  "metadata": {
+    "legacyId": "255628417",
+    "creationDate": "2025-12-02T09:31:00Z",
+    "updateDate": "2025-12-02T09:36:18.243Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 16ème",
+        "zipCode": "75016",
+        "district": "Muette Sud"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27639,
+          48.8574
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "9",
+                "color": "#b5bd00"
+              }
+            ]
+          },
+          {
+            "type": "RER",
+            "lines": [
+              {
+                "name": "C",
+                "color": "#FCD946"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "22",
+                "color": "#00643c"
+              },
+              {
+                "name": "32",
+                "color": "#9c983a"
+              },
+              {
+                "name": "52",
+                "color": "#82c8e6"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "PARIS 16 €. VILLAGE DE PASSY/LA MUETTE. \r\nAu 2e étage d'une petite copropriété de standing nichée au cœur d'un jardin en plein quartier de Passy, appartement meublé de deux pièces en parfait état comprenant :\r\nune entrée, un salon bénéficiant d'un balcon filant exposé ouest, une cuisine ouverte équipée, une chambre avec placards au calme sur jardin, une salle de douche avec toilettes.\r\nBail code civil exclusivement.\r\nHonoraires 12% annuel.\r\nLibre immédiatement.",
+      "texts": [
+        {
+          "text": "PARIS 16 €. VILLAGE DE PASSY/LA MUETTE. \r\nAu 2e étage d'une petite copropriété de standing nichée au cœur d'un jardin en plein quartier de Passy, appartement meublé de deux pièces en parfait état comprenant :\r\nune entrée, un salon bénéficiant d'un balcon filant exposé ouest, une cuisine ouverte équipée, une chambre avec placards au calme sur jardin, une salle de douche avec toilettes.\r\nBail code civil exclusivement.\r\nHonoraires 12% annuel.\r\nLibre immédiatement."
+        }
+      ],
+      "headline": "Passy / Muette / rue Talma"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "35,5 m²",
+        "Étage 2/3"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35,5 m²",
+          "splitValue": "35,5",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 2/3",
+          "splitValue": "Étage",
+          "label": "2/3"
+        }
+      ],
+      "price": {
+        "value": "2 100 €",
+        "formatted": "2 100 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "2100 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1970"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Remis à neuf"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "033ed5f2-56fe-43e5-8c12-76c38b30ed16",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 790 et 1090 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 790 et 1090 € par an. Prix moyens des énergies indexés au 01/01/2021 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "a97346cf-fa9d-434d-a390-244e401ed9d8",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "276 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "267 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "59 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est 267 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "70bdc812-faa7-48e2-941f-f237efe2f84f",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "59 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est 267 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255628417"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "86353032"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 850 €/mois Loyer de base",
+          "ariaLabel": "1850 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "250 €/mois",
+            "ariaLabel": "250 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "2 100 €/mois",
+            "ariaLabel": "2100 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "52,11 €/mois/m²",
+            "ariaLabel": "52,11 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "3700"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage/3 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Balcon (Total 5,2 m²)"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: ouest"
+        },
+        {
+          "value": "Belle vue",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "Orientation",
+                "value": "Exposition: ouest"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "2ème étage/3 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "livingRoom",
+                "value": "Salon (total 18,9 m²)"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Balcon (Total 5,2 m²)"
+              },
+              {
+                "value": "Belle vue",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "e8de7a48-fda1-4a6c-a2bd-4b928e84664d",
+          "url": "https://mms.seloger.com/e/8/d/e/e8de7a48-fda1-4a6c-a2bd-4b928e84664d.jpg?ci_seal=1b491825ea35a67be51296dbc1a67f9d5db6518e",
+          "alt": "Appartement à louer 2 100 € 2 pièces 1 chambre 35,5 m² Étage 2/3 Muette Sud Paris 16ème 75016",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a6c22069-8e13-4efb-80b1-d6cf45d02d40",
+          "url": "https://mms.seloger.com/a/6/c/2/a6c22069-8e13-4efb-80b1-d6cf45d02d40.jpg?ci_seal=7c7b5001422a9ef7f3441187c8732cdee33ec730",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "498fae44-3b07-4330-87c4-6b622981659b",
+          "url": "https://mms.seloger.com/4/9/8/f/498fae44-3b07-4330-87c4-6b622981659b.jpg?ci_seal=6ca2930e57575492cad8dd2d7b01cbd1dd10ee9e",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1a408514-203a-4aa6-80ac-aab11911f80a",
+          "url": "https://mms.seloger.com/1/a/4/0/1a408514-203a-4aa6-80ac-aab11911f80a.jpg?ci_seal=1ada1773b0eabe23170498023e37498eddb01c86",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "622be5c6-395c-4563-a916-f4caec494598",
+          "url": "https://mms.seloger.com/6/2/2/b/622be5c6-395c-4563-a916-f4caec494598.jpg?ci_seal=5eedb3986e528bbb74607c1c2808a39855fc30ba",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4bc40812-151e-487a-8fc1-24142b8f9a04",
+          "url": "https://mms.seloger.com/4/b/c/4/4bc40812-151e-487a-8fc1-24142b8f9a04.jpg?ci_seal=ff75bf85d625a78adb754752cf2ff3aeefe297e2",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "af7ad0b1-3c67-4fd6-b979-f24c27fe3225",
+          "url": "https://mms.seloger.com/a/f/7/a/af7ad0b1-3c67-4fd6-b979-f24c27fe3225.jpg?ci_seal=b539cc3d31cc2727420c46950aa5a3477d440e9e",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d1b7c1d9-8c73-4fca-b4f2-192d9f19a9e1",
+          "url": "https://mms.seloger.com/d/1/b/7/d1b7c1d9-8c73-4fca-b4f2-192d9f19a9e1.jpg?ci_seal=bc21c7b91e17ad06a569d3beac61c8e184ef8f26",
+          "classification": {
+            "name": "HOUSE_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255628417",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75016",
+      "city": "Paris 16ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 36.98,
+        "accuracy": 5,
+        "high": "44,37",
+        "low": "29,30"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "52,11",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Passy / Muette / rue Talma",
+      "description": "PARIS 16 €. VILLAGE DE PASSY/LA MUETTE. \r\nAu 2e étage d'une petite copropriété de standing nichée au cœur d'un jardin en plein quartier de Passy, appartement meublé de deux pièces en parfait état comprenant :\r\nune entrée, un salon bénéficiant d'un balcon filant exposé ouest, une cuisine ouverte équipée, une chambre avec placards au calme sur jardin, une salle de douche avec toilettes.\r\nBail code civil exclusivement.\r\nHonoraires 12% annuel.\r\nLibre immédiatement.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "7 jours en ligne",
+      "views": "14 vues",
+      "saves": "0 favori"
+    }
+  },
+  "contactSections": {
+    "id": "25XXWPATD7U8",
+    "legacyId": "255628417",
+    "brand": "seloger",
+    "agencyId": "RC-025671",
+    "static": {
+      "phoneNumbers": [
+        "+33142889675"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33142889675"
+      ]
+    },
+    "contactCard": {
+      "title": "Consultants Immobilier location",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "+33142889675"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/e/6/4/9/e649ba39-0a6f-4c5f-939c-c9af8fa76bb2.jpg?ci_seal=c88d5cb54250e1ba483a4c0a6715b5c25f2e2ee6",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Consultants Immobilier location",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "+33142889675"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/e/6/4/9/e649ba39-0a6f-4c5f-939c-c9af8fa76bb2.jpg?ci_seal=c88d5cb54250e1ba483a4c0a6715b5c25f2e2ee6"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Consultants Immobilier location",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "+33142889675"
+      ],
+      "logoUrl": "https://mms.seloger.com/e/6/4/9/e649ba39-0a6f-4c5f-939c-c9af8fa76bb2.jpg?ci_seal=c88d5cb54250e1ba483a4c0a6715b5c25f2e2ee6",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Consultants Immobilier location",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/e/6/4/9/e649ba39-0a6f-4c5f-939c-c9af8fa76bb2.jpg?ci_seal=c88d5cb54250e1ba483a4c0a6715b5c25f2e2ee6",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-16eme-arrondissement-75016/agence-5762/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "website": "http://www.consultants-immobilier.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-16eme-arrondissement-75016/agence-5762/",
+      "imprintUrl": null,
+      "feeUrl": "http://ap.immo/uploads/agency/11030/fees_document.pdf?1694086418",
+      "agencyLegalInformations": [],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "1 Place du Costa Rica, 75016 Paris",
+      "phoneNumbers": [
+        "+33142889675"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75016",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25XXWPATD7U8",
+        "price": 2100,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75016",
+        "building_state": "REFURBISHED",
+        "legacy_id": "255628417",
+        "product_type": "standard",
+        "client_id": "RC-025671",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "107773",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75016",
+        "estate_type": 1,
+        "id": "255628417",
+        "id_duo": 255628417,
+        "id_solo": 255628417,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 8,
+        "position": 0,
+        "price": 2100,
+        "product_geolocation": "localisation_district",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 35.5,
+        "year_of_construction": 1970
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75016",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255628417",
+      "prix": 2100,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 35.5,
+      "etage": 3,
+      "commodites": [
+        "balcon",
+        "belleVue",
+        "Chauffage-central",
+        "Cuisine-américaine",
+        "SalleDeBain-baignoire",
+        "Sejour"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 35.5 m² 2100 € Muette Sud Paris (75016)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 35.5 m² 2100 € Muette Sud Paris (75016)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/muette-sud/255628417.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/muette-sud/255628417.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 35.5 m² 2100 € Muette Sud Paris (75016)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 35.5 m² 2100 € Muette Sud Paris (75016)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/e/8/d/e/e8de7a48-fda1-4a6c-a2bd-4b928e84664d.jpg?ci_seal=1b491825ea35a67be51296dbc1a67f9d5db6518e"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 35.5 m² 2100 € Muette Sud Paris (75016)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/muette-sud/255628417.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 35.5 m² 2100 € Muette Sud Paris (75016)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 35.5 m² 2100 € Muette Sud Paris (75016)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/e/8/d/e/e8de7a48-fda1-4a6c-a2bd-4b928e84664d.jpg?ci_seal=1b491825ea35a67be51296dbc1a67f9d5db6518e"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 35.5 m² 2100 € Muette Sud Paris (75016)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 35.5 m² 2100 € Muette Sud Paris (75016)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/muette-sud/255628417.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#101030",
+    "textColor": "light",
+    "providerName": "Consultants Immobilier location",
+    "logo": {
+      "src": "https://mms.seloger.com/e/6/4/9/e649ba39-0a6f-4c5f-939c-c9af8fa76bb2.jpg?ci_seal=c88d5cb54250e1ba483a4c0a6715b5c25f2e2ee6",
+      "alt": "logo-RC-025671",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/1/a/1/2/1a12843d-e1af-469a-8132-7332d9b27516.png?ci_eqs=&ci_seal=326123fe73417fc5aa2a076c693a2c27c8d2d07a",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-16eme-arrondissement-75016/agence-5762/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/1/a/1/2/1a12843d-e1af-469a-8132-7332d9b27516.png?ci_eqs=&ci_seal=326123fe73417fc5aa2a076c693a2c27c8d2d07a",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-16eme-arrondissement-75016/agence-5762/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/7/e/f/f/7effeb95-007c-4983-8c4f-40c169fd4c4a.png?ci_eqs=&ci_seal=a13ffad49e448bdeed01cf7327452ad1184cb730",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-16eme-arrondissement-75016/agence-5762/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR86&priceMax=2520&priceMin=1680",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR86",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR41",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25XXWPATD7U8"
+}

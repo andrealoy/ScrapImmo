@@ -1,0 +1,1268 @@
+{
+  "brand": "seloger",
+  "id": "25NZ42QWJAPT",
+  "metadata": {
+    "legacyId": "251785151",
+    "creationDate": "2025-10-09T10:49:00Z",
+    "updateDate": "2025-10-29T13:10:08.762Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 16ème",
+        "zipCode": "75016",
+        "district": "Auteuil Nord"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.271693,
+          48.849717
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "9",
+                "color": "#b5bd00"
+              },
+              {
+                "name": "10",
+                "color": "#c69214"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "22",
+                "color": "#00643c"
+              },
+              {
+                "name": "52",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "62",
+                "color": "#5a230a"
+              },
+              {
+                "name": "72",
+                "color": "#ed1b2a"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "REF. 20468 Bel appartement meublé de 60m2, situé avenue Theophile Gautier dans le 16ème arrondissement de Paris. Ce dernier se trouve dans un immeuble parisien, au 3ème étage avec ascenseur. Cet appartement est composé d'un salon, deux chambres dont une avec salle de douche attenante, une salle de bain, une cuisine ouverte sur un coin salle à manger et un salon. Les wc sont séparés et dans l'entrée se trouve un dressing. Proche de commerces et restaurants, à 3 minutes des bureaux de Radio France. Le chauffage est individuel électrique avec de nouveaux radiateurs à inertie pour une consommation basse. Bail Code Civil uniquement",
+      "texts": [
+        {
+          "text": "REF. 20468 Bel appartement meublé de 60m2, situé avenue Theophile Gautier dans le 16ème arrondissement de Paris. Ce dernier se trouve dans un immeuble parisien, au 3ème étage avec ascenseur. Cet appartement est composé d'un salon, deux chambres dont une avec salle de douche attenante, une salle de bain, une cuisine ouverte sur un coin salle à manger et un salon. Les wc sont séparés et dans l'entrée se trouve un dressing. Proche de commerces et restaurants, à 3 minutes des bureaux de Radio France. Le chauffage est individuel électrique avec de nouveaux radiateurs à inertie pour une consommation basse. Bail Code Civil uniquement"
+        }
+      ],
+      "headline": "3 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "59 m²",
+        "3ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "59 m²",
+          "splitValue": "59",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3ème étage",
+          "splitValue": "3ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "3 479 €",
+        "formatted": "3 479 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "3479 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1900"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Remis à neuf"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "53c7f301-f60c-4720-bc54-a046ad06c285",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "fd749544-8071-4a3a-866e-07a73fb3f7fb",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "324 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "10 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "40ee78d7-3f86-48ad-b0a6-e452b1b1848e",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "10 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "251785151"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "20468"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "3 479 €/mois Loyer charges comprises",
+          "ariaLabel": "3479 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "177 €/mois",
+            "ariaLabel": "177 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "58,97 €/mois/m²",
+            "ariaLabel": "58,97 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "6604"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "3ème étage"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "2 salles de bain"
+        },
+        {
+          "value": "Digicode",
+          "icon": "digital-lock"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "3ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "2 salles de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "c89c3a0c-5aa6-458b-8fd6-d7ba8366dd80",
+          "url": "https://mms.seloger.com/c/8/9/c/c89c3a0c-5aa6-458b-8fd6-d7ba8366dd80.jpg?ci_seal=12735cc96557353c6848f489d1c73cecf1d270b8",
+          "alt": "Appartement à louer 3 479 € 3 pièces 2 chambres 59 m² 3ème étage Auteuil Nord Paris 16ème 75016",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "03a3692d-6705-4b5e-a7d5-03689f65f9c0",
+          "url": "https://mms.seloger.com/0/3/a/3/03a3692d-6705-4b5e-a7d5-03689f65f9c0.jpg?ci_seal=4e1261e36112178cad699810274a3907579ed853",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "50ca6bca-edfa-4e65-b336-b973b50b40a5",
+          "url": "https://mms.seloger.com/5/0/c/a/50ca6bca-edfa-4e65-b336-b973b50b40a5.jpg?ci_seal=3dcd3e132854c91b1b406506e0ebce3ed8882d3b",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a9b81a37-0452-4971-8060-7981d493521e",
+          "url": "https://mms.seloger.com/a/9/b/8/a9b81a37-0452-4971-8060-7981d493521e.jpg?ci_seal=a682706aa4e9a274b03f1fab11717a89b43be12d",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0416bdd1-9818-42e1-bb9f-dd8dd0381011",
+          "url": "https://mms.seloger.com/0/4/1/6/0416bdd1-9818-42e1-bb9f-dd8dd0381011.jpg?ci_seal=0f0cedf393e24709be150d4122ab68452f88ec57",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "874e1ef7-8dbe-4975-b72b-a027a940e48e",
+          "url": "https://mms.seloger.com/8/7/4/e/874e1ef7-8dbe-4975-b72b-a027a940e48e.jpg?ci_seal=3fcb8b20f3544c1f859a1a399ce6b3856f1b4741",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d8878745-8ba5-44eb-bbaa-f4b1fa2567eb",
+          "url": "https://mms.seloger.com/d/8/8/7/d8878745-8ba5-44eb-bbaa-f4b1fa2567eb.jpg?ci_seal=b69307373507044cf27a1773b077bda4afdededf",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9ad0cc21-407a-4a3d-b8ff-0a06d2b81e85",
+          "url": "https://mms.seloger.com/9/a/d/0/9ad0cc21-407a-4a3d-b8ff-0a06d2b81e85.jpg?ci_seal=97ce3d20e1d43167be58f8e78dd7194db23f2ee6",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "39411967-2050-43c6-984d-f7379f1b18b5",
+          "url": "https://mms.seloger.com/3/9/4/1/39411967-2050-43c6-984d-f7379f1b18b5.jpg?ci_seal=dad22301ee5cfd60b56cb976f519acdcc0a1ca01",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9039de83-2037-4a87-8957-fde9a220b354",
+          "url": "https://mms.seloger.com/9/0/3/9/9039de83-2037-4a87-8957-fde9a220b354.jpg?ci_seal=c409ef88e4241f7eb74070c0c18ec5f8561234f1",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "74e0434c-8e80-4f31-8d04-b464e000c953",
+          "url": "https://mms.seloger.com/7/4/e/0/74e0434c-8e80-4f31-8d04-b464e000c953.jpg?ci_seal=ce63cb6334b13e7b62d87ae304460d2efa2e4522",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "40044c29-fae2-412b-98af-c42eb63017f6",
+          "url": "https://mms.seloger.com/4/0/0/4/40044c29-fae2-412b-98af-c42eb63017f6.jpg?ci_seal=fa3dfec47cdd8bd3c5d99a3f92085c3a8c64c3d1",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9b25022f-dc5f-43eb-a017-e16a26a8050e",
+          "url": "https://mms.seloger.com/9/b/2/5/9b25022f-dc5f-43eb-a017-e16a26a8050e.jpg?ci_seal=f22875b4d6d86a425bac7b952f24c2c24324a680",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b8438ab8-632e-48e1-b2f6-35032f5b7225",
+          "url": "https://mms.seloger.com/b/8/4/3/b8438ab8-632e-48e1-b2f6-35032f5b7225.jpg?ci_seal=68d837e4872247969da4afd7e285d47b038aeac9",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "160c87d0-6502-4299-bf15-84b45f085b7c",
+          "url": "https://mms.seloger.com/1/6/0/c/160c87d0-6502-4299-bf15-84b45f085b7c.jpg?ci_seal=27618332a824b9ed4b93b9bd2c1a8bfeb8b18915",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "65b69c52-7eb3-442b-b1e9-a42ee7b9eea6",
+          "url": "https://mms.seloger.com/6/5/b/6/65b69c52-7eb3-442b-b1e9-a42ee7b9eea6.jpg?ci_seal=3d63eab4a028646615867a4d2f4541f745107bcc",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3ab2d401-c0dc-4eb7-a219-03b094054f6b",
+          "url": "https://mms.seloger.com/3/a/b/2/3ab2d401-c0dc-4eb7-a219-03b094054f6b.jpg?ci_seal=dc279fadbd80545ed3b9bf19fb2b7965b587d5e7",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "48b6b850-3ac2-487a-9ccd-d825c1ac2dbd",
+          "url": "https://mms.seloger.com/4/8/b/6/48b6b850-3ac2-487a-9ccd-d825c1ac2dbd.jpg?ci_seal=580b5490187411774552ed746143a23d81d9b695",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fa7eacef-62ea-46d5-8a83-377448eccd09",
+          "url": "https://mms.seloger.com/f/a/7/e/fa7eacef-62ea-46d5-8a83-377448eccd09.jpg?ci_seal=872b95f699b0f2f8b29fa03289286f1bd88c78a8",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1da86e12-a3c0-4d9a-8276-5a8df381cdab",
+          "url": "https://mms.seloger.com/1/d/a/8/1da86e12-a3c0-4d9a-8276-5a8df381cdab.jpg?ci_seal=3cf83d2e542a766bafbd9859964ae34865e80848",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "251785151",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75016",
+      "city": "Paris 16ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 35.09,
+        "accuracy": 3,
+        "high": "46,13",
+        "low": "28,92"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "58,97",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "3 pièces",
+      "description": "REF. 20468 Bel appartement meublé de 60m2, situé avenue Theophile Gautier dans le 16ème arrondissement de Paris. Ce dernier se trouve dans un immeuble parisien, au 3ème étage avec ascenseur. Cet appartement est composé d'un salon, deux chambres dont une avec salle de douche attenante, une salle de bain, une cuisine ouverte sur un coin salle à manger et un salon. Les wc sont séparés et dans l'entrée se trouve un dressing. Proche de commerces et restaurants, à 3 minutes des bureaux de Radio France. Le chauffage est individuel électrique avec de nouveaux radiateurs à inertie pour une consommation basse. Bail Code Civil uniquement",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "2 mois en ligne",
+      "views": "32 vues",
+      "saves": "6 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25NZ42QWJAPT",
+    "legacyId": "251785151",
+    "brand": "seloger",
+    "agencyId": "RC-112046",
+    "static": {
+      "phoneNumbers": [
+        "+33 6 78 06 01 76"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33 6 78 06 01 76"
+      ]
+    },
+    "contactCard": {
+      "title": "BOOK A FLAT",
+      "subtitle": "Clara Ferry",
+      "phoneNumbers": [
+        "+33 6 78 06 01 76"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/a/b/b/a/abbab398-fb0c-42da-bb36-74a198391816.jpg?ci_seal=2c062a79ff50a83666bc36fbedca6df132f4dac6",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "BOOK A FLAT",
+        "subtitle": "Clara Ferry",
+        "phoneNumbers": [
+          "+33 6 78 06 01 76"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/a/b/b/a/abbab398-fb0c-42da-bb36-74a198391816.jpg?ci_seal=2c062a79ff50a83666bc36fbedca6df132f4dac6"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Clara Ferry",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "BOOK A FLAT",
+      "subtitle": "BOOK A FLAT",
+      "phoneNumbers": [
+        "+33 6 78 06 01 76"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "BOOK A FLAT",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/a/b/b/a/abbab398-fb0c-42da-bb36-74a198391816.jpg?ci_seal=2c062a79ff50a83666bc36fbedca6df132f4dac6",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/"
+      },
+      "contactCard": {
+        "title": "Clara Ferry",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "https://www.book-a-flat.com/fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 478941990",
+        "<b>SIRET:</b> 47894199000024"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "18 rue Volney, 75002 Paris 2ème",
+      "phoneNumbers": [
+        "+33 6 78 06 01 76"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75016",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25NZ42QWJAPT",
+        "price": 3479,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75016",
+        "building_state": "REFURBISHED",
+        "legacy_id": "251785151",
+        "product_type": "standard",
+        "client_id": "RC-112046",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "39742",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75016",
+        "estate_type": 1,
+        "id": "251785151",
+        "id_duo": 251785151,
+        "id_solo": 251785151,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 20,
+        "position": 0,
+        "price": 3479,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 59,
+        "year_of_construction": 1900
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75016",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "251785151",
+      "prix": 3500,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 59,
+      "commodites": [
+        "ascenseur",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 59 m² 3479 € Auteuil Nord Paris (75016)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 59 m² 3479 € Auteuil Nord Paris (75016)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/auteuil-nord/251785151.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/auteuil-nord/251785151.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 59 m² 3479 € Auteuil Nord Paris (75016)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 59 m² 3479 € Auteuil Nord Paris (75016)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/c/8/9/c/c89c3a0c-5aa6-458b-8fd6-d7ba8366dd80.jpg?ci_seal=12735cc96557353c6848f489d1c73cecf1d270b8"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 59 m² 3479 € Auteuil Nord Paris (75016)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/auteuil-nord/251785151.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 59 m² 3479 € Auteuil Nord Paris (75016)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 59 m² 3479 € Auteuil Nord Paris (75016)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/c/8/9/c/c89c3a0c-5aa6-458b-8fd6-d7ba8366dd80.jpg?ci_seal=12735cc96557353c6848f489d1c73cecf1d270b8"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 59 m² 3479 € Auteuil Nord Paris (75016)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 59 m² 3479 € Auteuil Nord Paris (75016)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.bellesdemeures.com/251785151/detail.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#101010",
+    "textColor": "light",
+    "providerName": "BOOK A FLAT",
+    "logo": {
+      "src": "https://mms.seloger.com/a/b/b/a/abbab398-fb0c-42da-bb36-74a198391816.jpg?ci_seal=2c062a79ff50a83666bc36fbedca6df132f4dac6",
+      "alt": "logo-RC-112046",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/a/0/e/9/a0e97e15-7f01-42d5-a47f-b312f6c413ee.png?ci_eqs=&ci_seal=0262c9e9284a5d3bc04c549e2ce60a56b4d75d72",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/a/0/e/9/a0e97e15-7f01-42d5-a47f-b312f6c413ee.png?ci_eqs=&ci_seal=0262c9e9284a5d3bc04c549e2ce60a56b4d75d72",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/f/a/d/f/fadf6d64-4533-4a92-939c-44481b90c475.png?ci_eqs=&ci_seal=76f3aec1b7594d48514db0194f60e6a75af534f5",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR87&priceMax=4174.8&priceMin=2783.2",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR87",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR41",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25NZ42QWJAPT"
+}

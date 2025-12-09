@@ -1,0 +1,1143 @@
+{
+  "brand": "seloger",
+  "id": "25KC7AI4N42Q",
+  "metadata": {
+    "legacyId": "252608177",
+    "creationDate": "2025-10-21T07:51:00Z",
+    "updateDate": "2025-10-25T00:21:33.323Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 17ème",
+        "zipCode": "75017",
+        "district": "Champerret-Berthier"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.291584,
+          48.885975
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "3",
+                "color": "#827a04"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "84",
+                "color": "#d282be"
+              },
+              {
+                "name": "92",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "93",
+                "color": "#77c695"
+              },
+              {
+                "name": "163",
+                "color": "#dc9609"
+              },
+              {
+                "name": "164",
+                "color": "#a0006e"
+              },
+              {
+                "name": "341",
+                "color": "#ffbe02"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Avenue Stéphane Mallarmé, dans un immeuble ancien de très bon standing et à toute proximité de la Place Champerret, à louer au 3e étage un appartement de 6 pièces en très bon état et repeint :\n* 1 belle entrée avec un vestiaire\n* 1 séjour avec étagères intégrées\n* 1 grande cuisine aménagée\n* 4 chambres\n* 1 salle de bains avec sanitaire\n* 1 salle de douche\n* 1 sanitaire avec lave-mains\n* Placards\n- Cave",
+      "texts": [
+        {
+          "text": "Avenue Stéphane Mallarmé, dans un immeuble ancien de très bon standing et à toute proximité de la Place Champerret, à louer au 3e étage un appartement de 6 pièces en très bon état et repeint :\n* 1 belle entrée avec un vestiaire\n* 1 séjour avec étagères intégrées\n* 1 grande cuisine aménagée\n* 4 chambres\n* 1 salle de bains avec sanitaire\n* 1 salle de douche\n* 1 sanitaire avec lave-mains\n* Placards\n- Cave"
+        }
+      ],
+      "headline": "Appartement 6 pièces /4 chambres"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "6 pièces",
+        "4 chambres",
+        "174 m²",
+        "Étage 3/7"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "6 pièces",
+          "splitValue": "6",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "4 chambres",
+          "splitValue": "4",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "174 m²",
+          "splitValue": "174",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 3/7",
+          "splitValue": "Étage",
+          "label": "3/7"
+        }
+      ],
+      "price": {
+        "value": "5 000 €",
+        "formatted": "5 000 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "5000 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1928"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Remis à neuf"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "da326f06-4e78-404e-aeac-63155e68dbc6",
+          "scales": [
+            {
+              "key": "4af76dbb-cb4e-4219-b631-4ba83efb3040",
+              "name": "Diagnostic de Performance Énergétique (DPE)",
+              "alternateText": "DPE vierge - aucune donnée énergétique n'est disponible pour ce type de bien.",
+              "ariaLabel": "DPE vierge - aucune donnée énergétique n'est disponible pour ce type de bien."
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "252608177"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "L2010"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "4 300 €/mois Loyer de base",
+          "ariaLabel": "4300 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "700 €/mois",
+            "ariaLabel": "700 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "5 000 €/mois",
+            "ariaLabel": "5000 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "24,71 €/mois/m²",
+            "ariaLabel": "24,71 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "4300"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "3ème étage/7 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "value": "Cave",
+          "icon": "cellar"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "2 WCs séparées"
+        },
+        {
+          "value": "Sans vis-à-vis",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "4 chambres"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "3ème étage/7 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain; 1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "2 WCs séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "4 chambres"
+              },
+              {
+                "value": "Cave",
+                "icon": "cellar"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Sans vis-à-vis",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Gardien",
+                "icon": "custodian"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "d1ef6940-7f22-4a49-a4c0-88ad66eed9fa",
+          "url": "https://mms.seloger.com/d/1/e/f/d1ef6940-7f22-4a49-a4c0-88ad66eed9fa.jpg?ci_seal=d40beb6430ad920832c3a394015346cb9ba482bc",
+          "alt": "Appartement à louer 5 000 € 6 pièces 4 chambres 174 m² Étage 3/7 Champerret-Berthier Paris 17ème 75017",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "14033a84-9731-4f9a-b1b6-37d7e4dc0520",
+          "url": "https://mms.seloger.com/1/4/0/3/14033a84-9731-4f9a-b1b6-37d7e4dc0520.jpg?ci_seal=35e4a69b5559fbb6764edc101dec46e0b35d4def",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3ea5b304-b1f4-42d7-aa7e-d77c773bbd0f",
+          "url": "https://mms.seloger.com/3/e/a/5/3ea5b304-b1f4-42d7-aa7e-d77c773bbd0f.jpg?ci_seal=5f4602d54c546aefd88f0e0831696564cf609d1c",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "183a085f-7757-4c71-adb7-9164bbd1bd2d",
+          "url": "https://mms.seloger.com/1/8/3/a/183a085f-7757-4c71-adb7-9164bbd1bd2d.jpg?ci_seal=9fefa2702bef0cc9b78c513623523e1478c07008",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3c174079-3b67-4c94-b93a-d1a89d157fb0",
+          "url": "https://mms.seloger.com/3/c/1/7/3c174079-3b67-4c94-b93a-d1a89d157fb0.jpg?ci_seal=786e6217f2c802612d42d3bd59d10b03de722c88",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c99f1eaf-efd2-4901-a077-c131f357a566",
+          "url": "https://mms.seloger.com/c/9/9/f/c99f1eaf-efd2-4901-a077-c131f357a566.jpg?ci_seal=0f5b19eca20ea289a01724c5101538dfd1c7a50d",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "049375a5-2a82-4d6a-b188-28770ebc340d",
+          "url": "https://mms.seloger.com/0/4/9/3/049375a5-2a82-4d6a-b188-28770ebc340d.jpg?ci_seal=dc921d5cf547e11f47456fd02d2ae0fce5efc3bf",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5b2da8ba-f1b1-4ed6-97ee-1a170f8048c2",
+          "url": "https://mms.seloger.com/5/b/2/d/5b2da8ba-f1b1-4ed6-97ee-1a170f8048c2.jpg?ci_seal=5af9aa8c2b1f760be99561a32041d3c14525d44b",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3dc8c8bc-147d-438e-be5e-789ed328cc64",
+          "url": "https://mms.seloger.com/3/d/c/8/3dc8c8bc-147d-438e-be5e-789ed328cc64.jpg?ci_seal=d8b4a50f58d6e9a82266367fd949b91640a2aeb7",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4eedd6d3-67df-4c8e-b508-6393b659336a",
+          "url": "https://mms.seloger.com/4/e/e/d/4eedd6d3-67df-4c8e-b508-6393b659336a.jpg?ci_seal=90610db0d87041316b87cafb9e1ed3a93d0b7329",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "53274994-bbc2-4624-91ae-5ae7d04fdaf6",
+          "url": "https://mms.seloger.com/5/3/2/7/53274994-bbc2-4624-91ae-5ae7d04fdaf6.jpg?ci_seal=d476a3641ee614aca2bc3fcd9e53d1604913bed4",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9b89e16b-b6f0-4bb4-8dfe-fdcfad365fab",
+          "url": "https://mms.seloger.com/9/b/8/9/9b89e16b-b6f0-4bb4-8dfe-fdcfad365fab.jpg?ci_seal=a0fc9425945d28a67a0e2ef163a321087aa236a7",
+          "classification": {
+            "name": "STAIRCASE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "64325444-16cc-4c40-b798-105776a567ae",
+          "url": "https://mms.seloger.com/6/4/3/2/64325444-16cc-4c40-b798-105776a567ae.jpg?ci_seal=b96683f187fd31c901b48a541b336d2344b0433a",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4bd6cb20-cb04-4532-acdd-2807ef035c91",
+          "url": "https://mms.seloger.com/4/b/d/6/4bd6cb20-cb04-4532-acdd-2807ef035c91.jpg?ci_seal=b4eb33b3b06a466882eb9e49b3bd73f99856eacd",
+          "classification": {
+            "name": "STAIRCASE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0681dfd0-d04b-4748-a081-59d5e69f2649",
+          "url": "https://mms.seloger.com/0/6/8/1/0681dfd0-d04b-4748-a081-59d5e69f2649.jpg?ci_seal=c830bcfc972aa1c4d98f366e04808bdf6d490e00",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ],
+      "floorplans": [
+        {
+          "key": "731505e5-d0d4-43d3-90d0-5d521b196d06",
+          "url": "https://mms.seloger.com/7/3/1/5/731505e5-d0d4-43d3-90d0-5d521b196d06.jpg?ci_seal=66f1a413cf76a10e3a1842d6f152ff41c3b92bba",
+          "alt": "Appartement à louer 5 000 € 6 pièces 4 chambres 174 m² Étage 3/7 Champerret-Berthier Paris 17ème 75017",
+          "classification": {
+            "name": "FLOORPLAN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "252608177",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75017",
+      "city": "Paris 17ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 34.13,
+        "accuracy": 3,
+        "high": "41,34",
+        "low": "28,25"
+      },
+      "markerPosition": 0,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "24,71",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 6 pièces /4 chambres",
+      "description": "Avenue Stéphane Mallarmé, dans un immeuble ancien de très bon standing et à toute proximité de la Place Champerret, à louer au 3e étage un appartement de 6 pièces en très bon état et repeint :\n* 1 belle entrée avec un vestiaire\n* 1 séjour avec étagères intégrées\n* 1 grande cuisine aménagée\n* 4 chambres\n* 1 salle de bains avec sanitaire\n* 1 salle de douche\n* 1 sanitaire avec lave-mains\n* Placards\n- Cave",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 mois en ligne",
+      "views": "165 vues",
+      "saves": "18 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25KC7AI4N42Q",
+    "legacyId": "252608177",
+    "brand": "seloger",
+    "agencyId": "RC-030561",
+    "static": {
+      "phoneNumbers": [
+        "0153300909"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0153300909"
+      ]
+    },
+    "contactCard": {
+      "title": "THIERRY COTTARD",
+      "subtitle": "Erwan Michel",
+      "phoneNumbers": [
+        "0153300909"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/8/c/2/7/8c27bb6f-205a-449c-9495-51915a39197c.jpg?ci_seal=7c513ec41ca90c1453b8e719b773c05627664902",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "THIERRY COTTARD",
+        "subtitle": "Erwan Michel",
+        "phoneNumbers": [
+          "0153300909"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/8/c/2/7/8c27bb6f-205a-449c-9495-51915a39197c.jpg?ci_seal=7c513ec41ca90c1453b8e719b773c05627664902"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Erwan Michel",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "THIERRY COTTARD",
+      "subtitle": "THIERRY COTTARD",
+      "phoneNumbers": [
+        "0153300909"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "THIERRY COTTARD",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/8/c/2/7/8c27bb6f-205a-449c-9495-51915a39197c.jpg?ci_seal=7c513ec41ca90c1453b8e719b773c05627664902",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-7eme-arrondissement-75007/agence-20401/"
+      },
+      "contactCard": {
+        "title": "Erwan Michel",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.thierrycottard.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-7eme-arrondissement-75007/agence-20401/",
+      "imprintUrl": null,
+      "feeUrl": "http://www.thierrycottard.com",
+      "agencyLegalInformations": [
+        "SARL THIERRY COTTARD au capital de 25 917 €",
+        "Carte professionnelle T5154 délivrée par la Préfecture de Paris",
+        "Garantie financière GALIAN pour un montant de 120 000 €",
+        "<b>Siège:</b> 17, rue de Babylone, 75007 Paris",
+        "<b>RCS:</b> Paris 343949194",
+        "<b>SIRET:</b> 34394919400033"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "17 rue de Babylone, 75007 Paris 7ème",
+      "phoneNumbers": [
+        "0153300909"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75017",
+    "av_city": "Paris",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25KC7AI4N42Q",
+        "price": 5000,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75017",
+        "building_state": "REFURBISHED",
+        "legacy_id": "252608177",
+        "product_type": "standard",
+        "client_id": "RC-030561"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "38599",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "estate_postalcode": "75017",
+        "estate_type": 1,
+        "id": "252608177",
+        "id_duo": 252608177,
+        "id_solo": 252608177,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 4,
+        "nb_rooms": 6,
+        "parent_site": "SL",
+        "photos_nb": 16,
+        "position": 0,
+        "price": 5000,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 174,
+        "year_of_construction": 1928
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75017",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "252608177",
+      "prix": 5000,
+      "nb_pieces": 6,
+      "nb_chambres": 4,
+      "surface": 174,
+      "etage": 7,
+      "commodites": [
+        "ascenseur",
+        "cave",
+        "Chauffage-central",
+        "Cuisine-séparée",
+        "parquet",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire",
+        "sansVisAVis",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-17eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 17ème arrondissement 75017",
+          "hoverLabel": "Appartements à louer Paris 17ème arrondissement 75017",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T6/F6 174 m² 5000 € Champerret-Berthier Paris (75017)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T6/F6 174 m² 5000 € Champerret-Berthier Paris (75017)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-17eme-75/champerret-berthier/252608177.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-17eme-75/champerret-berthier/252608177.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T6/F6 174 m² 5000 € Champerret-Berthier Paris (75017)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T6/F6 174 m² 5000 € Champerret-Berthier Paris (75017)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/d/1/e/f/d1ef6940-7f22-4a49-a4c0-88ad66eed9fa.jpg?ci_seal=d40beb6430ad920832c3a394015346cb9ba482bc"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T6/F6 174 m² 5000 € Champerret-Berthier Paris (75017)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-17eme-75/champerret-berthier/252608177.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T6/F6 174 m² 5000 € Champerret-Berthier Paris (75017)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T6/F6 174 m² 5000 € Champerret-Berthier Paris (75017)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/d/1/e/f/d1ef6940-7f22-4a49-a4c0-88ad66eed9fa.jpg?ci_seal=d40beb6430ad920832c3a394015346cb9ba482bc"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T6/F6 174 m² 5000 € Champerret-Berthier Paris (75017)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T6/F6 174 m² 5000 € Champerret-Berthier Paris (75017)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-17eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 17ème arrondissement 75017",
+          "hoverLabel": "Appartements à louer Paris 17ème arrondissement 75017",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.bellesdemeures.com/252608177/detail.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR91&priceMax=6000&priceMin=4000",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR91",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR42",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25KC7AI4N42Q"
+}

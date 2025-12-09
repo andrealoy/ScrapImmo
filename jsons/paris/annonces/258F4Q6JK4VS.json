@@ -1,0 +1,1257 @@
+{
+  "brand": "seloger",
+  "id": "258F4Q6JK4VS",
+  "metadata": {
+    "legacyId": "255237269",
+    "creationDate": "2025-11-26T12:05:00Z",
+    "updateDate": "2025-12-08T13:46:09.345Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 15ème",
+        "zipCode": "75015",
+        "district": "Pasteur Montparnasse"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3145,
+          48.843504
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "6",
+                "color": "#71cc98"
+              },
+              {
+                "name": "10",
+                "color": "#c69214"
+              },
+              {
+                "name": "12",
+                "color": "#007a53"
+              },
+              {
+                "name": "13",
+                "color": "#71c5e8"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "28",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "39",
+                "color": "#a0006e"
+              },
+              {
+                "name": "70",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "82",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "88",
+                "color": "#cec92a"
+              },
+              {
+                "name": "89",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "91",
+                "color": "#dc9609"
+              },
+              {
+                "name": "92",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "95",
+                "color": "#62259d"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "REF. 17241 Disponible uniquement en contrat code civil : Résidence secondaire ou société. Appartement meublé à Paris d'environ 42m2, situé rue de Vaugirard dans le 15ème arrondissement de Paris - quartier Vaugirard, dans un immeuble parisien de standing, au 1er étage sans ascenseur. Cet appartement comporte 1 salon, 1 chambre, 1 cuisine américaine, 1 salle de douche, WC séparés. Le chauffage dans cet appartement est électrique ().",
+      "texts": [
+        {
+          "text": "REF. 17241 Disponible uniquement en contrat code civil : Résidence secondaire ou société. Appartement meublé à Paris d'environ 42m2, situé rue de Vaugirard dans le 15ème arrondissement de Paris - quartier Vaugirard, dans un immeuble parisien de standing, au 1er étage sans ascenseur. Cet appartement comporte 1 salon, 1 chambre, 1 cuisine américaine, 1 salle de douche, WC séparés. Le chauffage dans cet appartement est électrique ()."
+        }
+      ],
+      "headline": "2 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "42 m²",
+        "1er étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "42 m²",
+          "splitValue": "42",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1er étage",
+          "splitValue": "1er",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 860 €",
+        "formatted": "1 860 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1860 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1900"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Remis à neuf"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "11519be3-9fc7-4fb7-aeb5-a5fae780f2ff",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "71aac785-904c-4422-b3a1-6b4985d0a4a4",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "310 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "10 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "bdca13da-3e9f-4ffe-a932-b42e5a8362a6",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "10 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255237269"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "17241"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 860 €/mois Loyer charges comprises",
+          "ariaLabel": "1860 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "37 €/mois",
+            "ariaLabel": "37 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "44,29 €/mois/m²",
+            "ariaLabel": "44,29 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "3646"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 01/01/2026"
+        },
+        {
+          "icon": "floors",
+          "value": "1er étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "availability",
+                "value": "disponible à partir du 01/01/2026"
+              },
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "1er étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "61efe7d6-fc55-4866-bf53-816198b26522",
+          "url": "https://mms.seloger.com/6/1/e/f/61efe7d6-fc55-4866-bf53-816198b26522.jpg?ci_seal=b9910e7810c9558cb5a87fab4617962a844ac608",
+          "alt": "Appartement à louer 1 860 € 2 pièces 1 chambre 42 m² 1er étage Pasteur Montparnasse Paris 15ème 75015",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6e39176c-6834-475c-a539-ab486c52fd2e",
+          "url": "https://mms.seloger.com/6/e/3/9/6e39176c-6834-475c-a539-ab486c52fd2e.jpg?ci_seal=cb946a44052fa6780d578b1e11773b206c0a45f3",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c2f2b1ea-d38a-4d56-86e7-6d726f5aa47b",
+          "url": "https://mms.seloger.com/c/2/f/2/c2f2b1ea-d38a-4d56-86e7-6d726f5aa47b.jpg?ci_seal=20503ba836b33c2fa499c78044f1ede325af7f8f",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "68138859-bab5-4308-b521-57d8af05070e",
+          "url": "https://mms.seloger.com/6/8/1/3/68138859-bab5-4308-b521-57d8af05070e.jpg?ci_seal=9c2d189590d3ffe860560dec336e4de45f6ccf26",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f6539002-6f81-4f94-894d-665ce288a549",
+          "url": "https://mms.seloger.com/f/6/5/3/f6539002-6f81-4f94-894d-665ce288a549.jpg?ci_seal=300629f1f4f68989d036666f2627ba8a5d3b65cb",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7cc99dee-2d7a-4b88-88ac-39465aee0b55",
+          "url": "https://mms.seloger.com/7/c/c/9/7cc99dee-2d7a-4b88-88ac-39465aee0b55.jpg?ci_seal=df219539316f67bca93f2c1ab1187e86c1e632c9",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "999df733-650f-41e7-9497-993605cda642",
+          "url": "https://mms.seloger.com/9/9/9/d/999df733-650f-41e7-9497-993605cda642.jpg?ci_seal=a5fb7a7139b01dfe965a49daa66938699af16498",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "02119352-f5ed-423d-9935-dffca8e468c3",
+          "url": "https://mms.seloger.com/0/2/1/1/02119352-f5ed-423d-9935-dffca8e468c3.jpg?ci_seal=4ab245cd62833654d0eaeada26d689e0e87fa613",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5cc3528f-789e-490b-91c7-201245342258",
+          "url": "https://mms.seloger.com/5/c/c/3/5cc3528f-789e-490b-91c7-201245342258.jpg?ci_seal=5c2685dba2937cabc8dff4b99628ecc91113541f",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "87fbcf76-8028-4821-87d0-e483cc96edd6",
+          "url": "https://mms.seloger.com/8/7/f/b/87fbcf76-8028-4821-87d0-e483cc96edd6.jpg?ci_seal=836812cf29a0e6461ddbfccee35cf3b2598a9918",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3b08be13-f9d5-4c5e-a2c2-da9dc93d3fef",
+          "url": "https://mms.seloger.com/3/b/0/8/3b08be13-f9d5-4c5e-a2c2-da9dc93d3fef.jpg?ci_seal=f854b155d86911793badb7545c7e6447ab06473f",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2a702fd2-92f1-4e3d-8cd6-866963a78814",
+          "url": "https://mms.seloger.com/2/a/7/0/2a702fd2-92f1-4e3d-8cd6-866963a78814.jpg?ci_seal=6e68449e04da158ca036dca0ce4768abfef00f1b",
+          "classification": {
+            "name": "COURTYARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1ccfd005-bf91-4620-ae12-dd982145b062",
+          "url": "https://mms.seloger.com/1/c/c/f/1ccfd005-bf91-4620-ae12-dd982145b062.jpg?ci_seal=43462fd5bb87e41404e30389740545d68990c1fc",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e113679b-4487-4177-b08a-a6d8720ffd11",
+          "url": "https://mms.seloger.com/e/1/1/3/e113679b-4487-4177-b08a-a6d8720ffd11.jpg?ci_seal=b411bad3835b73023e941bcba68e2664c6b251af",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255237269",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75015",
+      "city": "Paris 15ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 34.98,
+        "accuracy": 4,
+        "high": "44,42",
+        "low": "28,22"
+      },
+      "markerPosition": 99,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "44,29",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "2 pièces",
+      "description": "REF. 17241 Disponible uniquement en contrat code civil : Résidence secondaire ou société. Appartement meublé à Paris d'environ 42m2, situé rue de Vaugirard dans le 15ème arrondissement de Paris - quartier Vaugirard, dans un immeuble parisien de standing, au 1er étage sans ascenseur. Cet appartement comporte 1 salon, 1 chambre, 1 cuisine américaine, 1 salle de douche, WC séparés. Le chauffage dans cet appartement est électrique ().",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "13 jours en ligne",
+      "views": "110 vues",
+      "saves": "12 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "258F4Q6JK4VS",
+    "legacyId": "255237269",
+    "brand": "seloger",
+    "agencyId": "RC-112046",
+    "static": {
+      "phoneNumbers": [
+        "+33 6 78 06 01 76"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33 6 78 06 01 76"
+      ]
+    },
+    "contactCard": {
+      "title": "BOOK A FLAT",
+      "subtitle": "Clara Ferry",
+      "phoneNumbers": [
+        "+33 6 78 06 01 76"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/a/b/b/a/abbab398-fb0c-42da-bb36-74a198391816.jpg?ci_seal=2c062a79ff50a83666bc36fbedca6df132f4dac6",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "BOOK A FLAT",
+        "subtitle": "Clara Ferry",
+        "phoneNumbers": [
+          "+33 6 78 06 01 76"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/a/b/b/a/abbab398-fb0c-42da-bb36-74a198391816.jpg?ci_seal=2c062a79ff50a83666bc36fbedca6df132f4dac6"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Clara Ferry",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "BOOK A FLAT",
+      "subtitle": "BOOK A FLAT",
+      "phoneNumbers": [
+        "+33 6 78 06 01 76"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "BOOK A FLAT",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/a/b/b/a/abbab398-fb0c-42da-bb36-74a198391816.jpg?ci_seal=2c062a79ff50a83666bc36fbedca6df132f4dac6",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/"
+      },
+      "contactCard": {
+        "title": "Clara Ferry",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "https://www.book-a-flat.com/fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 478941990",
+        "<b>SIRET:</b> 47894199000024"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "18 rue Volney, 75002 Paris 2ème",
+      "phoneNumbers": [
+        "+33 6 78 06 01 76"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75015",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "258F4Q6JK4VS",
+        "price": 1860,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75015",
+        "building_state": "REFURBISHED",
+        "legacy_id": "255237269",
+        "product_type": "standard",
+        "client_id": "RC-112046",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "39742",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75015",
+        "estate_type": 1,
+        "id": "255237269",
+        "id_duo": 255237269,
+        "id_solo": 255237269,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 14,
+        "position": 0,
+        "price": 1860,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 42,
+        "year_of_construction": 1900
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75015",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255237269",
+      "prix": 1900,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 42,
+      "commodites": [
+        "ascenseur",
+        "Cuisine-américaine",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-15eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 15ème arrondissement 75015",
+          "hoverLabel": "Appartements à louer Paris 15ème arrondissement 75015",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 42 m² 1860 € Pasteur Montparnasse Paris (75015)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 42 m² 1860 € Pasteur Montparnasse Paris (75015)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-6eme-75/rennes/255237269.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-6eme-75/rennes/255237269.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 42 m² 1860 € Pasteur Montparnasse Paris (75015)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 42 m² 1860 € Pasteur Montparnasse Paris (75015)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/6/1/e/f/61efe7d6-fc55-4866-bf53-816198b26522.jpg?ci_seal=b9910e7810c9558cb5a87fab4617962a844ac608"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 42 m² 1860 € Pasteur Montparnasse Paris (75015)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-6eme-75/rennes/255237269.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 42 m² 1860 € Pasteur Montparnasse Paris (75015)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 42 m² 1860 € Pasteur Montparnasse Paris (75015)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/6/1/e/f/61efe7d6-fc55-4866-bf53-816198b26522.jpg?ci_seal=b9910e7810c9558cb5a87fab4617962a844ac608"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 42 m² 1860 € Pasteur Montparnasse Paris (75015)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 42 m² 1860 € Pasteur Montparnasse Paris (75015)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-15eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 15ème arrondissement 75015",
+          "hoverLabel": "Appartements à louer Paris 15ème arrondissement 75015",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-6eme-75/rennes/255237269.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#101010",
+    "textColor": "light",
+    "providerName": "BOOK A FLAT",
+    "logo": {
+      "src": "https://mms.seloger.com/a/b/b/a/abbab398-fb0c-42da-bb36-74a198391816.jpg?ci_seal=2c062a79ff50a83666bc36fbedca6df132f4dac6",
+      "alt": "logo-RC-112046",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/a/0/e/9/a0e97e15-7f01-42d5-a47f-b312f6c413ee.png?ci_eqs=&ci_seal=0262c9e9284a5d3bc04c549e2ce60a56b4d75d72",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/a/0/e/9/a0e97e15-7f01-42d5-a47f-b312f6c413ee.png?ci_eqs=&ci_seal=0262c9e9284a5d3bc04c549e2ce60a56b4d75d72",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/f/a/d/f/fadf6d64-4533-4a92-939c-44481b90c475.png?ci_eqs=&ci_seal=76f3aec1b7594d48514db0194f60e6a75af534f5",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-5842/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR79&priceMax=2232&priceMin=1488",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR79",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR40",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "258F4Q6JK4VS"
+}

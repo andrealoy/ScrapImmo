@@ -1,0 +1,1114 @@
+{
+  "brand": "seloger",
+  "id": "25X1GZW5AGYU",
+  "metadata": {
+    "legacyId": "255290395",
+    "creationDate": "2025-11-27T04:53:00Z",
+    "updateDate": "2025-11-28T01:17:05.783Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 15ème",
+        "zipCode": "75015",
+        "district": "Cambronne-Garibaldi"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.304452,
+          48.846053
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "6",
+                "color": "#71cc98"
+              },
+              {
+                "name": "10",
+                "color": "#c69214"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "28",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "39",
+                "color": "#a0006e"
+              },
+              {
+                "name": "70",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "80",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "89",
+                "color": "#82c8e6"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Crédit Agricole Immobilier vous propose un appartement T2 de 53.60m² au 5 ème étage comprenant une cuisine équipée et ouverte sur le séjour, une chambre, une salle de bains aménagée.\r\n Honoraires de location (TTC) à la charge du locataire pour la réalisation des services suivants : visites, constitution de dossier, frais de rédaction de bail, état des lieux. Dépôt de garantie, à verser par le locataire correspond à 1 mois de loyer HC. Nous consulter pour disponibilité.\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  georisques. gouv. fr",
+      "texts": [
+        {
+          "text": "Crédit Agricole Immobilier vous propose un appartement T2 de 53.60m² au 5 ème étage comprenant une cuisine équipée et ouverte sur le séjour, une chambre, une salle de bains aménagée.\r\n Honoraires de location (TTC) à la charge du locataire pour la réalisation des services suivants : visites, constitution de dossier, frais de rédaction de bail, état des lieux. Dépôt de garantie, à verser par le locataire correspond à 1 mois de loyer HC. Nous consulter pour disponibilité.\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  georisques. gouv. fr"
+        }
+      ],
+      "headline": "T2"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "53 m²",
+        "5ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "53 m²",
+          "splitValue": "53",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5ème étage",
+          "splitValue": "5ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 934 €",
+        "formatted": "1 934 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1934 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "249a1a1e-5185-4ce6-b3f1-3f5be3cf6f28",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 990 et 1380 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 990 et 1380 € par an. Date d'indexation du prix des énergies non communiquée."
+            }
+          ],
+          "scales": [
+            {
+              "key": "21bb7141-e8a2-4139-8ef4-1bb81aa4136b",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "244 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "49 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "244ce5dd-1596-4b3f-bad5-0f26e8f4684c",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "49 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255290395"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "88820"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 934 €/mois Loyer charges comprises",
+          "ariaLabel": "1934 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "250 €/mois",
+            "ariaLabel": "250 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "36,49 €/mois/m²",
+            "ariaLabel": "36,49 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1683.04"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "5ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "barrier-free",
+          "value": "Non accessible aux personnes à mobilité réduite"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "5ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "83886a54-df40-410a-8a09-9878c3cbc38a",
+          "url": "https://mms.seloger.com/8/3/8/8/83886a54-df40-410a-8a09-9878c3cbc38a.jpg?ci_seal=b840fcf5a90d64c3b73560ebee0e795c8fb349aa",
+          "alt": "Appartement à louer 1 934 € 2 pièces 1 chambre 53 m² 5ème étage Cambronne-Garibaldi Paris 15ème 75015",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "636fccc9-b4cc-410e-9ae9-0d491679d617",
+          "url": "https://mms.seloger.com/6/3/6/f/636fccc9-b4cc-410e-9ae9-0d491679d617.jpg?ci_seal=003bb2b223e37bcd555de64b4666ad893aa78bec",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e475f1f5-3b33-4e0d-839f-54a0b8b17d2e",
+          "url": "https://mms.seloger.com/e/4/7/5/e475f1f5-3b33-4e0d-839f-54a0b8b17d2e.jpg?ci_seal=82d4cd6934f61b48f4acd1dc4f707c72179cbaa5",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fa28d17f-f557-4166-a6e5-fcbb9088351b",
+          "url": "https://mms.seloger.com/f/a/2/8/fa28d17f-f557-4166-a6e5-fcbb9088351b.jpg?ci_seal=47c54ada8678ffbaa2dc8fa6987579dceeb1fae4",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4a89169f-4ab2-4b5f-a7d9-20335714a37b",
+          "url": "https://mms.seloger.com/4/a/8/9/4a89169f-4ab2-4b5f-a7d9-20335714a37b.jpg?ci_seal=25726fbf3794d95b5fb057053b28712d45212f73",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9acaccb0-f8ac-452c-b7ba-d95758dccefb",
+          "url": "https://mms.seloger.com/9/a/c/a/9acaccb0-f8ac-452c-b7ba-d95758dccefb.jpg?ci_seal=c0900eed86c90473f5e527e0e437fcb49233dcbe",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255290395",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75015",
+      "city": "Paris 15ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 34.19,
+        "accuracy": 4,
+        "high": "41,77",
+        "low": "27,40"
+      },
+      "markerPosition": 63,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "36,49",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "T2",
+      "description": "Crédit Agricole Immobilier vous propose un appartement T2 de 53.60m² au 5 ème étage comprenant une cuisine équipée et ouverte sur le séjour, une chambre, une salle de bains aménagée.\r\n Honoraires de location (TTC) à la charge du locataire pour la réalisation des services suivants : visites, constitution de dossier, frais de rédaction de bail, état des lieux. Dépôt de garantie, à verser par le locataire correspond à 1 mois de loyer HC. Nous consulter pour disponibilité.\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  georisques. gouv. fr",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "12 jours en ligne",
+      "views": "49 vues",
+      "saves": "0 favori"
+    }
+  },
+  "contactSections": {
+    "id": "25X1GZW5AGYU",
+    "legacyId": "255290395",
+    "brand": "seloger",
+    "agencyId": "RC-108898",
+    "static": {
+      "phoneNumbers": [
+        "05 34 40 17 98"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "05 34 40 17 98"
+      ]
+    },
+    "contactCard": {
+      "title": "Crédit Agricole Immobilier",
+      "subtitle": "Hors Gestion Instit",
+      "phoneNumbers": [
+        "05 34 40 17 98"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/7/6/7/c/767ce398-f703-48e0-8aec-53a7a61248ba.jpg?ci_seal=8132a6918f8b3536db005af6fc10750ccd9b8dcf",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Crédit Agricole Immobilier",
+        "subtitle": "Hors Gestion Instit",
+        "phoneNumbers": [
+          "05 34 40 17 98"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/7/6/7/c/767ce398-f703-48e0-8aec-53a7a61248ba.jpg?ci_seal=8132a6918f8b3536db005af6fc10750ccd9b8dcf"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Hors Gestion Instit",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Crédit Agricole Immobilier",
+      "subtitle": "Crédit Agricole Immobilier",
+      "phoneNumbers": [
+        "05 34 40 17 98"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Crédit Agricole Immobilier",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/7/6/7/c/767ce398-f703-48e0-8aec-53a7a61248ba.jpg?ci_seal=8132a6918f8b3536db005af6fc10750ccd9b8dcf",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/toulouse-cdx-2-31204/agence-3624/"
+      },
+      "contactCard": {
+        "title": "Hors Gestion Instit",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/toulouse-cdx-2-31204/agence-3624/",
+      "imprintUrl": null,
+      "feeUrl": "https://www.ca-immobilier.fr/assets/pdf/bareme_location_et_transaction.pdf",
+      "agencyLegalInformations": [
+        "SAS CREDIT AGRICOLE IMMOBILIER SERVICES au capital de 1 791 868 €",
+        "Carte professionnelle CPI 9201 2016 000 010 635 délivrée par la Préfecture de NANTERRE",
+        "<b>Siège:</b> 12 Place des Etats-Unis, 92545 Montrouge Cedex",
+        "<b>RCS:</b> Paris 400777827",
+        "<b>SIRET:</b> 40077782700033"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "9 Impasse de Borderouge, 31204 Toulouse Cdx 2",
+      "phoneNumbers": [
+        "05 34 40 17 98"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75015",
+    "av_city": "Paris",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25X1GZW5AGYU",
+        "price": 1934,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75015",
+        "legacy_id": "255290395",
+        "product_type": "standard",
+        "client_id": "RC-108898",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "12251",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "75015",
+        "estate_type": 1,
+        "id": "255290395",
+        "id_duo": 255290395,
+        "id_solo": 255290395,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 6,
+        "position": 0,
+        "price": 1934,
+        "product_geolocation": "localisation_district",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 53
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75015",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255290395",
+      "prix": 2000,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 53,
+      "commodites": [
+        "Cuisine-équipée",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-15eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 15ème arrondissement 75015",
+          "hoverLabel": "Appartements à louer Paris 15ème arrondissement 75015",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 53 m² 1934 € Cambronne-Garibaldi Paris (75015)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 53 m² 1934 € Cambronne-Garibaldi Paris (75015)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/cambronne-garibaldi/255290395.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/cambronne-garibaldi/255290395.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 53 m² 1934 € Cambronne-Garibaldi Paris (75015)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 53 m² 1934 € Cambronne-Garibaldi Paris (75015)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/8/3/8/8/83886a54-df40-410a-8a09-9878c3cbc38a.jpg?ci_seal=b840fcf5a90d64c3b73560ebee0e795c8fb349aa"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 53 m² 1934 € Cambronne-Garibaldi Paris (75015)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/cambronne-garibaldi/255290395.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 53 m² 1934 € Cambronne-Garibaldi Paris (75015)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 53 m² 1934 € Cambronne-Garibaldi Paris (75015)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/8/3/8/8/83886a54-df40-410a-8a09-9878c3cbc38a.jpg?ci_seal=b840fcf5a90d64c3b73560ebee0e795c8fb349aa"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 53 m² 1934 € Cambronne-Garibaldi Paris (75015)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 53 m² 1934 € Cambronne-Garibaldi Paris (75015)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-15eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 15ème arrondissement 75015",
+          "hoverLabel": "Appartements à louer Paris 15ème arrondissement 75015",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/cambronne-garibaldi/255290395.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR75&priceMax=2320.8&priceMin=1547.2",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR75",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR40",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25X1GZW5AGYU"
+}

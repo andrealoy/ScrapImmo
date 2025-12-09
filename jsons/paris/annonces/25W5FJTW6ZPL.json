@@ -1,0 +1,1217 @@
+{
+  "brand": "seloger",
+  "id": "25W5FJTW6ZPL",
+  "metadata": {
+    "legacyId": "255596995",
+    "creationDate": "2025-12-01T20:11:00Z",
+    "updateDate": "2025-12-02T20:16:10.658Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 20ème",
+        "zipCode": "75020",
+        "district": "Télégraphe-Pelleport Saint Fargeau"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.395544,
+          48.870984
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "20",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "26",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "60",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "61",
+                "color": "#00643c"
+              },
+              {
+                "name": "64",
+                "color": "#77c695"
+              },
+              {
+                "name": "96",
+                "color": "#dc9609"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Entre la place Gambetta et la rue de Belleville , rue Pixérécourt.Métro JOURDAIN ou GAMBETTA.Dans une résidence de 2012 bien sécurisée, un appartement meublé de 38.6 m2 en rez de chaussée sur rue composé de 2 pièces principales comprenant : un séjour avec cuisine ouverte avec espace repas, une chambre avec salle d' eau et wc.Le bien est sur parquet, possède une belle hauteur sous plafond, des volets roulants électrique, équipé et aménagé avec un mobilier et de l' électroménager.Chauffage électrique à inertie , immeuble avec très bonne isolation phonique et thermique.",
+      "texts": [
+        {
+          "text": "Entre la place Gambetta et la rue de Belleville , rue Pixérécourt.Métro JOURDAIN ou GAMBETTA.Dans une résidence de 2012 bien sécurisée, un appartement meublé de 38.6 m2 en rez de chaussée sur rue composé de 2 pièces principales comprenant : un séjour avec cuisine ouverte avec espace repas, une chambre avec salle d' eau et wc.Le bien est sur parquet, possède une belle hauteur sous plafond, des volets roulants électrique, équipé et aménagé avec un mobilier et de l' électroménager.Chauffage électrique à inertie , immeuble avec très bonne isolation phonique et thermique."
+        }
+      ],
+      "headline": "2 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "39 m²",
+        "RDC"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "39 m²",
+          "splitValue": "39",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "RDC",
+          "splitValue": "RDC",
+          "label": ""
+        }
+      ],
+      "price": {
+        "value": "1 131 €",
+        "formatted": "1 131 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1131 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "3af0b142-2e53-495f-8e45-7f6a83eac22e",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 580 et 820 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 580 et 820 € par an. Prix moyens des énergies indexés au 31/12/2020 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "b0006b17-dd7d-40d4-b047-6bac84092736",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "231 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "21ed771d-e49e-46d3-be24-c0008df72a84",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255596995"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "L-96-1912-9635"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 131 €/mois Loyer charges comprises",
+          "ariaLabel": "1131 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "60 €/mois",
+            "ariaLabel": "60 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "29 €/mois/m²",
+            "ariaLabel": "29 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2142"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Rez-de-chaussée"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "value": "Cave",
+          "icon": "cellar"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "floor-covering",
+          "value": "Revêtement du sol: Parquet"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "Rez-de-chaussée"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine intégrée"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "value": "Cave",
+                "icon": "cellar"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "0be6070f-012d-45d6-932c-3bc38cc06289",
+          "url": "https://mms.seloger.com/0/b/e/6/0be6070f-012d-45d6-932c-3bc38cc06289.jpg?ci_seal=6e640dceab99e4159b7be1fba87a282e518b567b",
+          "alt": "Appartement à louer 1 131 € 2 pièces 1 chambre 39 m² RDC Télégraphe-Pelleport Saint Fargeau Paris 20ème 75020",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "41705da2-c33d-4939-9d30-82004a59328c",
+          "url": "https://mms.seloger.com/4/1/7/0/41705da2-c33d-4939-9d30-82004a59328c.jpg?ci_seal=baf641019b1ae5c9bddc551cdfd8160ac656c4b6",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "611ed7a9-c81e-475e-bc17-2b2377d5b322",
+          "url": "https://mms.seloger.com/6/1/1/e/611ed7a9-c81e-475e-bc17-2b2377d5b322.jpg?ci_seal=41ed6143a40843634dba78032080e7ed845e591c",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8b017d13-287c-4aae-a368-95e6b2054517",
+          "url": "https://mms.seloger.com/8/b/0/1/8b017d13-287c-4aae-a368-95e6b2054517.jpg?ci_seal=7ac4f9501184a21cf9e679319fa9f1b863cd7cb7",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1a079002-cd6a-4fde-a6a7-68f886310f01",
+          "url": "https://mms.seloger.com/1/a/0/7/1a079002-cd6a-4fde-a6a7-68f886310f01.jpg?ci_seal=42f3e3af8d0110dd9d27419f13a47f5f84537209",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "558c7865-0c1a-4a4e-91e6-4911033c1036",
+          "url": "https://mms.seloger.com/5/5/8/c/558c7865-0c1a-4a4e-91e6-4911033c1036.jpg?ci_seal=f49caad69858fb5f57ff585202dea1efd6d1a6c8",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9992c94b-2631-40ad-a006-fd50b86db5f6",
+          "url": "https://mms.seloger.com/9/9/9/2/9992c94b-2631-40ad-a006-fd50b86db5f6.jpg?ci_seal=5c1fd370234022877adc3033104ae288631c9b70",
+          "classification": {
+            "name": "LOGO",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d8338d71-a54b-4008-a2c1-d6f49123dae5",
+          "url": "https://mms.seloger.com/d/8/3/3/d8338d71-a54b-4008-a2c1-d6f49123dae5.jpg?ci_seal=b3119b3212bd6d1ade014725e23b92348195e27e",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b24b4834-8bdf-4310-9724-2a09967c16fd",
+          "url": "https://mms.seloger.com/b/2/4/b/b24b4834-8bdf-4310-9724-2a09967c16fd.jpg?ci_seal=2b70a4548480ee650bf76e24b76349a8c41ba3cb",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ],
+      "floorplans": [
+        {
+          "key": "12ed1de1-1242-45c5-8bda-519f62341ed3",
+          "url": "https://mms.seloger.com/1/2/e/d/12ed1de1-1242-45c5-8bda-519f62341ed3.jpg?ci_seal=fc215f0a8f59fd0ba50668ef9437497804d6c2a4",
+          "alt": "Appartement à louer 1 131 € 2 pièces 1 chambre 39 m² RDC Télégraphe-Pelleport Saint Fargeau Paris 20ème 75020",
+          "classification": {
+            "name": "FLOORPLAN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": [
+        {
+          "urlType": "VIRTUAL_TOUR",
+          "url": "https://www.youtube.com/embed/7L98M2Xa0GE",
+          "key": "902ef6ce-6ae5-4c13-b72a-fd8eefb28d0b",
+          "title": "Visite virtuelle",
+          "virtualTours": {},
+          "previewImage": {
+            "key": "0be6070f-012d-45d6-932c-3bc38cc06289",
+            "url": "https://mms.seloger.com/0/b/e/6/0be6070f-012d-45d6-932c-3bc38cc06289.jpg?ci_seal=6e640dceab99e4159b7be1fba87a282e518b567b"
+          }
+        }
+      ]
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255596995",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75020",
+      "city": "Paris 20ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 29.43,
+        "accuracy": 3,
+        "high": "39,15",
+        "low": "21,17"
+      },
+      "markerPosition": 44,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "29",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "2 pièces",
+      "description": "Entre la place Gambetta et la rue de Belleville , rue Pixérécourt.Métro JOURDAIN ou GAMBETTA.Dans une résidence de 2012 bien sécurisée, un appartement meublé de 38.6 m2 en rez de chaussée sur rue composé de 2 pièces principales comprenant : un séjour avec cuisine ouverte avec espace repas, une chambre avec salle d' eau et wc.Le bien est sur parquet, possède une belle hauteur sous plafond, des volets roulants électrique, équipé et aménagé avec un mobilier et de l' électroménager.Chauffage électrique à inertie , immeuble avec très bonne isolation phonique et thermique.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "7 jours en ligne",
+      "views": "832 vues",
+      "saves": "110 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25W5FJTW6ZPL",
+    "legacyId": "255596995",
+    "brand": "seloger",
+    "agencyId": "RC-066344",
+    "static": {
+      "phoneNumbers": [
+        "0140091700"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0140091700"
+      ]
+    },
+    "contactCard": {
+      "title": "LAMIRAND ET ASSOCIES",
+      "subtitle": "Mme Adou",
+      "phoneNumbers": [
+        "0140091700"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/7/d/3/3/7d33184c-bd09-4dda-83c1-d4fb597c33b3.jpg?ci_seal=ea93817b9ec708b6ffb9cbc71d30cebdef11507e",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "LAMIRAND ET ASSOCIES",
+        "subtitle": "Mme Adou",
+        "phoneNumbers": [
+          "0140091700"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/7/d/3/3/7d33184c-bd09-4dda-83c1-d4fb597c33b3.jpg?ci_seal=ea93817b9ec708b6ffb9cbc71d30cebdef11507e"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Mme Adou",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "LAMIRAND ET ASSOCIES",
+      "subtitle": "LAMIRAND ET ASSOCIES",
+      "phoneNumbers": [
+        "0140091700"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "LAMIRAND ET ASSOCIES",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/7/d/3/3/7d33184c-bd09-4dda-83c1-d4fb597c33b3.jpg?ci_seal=ea93817b9ec708b6ffb9cbc71d30cebdef11507e",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-20eme-arrondissement-75020/agence-44386/"
+      },
+      "contactCard": {
+        "title": "Mme Adou",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.lamirand-associes.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-20eme-arrondissement-75020/agence-44386/",
+      "imprintUrl": null,
+      "feeUrl": "https://www.lamirand-associes.com/bareme-de-l-agence/",
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 382615961",
+        "<b>SIRET:</b> 38261596100036"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "66 rue des Pyrénées, 75020 Paris",
+      "phoneNumbers": [
+        "0140091700"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75020",
+    "av_city": "Paris",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25W5FJTW6ZPL",
+        "price": 1131,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75020",
+        "legacy_id": "255596995",
+        "product_type": "standard",
+        "client_id": "RC-066344",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "1473",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "75020",
+        "estate_type": 1,
+        "id": "255596995",
+        "id_duo": 255596995,
+        "id_solo": 255596995,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 10,
+        "position": 0,
+        "price": 1131,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 39
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75020",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255596995",
+      "prix": 1200,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 39,
+      "commodites": [
+        "ascenseur",
+        "cave",
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "Cuisine-équipée",
+        "parquet",
+        "rez-de-chaussee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-20eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 20ème arrondissement 75020",
+          "hoverLabel": "Appartements à louer Paris 20ème arrondissement 75020",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 39 m² 1131 € Télégraphe-Pelleport Saint Fargeau Paris (75020)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 39 m² 1131 € Télégraphe-Pelleport Saint Fargeau Paris (75020)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-20eme-75/telegraphe-pelleport-saint-fargeau/255596995.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-20eme-75/telegraphe-pelleport-saint-fargeau/255596995.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 39 m² 1131 € Télégraphe-Pelleport Saint Fargeau Paris (75020)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 39 m² 1131 € Télégraphe-Pelleport Saint Fargeau Paris (75020)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/0/b/e/6/0be6070f-012d-45d6-932c-3bc38cc06289.jpg?ci_seal=6e640dceab99e4159b7be1fba87a282e518b567b"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 39 m² 1131 € Télégraphe-Pelleport Saint Fargeau Paris (75020)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-20eme-75/telegraphe-pelleport-saint-fargeau/255596995.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 39 m² 1131 € Télégraphe-Pelleport Saint Fargeau Paris (75020)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 39 m² 1131 € Télégraphe-Pelleport Saint Fargeau Paris (75020)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/0/b/e/6/0be6070f-012d-45d6-932c-3bc38cc06289.jpg?ci_seal=6e640dceab99e4159b7be1fba87a282e518b567b"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 39 m² 1131 € Télégraphe-Pelleport Saint Fargeau Paris (75020)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 39 m² 1131 € Télégraphe-Pelleport Saint Fargeau Paris (75020)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-20eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 20ème arrondissement 75020",
+          "hoverLabel": "Appartements à louer Paris 20ème arrondissement 75020",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-20eme-75/telegraphe-pelleport-saint-fargeau/255596995.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#105070",
+    "textColor": "light",
+    "providerName": "LAMIRAND ET ASSOCIES",
+    "logo": {
+      "src": "https://mms.seloger.com/7/d/3/3/7d33184c-bd09-4dda-83c1-d4fb597c33b3.jpg?ci_seal=ea93817b9ec708b6ffb9cbc71d30cebdef11507e",
+      "alt": "logo-RC-066344",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/7/c/6/6/7c66b8aa-1bf6-449c-b67b-df1489880bd1.png?ci_eqs=&ci_seal=3e1739ea24b92a3bbd6d02f9c7b7503a4eaafbee",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-20eme-arrondissement-75020/agence-44386/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/7/c/6/6/7c66b8aa-1bf6-449c-b67b-df1489880bd1.png?ci_eqs=&ci_seal=3e1739ea24b92a3bbd6d02f9c7b7503a4eaafbee",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-20eme-arrondissement-75020/agence-44386/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/e/6/d/f/e6dfa962-c111-4af5-a7bc-7a6a7d9dedf9.png?ci_eqs=&ci_seal=b28b1a461126d3018375fbd99e06ccc997ec42cc",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-20eme-arrondissement-75020/agence-44386/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR120&priceMax=1357.2&priceMin=904.8",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": true,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR120",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR45",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25W5FJTW6ZPL"
+}

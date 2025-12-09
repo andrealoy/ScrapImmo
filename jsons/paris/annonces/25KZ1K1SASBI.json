@@ -1,0 +1,1200 @@
+{
+  "brand": "seloger",
+  "id": "25KZ1K1SASBI",
+  "metadata": {
+    "legacyId": "253306143",
+    "creationDate": "2025-10-30T19:14:00Z",
+    "updateDate": "2025-12-05T01:17:07.682Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 5ème",
+        "zipCode": "75005",
+        "district": "Val de Grace"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.340574,
+          48.8436813
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "RER",
+            "lines": [
+              {
+                "name": "B",
+                "color": "#5291CE"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "24",
+                "color": "#a0006e"
+              },
+              {
+                "name": "38",
+                "color": "#006cb8"
+              },
+              {
+                "name": "75",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "82",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "83",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "84",
+                "color": "#d282be"
+              },
+              {
+                "name": "91",
+                "color": "#dc9609"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Rue l'abbé de l'épée, voie privée, à 2 pas du Luxembourg\nimmeuble récent de standing avec gardien, situé au rez de chaussée, appartement composé d'une entrée, cuisine aménagée, grand séjour, deux cambres, salle de bains, wc, chauffage individuel électrique. parking en sous-sol.",
+      "texts": [
+        {
+          "text": "Rue l'abbé de l'épée, voie privée, à 2 pas du Luxembourg\nimmeuble récent de standing avec gardien, situé au rez de chaussée, appartement composé d'une entrée, cuisine aménagée, grand séjour, deux cambres, salle de bains, wc, chauffage individuel électrique. parking en sous-sol."
+        }
+      ],
+      "headline": "TROIS PIECES PARKING"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "65 m²",
+        "RDC"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "65 m²",
+          "splitValue": "65",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "RDC",
+          "splitValue": "RDC",
+          "label": ""
+        }
+      ],
+      "price": {
+        "value": "1 895 €",
+        "formatted": "1 895 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "1895 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1989"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Entretenu"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel: Radiateur"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "846afaae-baf4-4dff-b951-8a65237bda3a",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 1355 et 1833 €/an"
+            },
+            {
+              "type": "excessiveConsumption",
+              "label": "Consommation d'énergie",
+              "value": "Logement à consommation énergétique excessive: classe F"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 1355 et 1833 € par an. Prix moyens des énergies indexés au 01/01/2021 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "f49cc663-19c2-422e-bb38-4bb477edb11c",
+              "efficiencyClass": {
+                "index": 5,
+                "rating": "F"
+              },
+              "values": [
+                {
+                  "value": "336 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "146 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "10 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : F avec une plage allant de A à G .La consommation d'énergie est 146 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": true
+            },
+            {
+              "key": "4ca1c1be-7585-43fa-8a75-ce975a9c5d7c",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "10 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est 146 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "253306143"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "1097"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 765 €/mois Loyer de base",
+          "ariaLabel": "1765 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "130 €/mois",
+            "ariaLabel": "130 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 895 €/mois",
+            "ariaLabel": "1895 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "27,15 €/mois/m²",
+            "ariaLabel": "27,15 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1765.00"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Rez-de-chaussée"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Parking"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "garden",
+          "value": "Jardin"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "floors",
+                "value": "Rez-de-chaussée"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "garden",
+                "value": "Jardin"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "Parking"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Gardien",
+                "icon": "custodian"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "c36fe7fc-6dfb-4bd0-a499-7c16d6cb1587",
+          "url": "https://mms.seloger.com/c/3/6/f/c36fe7fc-6dfb-4bd0-a499-7c16d6cb1587.jpg?ci_seal=726e69e1bbd624b5e64a71052c60c00f0e5fe363",
+          "alt": "Appartement à louer 1 895 € 3 pièces 2 chambres 65 m² RDC Val de Grace Paris 5ème 75005",
+          "classification": {
+            "name": "COURTYARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "dedff7c3-1f61-4562-9f8f-ce74a1552f20",
+          "url": "https://mms.seloger.com/d/e/d/f/dedff7c3-1f61-4562-9f8f-ce74a1552f20.jpg?ci_seal=452cd4668e20b87c491e8a552bc3b85ce96eb374",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "603a58e1-ac29-4cc4-8232-23dc247a6556",
+          "url": "https://mms.seloger.com/6/0/3/a/603a58e1-ac29-4cc4-8232-23dc247a6556.jpg?ci_seal=2c50514167ab09bce88333e4f9e9cd02f8ffd362",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9111507b-f732-40b5-a6bf-c8c37619b8a5",
+          "url": "https://mms.seloger.com/9/1/1/1/9111507b-f732-40b5-a6bf-c8c37619b8a5.jpg?ci_seal=16fdd614db21c33469c72f3c66901fcaf0eb9a34",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c9bafc5f-8932-4b74-b4ff-47a14ffcb05f",
+          "url": "https://mms.seloger.com/c/9/b/a/c9bafc5f-8932-4b74-b4ff-47a14ffcb05f.jpg?ci_seal=e53e8fc02153a6c428d3e7da47ee9eee0e2f2dd8",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0c7c9705-18b9-4627-a67a-9b9ce3b91a45",
+          "url": "https://mms.seloger.com/0/c/7/c/0c7c9705-18b9-4627-a67a-9b9ce3b91a45.jpg?ci_seal=0547c8fa8c05082c0d55d796cb781bd8212c7b0f",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f93a813b-c02a-42ae-8ecd-136a5a60131c",
+          "url": "https://mms.seloger.com/f/9/3/a/f93a813b-c02a-42ae-8ecd-136a5a60131c.jpg?ci_seal=e8637cf02f709dd2c0d3d9bc1cabedf7ed8e7c47",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "662987d1-9b5b-4fda-abb1-a8eff2097c41",
+          "url": "https://mms.seloger.com/6/6/2/9/662987d1-9b5b-4fda-abb1-a8eff2097c41.jpg?ci_seal=eade3497a6addcfde2b3e64a5e5c3f4eb1595db3",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": [
+        {
+          "urlType": "VIRTUAL_TOUR",
+          "url": "https://youtu.be/GhEs1iYSEhg",
+          "key": "025ebaba-5434-40b1-bb63-cf8a8a794537",
+          "title": "Visite virtuelle",
+          "virtualTours": {},
+          "previewImage": {
+            "key": "c36fe7fc-6dfb-4bd0-a499-7c16d6cb1587",
+            "url": "https://mms.seloger.com/c/3/6/f/c36fe7fc-6dfb-4bd0-a499-7c16d6cb1587.jpg?ci_seal=726e69e1bbd624b5e64a71052c60c00f0e5fe363"
+          }
+        }
+      ]
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "253306143",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75005",
+      "city": "Paris 5ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 36.6,
+        "accuracy": 3,
+        "high": "48,01",
+        "low": "29,44"
+      },
+      "markerPosition": 0,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "27,15",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "TROIS PIECES PARKING",
+      "description": "Rue l'abbé de l'épée, voie privée, à 2 pas du Luxembourg\nimmeuble récent de standing avec gardien, situé au rez de chaussée, appartement composé d'une entrée, cuisine aménagée, grand séjour, deux cambres, salle de bains, wc, chauffage individuel électrique. parking en sous-sol.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 mois en ligne",
+      "views": "999+ vues",
+      "saves": "47 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25KZ1K1SASBI",
+    "legacyId": "253306143",
+    "brand": "seloger",
+    "agencyId": "RC-070532",
+    "static": {
+      "phoneNumbers": [
+        "01 55 62 26 57"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "01 55 62 26 57"
+      ]
+    },
+    "contactCard": {
+      "title": "LOISELET & DAIGREMONT PATRIMOINE",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "01 55 62 26 57"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "LOISELET & DAIGREMONT PATRIMOINE",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "01 55 62 26 57"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "LOISELET & DAIGREMONT PATRIMOINE",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "01 55 62 26 57"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "LOISELET & DAIGREMONT PATRIMOINE",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/neuilly-sur-seine-92200/agence-67350/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/neuilly-sur-seine-92200/agence-67350/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 582142790",
+        "<b>SIRET:</b> 58214279000051"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "14 rue Garnier, 92200 Neuilly sur Seine",
+      "phoneNumbers": [
+        "01 55 62 26 57"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75005",
+    "av_city": "Paris",
+    "av_energy_certificate": "F",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25KZ1K1SASBI",
+        "price": 1895,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75005",
+        "building_state": "WELL_KEPT",
+        "legacy_id": "253306143",
+        "product_type": "standard",
+        "client_id": "RC-070532",
+        "energy_certificate": "F"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "1251",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "F",
+        "estate_postalcode": "75005",
+        "estate_type": 1,
+        "id": "253306143",
+        "id_duo": 253306143,
+        "id_solo": 253306143,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 8,
+        "position": 0,
+        "price": 1895,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 65,
+        "year_of_construction": 1989
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75005",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "253306143",
+      "prix": 1900,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 65,
+      "commodites": [
+        "ascenseur",
+        "Chauffage-individuel",
+        "Cuisine-équipée",
+        "jardin",
+        "parking%20ouvert",
+        "rez-de-chaussee",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "F"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-5eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 5ème arrondissement 75005",
+          "hoverLabel": "Appartements à louer Paris 5ème arrondissement 75005",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 65 m² 1895 € Val de Grace Paris (75005)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 65 m² 1895 € Val de Grace Paris (75005)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-5eme-75/val-de-grace/253306143.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-5eme-75/val-de-grace/253306143.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 65 m² 1895 € Val de Grace Paris (75005)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 65 m² 1895 € Val de Grace Paris (75005)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/c/3/6/f/c36fe7fc-6dfb-4bd0-a499-7c16d6cb1587.jpg?ci_seal=726e69e1bbd624b5e64a71052c60c00f0e5fe363"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 65 m² 1895 € Val de Grace Paris (75005)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-5eme-75/val-de-grace/253306143.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 65 m² 1895 € Val de Grace Paris (75005)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 65 m² 1895 € Val de Grace Paris (75005)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/c/3/6/f/c36fe7fc-6dfb-4bd0-a499-7c16d6cb1587.jpg?ci_seal=726e69e1bbd624b5e64a71052c60c00f0e5fe363"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 65 m² 1895 € Val de Grace Paris (75005)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 65 m² 1895 € Val de Grace Paris (75005)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-5eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 5ème arrondissement 75005",
+          "hoverLabel": "Appartements à louer Paris 5ème arrondissement 75005",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-5eme-75/val-de-grace/253306143.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR18&priceMax=2274&priceMin=1516",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": true,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR18",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR30",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25KZ1K1SASBI"
+}

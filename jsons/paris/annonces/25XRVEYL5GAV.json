@@ -1,0 +1,1186 @@
+{
+  "brand": "seloger",
+  "id": "25XRVEYL5GAV",
+  "metadata": {
+    "legacyId": "254789301",
+    "creationDate": "2025-11-20T10:15:00Z",
+    "updateDate": "2025-11-20T10:21:12.458Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 16ème",
+        "zipCode": "75016",
+        "district": "Auteuil Sud"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2640733,
+          48.8452894
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "9",
+                "color": "#b5bd00"
+              },
+              {
+                "name": "10",
+                "color": "#c69214"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "22",
+                "color": "#00643c"
+              },
+              {
+                "name": "52",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "62",
+                "color": "#5a230a"
+              },
+              {
+                "name": "88",
+                "color": "#cec92a"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Rue Molitor, Oiko Gestion vous propose un bel appartement 4 pièces de 122,6m² refait à neuf dans une résidence sécurisée située dans le 16e arrondissement de Paris.\r\n1er étage avec ascenseur.\r\n\r\nCet appartement comprend :\r\n- une entrée,\r\n- un grand séjour,\r\n- une cuisine séparée,\r\n- 3 chambres dont 1 petite de 9,5m²,\r\n- 1 salle de bains avec WC\r\n- une salle d'eau,\r\n- un WC séparé.\r\n\r\nDe nombreux rangements.\r\n\r\nChauffage collectif.\r\n\r\nUne cave complète ce bien, ainsi qu'un emplacement de parking.\r\n\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  georisques.",
+      "texts": [
+        {
+          "text": "Rue Molitor, Oiko Gestion vous propose un bel appartement 4 pièces de 122,6m² refait à neuf dans une résidence sécurisée située dans le 16e arrondissement de Paris.\r\n1er étage avec ascenseur.\r\n\r\nCet appartement comprend :\r\n- une entrée,\r\n- un grand séjour,\r\n- une cuisine séparée,\r\n- 3 chambres dont 1 petite de 9,5m²,\r\n- 1 salle de bains avec WC\r\n- une salle d'eau,\r\n- un WC séparé.\r\n\r\nDe nombreux rangements.\r\n\r\nChauffage collectif.\r\n\r\nUne cave complète ce bien, ainsi qu'un emplacement de parking.\r\n\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  georisques."
+        }
+      ],
+      "headline": "APPARTEMENT 4 PIECES ENTIEREMENT RENOVE AVEC PARKING / MOLITOR"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "4 pièces",
+        "3 chambres",
+        "122 m²",
+        "1er étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "4 pièces",
+          "splitValue": "4",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "3 chambres",
+          "splitValue": "3",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "122 m²",
+          "splitValue": "122",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1er étage",
+          "splitValue": "1er",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "4 128 €",
+        "formatted": "4 128 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "4128 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "a2aa7066-ac62-42ce-b662-2095a471ec32",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "85ade616-04dd-42bf-aff0-4e441f4cc752",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "251 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "54 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "03435ade-18a5-45b0-842f-06801602b28b",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "54 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "254789301"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "AVMOLITOR1103_PPZ"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "4 128 €/mois Loyer charges comprises",
+          "ariaLabel": "4128 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "560 €/mois",
+            "ariaLabel": "560 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "33,84 €/mois/m²",
+            "ariaLabel": "33,84 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "3568"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "1er étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "value": "Cave",
+          "icon": "cellar"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "2 WCs séparées"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "3 chambres"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain; 2 salles de douches"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "1er étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain; 2 salles de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "2 WCs séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "3 chambres"
+              },
+              {
+                "value": "Cave",
+                "icon": "cellar"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "bef52d87-2c1f-418e-8109-2f9001b32094",
+          "url": "https://mms.seloger.com/b/e/f/5/bef52d87-2c1f-418e-8109-2f9001b32094.jpg?ci_seal=3e56b19926304c9bd90d4cee113eef3d3c1affe2",
+          "alt": "Appartement à louer 4 128 € 4 pièces 3 chambres 122 m² 1er étage Auteuil Sud Paris 16ème 75016",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e2fbf93e-592b-4a8c-b8aa-5375cb55b911",
+          "url": "https://mms.seloger.com/e/2/f/b/e2fbf93e-592b-4a8c-b8aa-5375cb55b911.jpg?ci_seal=32709b2c2577339046169f8d22aed6a9fd62d2ac",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "61ce8763-2e59-4cdc-b9bd-a01efc248a77",
+          "url": "https://mms.seloger.com/6/1/c/e/61ce8763-2e59-4cdc-b9bd-a01efc248a77.jpg?ci_seal=337b68c73ba57d7a33a9394355835a79653f35b6",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8a0e6665-66ce-4b94-bbbb-6297b7a63743",
+          "url": "https://mms.seloger.com/8/a/0/e/8a0e6665-66ce-4b94-bbbb-6297b7a63743.jpg?ci_seal=df9b0d1aecfa9afdaeff38244e8236557b0682be",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ea5f1feb-256f-4dac-8694-386a96b7cf7f",
+          "url": "https://mms.seloger.com/e/a/5/f/ea5f1feb-256f-4dac-8694-386a96b7cf7f.jpg?ci_seal=f865e78d4e04a50cfaf7f9a33b21e76e6605aab8",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5969538f-2b26-4afc-bef3-5cd9e07345a5",
+          "url": "https://mms.seloger.com/5/9/6/9/5969538f-2b26-4afc-bef3-5cd9e07345a5.jpg?ci_seal=a2bcda7f80b7909a9888cf987da9136280e5eb21",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "58ef9da8-33c7-441c-9e44-86abb65b9305",
+          "url": "https://mms.seloger.com/5/8/e/f/58ef9da8-33c7-441c-9e44-86abb65b9305.jpg?ci_seal=82172c13a08b0f7707f2cbe21c23a10dc47456e7",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c6e5d60f-a948-49f4-a996-cb7c601849ee",
+          "url": "https://mms.seloger.com/c/6/e/5/c6e5d60f-a948-49f4-a996-cb7c601849ee.jpg?ci_seal=60ed6bb12ba60286a57bb17c327938fa5b9888f7",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "dfce296d-7597-4460-8f08-ecc25812cc9a",
+          "url": "https://mms.seloger.com/d/f/c/e/dfce296d-7597-4460-8f08-ecc25812cc9a.jpg?ci_seal=0e133726ed5467abcf7be6554d04885876621782",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "84157420-5166-4dd0-9d9c-10ac649a73b4",
+          "url": "https://mms.seloger.com/8/4/1/5/84157420-5166-4dd0-9d9c-10ac649a73b4.jpg?ci_seal=c56a4a0e7828126f0f1503ba1a8d05f8cc7bc664",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "22da895e-7e28-47ea-aec8-b08792e17110",
+          "url": "https://mms.seloger.com/2/2/d/a/22da895e-7e28-47ea-aec8-b08792e17110.jpg?ci_seal=82082d36642399bf64884a716520016091d8ada1",
+          "classification": {
+            "name": "YARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "254789301",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75016",
+      "city": "Paris 16ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 31.72,
+        "accuracy": 3,
+        "high": "46,82",
+        "low": "24,97"
+      },
+      "markerPosition": 41,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "33,84",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "APPARTEMENT 4 PIECES ENTIEREMENT RENOVE AVEC PARKING / MOLITOR",
+      "description": "Rue Molitor, Oiko Gestion vous propose un bel appartement 4 pièces de 122,6m² refait à neuf dans une résidence sécurisée située dans le 16e arrondissement de Paris.\r\n1er étage avec ascenseur.\r\n\r\nCet appartement comprend :\r\n- une entrée,\r\n- un grand séjour,\r\n- une cuisine séparée,\r\n- 3 chambres dont 1 petite de 9,5m²,\r\n- 1 salle de bains avec WC\r\n- une salle d'eau,\r\n- un WC séparé.\r\n\r\nDe nombreux rangements.\r\n\r\nChauffage collectif.\r\n\r\nUne cave complète ce bien, ainsi qu'un emplacement de parking.\r\n\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  georisques.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "19 jours en ligne",
+      "views": "106 vues",
+      "saves": "6 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25XRVEYL5GAV",
+    "legacyId": "254789301",
+    "brand": "seloger",
+    "agencyId": "RC-048165",
+    "static": {
+      "phoneNumbers": [
+        "01 40 57 69 80"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "01 40 57 69 80"
+      ]
+    },
+    "contactCard": {
+      "title": "OIKO GESTION",
+      "subtitle": "Oikogestion",
+      "phoneNumbers": [
+        "01 40 57 69 80"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/0/f/5/4/0f54233a-541d-47c0-8060-86893062ec06.jpg?ci_seal=bc896b610f305a398859de2d5a28cc90465870f3",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "OIKO GESTION",
+        "subtitle": "Oikogestion",
+        "phoneNumbers": [
+          "01 40 57 69 80"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/0/f/5/4/0f54233a-541d-47c0-8060-86893062ec06.jpg?ci_seal=bc896b610f305a398859de2d5a28cc90465870f3"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Oikogestion",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "OIKO GESTION",
+      "subtitle": "OIKO GESTION",
+      "phoneNumbers": [
+        "01 40 57 69 80"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "OIKO GESTION",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/0/f/5/4/0f54233a-541d-47c0-8060-86893062ec06.jpg?ci_seal=bc896b610f305a398859de2d5a28cc90465870f3",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-9eme-arrondissement-75009/agence-21789/"
+      },
+      "contactCard": {
+        "title": "Oikogestion",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "https://www.oikogestion.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-9eme-arrondissement-75009/agence-21789/",
+      "imprintUrl": null,
+      "feeUrl": "http://vd.seloger.com/files/1/w/d/a/1wdaauxhy9xl8dids5zzgdhhcfjqi7quntltbz18g/HONORAIRES+COM+A+LA+CHARGE+DU+LOCATAIRE_page-0001.jpg",
+      "agencyLegalInformations": [
+        "SAS OIKO GESTION au capital de 74 650 €",
+        "Carte professionnelle 75012018000038713 délivrée par la Préfecture de Hauts de Seine",
+        "Garantie financière GALIAN pour un montant de 7 000 100 €",
+        "<b>Siège:</b> 14 rue Ballu, 75009 PARIS",
+        "<b>RCS:</b> NANTERRE 519555973",
+        "<b>SIRET:</b> 51955597300048"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "14 Rue Ballu, 75009 PARIS 9 ème",
+      "phoneNumbers": [
+        "01 40 57 69 80"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75016",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25XRVEYL5GAV",
+        "price": 4128,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75016",
+        "legacy_id": "254789301",
+        "product_type": "standard",
+        "client_id": "RC-048165",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "116383",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75016",
+        "estate_type": 1,
+        "id": "254789301",
+        "id_duo": 254789301,
+        "id_solo": 254789301,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 3,
+        "nb_rooms": 4,
+        "parent_site": "SL",
+        "photos_nb": 11,
+        "position": 0,
+        "price": 4128,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 122
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75016",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "254789301",
+      "prix": 4200,
+      "nb_pieces": 4,
+      "nb_chambres": 3,
+      "surface": 122,
+      "commodites": [
+        "ascenseur",
+        "cave",
+        "Cuisine-séparée",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T4/F4 122 m² 4128 € Auteuil Sud Paris (75016)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T4/F4 122 m² 4128 € Auteuil Sud Paris (75016)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/auteuil-sud/254789301.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/auteuil-sud/254789301.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T4/F4 122 m² 4128 € Auteuil Sud Paris (75016)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T4/F4 122 m² 4128 € Auteuil Sud Paris (75016)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/b/e/f/5/bef52d87-2c1f-418e-8109-2f9001b32094.jpg?ci_seal=3e56b19926304c9bd90d4cee113eef3d3c1affe2"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T4/F4 122 m² 4128 € Auteuil Sud Paris (75016)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/auteuil-sud/254789301.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T4/F4 122 m² 4128 € Auteuil Sud Paris (75016)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T4/F4 122 m² 4128 € Auteuil Sud Paris (75016)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/b/e/f/5/bef52d87-2c1f-418e-8109-2f9001b32094.jpg?ci_seal=3e56b19926304c9bd90d4cee113eef3d3c1affe2"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T4/F4 122 m² 4128 € Auteuil Sud Paris (75016)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T4/F4 122 m² 4128 € Auteuil Sud Paris (75016)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/auteuil-sud/254789301.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#10b050",
+    "textColor": "dark",
+    "providerName": "OIKO GESTION",
+    "logo": {
+      "src": "https://mms.seloger.com/0/f/5/4/0f54233a-541d-47c0-8060-86893062ec06.jpg?ci_seal=bc896b610f305a398859de2d5a28cc90465870f3",
+      "alt": "logo-RC-048165",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/f/5/9/1/f5911f46-bbf8-47ee-bbd2-a91ee183cca7.png?ci_eqs=&ci_seal=80ffa612c8be4fb79f9ac2e5d01783a21bb28950",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-9eme-arrondissement-75009/agence-21789/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/f/5/9/1/f5911f46-bbf8-47ee-bbd2-a91ee183cca7.png?ci_eqs=&ci_seal=80ffa612c8be4fb79f9ac2e5d01783a21bb28950",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-9eme-arrondissement-75009/agence-21789/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/8/7/7/9/877962c5-1ac6-47a7-bf87-1a4f8bbc7d49.png?ci_eqs=&ci_seal=c5ba33dbe4cabf4dfd56dc2507e81dcd31f7e04d",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-9eme-arrondissement-75009/agence-21789/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR88&priceMax=4953.6&priceMin=3302.4",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR88",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR41",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25XRVEYL5GAV"
+}

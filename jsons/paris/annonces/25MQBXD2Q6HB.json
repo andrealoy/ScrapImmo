@@ -1,0 +1,1136 @@
+{
+  "brand": "seloger",
+  "id": "25MQBXD2Q6HB",
+  "metadata": {
+    "legacyId": "256129557",
+    "creationDate": "2025-12-09T09:25:00Z",
+    "updateDate": "2025-12-09T09:31:05.444Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 5ème",
+        "zipCode": "75005",
+        "district": "Saint Victor"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3492497,
+          48.849274
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "7",
+                "color": "#f59bbb"
+              },
+              {
+                "name": "10",
+                "color": "#c69214"
+              }
+            ]
+          },
+          {
+            "type": "RER",
+            "lines": [
+              {
+                "name": "B",
+                "color": "#5291CE"
+              },
+              {
+                "name": "C",
+                "color": "#FCD946"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "21",
+                "color": "#77c695"
+              },
+              {
+                "name": "24",
+                "color": "#a0006e"
+              },
+              {
+                "name": "27",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "38",
+                "color": "#006cb8"
+              },
+              {
+                "name": "47",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "63",
+                "color": "#cec92a"
+              },
+              {
+                "name": "67",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "75",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "84",
+                "color": "#d282be"
+              },
+              {
+                "name": "85",
+                "color": "#5a230a"
+              },
+              {
+                "name": "86",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "87",
+                "color": "#62259d"
+              },
+              {
+                "name": "89",
+                "color": "#82c8e6"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Appartement fonctionnel de 52m² pour 6 personnes dans le centre de Paris. Situé au calme dans la cour arrière d'un petit immeuble haussmannien avec ascenseur.\r\nComposé d'un grand espace de vie avec une cuisine entièrement équipée ouverte sur le salon.\r\nUn canapé-lit pour 2 personnes dans le salon (2x80x200cm),\r\nun lit mezzanine pour 2 personnes (160x200cm),\r\net une petite chambre avec 2 lits superposés.\r\nSuperbe emplacement, à moins de 5 minutes de la cathédrale Notre Dame et du Panthéon.",
+      "texts": [
+        {
+          "text": "Appartement fonctionnel de 52m² pour 6 personnes dans le centre de Paris. Situé au calme dans la cour arrière d'un petit immeuble haussmannien avec ascenseur.\r\nComposé d'un grand espace de vie avec une cuisine entièrement équipée ouverte sur le salon.\r\nUn canapé-lit pour 2 personnes dans le salon (2x80x200cm),\r\nun lit mezzanine pour 2 personnes (160x200cm),\r\net une petite chambre avec 2 lits superposés.\r\nSuperbe emplacement, à moins de 5 minutes de la cathédrale Notre Dame et du Panthéon."
+        }
+      ],
+      "headline": "Appartement 52m² Paris 5ème 6 pers"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "52 m²",
+        "dès le 10/01/2026"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "52 m²",
+          "splitValue": "52",
+          "label": "m²"
+        },
+        {
+          "type": "availability",
+          "value": "dès le 10/01/2026",
+          "splitValue": "dès",
+          "label": "le 10/01/2026"
+        }
+      ],
+      "price": {
+        "value": "2 580 €",
+        "formatted": "2 580 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "2580 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "bff57f09-ca7c-4549-919f-30d24ca9d39a",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 65 et 110 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 65 et 110 € par an. Prix moyens des énergies indexés au 01/01/2024 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "ff3523ad-2896-45ae-91fc-c296a2539f7f",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "184 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "5 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "26816452-5300-4ea2-ab3b-bbd730c7b44a",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "5 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256129557"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "MC-41792"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 867 €/mois Loyer de base",
+          "ariaLabel": "1867 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "180 €/mois",
+            "ariaLabel": "180 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "2 580 €/mois",
+            "ariaLabel": "2580 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "35,90 €/mois/m²",
+            "ariaLabel": "35,90 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1290"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 10/01/2026"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "c00383dc-94b1-4202-b381-ad6dc9f3dfeb",
+          "url": "https://mms.seloger.com/c/0/0/3/c00383dc-94b1-4202-b381-ad6dc9f3dfeb.jpg?ci_seal=4bbc66ef4f0b89c609fead6500390d101fed61ec",
+          "alt": "Appartement à louer 2 580 € 3 pièces 2 chambres 52 m² dès le 10/01/2026 Saint Victor Paris 5ème 75005",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2d2ad391-45a5-4622-b723-355a8fd31207",
+          "url": "https://mms.seloger.com/2/d/2/a/2d2ad391-45a5-4622-b723-355a8fd31207.jpg?ci_seal=78caed7e875c3870c2bdadcf81eeb27b53ab7afd",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "de57c7a4-1d1d-4389-9cf4-1b70e4b68805",
+          "url": "https://mms.seloger.com/d/e/5/7/de57c7a4-1d1d-4389-9cf4-1b70e4b68805.jpg?ci_seal=2a919617c8646210c004ef0189020275d7111195",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "460e2497-0c23-4436-a64b-0c3181303813",
+          "url": "https://mms.seloger.com/4/6/0/e/460e2497-0c23-4436-a64b-0c3181303813.jpg?ci_seal=429cf6af627efaa925031f7e48dfdfd584f442ec",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fee4600f-be72-425b-8f71-53c82d8acb43",
+          "url": "https://mms.seloger.com/f/e/e/4/fee4600f-be72-425b-8f71-53c82d8acb43.jpg?ci_seal=edbe40824d08f2862408cc8c7c42e2ff0d6ed652",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256129557",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75005",
+      "city": "Paris 5ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 36.43,
+        "accuracy": 3,
+        "high": "47,71",
+        "low": "31,24"
+      },
+      "markerPosition": 28,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "35,90",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 52m² Paris 5ème 6 pers",
+      "description": "Appartement fonctionnel de 52m² pour 6 personnes dans le centre de Paris. Situé au calme dans la cour arrière d'un petit immeuble haussmannien avec ascenseur.\r\nComposé d'un grand espace de vie avec une cuisine entièrement équipée ouverte sur le salon.\r\nUn canapé-lit pour 2 personnes dans le salon (2x80x200cm),\r\nun lit mezzanine pour 2 personnes (160x200cm),\r\net une petite chambre avec 2 lits superposés.\r\nSuperbe emplacement, à moins de 5 minutes de la cathédrale Notre Dame et du Panthéon.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "12 vues",
+      "saves": "1 favori"
+    }
+  },
+  "contactSections": {
+    "id": "25MQBXD2Q6HB",
+    "legacyId": "256129557",
+    "brand": "seloger",
+    "agencyId": "RC-108447",
+    "static": {
+      "phoneNumbers": [
+        "01 87 66 61 63"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "01 87 66 61 63"
+      ]
+    },
+    "contactCard": {
+      "title": "MORNINGCROISSANT",
+      "subtitle": "Morningcroissant",
+      "phoneNumbers": [
+        "01 87 66 61 63"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/7/2/4/3/72431a2f-9e6d-4888-891c-c97f4b243279.jpg?ci_seal=6334416171281975122778cc27c66e523908806d",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "MORNINGCROISSANT",
+        "subtitle": "Morningcroissant",
+        "phoneNumbers": [
+          "01 87 66 61 63"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/7/2/4/3/72431a2f-9e6d-4888-891c-c97f4b243279.jpg?ci_seal=6334416171281975122778cc27c66e523908806d"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Morningcroissant",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "MORNINGCROISSANT",
+      "subtitle": "MORNINGCROISSANT",
+      "phoneNumbers": [
+        "01 87 66 61 63"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "MORNINGCROISSANT",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/7/2/4/3/72431a2f-9e6d-4888-891c-c97f4b243279.jpg?ci_seal=6334416171281975122778cc27c66e523908806d",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-42430/"
+      },
+      "contactCard": {
+        "title": "Morningcroissant",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.morningcroissant.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-42430/",
+      "imprintUrl": null,
+      "feeUrl": "https://www.morningcroissant.fr/page/frais-de-service",
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 531382430",
+        "<b>SIRET:</b> 53138243000035"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "75002 Paris",
+      "phoneNumbers": [
+        "01 87 66 61 63"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75005",
+    "av_city": "Paris",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25MQBXD2Q6HB",
+        "price": 2580,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75005",
+        "legacy_id": "256129557",
+        "product_type": "standard",
+        "client_id": "RC-108447",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "160992",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "75005",
+        "estate_type": 1,
+        "id": "256129557",
+        "id_duo": 256129557,
+        "id_solo": 256129557,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 5,
+        "position": 0,
+        "price": 2580,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 52
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75005",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256129557",
+      "prix": 2600,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 52,
+      "commodites": [
+        "ascenseur",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-5eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 5ème arrondissement 75005",
+          "hoverLabel": "Appartements à louer Paris 5ème arrondissement 75005",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 52 m² 2580 € Saint Victor Paris (75005)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 52 m² 2580 € Saint Victor Paris (75005)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-5eme-75/saint-victor/256129557.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-5eme-75/saint-victor/256129557.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 52 m² 2580 € Saint Victor Paris (75005)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 52 m² 2580 € Saint Victor Paris (75005)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/c/0/0/3/c00383dc-94b1-4202-b381-ad6dc9f3dfeb.jpg?ci_seal=4bbc66ef4f0b89c609fead6500390d101fed61ec"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 52 m² 2580 € Saint Victor Paris (75005)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-5eme-75/saint-victor/256129557.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 52 m² 2580 € Saint Victor Paris (75005)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 52 m² 2580 € Saint Victor Paris (75005)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/c/0/0/3/c00383dc-94b1-4202-b381-ad6dc9f3dfeb.jpg?ci_seal=4bbc66ef4f0b89c609fead6500390d101fed61ec"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 52 m² 2580 € Saint Victor Paris (75005)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 52 m² 2580 € Saint Victor Paris (75005)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-5eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 5ème arrondissement 75005",
+          "hoverLabel": "Appartements à louer Paris 5ème arrondissement 75005",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-5eme-75/saint-victor/256129557.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#095BE1",
+    "textColor": "light",
+    "providerName": "MORNINGCROISSANT",
+    "logo": {
+      "src": "https://mms.seloger.com/7/2/4/3/72431a2f-9e6d-4888-891c-c97f4b243279.jpg?ci_seal=6334416171281975122778cc27c66e523908806d",
+      "alt": "logo-RC-108447",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/5/0/9/f/509fbdd2-cc6d-4d0f-9501-6933ded5672f.png?ci_eqs=&ci_seal=bbfea3c4d9a2ff2031b83bbda39408420ac1639d",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-42430/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/5/0/9/f/509fbdd2-cc6d-4d0f-9501-6933ded5672f.png?ci_eqs=&ci_seal=bbfea3c4d9a2ff2031b83bbda39408420ac1639d",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-42430/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/0/b/8/9/0b893a9f-77a1-4808-bfed-64970a5b7978.png?ci_eqs=&ci_seal=b9c47b418354516511e8fbe36ec281bdbcd0ae59",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-42430/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR17&priceMax=3096&priceMin=2064",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR17",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR30",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25MQBXD2Q6HB"
+}

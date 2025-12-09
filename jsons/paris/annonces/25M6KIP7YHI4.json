@@ -1,0 +1,1252 @@
+{
+  "brand": "seloger",
+  "id": "25M6KIP7YHI4",
+  "metadata": {
+    "legacyId": "255106385",
+    "creationDate": "2025-11-24T20:11:00Z",
+    "updateDate": "2025-12-08T20:15:06.308Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 19ème",
+        "zipCode": "75019",
+        "district": "Danube-Porte des Lilas"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.396482,
+          48.879845
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "7bis",
+                "color": "#71cc98"
+              },
+              {
+                "name": "11",
+                "color": "#6e4c1e"
+              }
+            ]
+          },
+          {
+            "type": "TRAM",
+            "lines": [
+              {
+                "name": "T3b",
+                "color": "#009641"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "20",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "48",
+                "color": "#006cb8"
+              },
+              {
+                "name": "60",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "71",
+                "color": "#5a230a"
+              },
+              {
+                "name": "75",
+                "color": "#ffbe02"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Rue des Lilas, au 4ème étage avec ascenseur d'une résidence de bon standing, ce deux pièces meublé, d'une surface de 47,52 m², exposé plein sud, sur rue, avec vue dégagée comprend une entrée avec placard, un séjour avec de larges baies vitrées ouvrant sur un balcon, une cuisine équipée et aménagée, une chambre, une salle de bains et toilettes séparées. Parquet et carrelage. Eau chaude et chauffage collectif.Libre de suite.",
+      "texts": [
+        {
+          "text": "Rue des Lilas, au 4ème étage avec ascenseur d'une résidence de bon standing, ce deux pièces meublé, d'une surface de 47,52 m², exposé plein sud, sur rue, avec vue dégagée comprend une entrée avec placard, un séjour avec de larges baies vitrées ouvrant sur un balcon, une cuisine équipée et aménagée, une chambre, une salle de bains et toilettes séparées. Parquet et carrelage. Eau chaude et chauffage collectif.Libre de suite."
+        }
+      ],
+      "headline": "2 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "48 m²",
+        "4ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "48 m²",
+          "splitValue": "48",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4ème étage",
+          "splitValue": "4ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 590 €",
+        "formatted": "1 590 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1590 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "5a861854-ab77-4f28-9d87-6881219cbdf5",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 870 et 1240 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 870 et 1240 € par an. Prix moyens des énergies indexés au 31/12/2022 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "40933096-e1df-47d2-8689-40d2bd922996",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "238 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "47 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "91d6231a-1ea2-4141-b1f8-93b78223880b",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "47 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255106385"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "L-11-0910-10049"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 590 €/mois Loyer charges comprises",
+          "ariaLabel": "1590 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "183 €/mois",
+            "ariaLabel": "183 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "33,13 €/mois/m²",
+            "ariaLabel": "33,13 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2814"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 16/12/2025"
+        },
+        {
+          "icon": "floors",
+          "value": "4ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "balcony",
+          "value": "Balcon"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: sud"
+        },
+        {
+          "value": "Belle vue",
+          "icon": "with-view"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "availability",
+                "value": "disponible à partir du 16/12/2025"
+              },
+              {
+                "icon": "Orientation",
+                "value": "Exposition: sud"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "4ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Balcon"
+              },
+              {
+                "value": "Belle vue",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Gardien",
+                "icon": "custodian"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "a42ac55c-e17d-4ad9-9c06-ce56c0e3eb97",
+          "url": "https://mms.seloger.com/a/4/2/a/a42ac55c-e17d-4ad9-9c06-ce56c0e3eb97.jpg?ci_seal=83c58a8b5b8c5257ff49ae6e17ce76daf4eecfed",
+          "alt": "Appartement à louer 1 590 € 2 pièces 1 chambre 48 m² 4ème étage Danube-Porte des Lilas Paris 19ème 75019",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d36eab8d-54ff-4d1b-832b-15183fe871f6",
+          "url": "https://mms.seloger.com/d/3/6/e/d36eab8d-54ff-4d1b-832b-15183fe871f6.jpg?ci_seal=344ba5a7aee91e32eef69c8d37a7757a047223d4",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ca769df2-dc07-463c-9ce3-623273e7303a",
+          "url": "https://mms.seloger.com/c/a/7/6/ca769df2-dc07-463c-9ce3-623273e7303a.jpg?ci_seal=2f30629a634ece34879ad1af66e72ce2b4437a9e",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "82a72f91-cda8-49ca-a228-f9ea4d228951",
+          "url": "https://mms.seloger.com/8/2/a/7/82a72f91-cda8-49ca-a228-f9ea4d228951.jpg?ci_seal=f0d6ea99e19baf6e776d57946d75ffa3a499db1d",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d70fd093-e579-4d06-ab11-18c0f90eb72e",
+          "url": "https://mms.seloger.com/d/7/0/f/d70fd093-e579-4d06-ab11-18c0f90eb72e.jpg?ci_seal=715797f67f601e86a82a29debabb8be9f10ead69",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8fec80e7-35f1-4bf4-9d52-08edf4c90096",
+          "url": "https://mms.seloger.com/8/f/e/c/8fec80e7-35f1-4bf4-9d52-08edf4c90096.jpg?ci_seal=a0e621a0ce0f0b08257d018690cde0df66a438cc",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "181f0771-72bd-44d0-bfca-80f5b649b3c4",
+          "url": "https://mms.seloger.com/1/8/1/f/181f0771-72bd-44d0-bfca-80f5b649b3c4.jpg?ci_seal=6c920503881dc82b411b40803f573982e3326b9c",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fb5cfceb-5eb2-48e8-8034-ab6e37e6235e",
+          "url": "https://mms.seloger.com/f/b/5/c/fb5cfceb-5eb2-48e8-8034-ab6e37e6235e.jpg?ci_seal=e20920d202cec4c672ea11e6860bdd66b448cb59",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ac8e5b5a-bad3-428d-a351-8c76e7fdb54a",
+          "url": "https://mms.seloger.com/a/c/8/e/ac8e5b5a-bad3-428d-a351-8c76e7fdb54a.jpg?ci_seal=70b691d012711997929880c85e82bbb07f7802e7",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "309bac45-2a0a-4984-8515-33c98a0c7a99",
+          "url": "https://mms.seloger.com/3/0/9/b/309bac45-2a0a-4984-8515-33c98a0c7a99.jpg?ci_seal=ddee21e2b7bb01a8f9090e1e13863d0785232d41",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1c0434b5-c5fe-4edb-87b6-860a703a7dec",
+          "url": "https://mms.seloger.com/1/c/0/4/1c0434b5-c5fe-4edb-87b6-860a703a7dec.jpg?ci_seal=ef1d4a5f642c3955f9790d0ec4eb344d37374a72",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255106385",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75019",
+      "city": "Paris 19ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 28.87,
+        "accuracy": 3,
+        "high": "40,47",
+        "low": "21,84"
+      },
+      "markerPosition": 61,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "33,13",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "2 pièces",
+      "description": "Rue des Lilas, au 4ème étage avec ascenseur d'une résidence de bon standing, ce deux pièces meublé, d'une surface de 47,52 m², exposé plein sud, sur rue, avec vue dégagée comprend une entrée avec placard, un séjour avec de larges baies vitrées ouvrant sur un balcon, une cuisine équipée et aménagée, une chambre, une salle de bains et toilettes séparées. Parquet et carrelage. Eau chaude et chauffage collectif.Libre de suite.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "14 jours en ligne",
+      "views": "133 vues",
+      "saves": "18 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25M6KIP7YHI4",
+    "legacyId": "255106385",
+    "brand": "seloger",
+    "agencyId": "RC-017938",
+    "static": {
+      "phoneNumbers": [
+        "01 43 38 08 15"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "01 43 38 08 15"
+      ]
+    },
+    "contactCard": {
+      "title": "Lamirand Et Associes",
+      "subtitle": "M. Duvault",
+      "phoneNumbers": [
+        "01 43 38 08 15"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/7/d/3/3/7d33184c-bd09-4dda-83c1-d4fb597c33b3.jpg?ci_seal=ea93817b9ec708b6ffb9cbc71d30cebdef11507e",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Lamirand Et Associes",
+        "subtitle": "M. Duvault",
+        "phoneNumbers": [
+          "01 43 38 08 15"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/7/d/3/3/7d33184c-bd09-4dda-83c1-d4fb597c33b3.jpg?ci_seal=ea93817b9ec708b6ffb9cbc71d30cebdef11507e"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à M. Duvault",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Lamirand Et Associes",
+      "subtitle": "Lamirand Et Associes",
+      "phoneNumbers": [
+        "01 43 38 08 15"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Lamirand Et Associes",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/7/d/3/3/7d33184c-bd09-4dda-83c1-d4fb597c33b3.jpg?ci_seal=ea93817b9ec708b6ffb9cbc71d30cebdef11507e",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-11eme-arrondissement-75011/agence-31476/"
+      },
+      "contactCard": {
+        "title": "M. Duvault",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.lamirand-associes.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-11eme-arrondissement-75011/agence-31476/",
+      "imprintUrl": null,
+      "feeUrl": "https://www.lamirand-associes.com/bareme-de-l-agence/",
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 382615961",
+        "<b>SIRET:</b> 38261596100028"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "62 boulevard Voltaire, 75011 Paris",
+      "phoneNumbers": [
+        "01 43 38 08 15"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75019",
+    "av_city": "Paris",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25M6KIP7YHI4",
+        "price": 1590,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75019",
+        "legacy_id": "255106385",
+        "product_type": "standard",
+        "client_id": "RC-017938",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "1472",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "75019",
+        "estate_type": 1,
+        "id": "255106385",
+        "id_duo": 255106385,
+        "id_solo": 255106385,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 11,
+        "position": 0,
+        "price": 1590,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 48
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75019",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255106385",
+      "prix": 1600,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 48,
+      "commodites": [
+        "ascenseur",
+        "balcon",
+        "belleVue",
+        "Chauffage-central",
+        "Cuisine-équipée",
+        "parquet",
+        "SalleDeBain-baignoire",
+        "sud"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-19eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 19ème arrondissement 75019",
+          "hoverLabel": "Appartements à louer Paris 19ème arrondissement 75019",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 48 m² 1590 € Danube-Porte des Lilas Paris (75019)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 48 m² 1590 € Danube-Porte des Lilas Paris (75019)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-19eme-75/danube-porte-des-lilas/255106385.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-19eme-75/danube-porte-des-lilas/255106385.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 48 m² 1590 € Danube-Porte des Lilas Paris (75019)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 48 m² 1590 € Danube-Porte des Lilas Paris (75019)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/a/4/2/a/a42ac55c-e17d-4ad9-9c06-ce56c0e3eb97.jpg?ci_seal=83c58a8b5b8c5257ff49ae6e17ce76daf4eecfed"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 48 m² 1590 € Danube-Porte des Lilas Paris (75019)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-19eme-75/danube-porte-des-lilas/255106385.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 48 m² 1590 € Danube-Porte des Lilas Paris (75019)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 48 m² 1590 € Danube-Porte des Lilas Paris (75019)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/a/4/2/a/a42ac55c-e17d-4ad9-9c06-ce56c0e3eb97.jpg?ci_seal=83c58a8b5b8c5257ff49ae6e17ce76daf4eecfed"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 48 m² 1590 € Danube-Porte des Lilas Paris (75019)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 48 m² 1590 € Danube-Porte des Lilas Paris (75019)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-19eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 19ème arrondissement 75019",
+          "hoverLabel": "Appartements à louer Paris 19ème arrondissement 75019",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-19eme-75/danube-porte-des-lilas/255106385.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#105070",
+    "textColor": "light",
+    "providerName": "Lamirand Et Associes",
+    "logo": {
+      "src": "https://mms.seloger.com/7/d/3/3/7d33184c-bd09-4dda-83c1-d4fb597c33b3.jpg?ci_seal=ea93817b9ec708b6ffb9cbc71d30cebdef11507e",
+      "alt": "logo-RC-017938",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/e/3/d/3/e3d3d42e-d43e-47dc-aeb2-ee446fcd8bc3.png?ci_eqs=&ci_seal=e370b8ccfd1328ef5f7a7af920889787497f3f3d",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-11eme-arrondissement-75011/agence-31476/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/e/3/d/3/e3d3d42e-d43e-47dc-aeb2-ee446fcd8bc3.png?ci_eqs=&ci_seal=e370b8ccfd1328ef5f7a7af920889787497f3f3d",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-11eme-arrondissement-75011/agence-31476/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/e/6/d/4/e6d40a9a-66eb-42e5-9107-17d59e9cdae1.png?ci_eqs=&ci_seal=f1b2105fe8abe4a968fadd6ec9d871bd64364254",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-11eme-arrondissement-75011/agence-31476/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR109&priceMax=1908&priceMin=1272",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR109",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR44",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25M6KIP7YHI4"
+}

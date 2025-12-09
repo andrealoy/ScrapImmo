@@ -1,0 +1,1263 @@
+{
+  "brand": "seloger",
+  "id": "25YGKLYRWF8J",
+  "metadata": {
+    "legacyId": "256088883",
+    "creationDate": "2025-12-08T17:19:00Z",
+    "updateDate": "2025-12-08T17:25:21.193Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 15ème",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30075,
+          48.8299
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "13",
+                "color": "#71c5e8"
+              }
+            ]
+          },
+          {
+            "type": "TRAM",
+            "lines": [
+              {
+                "name": "T3a",
+                "color": "#F68C59"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "59",
+                "color": "#dc9609"
+              },
+              {
+                "name": "95",
+                "color": "#62259d"
+              },
+              {
+                "name": "191",
+                "color": "#ff82b4"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Rue de Cronstadt. A quelques mètres du parc Georges Brassens , grand studio de 35.60 m2 entièrement refait à neuf en octobre 2025.Comprenant une entrée, un wc , une pièces principale avec armoire intégrée, une salle d'eau avec lave linge, une cuisine équipée \r\nPremière location. loyer charges comprises incluant chauffage et eau chaude.",
+      "texts": [
+        {
+          "text": "Rue de Cronstadt. A quelques mètres du parc Georges Brassens , grand studio de 35.60 m2 entièrement refait à neuf en octobre 2025.Comprenant une entrée, un wc , une pièces principale avec armoire intégrée, une salle d'eau avec lave linge, une cuisine équipée \r\nPremière location. loyer charges comprises incluant chauffage et eau chaude."
+        }
+      ],
+      "headline": "PARIS XV - LOCATION STUDIO REFAIT A NEUF"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "35,6 m²",
+        "Étage 2/8"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35,6 m²",
+          "splitValue": "35,6",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 2/8",
+          "splitValue": "Étage",
+          "label": "2/8"
+        }
+      ],
+      "price": {
+        "value": "1 476 €",
+        "formatted": "1 476 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "1476.28 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1971"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Remis à neuf"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central: Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "8116d71e-2078-44d2-bc13-326f6b380bdb",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 320 et 450 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 320 et 450 € par an. Prix moyens des énergies indexés au 01/01/2021 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "10b99f37-38f0-4d25-8fba-03a8285a167e",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "163 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "154 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "33 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est 154 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "a144f0a3-1d03-46af-8514-99b2a2908d90",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "33 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est 154 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256088883"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "86367109"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 150 €/mois Loyer de base",
+          "ariaLabel": "1150 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "250 €/mois",
+            "ariaLabel": "250 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 476,28 €/mois",
+            "ariaLabel": "1476.28 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "32,30 €/mois/m²",
+            "ariaLabel": "32,30 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2300"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage/8 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "value": "Cave",
+          "icon": "cellar"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "value": "Belle vue",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "2ème étage/8 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Accessible aux personne à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "livingRoom",
+                "value": "Salon (total 24,4 m²)"
+              },
+              {
+                "value": "Cave",
+                "icon": "cellar"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              },
+              {
+                "value": "Belle vue",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "10e736cb-7b09-4ccc-a355-10351534f6ac",
+          "url": "https://mms.seloger.com/1/0/e/7/10e736cb-7b09-4ccc-a355-10351534f6ac.jpg?ci_seal=f05900089d7a0baab50ba1ff787abf3395182841",
+          "alt": "Appartement à louer 1 476 € 1 pièce 35,6 m² Étage 2/8 Georges Brassens Paris 15ème 75015",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "52856003-c078-4284-9016-4dc373a2a159",
+          "url": "https://mms.seloger.com/5/2/8/5/52856003-c078-4284-9016-4dc373a2a159.jpg?ci_seal=c30ef419040fdbc107a2e207df2c59f9313eeff5",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a2805b8b-b7b8-4b31-86e2-8806fdbcf883",
+          "url": "https://mms.seloger.com/a/2/8/0/a2805b8b-b7b8-4b31-86e2-8806fdbcf883.jpg?ci_seal=dbad97ccebe8225a8d98f2378a53070891f9d85f",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1ae67e23-7d62-4b41-ace5-5b3e4e2b5683",
+          "url": "https://mms.seloger.com/1/a/e/6/1ae67e23-7d62-4b41-ace5-5b3e4e2b5683.jpg?ci_seal=2272a1d5aedda18747f6c8e5595e68292a8c1516",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4c1f33a5-9103-4e3a-a711-609bf2639f2d",
+          "url": "https://mms.seloger.com/4/c/1/f/4c1f33a5-9103-4e3a-a711-609bf2639f2d.jpg?ci_seal=c62f04ad5d2b1583743ac031967091f710d5e159",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "100d1a27-66e0-4518-a138-56b9948ab5ed",
+          "url": "https://mms.seloger.com/1/0/0/d/100d1a27-66e0-4518-a138-56b9948ab5ed.jpg?ci_seal=5cc37903fc591f7392414e03d63f7f563bebef4f",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3e964408-dcc8-4c31-ab6b-134b25f7ec5f",
+          "url": "https://mms.seloger.com/3/e/9/6/3e964408-dcc8-4c31-ab6b-134b25f7ec5f.jpg?ci_seal=c7b633f477f1b3a2d82192718d630bffeb8e2727",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f7d1b07b-13a2-4777-8f7a-85b87d5a6b91",
+          "url": "https://mms.seloger.com/f/7/d/1/f7d1b07b-13a2-4777-8f7a-85b87d5a6b91.jpg?ci_seal=d494e81c54fedbd4b49ea72b26a6f771990faaba",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "abc90040-aa02-4bda-b6d0-9e326252d040",
+          "url": "https://mms.seloger.com/a/b/c/9/abc90040-aa02-4bda-b6d0-9e326252d040.jpg?ci_seal=ffdd1b8e63db2213053ccb62d56ef9868d5e3127",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9bb63cd0-84d7-41d6-ba8a-659fde6fc1a3",
+          "url": "https://mms.seloger.com/9/b/b/6/9bb63cd0-84d7-41d6-ba8a-659fde6fc1a3.jpg?ci_seal=afc9b332e0a030fe32389dd6b1e2fd4e2560a9ba",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ae088b68-6128-472f-8d58-fe2bf1bfd474",
+          "url": "https://mms.seloger.com/a/e/0/8/ae088b68-6128-472f-8d58-fe2bf1bfd474.jpg?ci_seal=bafe9d9b466afe802d32ec236a36407ab6942055",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9683707d-eac5-4b91-adb0-51fa6588e1eb",
+          "url": "https://mms.seloger.com/9/6/8/3/9683707d-eac5-4b91-adb0-51fa6588e1eb.jpg?ci_seal=8ff2b56dc9bc9a562df40483f77ea911160be6d9",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256088883",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75015",
+      "city": "Paris 15ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 30.18,
+        "accuracy": 4,
+        "high": "40,71",
+        "low": "23,46"
+      },
+      "markerPosition": 51,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "32,30",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "PARIS XV - LOCATION STUDIO REFAIT A NEUF",
+      "description": "Rue de Cronstadt. A quelques mètres du parc Georges Brassens , grand studio de 35.60 m2 entièrement refait à neuf en octobre 2025.Comprenant une entrée, un wc , une pièces principale avec armoire intégrée, une salle d'eau avec lave linge, une cuisine équipée \r\nPremière location. loyer charges comprises incluant chauffage et eau chaude.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "22 vues",
+      "saves": "2 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25YGKLYRWF8J",
+    "legacyId": "256088883",
+    "brand": "seloger",
+    "agencyId": "RC-077078",
+    "static": {
+      "phoneNumbers": [
+        "+33 6 21 04 30 02"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33 6 21 04 30 02"
+      ]
+    },
+    "contactCard": {
+      "title": "AMBITION IMMOBILIER PARIS 15",
+      "subtitle": "Thierry Cohen",
+      "phoneNumbers": [
+        "+33 6 21 04 30 02"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/9/b/0/5/9b056ef3-505b-4218-8ba2-4aa7be44daeb.jpg?ci_seal=81c91eb81c033db8854dde527d4412ed0996c3c3",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "AMBITION IMMOBILIER PARIS 15",
+        "subtitle": "Thierry Cohen",
+        "phoneNumbers": [
+          "+33 6 21 04 30 02"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/9/b/0/5/9b056ef3-505b-4218-8ba2-4aa7be44daeb.jpg?ci_seal=81c91eb81c033db8854dde527d4412ed0996c3c3"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Thierry Cohen",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "AMBITION IMMOBILIER PARIS 15",
+      "subtitle": "AMBITION IMMOBILIER PARIS 15",
+      "phoneNumbers": [
+        "+33 6 21 04 30 02"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "AMBITION IMMOBILIER PARIS 15",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/9/b/0/5/9b056ef3-505b-4218-8ba2-4aa7be44daeb.jpg?ci_seal=81c91eb81c033db8854dde527d4412ed0996c3c3",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-15eme-arrondissement-75015/agence-73686/"
+      },
+      "contactCard": {
+        "title": "Thierry Cohen",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.ambitionimmobilier.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-15eme-arrondissement-75015/agence-73686/",
+      "imprintUrl": null,
+      "feeUrl": "http://ap.immo/uploads/agency/19794/fees_document.pdf?1697459086",
+      "agencyLegalInformations": [
+        "SAS AMBITION IMMOBILIER PARIS 15 au capital de 1 500 €",
+        "Carte professionnelle 92012015000000238 délivrée par la Préfecture de CCI PARIS ILE DE FRANCE",
+        "Garantie financière GALIAN pour un montant de 120 000 €",
+        "<b>Siège:</b> 88 RUE OBERKAMPF, 75011 PARIS",
+        "<b>RCS:</b> PARIS-15E-ARRONDISSEMENT 812536662",
+        "<b>SIRET:</b> 81253666200032"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "18 RUE DE CRONSTADT, 75015 PARIS 15EME",
+      "phoneNumbers": [
+        "+33 6 21 04 30 02"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75015",
+    "av_city": "Paris",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25YGKLYRWF8J",
+        "price": 1476.28,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75015",
+        "building_state": "REFURBISHED",
+        "legacy_id": "256088883",
+        "product_type": "standard",
+        "client_id": "RC-077078",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "328853",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "75015",
+        "estate_type": 1,
+        "id": "256088883",
+        "id_duo": 256088883,
+        "id_solo": 256088883,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 12,
+        "position": 0,
+        "price": 1476.28,
+        "product_geolocation": "localisation_district",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 35.6,
+        "year_of_construction": 1971
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75015",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256088883",
+      "prix": 1500,
+      "nb_pieces": 1,
+      "surface": 35.6,
+      "etage": 8,
+      "commodites": [
+        "ascenseur",
+        "belleVue",
+        "cave",
+        "Chauffage-central",
+        "Chauffage-gaz",
+        "Cuisine-équipée",
+        "handicape",
+        "SalleDeBain-baignoire",
+        "Sejour"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-15eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 15ème arrondissement 75015",
+          "hoverLabel": "Appartements à louer Paris 15ème arrondissement 75015",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 35.6 m² 1476.28 € Georges Brassens Paris (75015)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 35.6 m² 1476.28 € Georges Brassens Paris (75015)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/georges-brassens/256088883.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/georges-brassens/256088883.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 35.6 m² 1476.28 € Georges Brassens Paris (75015)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 35.6 m² 1476.28 € Georges Brassens Paris (75015)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/1/0/e/7/10e736cb-7b09-4ccc-a355-10351534f6ac.jpg?ci_seal=f05900089d7a0baab50ba1ff787abf3395182841"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 35.6 m² 1476.28 € Georges Brassens Paris (75015)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/georges-brassens/256088883.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 35.6 m² 1476.28 € Georges Brassens Paris (75015)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 35.6 m² 1476.28 € Georges Brassens Paris (75015)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/1/0/e/7/10e736cb-7b09-4ccc-a355-10351534f6ac.jpg?ci_seal=f05900089d7a0baab50ba1ff787abf3395182841"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 35.6 m² 1476.28 € Georges Brassens Paris (75015)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 35.6 m² 1476.28 € Georges Brassens Paris (75015)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-15eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 15ème arrondissement 75015",
+          "hoverLabel": "Appartements à louer Paris 15ème arrondissement 75015",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/georges-brassens/256088883.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#909090",
+    "textColor": "dark",
+    "providerName": "AMBITION IMMOBILIER PARIS 15",
+    "logo": {
+      "src": "https://mms.seloger.com/9/b/0/5/9b056ef3-505b-4218-8ba2-4aa7be44daeb.jpg?ci_seal=81c91eb81c033db8854dde527d4412ed0996c3c3",
+      "alt": "logo-RC-077078",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/3/3/b/d/33bdb4e2-af0e-4075-8c5c-7f521e4dd3d5.png?ci_eqs=&ci_seal=4227f7cf2d2804a155d59053cf7c87e3f487b86e",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-15eme-arrondissement-75015/agence-73686/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/3/3/b/d/33bdb4e2-af0e-4075-8c5c-7f521e4dd3d5.png?ci_eqs=&ci_seal=4227f7cf2d2804a155d59053cf7c87e3f487b86e",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-15eme-arrondissement-75015/agence-73686/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/a/3/6/f/a36f0b4f-294d-4eed-87da-67a6be27367f.png?ci_eqs=&ci_seal=853f80c2bb225924f897bf4165698b15c3aab8cc",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-15eme-arrondissement-75015/agence-73686/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR77&priceMax=1771.54&priceMin=1181.02",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR77",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR40",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25YGKLYRWF8J"
+}

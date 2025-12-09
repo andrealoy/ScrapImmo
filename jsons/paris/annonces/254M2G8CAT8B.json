@@ -1,0 +1,1230 @@
+{
+  "brand": "seloger",
+  "id": "254M2G8CAT8B",
+  "metadata": {
+    "legacyId": "255797507",
+    "creationDate": "2025-12-04T08:21:00Z",
+    "updateDate": "2025-12-05T01:17:06.401Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 9ème",
+        "zipCode": "75009",
+        "district": "Provence Opéra"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3333895416603436,
+          48.87169754166592
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "3",
+                "color": "#827a04"
+              },
+              {
+                "name": "7",
+                "color": "#f59bbb"
+              },
+              {
+                "name": "8",
+                "color": "#dd9cdf"
+              },
+              {
+                "name": "9",
+                "color": "#b5bd00"
+              }
+            ]
+          },
+          {
+            "type": "RER",
+            "lines": [
+              {
+                "name": "A",
+                "color": "#E3051C"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "20",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "21",
+                "color": "#77c695"
+              },
+              {
+                "name": "22",
+                "color": "#00643c"
+              },
+              {
+                "name": "27",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "29",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "32",
+                "color": "#9c983a"
+              },
+              {
+                "name": "39",
+                "color": "#a0006e"
+              },
+              {
+                "name": "42",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "45",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "48",
+                "color": "#006cb8"
+              },
+              {
+                "name": "52",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "53",
+                "color": "#6fa8dc"
+              },
+              {
+                "name": "66",
+                "color": "#00643c"
+              },
+              {
+                "name": "67",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "68",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "74",
+                "color": "#cec92a"
+              },
+              {
+                "name": "81",
+                "color": "#f58f53"
+              },
+              {
+                "name": "85",
+                "color": "#5a230a"
+              },
+              {
+                "name": "94",
+                "color": "#a0006e"
+              },
+              {
+                "name": "95",
+                "color": "#62259d"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Appartement meublé situé rue Meyerbeer dans un immeuble Haussmannien au 6ème et dernier étage par ascenseur. \n\nL'appartement se compose d'une entrée, d'un séjour, d'un coin cuisine équipée, de deux chambres, d'une salle d'eau avec WC.  \n\nChauffage individuel, avec climatisation réversible",
+      "texts": [
+        {
+          "text": "Appartement meublé situé rue Meyerbeer dans un immeuble Haussmannien au 6ème et dernier étage par ascenseur. \n\nL'appartement se compose d'une entrée, d'un séjour, d'un coin cuisine équipée, de deux chambres, d'une salle d'eau avec WC.  \n\nChauffage individuel, avec climatisation réversible"
+        }
+      ],
+      "headline": "Meublé - 2 chambres - 45m2"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "45 m²",
+        "Étage 6/6"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "45 m²",
+          "splitValue": "45",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 6/6",
+          "splitValue": "Étage",
+          "label": "6/6"
+        }
+      ],
+      "price": {
+        "value": "2 500 €",
+        "formatted": "2 500 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "2500 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Première occupation"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "b96e9754-66f4-4fce-b6b1-d8c899e4261d",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "7abc459d-40b0-4440-b222-b3d36d04a62a",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "4 155 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "4 000 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "10 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est 4 000 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "c7aae635-203d-44ea-a677-dc7227ca3302",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "10 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est 4 000 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255797507"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "AI-MEY-B"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "2 500 €/mois Loyer charges comprises",
+          "ariaLabel": "2500 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Prix ​​au m²",
+            "value": "55,56 €/mois/m²",
+            "ariaLabel": "55,56 euros par mètre carré"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Dernier étage, 6ème étage/6 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Kitchenette, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "value": "Belle vue, Sans vis-à-vis",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "Dernier étage, 6ème étage/6 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Kitchenette, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              },
+              {
+                "value": "Belle vue, Sans vis-à-vis",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "TV par câble",
+                "icon": "tv"
+              }
+            ],
+            "title": "Équipements"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Gardien",
+                "icon": "custodian"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "4ecf425e-3a8e-447d-8ace-b4d72e4eb45e",
+          "url": "https://mms.seloger.com/4/e/c/f/4ecf425e-3a8e-447d-8ace-b4d72e4eb45e.jpg?ci_seal=a949ea777644ea6acc70a6e98c824465c55edab5",
+          "alt": "Appartement à louer 2 500 € 3 pièces 2 chambres 45 m² Étage 6/6 Provence Opéra Paris 9ème 75009",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "935419ad-7832-4d81-a790-e138e76a30f3",
+          "url": "https://mms.seloger.com/9/3/5/4/935419ad-7832-4d81-a790-e138e76a30f3.jpg?ci_seal=35e2cc0e191d5f900fcc2939635cecb02b8e3b08",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fea82f68-23cc-47a4-8a8a-0951e1420731",
+          "url": "https://mms.seloger.com/f/e/a/8/fea82f68-23cc-47a4-8a8a-0951e1420731.jpg?ci_seal=b3cf1bf9b371ac4d0557754bdd9a705e1153c75f",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "599f0b3c-6537-45f5-a205-0e2d266acbfd",
+          "url": "https://mms.seloger.com/5/9/9/f/599f0b3c-6537-45f5-a205-0e2d266acbfd.jpg?ci_seal=95fa7b985d0a05773aa6070b74ace9c900c2ef46",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c81d4d63-dcdf-48c9-b4ef-b4a6bd46ea54",
+          "url": "https://mms.seloger.com/c/8/1/d/c81d4d63-dcdf-48c9-b4ef-b4a6bd46ea54.jpg?ci_seal=8c527422d7aa213aeaf24b28b25be1a0ee2f4f6e",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e0247a57-48fd-4135-8d66-89df52ca84c8",
+          "url": "https://mms.seloger.com/e/0/2/4/e0247a57-48fd-4135-8d66-89df52ca84c8.jpg?ci_seal=de8a5b4ab8d7b2d67de3bda55a6543be3c3c558d",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255797507",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75009",
+      "city": "Paris 9ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 36.77,
+        "accuracy": 3,
+        "high": "48,22",
+        "low": "29,34"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "55,56",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Meublé - 2 chambres - 45m2",
+      "description": "Appartement meublé situé rue Meyerbeer dans un immeuble Haussmannien au 6ème et dernier étage par ascenseur. \n\nL'appartement se compose d'une entrée, d'un séjour, d'un coin cuisine équipée, de deux chambres, d'une salle d'eau avec WC.  \n\nChauffage individuel, avec climatisation réversible",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "5 jours en ligne",
+      "views": "89 vues",
+      "saves": "5 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "254M2G8CAT8B",
+    "legacyId": "255797507",
+    "brand": "seloger",
+    "agencyId": "RC-808396",
+    "static": {
+      "phoneNumbers": [
+        "0649209390"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0649209390"
+      ]
+    },
+    "contactCard": {
+      "title": "ARMON IMMOBILIER",
+      "subtitle": "Armon Immobilier",
+      "phoneNumbers": [
+        "0649209390"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/9/0/b/2/90b246c0-2101-4621-a09a-1d8b1143de4c.jpg?ci_seal=b50171e976b1b9abeda09967d850f6edcbf454cd",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "ARMON IMMOBILIER",
+        "subtitle": "Armon Immobilier",
+        "phoneNumbers": [
+          "0649209390"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/9/0/b/2/90b246c0-2101-4621-a09a-1d8b1143de4c.jpg?ci_seal=b50171e976b1b9abeda09967d850f6edcbf454cd"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Armon Immobilier",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "ARMON IMMOBILIER",
+      "subtitle": "ARMON IMMOBILIER",
+      "phoneNumbers": [
+        "0649209390"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "ARMON IMMOBILIER",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/9/0/b/2/90b246c0-2101-4621-a09a-1d8b1143de4c.jpg?ci_seal=b50171e976b1b9abeda09967d850f6edcbf454cd",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-49870/"
+      },
+      "contactCard": {
+        "title": "Armon Immobilier",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-49870/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 809759715",
+        "<b>SIRET:</b> 80975971500075"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "30 RUE CAMBACERES, 75008 PARIS",
+      "phoneNumbers": [
+        "0649209390"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75009",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "254M2G8CAT8B",
+        "price": 2500,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75009",
+        "building_state": "FIRST_TIME_USE",
+        "legacy_id": "255797507",
+        "product_type": "standard",
+        "client_id": "RC-808396",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "435138",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75009",
+        "estate_type": 1,
+        "id": "255797507",
+        "id_duo": 255797507,
+        "id_solo": 255797507,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 6,
+        "position": 0,
+        "price": 2500,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 45
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75009",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255797507",
+      "prix": 2500,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 45,
+      "etage": 6,
+      "commodites": [
+        "ascenseur",
+        "belleVue",
+        "Chauffage-individuel",
+        "Cuisine-équipée",
+        "dernier%20etage",
+        "parquet",
+        "SalleDEau-douche",
+        "sansVisAVis"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-9eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 9ème arrondissement 75009",
+          "hoverLabel": "Appartements à louer Paris 9ème arrondissement 75009",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 45 m² 2500 € Provence Opéra Paris (75009)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 45 m² 2500 € Provence Opéra Paris (75009)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/provence-opera/255797507.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/provence-opera/255797507.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 45 m² 2500 € Provence Opéra Paris (75009)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 45 m² 2500 € Provence Opéra Paris (75009)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/4/e/c/f/4ecf425e-3a8e-447d-8ace-b4d72e4eb45e.jpg?ci_seal=a949ea777644ea6acc70a6e98c824465c55edab5"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 45 m² 2500 € Provence Opéra Paris (75009)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/provence-opera/255797507.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 45 m² 2500 € Provence Opéra Paris (75009)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 45 m² 2500 € Provence Opéra Paris (75009)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/4/e/c/f/4ecf425e-3a8e-447d-8ace-b4d72e4eb45e.jpg?ci_seal=a949ea777644ea6acc70a6e98c824465c55edab5"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 45 m² 2500 € Provence Opéra Paris (75009)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 45 m² 2500 € Provence Opéra Paris (75009)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-9eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 9ème arrondissement 75009",
+          "hoverLabel": "Appartements à louer Paris 9ème arrondissement 75009",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/provence-opera/255797507.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR39&priceMax=3000&priceMin=2000",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR39",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR34",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "254M2G8CAT8B"
+}

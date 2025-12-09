@@ -1,0 +1,1110 @@
+{
+  "brand": "seloger",
+  "id": "25JINUCC483Y",
+  "metadata": {
+    "legacyId": "256142739",
+    "creationDate": "2025-12-09T10:41:00Z",
+    "updateDate": "2025-12-09T11:51:16.865Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 18ème",
+        "zipCode": "75018",
+        "district": "Montmartre"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333451000000001,
+          48.88778799998637
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "2",
+                "color": "#003da5"
+              },
+              {
+                "name": "12",
+                "color": "#007a53"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "30",
+                "color": "#62259d"
+              },
+              {
+                "name": "40",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "80",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "95",
+                "color": "#62259d"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Montmartre!! A louer en exclusivité un meublé de 30m² au huitième étage avec ascenseur comprenant une entrée, une pièce principale avec vue sur Paris , une cuisine ouverte équipée sur séjour, une chambre, une salle d'eau avec wc. A saisir!! Quartier recherché!!",
+      "texts": [
+        {
+          "text": "Montmartre!! A louer en exclusivité un meublé de 30m² au huitième étage avec ascenseur comprenant une entrée, une pièce principale avec vue sur Paris , une cuisine ouverte équipée sur séjour, une chambre, une salle d'eau avec wc. A saisir!! Quartier recherché!!"
+        }
+      ],
+      "headline": "L2CAULAINCOURT"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "30 m²",
+        "8ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "30 m²",
+          "splitValue": "30",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "8ème étage",
+          "splitValue": "8ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 690 €",
+        "formatted": "1 690 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "1690 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "c8ecbf25-cbdb-4a08-94a8-8716e11550a9",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "75c68022-747c-4363-9486-80e7e58d053a",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "155 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "155 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "34 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est 155 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "57f24be3-3639-469e-b319-45792bd62cb9",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "34 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est 155 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256142739"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "L2CAULAINCOURT"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 600 €/mois Loyer de base",
+          "ariaLabel": "1600 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "90 €/mois",
+            "ariaLabel": "90 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 690 €/mois",
+            "ariaLabel": "1690 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "53,33 €/mois/m²",
+            "ariaLabel": "53,33 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1600"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible immédiatement"
+        },
+        {
+          "icon": "floors",
+          "value": "8ème étage"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain; 1 salle de douches"
+        },
+        {
+          "icon": "separateEntrance",
+          "value": "Entrée séparée"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "4bfeabe6-77f1-4783-92c9-a2da8b872869",
+          "url": "https://mms.seloger.com/4/b/f/e/4bfeabe6-77f1-4783-92c9-a2da8b872869.jpg?ci_seal=aaf5214d37f515f1c327dbcd138519eaf53821ca",
+          "alt": "Appartement à louer 1 690 € 2 pièces 1 chambre 30 m² 8ème étage Montmartre Paris 18ème 75018",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "82421f37-2b27-46b5-9cb8-cccea5c83d3a",
+          "url": "https://mms.seloger.com/8/2/4/2/82421f37-2b27-46b5-9cb8-cccea5c83d3a.jpg?ci_seal=07408182684bec62e5853b0c9f3bc9002b62cf88",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "afe8d3a8-ca4c-4483-b912-cc8b58c290e1",
+          "url": "https://mms.seloger.com/a/f/e/8/afe8d3a8-ca4c-4483-b912-cc8b58c290e1.jpg?ci_seal=61a3d40ba2bbec3a16c7bde8d615cd19d5fbc9fb",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b2536c85-3216-450a-b011-791afb26acca",
+          "url": "https://mms.seloger.com/b/2/5/3/b2536c85-3216-450a-b011-791afb26acca.jpg?ci_seal=b7efb0dd4524f030cecf49c3c144e7f920a0f59b",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5267ca8f-8e9d-4545-b950-6d7b91e80697",
+          "url": "https://mms.seloger.com/5/2/6/7/5267ca8f-8e9d-4545-b950-6d7b91e80697.jpg?ci_seal=0154db882a4629d813b34f51305755f7cebcdb2a",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "81f2c9c0-18fc-4c45-b378-ce099ac02d3c",
+          "url": "https://mms.seloger.com/8/1/f/2/81f2c9c0-18fc-4c45-b378-ce099ac02d3c.jpg?ci_seal=0f6ccd33bf30d6d8a3346c2829eac438e963e51b",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "910d81eb-170d-4aaf-96f0-b7c79fd21ad7",
+          "url": "https://mms.seloger.com/9/1/0/d/910d81eb-170d-4aaf-96f0-b7c79fd21ad7.jpg?ci_seal=90d49cd70c45d94dba9b421dbfbc1df76b1c49ab",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4dbd6ee4-a303-4256-bff6-2765628b7e7a",
+          "url": "https://mms.seloger.com/4/d/b/d/4dbd6ee4-a303-4256-bff6-2765628b7e7a.jpg?ci_seal=b68296e4621069c818a4d545473eff18bfc124e3",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256142739",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75018",
+      "city": "Paris 18ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 32.7,
+        "accuracy": 3,
+        "high": "42,86",
+        "low": "26,10"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "53,33",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "L2CAULAINCOURT",
+      "description": "Montmartre!! A louer en exclusivité un meublé de 30m² au huitième étage avec ascenseur comprenant une entrée, une pièce principale avec vue sur Paris , une cuisine ouverte équipée sur séjour, une chambre, une salle d'eau avec wc. A saisir!! Quartier recherché!!",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "4 vues",
+      "saves": "0 favori"
+    }
+  },
+  "contactSections": {
+    "id": "25JINUCC483Y",
+    "legacyId": "256142739",
+    "brand": "seloger",
+    "agencyId": "RC-080702",
+    "static": {
+      "phoneNumbers": [
+        "01 42 27 37 30"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "01 42 27 37 30"
+      ]
+    },
+    "contactCard": {
+      "title": "BSI OGIPA",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "01 42 27 37 30"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/3/1/4/5/3145f141-ba79-4f96-a821-a4f5aab421b4.jpg?ci_seal=fb99c082a075b35d17f248e0cfe31b4384c47540",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "BSI OGIPA",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "01 42 27 37 30"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/3/1/4/5/3145f141-ba79-4f96-a821-a4f5aab421b4.jpg?ci_seal=fb99c082a075b35d17f248e0cfe31b4384c47540"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "BSI OGIPA",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "01 42 27 37 30"
+      ],
+      "logoUrl": "https://mms.seloger.com/3/1/4/5/3145f141-ba79-4f96-a821-a4f5aab421b4.jpg?ci_seal=fb99c082a075b35d17f248e0cfe31b4384c47540",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "BSI OGIPA",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/3/1/4/5/3145f141-ba79-4f96-a821-a4f5aab421b4.jpg?ci_seal=fb99c082a075b35d17f248e0cfe31b4384c47540",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-17eme-arrondissement-75017/agence-62210/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "website": "http://www.bsi-ogipa.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-17eme-arrondissement-75017/agence-62210/",
+      "imprintUrl": null,
+      "feeUrl": "http://agences-reunies.la-boite-immo.com/i/redac/honoraires?honofor=102",
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 422962258",
+        "<b>SIRET:</b> 42296225800014"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "41 rue Bayen, 75017 Paris",
+      "phoneNumbers": [
+        "01 42 27 37 30"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75018",
+    "av_city": "Paris",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25JINUCC483Y",
+        "price": 1690,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75018",
+        "legacy_id": "256142739",
+        "product_type": "standard",
+        "client_id": "RC-080702",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "3752",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "75018",
+        "estate_type": 1,
+        "id": "256142739",
+        "id_duo": 256142739,
+        "id_solo": 256142739,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 8,
+        "position": 0,
+        "price": 1690,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 30
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75018",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256142739",
+      "prix": 1700,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 30,
+      "commodites": [
+        "ascenseur",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-18eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 18ème arrondissement 75018",
+          "hoverLabel": "Appartements à louer Paris 18ème arrondissement 75018",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 30 m² 1690 € Montmartre Paris (75018)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 30 m² 1690 € Montmartre Paris (75018)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-18eme-75/montmartre/256142739.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-18eme-75/montmartre/256142739.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 30 m² 1690 € Montmartre Paris (75018)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 30 m² 1690 € Montmartre Paris (75018)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/4/b/f/e/4bfeabe6-77f1-4783-92c9-a2da8b872869.jpg?ci_seal=aaf5214d37f515f1c327dbcd138519eaf53821ca"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 30 m² 1690 € Montmartre Paris (75018)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-18eme-75/montmartre/256142739.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 30 m² 1690 € Montmartre Paris (75018)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 30 m² 1690 € Montmartre Paris (75018)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/4/b/f/e/4bfeabe6-77f1-4783-92c9-a2da8b872869.jpg?ci_seal=aaf5214d37f515f1c327dbcd138519eaf53821ca"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 30 m² 1690 € Montmartre Paris (75018)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 30 m² 1690 € Montmartre Paris (75018)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-18eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 18ème arrondissement 75018",
+          "hoverLabel": "Appartements à louer Paris 18ème arrondissement 75018",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-18eme-75/montmartre/256142739.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#303050",
+    "textColor": "light",
+    "providerName": "BSI OGIPA",
+    "logo": {
+      "src": "https://mms.seloger.com/3/1/4/5/3145f141-ba79-4f96-a821-a4f5aab421b4.jpg?ci_seal=fb99c082a075b35d17f248e0cfe31b4384c47540",
+      "alt": "logo-RC-080702",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/3/5/7/4/357444d9-9201-4f87-9465-d3ee8ead5833.png?ci_eqs=&ci_seal=3fa085476dad1723ac177366138e575b76f60ab9",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-17eme-arrondissement-75017/agence-62210/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/3/5/7/4/357444d9-9201-4f87-9465-d3ee8ead5833.png?ci_eqs=&ci_seal=3fa085476dad1723ac177366138e575b76f60ab9",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-17eme-arrondissement-75017/agence-62210/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/2/7/7/c/277c5877-4f0f-4a78-89f3-d0a77e811baa.png?ci_eqs=&ci_seal=13986b0009aa1fc681aa3de3ee70b05f4fc7cd5c",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-17eme-arrondissement-75017/agence-62210/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR103&priceMax=2028&priceMin=1352",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR103",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR43",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25JINUCC483Y"
+}

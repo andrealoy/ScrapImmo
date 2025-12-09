@@ -1,0 +1,1151 @@
+{
+  "brand": "seloger",
+  "id": "25PNPUFLNRJQ",
+  "metadata": {
+    "legacyId": "254546349",
+    "creationDate": "2025-11-17T14:27:00Z",
+    "updateDate": "2025-12-02T01:17:22.3Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 9ème",
+        "zipCode": "75009",
+        "district": "Clichy-Trinité"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3275520000000003,
+          48.876515999986374
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "3",
+                "color": "#827a04"
+              },
+              {
+                "name": "9",
+                "color": "#b5bd00"
+              },
+              {
+                "name": "12",
+                "color": "#007a53"
+              },
+              {
+                "name": "13",
+                "color": "#71c5e8"
+              },
+              {
+                "name": "14",
+                "color": "#5f259f"
+              }
+            ]
+          },
+          {
+            "type": "RER",
+            "lines": [
+              {
+                "name": "A",
+                "color": "#E3051C"
+              },
+              {
+                "name": "E",
+                "color": "#C04191"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "20",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "21",
+                "color": "#77c695"
+              },
+              {
+                "name": "22",
+                "color": "#00643c"
+              },
+              {
+                "name": "26",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "27",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "28",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "29",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "32",
+                "color": "#9c983a"
+              },
+              {
+                "name": "42",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "43",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "45",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "53",
+                "color": "#6fa8dc"
+              },
+              {
+                "name": "66",
+                "color": "#00643c"
+              },
+              {
+                "name": "68",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "80",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "81",
+                "color": "#f58f53"
+              },
+              {
+                "name": "94",
+                "color": "#a0006e"
+              },
+              {
+                "name": "95",
+                "color": "#62259d"
+              },
+              {
+                "name": "528",
+                "color": "#f59c83"
+              }
+            ]
+          },
+          {
+            "type": "TRAIN",
+            "lines": [
+              {
+                "name": "J",
+                "color": "#C6CC00"
+              },
+              {
+                "name": "L",
+                "color": "#7577c0"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "PARIS IX - Saint-Lazare\nAu 2ème étage, un appartement de 21.06m² comprenant une pièce à vivre, une chambre, un coin cuisine et une salle de bain avec WC.\nCe logement est proposé en bail mobilité (durée 1 à 10 mois, non renouvelable) jusqu'au 31 mai 2026.",
+      "texts": [
+        {
+          "text": "PARIS IX - Saint-Lazare\nAu 2ème étage, un appartement de 21.06m² comprenant une pièce à vivre, une chambre, un coin cuisine et une salle de bain avec WC.\nCe logement est proposé en bail mobilité (durée 1 à 10 mois, non renouvelable) jusqu'au 31 mai 2026."
+        }
+      ],
+      "headline": "Appartement 1 pièce"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "21,1 m²",
+        "2ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "21,1 m²",
+          "splitValue": "21,1",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2ème étage",
+          "splitValue": "2ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 030 €",
+        "formatted": "1 030 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "1030 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "adec41e9-84f0-416a-9bee-10fe26f659b1",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 440 et 630 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 440 et 630 € par an. Prix moyens des énergies indexés au 31/12/2020 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "423ee6f8-4b8b-49b9-9ab9-9be0a31ce0ce",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "265 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "5 307 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "55 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est 5 307 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "ffd1b3eb-02d0-4d04-8639-24142d27002a",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "55 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est 5 307 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "254546349"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "ISR26"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "930 €/mois Loyer de base",
+          "ariaLabel": "930 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "100 €/mois",
+            "ariaLabel": "100 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 030 €/mois",
+            "ariaLabel": "1030 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "44,16 €/mois/m²",
+            "ariaLabel": "44,16 euros par mètre carré"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Kitchenette"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "51f74236-4c52-4526-a063-0f8000049898",
+          "url": "https://mms.seloger.com/5/1/f/7/51f74236-4c52-4526-a063-0f8000049898.jpg?ci_seal=16e395d2da6b49af12817f894aa763789d8f0141",
+          "alt": "Appartement à louer 1 030 € 1 pièce 21,1 m² 2ème étage Clichy-Trinité Paris 9ème 75009",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e754a481-10e4-48a4-b5a3-1bfb0d34cbba",
+          "url": "https://mms.seloger.com/e/7/5/4/e754a481-10e4-48a4-b5a3-1bfb0d34cbba.jpg?ci_seal=fd2de02ba1fbe73f3657e987f53de2c35d9cd979",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "de6cdd0d-5500-4011-9eeb-e2aea2c5c0d7",
+          "url": "https://mms.seloger.com/d/e/6/c/de6cdd0d-5500-4011-9eeb-e2aea2c5c0d7.jpg?ci_seal=12d36222f7d9f6527c7b63cc3ff74ddaeac069a7",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9c4cf782-06b6-47d1-b8c8-6f74f8a0cea5",
+          "url": "https://mms.seloger.com/9/c/4/c/9c4cf782-06b6-47d1-b8c8-6f74f8a0cea5.jpg?ci_seal=8ee31947f8f092709a0a81e7ae072e4b43e0a4b4",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "531e64ef-773c-41aa-b42d-c1bac60e2a06",
+          "url": "https://mms.seloger.com/5/3/1/e/531e64ef-773c-41aa-b42d-c1bac60e2a06.jpg?ci_seal=2124e11ce17bbd3330ab52e3d300a46bfadca2f9",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "19272501-52ff-487c-84c5-3792e50e0a8c",
+          "url": "https://mms.seloger.com/1/9/2/7/19272501-52ff-487c-84c5-3792e50e0a8c.jpg?ci_seal=42cba6e7ea8281992bb7a65957a569f378ccb2bc",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6334498e-4073-437b-b9fb-bc82b1d6dd76",
+          "url": "https://mms.seloger.com/6/3/3/4/6334498e-4073-437b-b9fb-bc82b1d6dd76.jpg?ci_seal=13e96fa4c29ceefb571d626d5da14cee2e02e335",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "254546349",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75009",
+      "city": "Paris 9ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 34.33,
+        "accuracy": 3,
+        "high": "45,41",
+        "low": "27,13"
+      },
+      "markerPosition": 93,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "44,16",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 1 pièce",
+      "description": "PARIS IX - Saint-Lazare\nAu 2ème étage, un appartement de 21.06m² comprenant une pièce à vivre, une chambre, un coin cuisine et une salle de bain avec WC.\nCe logement est proposé en bail mobilité (durée 1 à 10 mois, non renouvelable) jusqu'au 31 mai 2026.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "21 jours en ligne",
+      "views": "137 vues",
+      "saves": "7 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25PNPUFLNRJQ",
+    "legacyId": "254546349",
+    "brand": "seloger",
+    "agencyId": "RC-1248229",
+    "static": {
+      "phoneNumbers": [
+        "0145084868"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0145084868"
+      ]
+    },
+    "contactCard": {
+      "title": "ISR",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0145084868"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/b/1/6/a/b16a13e4-c4d3-4ff2-9f61-78747310df8d.jpg?ci_seal=c13c107deff4fb4ff59904924914b07c1e59d8bd",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "ISR",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "0145084868"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/b/1/6/a/b16a13e4-c4d3-4ff2-9f61-78747310df8d.jpg?ci_seal=c13c107deff4fb4ff59904924914b07c1e59d8bd"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "ISR",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0145084868"
+      ],
+      "logoUrl": "https://mms.seloger.com/b/1/6/a/b16a13e4-c4d3-4ff2-9f61-78747310df8d.jpg?ci_seal=c13c107deff4fb4ff59904924914b07c1e59d8bd",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "ISR",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/b/1/6/a/b16a13e4-c4d3-4ff2-9f61-78747310df8d.jpg?ci_seal=c13c107deff4fb4ff59904924914b07c1e59d8bd",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-51745/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-51745/",
+      "imprintUrl": null,
+      "feeUrl": "http://ap.immo/uploads/agency/6513/fees_document.pdf?1670110167",
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 483422663",
+        "<b>SIRET:</b> 48342266300011"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "78 RUE REAUMUR, 75002 PARIS",
+      "phoneNumbers": [
+        "0145084868"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75009",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25PNPUFLNRJQ",
+        "price": 1030,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75009",
+        "legacy_id": "254546349",
+        "product_type": "standard",
+        "client_id": "RC-1248229",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "449564",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75009",
+        "estate_type": 1,
+        "id": "254546349",
+        "id_duo": 254546349,
+        "id_solo": 254546349,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 7,
+        "position": 0,
+        "price": 1030,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 21.06
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75009",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "254546349",
+      "prix": 1100,
+      "nb_pieces": 1,
+      "surface": 21.06,
+      "commodites": [
+        "Chauffage-central",
+        "Chauffage-gaz",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-9eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 9ème arrondissement 75009",
+          "hoverLabel": "Appartements à louer Paris 9ème arrondissement 75009",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 21.06 m² 1030 € Clichy-Trinité Paris (75009)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 21.06 m² 1030 € Clichy-Trinité Paris (75009)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/clichy-trinite/254546349.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/clichy-trinite/254546349.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 21.06 m² 1030 € Clichy-Trinité Paris (75009)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 21.06 m² 1030 € Clichy-Trinité Paris (75009)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/5/1/f/7/51f74236-4c52-4526-a063-0f8000049898.jpg?ci_seal=16e395d2da6b49af12817f894aa763789d8f0141"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 21.06 m² 1030 € Clichy-Trinité Paris (75009)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/clichy-trinite/254546349.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 21.06 m² 1030 € Clichy-Trinité Paris (75009)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 21.06 m² 1030 € Clichy-Trinité Paris (75009)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/5/1/f/7/51f74236-4c52-4526-a063-0f8000049898.jpg?ci_seal=16e395d2da6b49af12817f894aa763789d8f0141"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 21.06 m² 1030 € Clichy-Trinité Paris (75009)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 21.06 m² 1030 € Clichy-Trinité Paris (75009)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-9eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 9ème arrondissement 75009",
+          "hoverLabel": "Appartements à louer Paris 9ème arrondissement 75009",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/clichy-trinite/254546349.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR37&priceMax=1236&priceMin=824",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR37",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR34",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25PNPUFLNRJQ"
+}

@@ -1,0 +1,1183 @@
+{
+  "brand": "seloger",
+  "id": "25C9XG9LJTQC",
+  "metadata": {
+    "legacyId": "256128041",
+    "creationDate": "2025-12-09T08:37:00Z",
+    "updateDate": "2025-12-09T14:25:11.62Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 14ème",
+        "zipCode": "75014"
+      },
+      "isAddressPublished": false,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                2.3319,
+                48.81701
+              ],
+              [
+                2.33246,
+                48.81825
+              ],
+              [
+                2.30132,
+                48.82513
+              ],
+              [
+                2.31994,
+                48.84059
+              ],
+              [
+                2.32183,
+                48.84011
+              ],
+              [
+                2.32153,
+                48.84108
+              ],
+              [
+                2.32464,
+                48.84362
+              ],
+              [
+                2.34209,
+                48.83833
+              ],
+              [
+                2.34146,
+                48.82376
+              ],
+              [
+                2.34459,
+                48.81956
+              ],
+              [
+                2.3439,
+                48.81577
+              ],
+              [
+                2.3319,
+                48.81701
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "description": {
+      "description": "Exclusivité LECONTE Immobilier : Quartier Alésia - rue du Moulin vert. \n Nous vous proposons à la location meublée ce magnifique studio entièrement refait à neuf avec des matériaux de qualité. Situé au 3ème étage avec ascenseur d'un immeuble de construction récente, il comprend : une entrée, une cuisine de standing, une belle pièce de vie donnant sur un balcon de 5 m², des rangements sur mesure, une salle d'eau et des wc séparés. Disponible immédiatement !",
+      "texts": [
+        {
+          "text": "Exclusivité LECONTE Immobilier : Quartier Alésia - rue du Moulin vert. \n Nous vous proposons à la location meublée ce magnifique studio entièrement refait à neuf avec des matériaux de qualité. Situé au 3ème étage avec ascenseur d'un immeuble de construction récente, il comprend : une entrée, une cuisine de standing, une belle pièce de vie donnant sur un balcon de 5 m², des rangements sur mesure, une salle d'eau et des wc séparés. Disponible immédiatement !"
+        }
+      ],
+      "headline": "Studio avec Balcon"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "32 m²",
+        "3ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "32 m²",
+          "splitValue": "32",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3ème étage",
+          "splitValue": "3ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 350 €",
+        "formatted": "1 350 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "1350 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1967"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "934dc8ce-f60f-4989-8499-32541a18b82d",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 840 et 1200 €/an"
+            },
+            {
+              "type": "excessiveConsumption",
+              "label": "Consommation d'énergie",
+              "value": "Logement à consommation énergétique excessive: classe G"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 840 et 1200 € par an. Prix moyens des énergies indexés au 09/12/2025 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "50e0c3a1-0f1a-4dea-881e-2376f3870c94",
+              "efficiencyClass": {
+                "index": 6,
+                "rating": "G"
+              },
+              "values": [
+                {
+                  "value": "330 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "320 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "371 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : G avec une plage allant de A à G .La consommation d'énergie est 320 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": true
+            },
+            {
+              "key": "e0a0dafa-59f0-40e0-9757-11d8e8896d6d",
+              "efficiencyClass": {
+                "index": 6,
+                "rating": "G"
+              },
+              "values": [
+                {
+                  "value": "371 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : G avec une plage allant de A à G .La consommation d'énergie est 320 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256128041"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "L10007350"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 150 €/mois Loyer de base",
+          "ariaLabel": "1150 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "150 €/mois",
+            "ariaLabel": "150 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 350 €/mois",
+            "ariaLabel": "1350 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "35,94 €/mois/m²",
+            "ariaLabel": "35,94 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2300"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "3ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée, Cuisine intégrée"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Parking"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "balcony",
+          "value": "Balcon (Total 5 m²)"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: est"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "Orientation",
+                "value": "Exposition: est"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "3ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Balcon (Total 5 m²)"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "Parking"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "66d1ff40-9c0a-45fa-bf7b-7d6dd43ee654",
+          "url": "https://mms.seloger.com/6/6/d/1/66d1ff40-9c0a-45fa-bf7b-7d6dd43ee654.jpg?ci_seal=16ba419b482ecf73be3e12c500b64c8745a5227d",
+          "alt": "Appartement à louer 1 350 € 1 pièce 32 m² 3ème étage Paris 14ème 75014",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fca9b2bf-131e-42a8-b4d3-4fa32a3c6ece",
+          "url": "https://mms.seloger.com/f/c/a/9/fca9b2bf-131e-42a8-b4d3-4fa32a3c6ece.jpg?ci_seal=391db2b0e0c554db474161714a8074645b8ecde1",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2792990b-ff85-4e5c-9c48-5ec2badd68b3",
+          "url": "https://mms.seloger.com/2/7/9/2/2792990b-ff85-4e5c-9c48-5ec2badd68b3.jpg?ci_seal=2069cc77f7c5485501311b374cd83e9f99c74a56",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8168483b-7716-442c-8426-39ff7d47b62e",
+          "url": "https://mms.seloger.com/8/1/6/8/8168483b-7716-442c-8426-39ff7d47b62e.jpg?ci_seal=49aae1223d5a21600519cb1c9c23dbde8cd8b7ff",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e6fe3cd7-1cd9-448e-8b1b-7a3b54b36cdd",
+          "url": "https://mms.seloger.com/e/6/f/e/e6fe3cd7-1cd9-448e-8b1b-7a3b54b36cdd.jpg?ci_seal=213b6d6f5af410849e054438b7aafef81d8fd3ab",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ab33d8e6-4745-4b4d-ae4a-74815e31c793",
+          "url": "https://mms.seloger.com/a/b/3/3/ab33d8e6-4745-4b4d-ae4a-74815e31c793.jpg?ci_seal=14527b59e1646185e3ef9a84adeb0637e85e5a50",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6c776d64-5b5f-4ab2-af93-3275d356d549",
+          "url": "https://mms.seloger.com/6/c/7/7/6c776d64-5b5f-4ab2-af93-3275d356d549.jpg?ci_seal=a3dd8b771bd0f729d7688719180c16f9417daa33",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "62ba82e8-f41f-4500-9f60-36d59ac911a6",
+          "url": "https://mms.seloger.com/6/2/b/a/62ba82e8-f41f-4500-9f60-36d59ac911a6.jpg?ci_seal=6277fc45f27290997456165e1cb6d3df5d01c771",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "88a26930-fac7-41af-b531-18803f9ec114",
+          "url": "https://mms.seloger.com/8/8/a/2/88a26930-fac7-41af-b531-18803f9ec114.jpg?ci_seal=c7b51ab3351235f1ae129ce1df29ea0d2ee2c04b",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256128041",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75014",
+      "city": "Paris 14ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 32.72,
+        "accuracy": 4,
+        "high": "43,28",
+        "low": "25,94"
+      },
+      "markerPosition": 58,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "35,94",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Studio avec Balcon",
+      "description": "Exclusivité LECONTE Immobilier : Quartier Alésia - rue du Moulin vert. \n Nous vous proposons à la location meublée ce magnifique studio entièrement refait à neuf avec des matériaux de qualité. Situé au 3ème étage avec ascenseur d'un immeuble de construction récente, il comprend : une entrée, une cuisine de standing, une belle pièce de vie donnant sur un balcon de 5 m², des rangements sur mesure, une salle d'eau et des wc séparés. Disponible immédiatement !",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "16 vues",
+      "saves": "2 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25C9XG9LJTQC",
+    "legacyId": "256128041",
+    "brand": "seloger",
+    "agencyId": "RC-081342",
+    "static": {
+      "phoneNumbers": [
+        "01 43 22 81 23"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "01 43 22 81 23"
+      ]
+    },
+    "contactCard": {
+      "title": "LECONTE IMMOBILIER",
+      "subtitle": "Leconte Immobilier",
+      "phoneNumbers": [
+        "01 43 22 81 23"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/a/4/e/1/a4e116ad-b31c-464f-9b67-dfece5b7ba37.jpg?ci_seal=33e1ae70baa5ed1faadad7a93e55c68d2813aa92",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "LECONTE IMMOBILIER",
+        "subtitle": "Leconte Immobilier",
+        "phoneNumbers": [
+          "01 43 22 81 23"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/a/4/e/1/a4e116ad-b31c-464f-9b67-dfece5b7ba37.jpg?ci_seal=33e1ae70baa5ed1faadad7a93e55c68d2813aa92"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Leconte Immobilier",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "LECONTE IMMOBILIER",
+      "subtitle": "LECONTE IMMOBILIER",
+      "phoneNumbers": [
+        "01 43 22 81 23"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "LECONTE IMMOBILIER",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/a/4/e/1/a4e116ad-b31c-464f-9b67-dfece5b7ba37.jpg?ci_seal=33e1ae70baa5ed1faadad7a93e55c68d2813aa92",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-14eme-arrondissement-75014/agence-26733/"
+      },
+      "contactCard": {
+        "title": "Leconte Immobilier",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://leconte-immobilier.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-14eme-arrondissement-75014/agence-26733/",
+      "imprintUrl": null,
+      "feeUrl": "http://www.leconte-immobilier.com/i/redac/honoraires?honofor=1",
+      "agencyLegalInformations": [
+        "Sarl Agence LECONTE Immobilier , Sarl TGL Immobilier au capital de 7 500 €",
+        "Carte professionnelle T13352 délivrée par la Préfecture de Paris",
+        "<b>Siège:</b> 39 rue Daguerre, 75014 Paris 14ème",
+        "<b>RCS:</b> Paris 520724188",
+        "<b>SIRET:</b> 52072418800021"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "20 RUE BOULARD, PARIS, 75014 Paris 14ème",
+      "phoneNumbers": [
+        "01 43 22 81 23"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75014",
+    "av_city": "Paris",
+    "av_energy_certificate": "G",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25C9XG9LJTQC",
+        "price": 1350,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75014",
+        "legacy_id": "256128041",
+        "product_type": "standard",
+        "client_id": "RC-081342",
+        "energy_certificate": "G"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "74818",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "G",
+        "estate_postalcode": "75014",
+        "estate_type": 1,
+        "id": "256128041",
+        "id_duo": 256128041,
+        "id_solo": 256128041,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 9,
+        "position": 0,
+        "price": 1350,
+        "product_geolocation": "localisation_city",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 32,
+        "year_of_construction": 1967
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75014",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256128041",
+      "prix": 1400,
+      "nb_pieces": 1,
+      "surface": 32,
+      "commodites": [
+        "balcon",
+        "Chauffage-central",
+        "Chauffage-gaz",
+        "Cuisine-équipée",
+        "Cuisine-séparée",
+        "parking%20ouvert",
+        "SalleDEau-douche",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "G"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-14eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 14ème arrondissement 75014",
+          "hoverLabel": "Appartements à louer Paris 14ème arrondissement 75014",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 32 m² 1350 € Paris (75014)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 32 m² 1350 € Paris (75014)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-14eme-75/256128041.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-14eme-75/256128041.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 32 m² 1350 € Paris (75014)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 32 m² 1350 € Paris (75014)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/6/6/d/1/66d1ff40-9c0a-45fa-bf7b-7d6dd43ee654.jpg?ci_seal=16ba419b482ecf73be3e12c500b64c8745a5227d"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 32 m² 1350 € Paris (75014)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-14eme-75/256128041.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 32 m² 1350 € Paris (75014)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 32 m² 1350 € Paris (75014)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/6/6/d/1/66d1ff40-9c0a-45fa-bf7b-7d6dd43ee654.jpg?ci_seal=16ba419b482ecf73be3e12c500b64c8745a5227d"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 32 m² 1350 € Paris (75014)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 32 m² 1350 € Paris (75014)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-14eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 14ème arrondissement 75014",
+          "hoverLabel": "Appartements à louer Paris 14ème arrondissement 75014",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-14eme-75/256128041.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=AD09FR39&priceMax=1620&priceMin=1080",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "AD09FR39",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25C9XG9LJTQC"
+}

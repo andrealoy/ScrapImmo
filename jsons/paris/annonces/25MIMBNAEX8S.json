@@ -1,0 +1,1187 @@
+{
+  "brand": "seloger",
+  "id": "25MIMBNAEX8S",
+  "metadata": {
+    "legacyId": "253750791",
+    "creationDate": "2025-11-05T21:32:00Z",
+    "updateDate": "2025-12-08T02:01:05.429Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 8ème",
+        "zipCode": "75008",
+        "district": "Triangle d'Or"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.305165052,
+          48.866176605
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "1",
+                "color": "#ffcd00"
+              },
+              {
+                "name": "9",
+                "color": "#b5bd00"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "28",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "32",
+                "color": "#9c983a"
+              },
+              {
+                "name": "42",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "63",
+                "color": "#cec92a"
+              },
+              {
+                "name": "72",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "73",
+                "color": "#5a230a"
+              },
+              {
+                "name": "80",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "83",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "92",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "93",
+                "color": "#77c695"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Avenue Montaigne, au coeur du Triangle d'Or, à deux pas du restaurant L'Avenue et du Plaza Athénée, \n Au 2e étage par ascenseur, DREYFUS-SCHMIDT vous propose la location d'un appartement idéal pour un pied à terre. \n Il se compose d'un grand espace de réception, d'une cuisine séparée et équipée, d'une chambre principale avec dressing et salle de douche, d'une chambre d'appoint, avec placard, d'un WC avec lave mains. Mobilier neuf (canapé, fauteuils, chaises..)\n Loyer 4500€ charges comprises\n Honoraires 12% du loyer annuel Plus TVA",
+      "texts": [
+        {
+          "text": "Avenue Montaigne, au coeur du Triangle d'Or, à deux pas du restaurant L'Avenue et du Plaza Athénée, \n Au 2e étage par ascenseur, DREYFUS-SCHMIDT vous propose la location d'un appartement idéal pour un pied à terre. \n Il se compose d'un grand espace de réception, d'une cuisine séparée et équipée, d'une chambre principale avec dressing et salle de douche, d'une chambre d'appoint, avec placard, d'un WC avec lave mains. Mobilier neuf (canapé, fauteuils, chaises..)\n Loyer 4500€ charges comprises\n Honoraires 12% du loyer annuel Plus TVA"
+        }
+      ],
+      "headline": "Appartement 3P Avenue Montaigne Paris 8e"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "67 m²",
+        "2ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "67 m²",
+          "splitValue": "67",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2ème étage",
+          "splitValue": "2ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "4 500 €",
+        "formatted": "4 500 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "4500 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1930"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "fd74a517-84e3-43ab-abfc-6edebb9c8c40",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "d8ec223b-a299-4a57-bd35-a2029e46f0af",
+              "efficiencyClass": {
+                "index": 0,
+                "rating": "A"
+              },
+              "values": [
+                {
+                  "value": "1 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "1 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : A avec une plage allant de A à G .La consommation d'énergie est 0 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "a72c11f3-880d-4bb3-95ff-79ad9d3c8ddf",
+              "efficiencyClass": {
+                "index": 0,
+                "rating": "A"
+              },
+              "values": [
+                {
+                  "value": "1 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : A avec une plage allant de A à G .La consommation d'énergie est 0 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "253750791"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "MON08ZZ-ALZ"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "4 500 €/mois Loyer charges comprises",
+          "ariaLabel": "4500 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "180 €/mois",
+            "ariaLabel": "180 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "67,16 €/mois/m²",
+            "ariaLabel": "67,16 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "8000"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "2ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "36872fad-67c5-47c0-af61-e9d6ba08ea6d",
+          "url": "https://mms.seloger.com/3/6/8/7/36872fad-67c5-47c0-af61-e9d6ba08ea6d.jpg?ci_seal=adbc863e595be7b615361d1dc29220d0707d295a",
+          "alt": "Appartement à louer 4 500 € 3 pièces 2 chambres 67 m² 2ème étage Triangle d'Or Paris 8ème 75008",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1920b8cd-4e34-413e-aaca-2e34ebdf21be",
+          "url": "https://mms.seloger.com/1/9/2/0/1920b8cd-4e34-413e-aaca-2e34ebdf21be.jpg?ci_seal=4f515c0ed280627b8a172957834c1da15d4d1a61",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5060cdde-7c04-4b60-b690-d9500a17327a",
+          "url": "https://mms.seloger.com/5/0/6/0/5060cdde-7c04-4b60-b690-d9500a17327a.jpg?ci_seal=fed6afae70c78be7712dfe1ed1b2d3ede94fcdaa",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "544107e0-16f4-4c93-a14a-5c11f9eed4d5",
+          "url": "https://mms.seloger.com/5/4/4/1/544107e0-16f4-4c93-a14a-5c11f9eed4d5.jpg?ci_seal=3b5b1b8ec342e051f27c4f820b1d1867e8703c75",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "814ccb58-5028-4a6e-835f-04cd96860444",
+          "url": "https://mms.seloger.com/8/1/4/c/814ccb58-5028-4a6e-835f-04cd96860444.jpg?ci_seal=0afff89ed313f004b8c1b1c27a0fc1bf3bf95b4b",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e68725a5-3c49-441e-a43b-4830dca980d9",
+          "url": "https://mms.seloger.com/e/6/8/7/e68725a5-3c49-441e-a43b-4830dca980d9.jpg?ci_seal=0dbcdc26a57689aa2b824be31d1350f22d4ed333",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "004675bf-372a-45c5-8d3c-c3de96b9ccf8",
+          "url": "https://mms.seloger.com/0/0/4/6/004675bf-372a-45c5-8d3c-c3de96b9ccf8.jpg?ci_seal=dce9a9845330dae9adaff7a82e3b11de273781e6",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7c270eee-11a9-4bc5-906f-e432681e9af5",
+          "url": "https://mms.seloger.com/7/c/2/7/7c270eee-11a9-4bc5-906f-e432681e9af5.jpg?ci_seal=76c982fd1f90ad7aa1c96cbeaefc10b2dcf6a0b3",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "276542db-795b-4424-9f5c-51e54530410e",
+          "url": "https://mms.seloger.com/2/7/6/5/276542db-795b-4424-9f5c-51e54530410e.jpg?ci_seal=d5f2bc1355965a3db88562efe24ef0ef369b9af4",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "eaed5857-4700-4063-82b2-795a5230ec19",
+          "url": "https://mms.seloger.com/e/a/e/d/eaed5857-4700-4063-82b2-795a5230ec19.jpg?ci_seal=b0dcf4b8f07f37bccbd6aa22e2c3bc5e099ec9ac",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1b3665d3-4f0a-4417-8816-38a6db39562c",
+          "url": "https://mms.seloger.com/1/b/3/6/1b3665d3-4f0a-4417-8816-38a6db39562c.jpg?ci_seal=3279212bf6ee4c8544464a189f85e5339e97284f",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ce93cfbf-8614-4c48-90f8-aee9c2db1c31",
+          "url": "https://mms.seloger.com/c/e/9/3/ce93cfbf-8614-4c48-90f8-aee9c2db1c31.jpg?ci_seal=ebbb94f5b2ebc06a8dab7aa8e312171a03b74de0",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "253750791",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75008",
+      "city": "Paris 8ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 35.68,
+        "accuracy": 3,
+        "high": "46,72",
+        "low": "28,30"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "67,16",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 3P Avenue Montaigne Paris 8e",
+      "description": "Avenue Montaigne, au coeur du Triangle d'Or, à deux pas du restaurant L'Avenue et du Plaza Athénée, \n Au 2e étage par ascenseur, DREYFUS-SCHMIDT vous propose la location d'un appartement idéal pour un pied à terre. \n Il se compose d'un grand espace de réception, d'une cuisine séparée et équipée, d'une chambre principale avec dressing et salle de douche, d'une chambre d'appoint, avec placard, d'un WC avec lave mains. Mobilier neuf (canapé, fauteuils, chaises..)\n Loyer 4500€ charges comprises\n Honoraires 12% du loyer annuel Plus TVA",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 mois en ligne",
+      "views": "120 vues",
+      "saves": "18 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25MIMBNAEX8S",
+    "legacyId": "253750791",
+    "brand": "seloger",
+    "agencyId": "RC-577213",
+    "static": {
+      "phoneNumbers": [
+        "01 83 64 60 47"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "01 83 64 60 47"
+      ]
+    },
+    "contactCard": {
+      "title": "DREYFUS-SCHMIDT REAL ESTATE",
+      "subtitle": "Dreyfus Schmidt",
+      "phoneNumbers": [
+        "01 83 64 60 47"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/b/d/9/3/bd93d2a7-7951-4721-bb2e-b9a4e44327dd.jpg?ci_seal=68289720a672ad58f224d46c0ab3b1b1fb1f9edd",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "DREYFUS-SCHMIDT REAL ESTATE",
+        "subtitle": "Dreyfus Schmidt",
+        "phoneNumbers": [
+          "01 83 64 60 47"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/b/d/9/3/bd93d2a7-7951-4721-bb2e-b9a4e44327dd.jpg?ci_seal=68289720a672ad58f224d46c0ab3b1b1fb1f9edd"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Dreyfus Schmidt",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "DREYFUS-SCHMIDT REAL ESTATE",
+      "subtitle": "DREYFUS-SCHMIDT REAL ESTATE",
+      "phoneNumbers": [
+        "01 83 64 60 47"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "DREYFUS-SCHMIDT REAL ESTATE",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/b/d/9/3/bd93d2a7-7951-4721-bb2e-b9a4e44327dd.jpg?ci_seal=68289720a672ad58f224d46c0ab3b1b1fb1f9edd",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-16eme-arrondissement-75116/agence-312149/"
+      },
+      "contactCard": {
+        "title": "Dreyfus Schmidt",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-16eme-arrondissement-75116/agence-312149/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "SAS, société par actions simplifiée DREYFUS-SCHMIDT",
+        "<b>Siège:</b> 58 Avenue d'Iéna, 75016 Paris",
+        "<b>RCS:</b> 878396191",
+        "<b>SIRET:</b> 87839619100024"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "58 avenue d'Iéna, 75116 Paris",
+      "phoneNumbers": [
+        "01 83 64 60 47"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75008",
+    "av_city": "Paris",
+    "av_energy_certificate": "A",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25MIMBNAEX8S",
+        "price": 4500,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75008",
+        "legacy_id": "253750791",
+        "product_type": "standard",
+        "client_id": "RC-577213",
+        "energy_certificate": "A"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "86072",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "A",
+        "estate_postalcode": "75008",
+        "estate_type": 1,
+        "id": "253750791",
+        "id_duo": 253750791,
+        "id_solo": 253750791,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 12,
+        "position": 0,
+        "price": 4500,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 67,
+        "year_of_construction": 1930
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75008",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "253750791",
+      "prix": 4500,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 67,
+      "commodites": [
+        "ascenseur",
+        "Chauffage-individuel",
+        "Cuisine-équipée",
+        "Cuisine-séparée",
+        "SalleDEau-douche",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "A"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-8eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 8ème arrondissement 75008",
+          "hoverLabel": "Appartements à louer Paris 8ème arrondissement 75008",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 67 m² 4500 € Triangle d'Or Paris (75008)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 67 m² 4500 € Triangle d'Or Paris (75008)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-8eme-75/triangle-d-or/253750791.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-8eme-75/triangle-d-or/253750791.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 67 m² 4500 € Triangle d'Or Paris (75008)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 67 m² 4500 € Triangle d'Or Paris (75008)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/3/6/8/7/36872fad-67c5-47c0-af61-e9d6ba08ea6d.jpg?ci_seal=adbc863e595be7b615361d1dc29220d0707d295a"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 67 m² 4500 € Triangle d'Or Paris (75008)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-8eme-75/triangle-d-or/253750791.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 67 m² 4500 € Triangle d'Or Paris (75008)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 67 m² 4500 € Triangle d'Or Paris (75008)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/3/6/8/7/36872fad-67c5-47c0-af61-e9d6ba08ea6d.jpg?ci_seal=adbc863e595be7b615361d1dc29220d0707d295a"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 67 m² 4500 € Triangle d'Or Paris (75008)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 67 m² 4500 € Triangle d'Or Paris (75008)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-8eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 8ème arrondissement 75008",
+          "hoverLabel": "Appartements à louer Paris 8ème arrondissement 75008",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-8eme-75/triangle-d-or/253750791.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR31&priceMax=5400&priceMin=3600",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR31",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR33",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25MIMBNAEX8S"
+}

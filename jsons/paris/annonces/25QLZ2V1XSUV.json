@@ -1,0 +1,1220 @@
+{
+  "brand": "seloger",
+  "id": "25QLZ2V1XSUV",
+  "metadata": {
+    "legacyId": "256079145",
+    "creationDate": "2025-12-08T15:14:00Z",
+    "updateDate": "2025-12-08T15:20:17.766Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 11ème",
+        "zipCode": "75011",
+        "district": "République-Saint Ambroise"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.366288,
+          48.867565
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "3",
+                "color": "#827a04"
+              },
+              {
+                "name": "5",
+                "color": "#FF7F32"
+              },
+              {
+                "name": "8",
+                "color": "#dd9cdf"
+              },
+              {
+                "name": "9",
+                "color": "#b5bd00"
+              },
+              {
+                "name": "11",
+                "color": "#6e4c1e"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "20",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "46",
+                "color": "#cec92a"
+              },
+              {
+                "name": "56",
+                "color": "#a0006e"
+              },
+              {
+                "name": "65"
+              },
+              {
+                "name": "75",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "91",
+                "color": "#dc9609"
+              },
+              {
+                "name": "96",
+                "color": "#dc9609"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "LOCATION MEUBLEE LODGIS (Référence : 31126231) : Cet appartement meublé de 67 m² est situé Rue De Malte, dans un quartier animé du 11ème arrondissement de Paris. Composé de 3 pièces dont 2 chambres, cet appartement en location meublée peut accueillir jusqu'à 4 personnes. Cet appartement au 1er étage sans ascenseur, bénéficie de l'équipement nécessaire pour vous sentir comme à la maison . Parfaitement desservi par les transports en commun (République/M 3,M 5,M 8,M 9,M 11), vous trouverez à proximité de nombreux commerces et services (Boulangerie, Brasserie, Club de gym à proximité, Parc, Pharmacie, Restaurant, Supermarché).",
+      "texts": [
+        {
+          "text": "LOCATION MEUBLEE LODGIS (Référence : 31126231) : Cet appartement meublé de 67 m² est situé Rue De Malte, dans un quartier animé du 11ème arrondissement de Paris. Composé de 3 pièces dont 2 chambres, cet appartement en location meublée peut accueillir jusqu'à 4 personnes. Cet appartement au 1er étage sans ascenseur, bénéficie de l'équipement nécessaire pour vous sentir comme à la maison . Parfaitement desservi par les transports en commun (République/M 3,M 5,M 8,M 9,M 11), vous trouverez à proximité de nombreux commerces et services (Boulangerie, Brasserie, Club de gym à proximité, Parc, Pharmacie, Restaurant, Supermarché)."
+        }
+      ],
+      "headline": "3 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "67 m²",
+        "1er étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "67 m²",
+          "splitValue": "67",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1er étage",
+          "splitValue": "1er",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "3 300 €",
+        "formatted": "3 300 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "3300 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1875"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "43852f45-852a-4d28-bbac-3b4a5ccfa4a0",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "9e14dcb2-b117-49bf-9297-391259282265",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "207 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "6 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "3bc3a586-b51e-49e7-9b2a-0bd7e0439365",
+              "efficiencyClass": {
+                "index": 0,
+                "rating": "A"
+              },
+              "values": [
+                {
+                  "value": "6 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : A avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256079145"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "31126231"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "3 300 €/mois Loyer charges comprises",
+          "ariaLabel": "3300 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "200 €/mois",
+            "ariaLabel": "200 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "49,25 €/mois/m²",
+            "ariaLabel": "49,25 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "6200"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "1er étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "1er étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "5382752d-bdf9-43dc-b1cf-ba90412d9259",
+          "url": "https://mms.seloger.com/5/3/8/2/5382752d-bdf9-43dc-b1cf-ba90412d9259.jpg?ci_seal=de08ee4c475200aae9a2fd646d4c089540011aeb",
+          "alt": "Appartement à louer 3 300 € 3 pièces 2 chambres 67 m² 1er étage République-Saint Ambroise Paris 11ème 75011",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9f7768b1-e68a-4d70-b05a-580c88487013",
+          "url": "https://mms.seloger.com/9/f/7/7/9f7768b1-e68a-4d70-b05a-580c88487013.jpg?ci_seal=78c7da1170b93fbaa783b14085d71e2ba1d9cefe",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f43c5f29-c8ca-4cc5-8c29-4ee94eca885b",
+          "url": "https://mms.seloger.com/f/4/3/c/f43c5f29-c8ca-4cc5-8c29-4ee94eca885b.jpg?ci_seal=253f8c917d51aca37c50e24ad8988ef6f67c17e9",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "dff844c6-2fd2-445e-8201-230095b68ec2",
+          "url": "https://mms.seloger.com/d/f/f/8/dff844c6-2fd2-445e-8201-230095b68ec2.jpg?ci_seal=161210174c817ff22b616bdb7ad6129bf9312d74",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6a0048fe-4070-4007-8b5f-77c3c0006c4f",
+          "url": "https://mms.seloger.com/6/a/0/0/6a0048fe-4070-4007-8b5f-77c3c0006c4f.jpg?ci_seal=080089276c974f870123c3e101b4495080de78eb",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "da7e5b8d-cd7f-41d9-aa0a-adbd368f5554",
+          "url": "https://mms.seloger.com/d/a/7/e/da7e5b8d-cd7f-41d9-aa0a-adbd368f5554.jpg?ci_seal=71a59304dc4bda3b1ddf10edbb5318a516ddfbf4",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "af5b89e6-33cd-48dd-aab6-036517ea3a86",
+          "url": "https://mms.seloger.com/a/f/5/b/af5b89e6-33cd-48dd-aab6-036517ea3a86.jpg?ci_seal=f956f2e519c496bb77419c5a2d2e87c6e8015acf",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a05918d0-e1a4-42fd-b840-64590ba9731e",
+          "url": "https://mms.seloger.com/a/0/5/9/a05918d0-e1a4-42fd-b840-64590ba9731e.jpg?ci_seal=ea6c9fcbfbff3cd4b73aed7282556d0387e4afce",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5615f8c9-3f41-4721-aa29-d903f18f7bbb",
+          "url": "https://mms.seloger.com/5/6/1/5/5615f8c9-3f41-4721-aa29-d903f18f7bbb.jpg?ci_seal=6aff084487cadfe9afe8004dcd0e35fee4938bb1",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ee6c447b-05dc-4750-bea6-4c73f4d5ae75",
+          "url": "https://mms.seloger.com/e/e/6/c/ee6c447b-05dc-4750-bea6-4c73f4d5ae75.jpg?ci_seal=5e333b850c80a139c54fd644fedef8f314fb669a",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7fe407ff-6102-44e9-9443-9a00067d947a",
+          "url": "https://mms.seloger.com/7/f/e/4/7fe407ff-6102-44e9-9443-9a00067d947a.jpg?ci_seal=09c1cb5727efaba0403880587b32e859eec762ef",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a2d5f164-f0f3-4499-8f6b-5a2dd090f5b4",
+          "url": "https://mms.seloger.com/a/2/d/5/a2d5f164-f0f3-4499-8f6b-5a2dd090f5b4.jpg?ci_seal=7399fc88c85c7a453ad9d283d4a7707d88fc489d",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5a1d5056-df81-4365-8235-fe22ff9e42bd",
+          "url": "https://mms.seloger.com/5/a/1/d/5a1d5056-df81-4365-8235-fe22ff9e42bd.jpg?ci_seal=b4f2fa3a3a4004256e284f11688fc404d45ffdda",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9b8cfe94-7010-4c3c-9328-4be2aeb476e5",
+          "url": "https://mms.seloger.com/9/b/8/c/9b8cfe94-7010-4c3c-9328-4be2aeb476e5.jpg?ci_seal=2612caa6e0b8b3f15ef7a2bcaf9c7a298d5eb8a7",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fc864147-9acf-4c6f-9753-f9a63d64fe9e",
+          "url": "https://mms.seloger.com/f/c/8/6/fc864147-9acf-4c6f-9753-f9a63d64fe9e.jpg?ci_seal=38bf0b63b5415b812621e4e0706025d91ec5a55b",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "53d8b34f-9bd3-46c2-ac70-d66fdd603276",
+          "url": "https://mms.seloger.com/5/3/d/8/53d8b34f-9bd3-46c2-ac70-d66fdd603276.jpg?ci_seal=42b640893f70444d7d016e1769490e79261ca23c",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256079145",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75011",
+      "city": "Paris 11ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 33.84,
+        "accuracy": 3,
+        "high": "44,92",
+        "low": "27,68"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "49,25",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "3 pièces",
+      "description": "LOCATION MEUBLEE LODGIS (Référence : 31126231) : Cet appartement meublé de 67 m² est situé Rue De Malte, dans un quartier animé du 11ème arrondissement de Paris. Composé de 3 pièces dont 2 chambres, cet appartement en location meublée peut accueillir jusqu'à 4 personnes. Cet appartement au 1er étage sans ascenseur, bénéficie de l'équipement nécessaire pour vous sentir comme à la maison . Parfaitement desservi par les transports en commun (République/M 3,M 5,M 8,M 9,M 11), vous trouverez à proximité de nombreux commerces et services (Boulangerie, Brasserie, Club de gym à proximité, Parc, Pharmacie, Restaurant, Supermarché).",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "26 vues",
+      "saves": "2 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25QLZ2V1XSUV",
+    "legacyId": "256079145",
+    "brand": "seloger",
+    "agencyId": "RC-1017268",
+    "static": {
+      "phoneNumbers": [
+        "+33170391112"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33170391112"
+      ]
+    },
+    "contactCard": {
+      "title": "LODGIS",
+      "subtitle": "Lodgis",
+      "phoneNumbers": [
+        "+33170391112"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/f/b/a/b/fbabcdc0-c10a-4566-9086-0da70321aa57.jpg?ci_seal=4f8c325196fb080e6219469a6cae49485a313141",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "LODGIS",
+        "subtitle": "Lodgis",
+        "phoneNumbers": [
+          "+33170391112"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/f/b/a/b/fbabcdc0-c10a-4566-9086-0da70321aa57.jpg?ci_seal=4f8c325196fb080e6219469a6cae49485a313141"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Lodgis",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "LODGIS",
+      "subtitle": "LODGIS",
+      "phoneNumbers": [
+        "+33170391112"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "LODGIS",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/f/b/a/b/fbabcdc0-c10a-4566-9086-0da70321aa57.jpg?ci_seal=4f8c325196fb080e6219469a6cae49485a313141",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-46792/"
+      },
+      "contactCard": {
+        "title": "Lodgis",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://lodgis.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-46792/",
+      "imprintUrl": null,
+      "feeUrl": "https://www.lodgis.com/fr/l-agence-lodgis/honoraires/",
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 423936376",
+        "<b>SIRET:</b> 42393637600098"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "27-29 RUE DE CHOISEUL 75002, 75008 PARIS",
+      "phoneNumbers": [
+        "+33170391112"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75011",
+    "av_city": "Paris",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25QLZ2V1XSUV",
+        "price": 3300,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75011",
+        "legacy_id": "256079145",
+        "product_type": "standard",
+        "client_id": "RC-1017268",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "440512",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "75011",
+        "estate_type": 1,
+        "id": "256079145",
+        "id_duo": 256079145,
+        "id_solo": 256079145,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 16,
+        "position": 0,
+        "price": 3300,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 67,
+        "year_of_construction": 1875
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75011",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256079145",
+      "prix": 3300,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 67,
+      "commodites": [
+        "Chauffage-electrique",
+        "Cuisine-américaine",
+        "Cuisine-équipée",
+        "SalleDEau-douche"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-11eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 11ème arrondissement 75011",
+          "hoverLabel": "Appartements à louer Paris 11ème arrondissement 75011",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 67 m² 3300 € République-Saint Ambroise Paris (75011)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 67 m² 3300 € République-Saint Ambroise Paris (75011)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-11eme-75/republique-saint-ambroise/256079145.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-11eme-75/republique-saint-ambroise/256079145.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 67 m² 3300 € République-Saint Ambroise Paris (75011)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 67 m² 3300 € République-Saint Ambroise Paris (75011)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/5/3/8/2/5382752d-bdf9-43dc-b1cf-ba90412d9259.jpg?ci_seal=de08ee4c475200aae9a2fd646d4c089540011aeb"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 67 m² 3300 € République-Saint Ambroise Paris (75011)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-11eme-75/republique-saint-ambroise/256079145.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 67 m² 3300 € République-Saint Ambroise Paris (75011)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 67 m² 3300 € République-Saint Ambroise Paris (75011)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/5/3/8/2/5382752d-bdf9-43dc-b1cf-ba90412d9259.jpg?ci_seal=de08ee4c475200aae9a2fd646d4c089540011aeb"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 67 m² 3300 € République-Saint Ambroise Paris (75011)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 67 m² 3300 € République-Saint Ambroise Paris (75011)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-11eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 11ème arrondissement 75011",
+          "hoverLabel": "Appartements à louer Paris 11ème arrondissement 75011",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-11eme-75/republique-saint-ambroise/256079145.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR51&priceMax=3960&priceMin=2640",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR51",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR36",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25QLZ2V1XSUV"
+}

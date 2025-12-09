@@ -1,0 +1,1281 @@
+{
+  "brand": "seloger",
+  "id": "25S6L5CD4S8V",
+  "metadata": {
+    "legacyId": "256053715",
+    "creationDate": "2025-12-08T08:52:00Z",
+    "updateDate": "2025-12-08T10:05:08.304Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 9ème",
+        "zipCode": "75009",
+        "district": "Trudaine-Maubeuge"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.349645,
+          48.88108599998638
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "2",
+                "color": "#003da5"
+              },
+              {
+                "name": "4",
+                "color": "#c800a1"
+              },
+              {
+                "name": "5",
+                "color": "#FF7F32"
+              },
+              {
+                "name": "7",
+                "color": "#f59bbb"
+              }
+            ]
+          },
+          {
+            "type": "RER",
+            "lines": [
+              {
+                "name": "B",
+                "color": "#5291CE"
+              },
+              {
+                "name": "D",
+                "color": "#5E9620"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "26",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "30",
+                "color": "#62259d"
+              },
+              {
+                "name": "31",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "32",
+                "color": "#9c983a"
+              },
+              {
+                "name": "35",
+                "color": "#77c695"
+              },
+              {
+                "name": "38",
+                "color": "#006cb8"
+              },
+              {
+                "name": "39",
+                "color": "#a0006e"
+              },
+              {
+                "name": "42",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "43",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "45",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "46",
+                "color": "#cec92a"
+              },
+              {
+                "name": "48",
+                "color": "#006cb8"
+              },
+              {
+                "name": "54",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "56",
+                "color": "#a0006e"
+              },
+              {
+                "name": "65"
+              },
+              {
+                "name": "85",
+                "color": "#5a230a"
+              },
+              {
+                "name": "91",
+                "color": "#dc9609"
+              },
+              {
+                "name": "302",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "350",
+                "color": "#62259d"
+              }
+            ]
+          },
+          {
+            "type": "TRAIN",
+            "lines": [
+              {
+                "name": "C11",
+                "color": "#8cbc00"
+              },
+              {
+                "name": "ES",
+                "color": "#011633"
+              },
+              {
+                "name": "H",
+                "color": "#7B4339"
+              },
+              {
+                "name": "K",
+                "color": "#9F9825"
+              },
+              {
+                "name": "K10",
+                "color": "#8cbc00"
+              },
+              {
+                "name": "K11",
+                "color": "#069456"
+              },
+              {
+                "name": "K13",
+                "color": "#069456"
+              },
+              {
+                "name": "Thalys",
+                "color": "#aa2135"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "PARIS 9ème - Quartier Touraine Maubeuge \nEntre la rue Trudaine et la Gare du Nord, dans bon immeuble pierre de taille, au 4 ème étage avec ascenseur, un appartement Meublé de 3 pièces de 72,49 m2 comprenant : entrée, double séjour, 2 chambres avec placard, cuisine équipée (LL, LV, frigo, congélateur, micro-ondes, four, hotte), salle de bains (douche et baignoire), wc séparé, dressing. \nBon plan sans perte de place, très bon état général.",
+      "texts": [
+        {
+          "text": "PARIS 9ème - Quartier Touraine Maubeuge \nEntre la rue Trudaine et la Gare du Nord, dans bon immeuble pierre de taille, au 4 ème étage avec ascenseur, un appartement Meublé de 3 pièces de 72,49 m2 comprenant : entrée, double séjour, 2 chambres avec placard, cuisine équipée (LL, LV, frigo, congélateur, micro-ondes, four, hotte), salle de bains (douche et baignoire), wc séparé, dressing. \nBon plan sans perte de place, très bon état général."
+        }
+      ],
+      "headline": "Appartement 3 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "72,5 m²",
+        "4ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "72,5 m²",
+          "splitValue": "72,5",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4ème étage",
+          "splitValue": "4ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "2 575 €",
+        "formatted": "2 575 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "2575 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "164ee75e-bb99-4b24-adff-19e4d17d3857",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 1402 et 1896 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 1402 et 1896 € par an. Date d'indexation du prix des énergies non communiquée."
+            }
+          ],
+          "scales": [
+            {
+              "key": "52fed632-0c01-42cf-9698-a23c71e8eeac",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "207 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "44 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "884e6e19-589e-494e-9071-7a7459d8f06b",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "44 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256053715"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "LA2585"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "2 435 €/mois Loyer de base",
+          "ariaLabel": "2435 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "140 €/mois",
+            "ariaLabel": "140 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "2 575 €/mois",
+            "ariaLabel": "2575 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "33,59 €/mois/m²",
+            "ariaLabel": "33,59 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "4870"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "4ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "4ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain; 1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "aa6aad49-b685-464c-bf4e-e993b58a7be1",
+          "url": "https://mms.seloger.com/a/a/6/a/aa6aad49-b685-464c-bf4e-e993b58a7be1.jpg?ci_seal=4f3b8bb32ea62804b68b79246a4be6c511a9fe36",
+          "alt": "Appartement à louer 2 575 € 3 pièces 2 chambres 72,5 m² 4ème étage Trudaine-Maubeuge Paris 9ème 75009",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "554606d0-264c-4222-a973-7cb53a445bf9",
+          "url": "https://mms.seloger.com/5/5/4/6/554606d0-264c-4222-a973-7cb53a445bf9.jpg?ci_seal=23272cb20b846494b549f4f5814c8573b75a73f0",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1e63d0d4-e01e-463e-8a3c-cb4d83d0da57",
+          "url": "https://mms.seloger.com/1/e/6/3/1e63d0d4-e01e-463e-8a3c-cb4d83d0da57.jpg?ci_seal=505d29409f394c8192cc9428c7aa601effa94bc9",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f5b362b5-8b07-424b-853a-bb125038f6df",
+          "url": "https://mms.seloger.com/f/5/b/3/f5b362b5-8b07-424b-853a-bb125038f6df.jpg?ci_seal=87a7140e0d2a9e8103f78265b0da759d4f382feb",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "07348c2e-0415-40e5-85bb-45c3add30d77",
+          "url": "https://mms.seloger.com/0/7/3/4/07348c2e-0415-40e5-85bb-45c3add30d77.jpg?ci_seal=0deb300bccd513bea30adb1a7bb44507ddc56d34",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e226f8e3-4856-411f-81d8-a205defba3d1",
+          "url": "https://mms.seloger.com/e/2/2/6/e226f8e3-4856-411f-81d8-a205defba3d1.jpg?ci_seal=0dc4a095df8084a435d8e34745a6f85a684d7346",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2c9f94b5-7dc5-45d8-96c9-dff9be1fc918",
+          "url": "https://mms.seloger.com/2/c/9/f/2c9f94b5-7dc5-45d8-96c9-dff9be1fc918.jpg?ci_seal=e1e1c7b3703e6c1abf4c06139d72125b424c4b08",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ],
+      "floorplans": [
+        {
+          "key": "36a4cdf6-211b-458d-bbd6-d4e420b7d08a",
+          "url": "https://mms.seloger.com/3/6/a/4/36a4cdf6-211b-458d-bbd6-d4e420b7d08a.jpg?ci_seal=58a81d683187714ba641e32596e97b49f77a156b",
+          "alt": "Appartement à louer 2 575 € 3 pièces 2 chambres 72,5 m² 4ème étage Trudaine-Maubeuge Paris 9ème 75009",
+          "classification": {
+            "name": "FLOORPLAN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256053715",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75009",
+      "city": "Paris 9ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 34.14,
+        "accuracy": 4,
+        "high": "44,87",
+        "low": "26,24"
+      },
+      "markerPosition": 39,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "33,59",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 3 pièces",
+      "description": "PARIS 9ème - Quartier Touraine Maubeuge \nEntre la rue Trudaine et la Gare du Nord, dans bon immeuble pierre de taille, au 4 ème étage avec ascenseur, un appartement Meublé de 3 pièces de 72,49 m2 comprenant : entrée, double séjour, 2 chambres avec placard, cuisine équipée (LL, LV, frigo, congélateur, micro-ondes, four, hotte), salle de bains (douche et baignoire), wc séparé, dressing. \nBon plan sans perte de place, très bon état général.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "199 vues",
+      "saves": "17 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25S6L5CD4S8V",
+    "legacyId": "256053715",
+    "brand": "seloger",
+    "agencyId": "RC-015086",
+    "static": {
+      "phoneNumbers": [
+        "0143872200"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0143872200"
+      ]
+    },
+    "contactCard": {
+      "title": "TRANSACTION GROUPE IMMOBILIER EUROPE",
+      "subtitle": "Groupe Immobilier Europe",
+      "phoneNumbers": [
+        "0143872200"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/5/0/8/8/5088bd92-153b-4562-a154-fe9228649c76.jpg?ci_seal=1c483af610719bc3bcc2e5aeab734531947d5a54",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "TRANSACTION GROUPE IMMOBILIER EUROPE",
+        "subtitle": "Groupe Immobilier Europe",
+        "phoneNumbers": [
+          "0143872200"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/5/0/8/8/5088bd92-153b-4562-a154-fe9228649c76.jpg?ci_seal=1c483af610719bc3bcc2e5aeab734531947d5a54"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Groupe Immobilier Europe",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "TRANSACTION GROUPE IMMOBILIER EUROPE",
+      "subtitle": "TRANSACTION GROUPE IMMOBILIER EUROPE",
+      "phoneNumbers": [
+        "0143872200"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "TRANSACTION GROUPE IMMOBILIER EUROPE",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/5/0/8/8/5088bd92-153b-4562-a154-fe9228649c76.jpg?ci_seal=1c483af610719bc3bcc2e5aeab734531947d5a54",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-174759/"
+      },
+      "contactCard": {
+        "title": "Groupe Immobilier Europe",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "https://gieurope.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-174759/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "Société à responsabilité limitée (sans autre indication) GROUPE IMMOBILIER EUROPE",
+        "<b>Siège:</b> 51 Rue De Rome, 75008 Paris",
+        "<b>RCS:</b> 312137961",
+        "<b>SIRET:</b> 31213796100016"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "51 rue de Rome, 75008 Paris",
+      "phoneNumbers": [
+        "0143872200"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75009",
+    "av_city": "Paris",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25S6L5CD4S8V",
+        "price": 2575,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75009",
+        "legacy_id": "256053715",
+        "product_type": "standard",
+        "client_id": "RC-015086",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "31",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "75009",
+        "estate_type": 1,
+        "id": "256053715",
+        "id_duo": 256053715,
+        "id_solo": 256053715,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 8,
+        "position": 0,
+        "price": 2575,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 72.49
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75009",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256053715",
+      "prix": 2600,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 72.49,
+      "commodites": [
+        "ascenseur",
+        "Chauffage-individuel",
+        "Chauffage-gaz",
+        "Cuisine-équipée",
+        "Cuisine-séparée",
+        "parquet",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-9eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 9ème arrondissement 75009",
+          "hoverLabel": "Appartements à louer Paris 9ème arrondissement 75009",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 72.49 m² 2575 € Trudaine-Maubeuge Paris (75009)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 72.49 m² 2575 € Trudaine-Maubeuge Paris (75009)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/trudaine-maubeuge/256053715.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/trudaine-maubeuge/256053715.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 72.49 m² 2575 € Trudaine-Maubeuge Paris (75009)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 72.49 m² 2575 € Trudaine-Maubeuge Paris (75009)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/a/a/6/a/aa6aad49-b685-464c-bf4e-e993b58a7be1.jpg?ci_seal=4f3b8bb32ea62804b68b79246a4be6c511a9fe36"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 72.49 m² 2575 € Trudaine-Maubeuge Paris (75009)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/trudaine-maubeuge/256053715.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 72.49 m² 2575 € Trudaine-Maubeuge Paris (75009)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 72.49 m² 2575 € Trudaine-Maubeuge Paris (75009)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/a/a/6/a/aa6aad49-b685-464c-bf4e-e993b58a7be1.jpg?ci_seal=4f3b8bb32ea62804b68b79246a4be6c511a9fe36"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 72.49 m² 2575 € Trudaine-Maubeuge Paris (75009)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 72.49 m² 2575 € Trudaine-Maubeuge Paris (75009)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-9eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 9ème arrondissement 75009",
+          "hoverLabel": "Appartements à louer Paris 9ème arrondissement 75009",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/trudaine-maubeuge/256053715.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR38&priceMax=3090&priceMin=2060",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR38",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR34",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25S6L5CD4S8V"
+}

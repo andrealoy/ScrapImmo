@@ -1,0 +1,1226 @@
+{
+  "brand": "seloger",
+  "id": "2541S4S11IWF",
+  "metadata": {
+    "legacyId": "255636087",
+    "creationDate": "2025-12-02T10:06:00Z",
+    "updateDate": "2025-12-04T01:20:14.787Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 2ème",
+        "zipCode": "75002",
+        "district": "Sentier-Bonne Nouvelle"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3508460000000007,
+          48.86746799998633
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "3",
+                "color": "#827a04"
+              },
+              {
+                "name": "4",
+                "color": "#c800a1"
+              },
+              {
+                "name": "8",
+                "color": "#dd9cdf"
+              },
+              {
+                "name": "9",
+                "color": "#b5bd00"
+              },
+              {
+                "name": "11",
+                "color": "#6e4c1e"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "20",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "29",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "32",
+                "color": "#9c983a"
+              },
+              {
+                "name": "38",
+                "color": "#006cb8"
+              },
+              {
+                "name": "39",
+                "color": "#a0006e"
+              },
+              {
+                "name": "47",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "48",
+                "color": "#006cb8"
+              },
+              {
+                "name": "74",
+                "color": "#cec92a"
+              },
+              {
+                "name": "75",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "85",
+                "color": "#5a230a"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Rue du Caire. Immeuble ancien. 5ème étage avec ascenseur. 3 pièces de 69m2 comprenant : entrée avec cuisine US, séjour avec patio, 2 chambres, salle de bains, wc. Parquet et poutres apparentes.",
+      "texts": [
+        {
+          "text": "Rue du Caire. Immeuble ancien. 5ème étage avec ascenseur. 3 pièces de 69m2 comprenant : entrée avec cuisine US, séjour avec patio, 2 chambres, salle de bains, wc. Parquet et poutres apparentes."
+        }
+      ],
+      "headline": "3 pièces # CAIRE"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "69 m²",
+        "Étage 5/5"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "69 m²",
+          "splitValue": "69",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 5/5",
+          "splitValue": "Étage",
+          "label": "5/5"
+        }
+      ],
+      "price": {
+        "value": "2 500 €",
+        "formatted": "2 500 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "2500 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1900"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "d74380c4-874c-4601-b17b-f22b33c4cb11",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "7fcd0b6a-55cf-495b-8861-e3ef5c34b386",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "290 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "61 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "70782fd4-fe21-4399-b992-bcf9408e0687",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "61 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255636087"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "3P # CAIRE"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "2 196 €/mois Loyer de base",
+          "ariaLabel": "2196 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "150 €/mois",
+            "ariaLabel": "150 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "2 500 €/mois",
+            "ariaLabel": "2500 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "31,83 €/mois/m²",
+            "ariaLabel": "31,83 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2350"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Dernier étage, 5ème étage/5 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: nord"
+        },
+        {
+          "value": "Sans vis-à-vis",
+          "icon": "with-view"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "Orientation",
+                "value": "Exposition: nord"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "Dernier étage, 5ème étage/5 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Sans vis-à-vis",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "TV par câble",
+                "icon": "tv"
+              }
+            ],
+            "title": "Équipements"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Gardien",
+                "icon": "custodian"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "fed6522c-61b0-4b49-bdfd-a919c73acd7f",
+          "url": "https://mms.seloger.com/f/e/d/6/fed6522c-61b0-4b49-bdfd-a919c73acd7f.jpg?ci_seal=0d8cb78d17f73841a7d608dd59a021b3f2593acc",
+          "alt": "Appartement à louer 2 500 € 3 pièces 2 chambres 69 m² Étage 5/5 Sentier-Bonne Nouvelle Paris 2ème 75002",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7d1b5e9f-0f9c-4022-b041-842e95d2883a",
+          "url": "https://mms.seloger.com/7/d/1/b/7d1b5e9f-0f9c-4022-b041-842e95d2883a.jpg?ci_seal=dc8fecb4f9bee200f9a1c87e99d1bef8ee3621be",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "14fa8254-cee6-4860-a9ce-5870b1b54c4d",
+          "url": "https://mms.seloger.com/1/4/f/a/14fa8254-cee6-4860-a9ce-5870b1b54c4d.jpg?ci_seal=9f55b4f6b287d417bb50784c48b58df36848c445",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "529439f6-6538-4d8e-a63a-1760d65e2005",
+          "url": "https://mms.seloger.com/5/2/9/4/529439f6-6538-4d8e-a63a-1760d65e2005.jpg?ci_seal=8deb88aebf660914c3fb1d77579201152836335d",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "be7ccb97-0722-4e8a-bfd3-252402f1b93d",
+          "url": "https://mms.seloger.com/b/e/7/c/be7ccb97-0722-4e8a-bfd3-252402f1b93d.jpg?ci_seal=119742655e3b8125a6fad0b96eaa64b854f58554",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "39024ad8-8d6a-4a3e-ab88-ae322eda3bbb",
+          "url": "https://mms.seloger.com/3/9/0/2/39024ad8-8d6a-4a3e-ab88-ae322eda3bbb.jpg?ci_seal=e4ecda087560d590d758e9f2c4e0cb082353e8a7",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "52846f50-a73d-400a-b739-a8b0ee581686",
+          "url": "https://mms.seloger.com/5/2/8/4/52846f50-a73d-400a-b739-a8b0ee581686.jpg?ci_seal=3fea0fcd8299cfef998e58b8f9735ab9bb4468b7",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f44aba3b-b01b-47c4-b8f0-d2ca419facd4",
+          "url": "https://mms.seloger.com/f/4/4/a/f44aba3b-b01b-47c4-b8f0-d2ca419facd4.jpg?ci_seal=6a77d917045c86a51fc5eaa1be06ddc09288f45b",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f47aeb6b-404e-43ed-b9bb-d9844d415afa",
+          "url": "https://mms.seloger.com/f/4/7/a/f47aeb6b-404e-43ed-b9bb-d9844d415afa.jpg?ci_seal=15552912557012302c50166da8b1b4fa73106bf5",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255636087",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75002",
+      "city": "Paris 2ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 36.45,
+        "accuracy": 3,
+        "high": "46,69",
+        "low": "27,42"
+      },
+      "markerPosition": 23,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "31,83",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "3 pièces # CAIRE",
+      "description": "Rue du Caire. Immeuble ancien. 5ème étage avec ascenseur. 3 pièces de 69m2 comprenant : entrée avec cuisine US, séjour avec patio, 2 chambres, salle de bains, wc. Parquet et poutres apparentes.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "7 jours en ligne",
+      "views": "841 vues",
+      "saves": "31 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "2541S4S11IWF",
+    "legacyId": "255636087",
+    "brand": "seloger",
+    "agencyId": "RC-080704",
+    "static": {
+      "phoneNumbers": [
+        "0610153305"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0610153305"
+      ]
+    },
+    "contactCard": {
+      "title": "PANAME IMMOBILIER",
+      "subtitle": "Franck Maman",
+      "phoneNumbers": [
+        "0610153305"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "PANAME IMMOBILIER",
+        "subtitle": "Franck Maman",
+        "phoneNumbers": [
+          "0610153305"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Franck Maman",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "PANAME IMMOBILIER",
+      "subtitle": "PANAME IMMOBILIER",
+      "phoneNumbers": [
+        "0610153305"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "PANAME IMMOBILIER",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-9eme-arrondissement-75009/agence-6023/"
+      },
+      "contactCard": {
+        "title": "Franck Maman",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-9eme-arrondissement-75009/agence-6023/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "EURL PANAME IMMOBILIER au capital de 1 000 €",
+        "Carte professionnelle 13347 délivrée par la Préfecture de Paris",
+        "Garantie financière QBE pour un montant de 30 000 €",
+        "<b>Siège:</b> 26 rue de la Tour d'Auvergne, 75009 PARIS 9EME",
+        "<b>RCS:</b> Paris 519479836",
+        "<b>SIRET:</b> 51947983600016"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "26, RUE DE LA TOUR D'AUVERGNE PARIS, 75009 Paris 9ème",
+      "phoneNumbers": [
+        "0610153305"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75002",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "2541S4S11IWF",
+        "price": 2500,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75002",
+        "legacy_id": "255636087",
+        "product_type": "standard",
+        "client_id": "RC-080704",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "74430",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75002",
+        "estate_type": 1,
+        "id": "255636087",
+        "id_duo": 255636087,
+        "id_solo": 255636087,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 9,
+        "position": 0,
+        "price": 2500,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 69,
+        "year_of_construction": 1900
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75002",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255636087",
+      "prix": 2500,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 69,
+      "etage": 5,
+      "commodites": [
+        "ascenseur",
+        "Chauffage-gaz",
+        "Cuisine-américaine",
+        "dernier%20etage",
+        "parquet",
+        "SalleDeBain-baignoire",
+        "sansVisAVis",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-2eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 2ème arrondissement 75002",
+          "hoverLabel": "Appartements à louer Paris 2ème arrondissement 75002",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 69 m² 2500 € Sentier-Bonne Nouvelle Paris (75002)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 69 m² 2500 € Sentier-Bonne Nouvelle Paris (75002)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-2eme-75/sentier-bonne-nouvelle/255636087.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-2eme-75/sentier-bonne-nouvelle/255636087.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 69 m² 2500 € Sentier-Bonne Nouvelle Paris (75002)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 69 m² 2500 € Sentier-Bonne Nouvelle Paris (75002)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/f/e/d/6/fed6522c-61b0-4b49-bdfd-a919c73acd7f.jpg?ci_seal=0d8cb78d17f73841a7d608dd59a021b3f2593acc"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 69 m² 2500 € Sentier-Bonne Nouvelle Paris (75002)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-2eme-75/sentier-bonne-nouvelle/255636087.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 69 m² 2500 € Sentier-Bonne Nouvelle Paris (75002)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 69 m² 2500 € Sentier-Bonne Nouvelle Paris (75002)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/f/e/d/6/fed6522c-61b0-4b49-bdfd-a919c73acd7f.jpg?ci_seal=0d8cb78d17f73841a7d608dd59a021b3f2593acc"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 69 m² 2500 € Sentier-Bonne Nouvelle Paris (75002)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 69 m² 2500 € Sentier-Bonne Nouvelle Paris (75002)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-2eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 2ème arrondissement 75002",
+          "hoverLabel": "Appartements à louer Paris 2ème arrondissement 75002",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-2eme-75/sentier-bonne-nouvelle/255636087.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR7&priceMax=3000&priceMin=2000",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR7",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR27",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "2541S4S11IWF"
+}

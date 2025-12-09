@@ -1,0 +1,1220 @@
+{
+  "brand": "seloger",
+  "id": "25FTMPBBH5AP",
+  "metadata": {
+    "legacyId": "255230029",
+    "creationDate": "2025-11-26T10:52:00Z",
+    "updateDate": "2025-12-09T06:41:13.542Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 15ème",
+        "zipCode": "75015",
+        "district": "Emeriau-Zola"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2908049999999998,
+          48.8487609999863
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "6",
+                "color": "#71cc98"
+              },
+              {
+                "name": "10",
+                "color": "#c69214"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "30",
+                "color": "#62259d"
+              },
+              {
+                "name": "42",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "70",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "88",
+                "color": "#cec92a"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Rue de Lourmel, proche métro Bir-Hakeim, Un grand 2 pièces lumineux type Duplex de 36 m2 , avec hauteur de plafond de 3.50 m dans une petite maison au premier étage au calme comprenant une entrée donnant sur un grand salon ,coin cuisine équipée, une chambre à l'étage avec une salle de bains. WC séparé. Chauffages et eau chaude collectifs. Loyer 1 395 ( 1240+155) \r\nDossier: Cni recto verso, 3 dernières quittances de loyer,\r\n3 dernières fiches de paie, dernier avis d'impôt, contrat de travail ou attestation employeur. Visale accepté \r\n \r\n Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :",
+      "texts": [
+        {
+          "text": "Rue de Lourmel, proche métro Bir-Hakeim, Un grand 2 pièces lumineux type Duplex de 36 m2 , avec hauteur de plafond de 3.50 m dans une petite maison au premier étage au calme comprenant une entrée donnant sur un grand salon ,coin cuisine équipée, une chambre à l'étage avec une salle de bains. WC séparé. Chauffages et eau chaude collectifs. Loyer 1 395 ( 1240+155) \r\nDossier: Cni recto verso, 3 dernières quittances de loyer,\r\n3 dernières fiches de paie, dernier avis d'impôt, contrat de travail ou attestation employeur. Visale accepté \r\n \r\n Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :"
+        }
+      ],
+      "headline": "Appartement 2 pièces à Paris (75015)"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "36 m²",
+        "1er étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "36 m²",
+          "splitValue": "36",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1er étage",
+          "splitValue": "1er",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 395 €",
+        "formatted": "1 395 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "1395 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Première occupation"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "e28a3a59-398e-454f-86e0-35206f0837ae",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "613e283e-72e8-4b8c-a0a0-09c4afc5ce3c",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "253 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "35 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "f9a0240d-0c3a-4312-b667-4a9d88e8cc1a",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "35 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255230029"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "NOVA628"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 255 €/mois Loyer de base",
+          "ariaLabel": "1255 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "140 €/mois",
+            "ariaLabel": "140 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 395 €/mois",
+            "ariaLabel": "1395 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "34,86 €/mois/m²",
+            "ariaLabel": "34,86 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1255"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "1er étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte, Cuisine intégrée"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "value": "Belle vue, Sans vis-à-vis",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "1er étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              },
+              {
+                "value": "Belle vue, Sans vis-à-vis",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "TV par câble",
+                "icon": "tv"
+              }
+            ],
+            "title": "Équipements"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "10f1b322-1375-4696-98dc-95a5f229d8a3",
+          "url": "https://mms.seloger.com/1/0/f/1/10f1b322-1375-4696-98dc-95a5f229d8a3.jpg?ci_seal=f162766ec149c9fec7ad70d77f1a2ebf43c5771b",
+          "alt": "Appartement à louer 1 395 € 2 pièces 1 chambre 36 m² 1er étage Emeriau-Zola Paris 15ème 75015",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "36e56381-22d9-4a3b-a6ff-307e3c8b1347",
+          "url": "https://mms.seloger.com/3/6/e/5/36e56381-22d9-4a3b-a6ff-307e3c8b1347.jpg?ci_seal=b169f13d1275f8b40564408ea3ff65e490cb3537",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9193787d-31af-45b7-8916-d3783121dc83",
+          "url": "https://mms.seloger.com/9/1/9/3/9193787d-31af-45b7-8916-d3783121dc83.jpg?ci_seal=fc2dc7d8c919a2bea832f8d049433133c394b7b9",
+          "classification": {
+            "name": "HOME_OFFICE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d76499b0-e448-4e48-97d6-3766dd48f4ed",
+          "url": "https://mms.seloger.com/d/7/6/4/d76499b0-e448-4e48-97d6-3766dd48f4ed.jpg?ci_seal=baabc499aa089833afe60841813e873587c84d60",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2ec63584-0c67-4dce-858e-313e18b35a67",
+          "url": "https://mms.seloger.com/2/e/c/6/2ec63584-0c67-4dce-858e-313e18b35a67.jpg?ci_seal=88335bfaf7b53018562843c4ffe9fd658b8682fc",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d24aeec1-61f2-4ee6-87fa-a0845a1c6dc8",
+          "url": "https://mms.seloger.com/d/2/4/a/d24aeec1-61f2-4ee6-87fa-a0845a1c6dc8.jpg?ci_seal=7ad794a6ac4b3190b2fe79d0becb9307246ce96d",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "dd1aeb95-5106-45d4-bf71-80b8f0c25c8a",
+          "url": "https://mms.seloger.com/d/d/1/a/dd1aeb95-5106-45d4-bf71-80b8f0c25c8a.jpg?ci_seal=bb964b8214229e7140715bc1a1ea4ce26ed8bd89",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "cdc6cc79-5588-4d60-b032-f9968731c4c0",
+          "url": "https://mms.seloger.com/c/d/c/6/cdc6cc79-5588-4d60-b032-f9968731c4c0.jpg?ci_seal=8c171f9a61064adbf633dd7d55e67b80a7eb4ebb",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a0aad702-2d32-49f0-a541-534c5b387956",
+          "url": "https://mms.seloger.com/a/0/a/a/a0aad702-2d32-49f0-a541-534c5b387956.jpg?ci_seal=dc53f6778b6fdf96d86484a2148542167f029a3e",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "314ff2b9-f5e3-4cae-998a-2877ae8eb427",
+          "url": "https://mms.seloger.com/3/1/4/f/314ff2b9-f5e3-4cae-998a-2877ae8eb427.jpg?ci_seal=a80546c4dace52f17d02b8ac7f5cdac22cce4c1d",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2d22e414-c19e-4618-be00-85ed5f95c257",
+          "url": "https://mms.seloger.com/2/d/2/2/2d22e414-c19e-4618-be00-85ed5f95c257.jpg?ci_seal=f32606bceb94a1af24506430c2f4ff21abe3e173",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3fad3cc4-8a4b-4ab1-926b-4ec2e0ed59d4",
+          "url": "https://mms.seloger.com/3/f/a/d/3fad3cc4-8a4b-4ab1-926b-4ec2e0ed59d4.jpg?ci_seal=e6978118c52899210ce9855185d17dbed3f50a8b",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "da5c7e64-4921-4aa5-b2cc-9347c1aa6211",
+          "url": "https://mms.seloger.com/d/a/5/c/da5c7e64-4921-4aa5-b2cc-9347c1aa6211.jpg?ci_seal=db94f520b9f57675744bd6ab2f3d0e44c9f23d94",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "88febb3c-e855-4222-b0d2-0b45ff98a036",
+          "url": "https://mms.seloger.com/8/8/f/e/88febb3c-e855-4222-b0d2-0b45ff98a036.jpg?ci_seal=1ae7eb481d2b98f98d7559fabf9a0fe8702c904d",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255230029",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75015",
+      "city": "Paris 15ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 31.64,
+        "accuracy": 3,
+        "high": "39,51",
+        "low": "25,30"
+      },
+      "markerPosition": 67,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "34,86",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 2 pièces à Paris (75015)",
+      "description": "Rue de Lourmel, proche métro Bir-Hakeim, Un grand 2 pièces lumineux type Duplex de 36 m2 , avec hauteur de plafond de 3.50 m dans une petite maison au premier étage au calme comprenant une entrée donnant sur un grand salon ,coin cuisine équipée, une chambre à l'étage avec une salle de bains. WC séparé. Chauffages et eau chaude collectifs. Loyer 1 395 ( 1240+155) \r\nDossier: Cni recto verso, 3 dernières quittances de loyer,\r\n3 dernières fiches de paie, dernier avis d'impôt, contrat de travail ou attestation employeur. Visale accepté \r\n \r\n Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "13 jours en ligne",
+      "views": "706 vues",
+      "saves": "54 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25FTMPBBH5AP",
+    "legacyId": "255230029",
+    "brand": "seloger",
+    "agencyId": "RC-113915",
+    "static": {
+      "phoneNumbers": [
+        "0668340084"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0668340084"
+      ]
+    },
+    "contactCard": {
+      "title": "NOVAGENCE IMMOBILIER",
+      "subtitle": "Novagence Immobilier",
+      "phoneNumbers": [
+        "0668340084"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/e/5/a/4/e5a4ebdd-ddfa-46cb-8031-53c3447a3bef.jpg?ci_seal=f60b4434d700a30960ab2a4bcc90bfb1c924cdd9",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "NOVAGENCE IMMOBILIER",
+        "subtitle": "Novagence Immobilier",
+        "phoneNumbers": [
+          "0668340084"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/e/5/a/4/e5a4ebdd-ddfa-46cb-8031-53c3447a3bef.jpg?ci_seal=f60b4434d700a30960ab2a4bcc90bfb1c924cdd9"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Novagence Immobilier",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "NOVAGENCE IMMOBILIER",
+      "subtitle": "NOVAGENCE IMMOBILIER",
+      "phoneNumbers": [
+        "0668340084"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "NOVAGENCE IMMOBILIER",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/e/5/a/4/e5a4ebdd-ddfa-46cb-8031-53c3447a3bef.jpg?ci_seal=f60b4434d700a30960ab2a4bcc90bfb1c924cdd9",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-34335/"
+      },
+      "contactCard": {
+        "title": "Novagence Immobilier",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.neogestimmo.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-34335/",
+      "imprintUrl": null,
+      "feeUrl": "http://www.neogestimmo.fr",
+      "agencyLegalInformations": [
+        "SARL Novagence Immobilier au capital de 1 248,64 €",
+        "Carte professionnelle G5560 délivrée par la Préfecture de Paris",
+        "Garantie financière CGAIM pour un montant de 200 000 €",
+        "<b>Siège:</b> 102 Rued'Aboukir, 75002 Paris",
+        "<b>RCS:</b> Paris 513610758",
+        "<b>SIRET:</b> 51361075800031"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "102 RUE D'ABOUKIR, 75002 Paris 2ème",
+      "phoneNumbers": [
+        "0668340084"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75015",
+    "av_city": "Paris",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25FTMPBBH5AP",
+        "price": 1395,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75015",
+        "building_state": "FIRST_TIME_USE",
+        "legacy_id": "255230029",
+        "product_type": "standard",
+        "client_id": "RC-113915",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "87770",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "75015",
+        "estate_type": 1,
+        "id": "255230029",
+        "id_duo": 255230029,
+        "id_solo": 255230029,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 14,
+        "position": 0,
+        "price": 1395,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 36
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75015",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255230029",
+      "prix": 1400,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 36,
+      "etage": 0,
+      "commodites": [
+        "belleVue",
+        "Chauffage-gaz",
+        "Cuisine-américaine",
+        "Cuisine-équipée",
+        "SalleDeBain-baignoire",
+        "sansVisAVis",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-15eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 15ème arrondissement 75015",
+          "hoverLabel": "Appartements à louer Paris 15ème arrondissement 75015",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 36 m² 1395 € Emeriau-Zola Paris (75015)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 36 m² 1395 € Emeriau-Zola Paris (75015)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/emeriau-zola/255230029.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/emeriau-zola/255230029.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 36 m² 1395 € Emeriau-Zola Paris (75015)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 36 m² 1395 € Emeriau-Zola Paris (75015)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/1/0/f/1/10f1b322-1375-4696-98dc-95a5f229d8a3.jpg?ci_seal=f162766ec149c9fec7ad70d77f1a2ebf43c5771b"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 36 m² 1395 € Emeriau-Zola Paris (75015)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/emeriau-zola/255230029.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 36 m² 1395 € Emeriau-Zola Paris (75015)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 36 m² 1395 € Emeriau-Zola Paris (75015)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/1/0/f/1/10f1b322-1375-4696-98dc-95a5f229d8a3.jpg?ci_seal=f162766ec149c9fec7ad70d77f1a2ebf43c5771b"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 36 m² 1395 € Emeriau-Zola Paris (75015)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 36 m² 1395 € Emeriau-Zola Paris (75015)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-15eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 15ème arrondissement 75015",
+          "hoverLabel": "Appartements à louer Paris 15ème arrondissement 75015",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/emeriau-zola/255230029.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR80&priceMax=1674&priceMin=1116",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR80",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR40",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25FTMPBBH5AP"
+}

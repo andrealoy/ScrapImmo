@@ -1,0 +1,1251 @@
+{
+  "brand": "seloger",
+  "id": "252WH39XQLZP",
+  "metadata": {
+    "legacyId": "255886887",
+    "creationDate": "2025-12-05T07:53:00Z",
+    "updateDate": "2025-12-06T01:20:15.364Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 16ème",
+        "zipCode": "75016",
+        "district": "Auteuil Sud"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.264517000000001,
+          48.84281699998629
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "9",
+                "color": "#b5bd00"
+              },
+              {
+                "name": "10",
+                "color": "#c69214"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "62",
+                "color": "#5a230a"
+              },
+              {
+                "name": "88",
+                "color": "#cec92a"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "dans un immeuble de 1930 de standing, avec gardienne. .Appartement en double exposition de 4/5 pièces  de 122 m² au 2ème étage par ascenseur.se composant ainsi: une entrée, un double séjour sur rue avec cheminée, une cuisine équipée dinatoire , un dégagement avec penderie , un wc séparé avec lave mains,une  salle de bain avec wc, 3 chambres sur jardin. chambre parental de 18,50 m² avec son dressing et sa salle d'eau donnant sur un balcon. un parking ( ds immeuble voisin) et une  grande cave au sous/sol complètent le bien. chauffage et eau chaude par immeuble",
+      "texts": [
+        {
+          "text": "dans un immeuble de 1930 de standing, avec gardienne. .Appartement en double exposition de 4/5 pièces  de 122 m² au 2ème étage par ascenseur.se composant ainsi: une entrée, un double séjour sur rue avec cheminée, une cuisine équipée dinatoire , un dégagement avec penderie , un wc séparé avec lave mains,une  salle de bain avec wc, 3 chambres sur jardin. chambre parental de 18,50 m² avec son dressing et sa salle d'eau donnant sur un balcon. un parking ( ds immeuble voisin) et une  grande cave au sous/sol complètent le bien. chauffage et eau chaude par immeuble"
+        }
+      ],
+      "headline": "Appartement 5 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "5 pièces",
+        "3 chambres",
+        "122 m²",
+        "Étage 2/7"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "5 pièces",
+          "splitValue": "5",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "3 chambres",
+          "splitValue": "3",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "122 m²",
+          "splitValue": "122",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 2/7",
+          "splitValue": "Étage",
+          "label": "2/7"
+        }
+      ],
+      "price": {
+        "value": "3 670 €",
+        "formatted": "3 670 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "3670 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1930"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central: Radiateur"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "fa64dc0f-ac0b-46d9-a81a-79eab1b09338",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "Minimum 1800 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: minimum 1800 € par an. Prix moyens des énergies indexés au 14/08/2015 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "b67275ae-45d9-49b3-ab72-5bb1148bbce2",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "252 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "59 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "f2834629-8014-4a97-8086-1dba761e8583",
+              "efficiencyClass": {
+                "index": 5,
+                "rating": "F"
+              },
+              "values": [
+                {
+                  "value": "59 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : F avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255886887"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "CHARDON LAGACHE"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "3 300 €/mois Loyer de base",
+          "ariaLabel": "3300 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "370 €/mois",
+            "ariaLabel": "370 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "3 670 €/mois",
+            "ariaLabel": "3670 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "27,05 €/mois/m²",
+            "ariaLabel": "27,05 euros par mètre carré"
+          },
+          {
+            "label": "Prix du parking",
+            "value": "inclus dans le loyer"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "3300"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 31/12/2025"
+        },
+        {
+          "icon": "floors",
+          "value": "2ème étage/7 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "value": "Cave (Total 10 m²)",
+          "icon": "cellar"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Parking"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "2 WCs séparées"
+        },
+        {
+          "icon": "balcony",
+          "value": "Balcon (Total 10 m²)"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "availability",
+                "value": "disponible à partir du 31/12/2025"
+              },
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "Orientation",
+                "value": "Exposition: ouest, est"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "2ème étage/7 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain; 1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "2 WCs séparées"
+              },
+              {
+                "icon": "livingRoom",
+                "value": "Salon (total 19 m²)"
+              },
+              {
+                "icon": "bedroom",
+                "value": "3 chambres"
+              },
+              {
+                "icon": "diningRoomSpace",
+                "value": "Salle à manger (total 18 m²)"
+              },
+              {
+                "value": "Cave (Total 10 m²)",
+                "icon": "cellar"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              },
+              {
+                "value": "Cheminée",
+                "icon": "chimney"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Balcon (Total 10 m²)"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "Parking"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "TV par câble",
+                "icon": "tv"
+              }
+            ],
+            "title": "Équipements"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Gardien",
+                "icon": "custodian"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "f10b0446-7d52-4e50-a2eb-cf32102dae6a",
+          "url": "https://mms.seloger.com/f/1/0/b/f10b0446-7d52-4e50-a2eb-cf32102dae6a.jpg?ci_seal=d68eeaf7ad2b4aa8902e985775b0e73681f02f4a",
+          "alt": "Appartement à louer 3 670 € 5 pièces 3 chambres 122 m² Étage 2/7 Auteuil Sud Paris 16ème 75016",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "015c9b48-94c6-4d82-b880-44ef4063a748",
+          "url": "https://mms.seloger.com/0/1/5/c/015c9b48-94c6-4d82-b880-44ef4063a748.jpg?ci_seal=151d31024020ef64aaed0cbdbe543d4e07601dcc",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9b93db47-d994-465d-ab8e-3606bf69f77e",
+          "url": "https://mms.seloger.com/9/b/9/3/9b93db47-d994-465d-ab8e-3606bf69f77e.jpg?ci_seal=9bc3671b9efe64d42222aad3863f15f2e001224e",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "44840659-eb66-4bfa-821b-3381f76fb8dd",
+          "url": "https://mms.seloger.com/4/4/8/4/44840659-eb66-4bfa-821b-3381f76fb8dd.jpg?ci_seal=4053b4e791bf2b6c1b830492fcf1680fd619018e",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0cd84c5a-a751-423d-aca8-7c571cee2559",
+          "url": "https://mms.seloger.com/0/c/d/8/0cd84c5a-a751-423d-aca8-7c571cee2559.jpg?ci_seal=bf50e249488585a94425af0b1dd46b63054c249b",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a1ebd58a-8058-498e-8e68-f99ea77dbf55",
+          "url": "https://mms.seloger.com/a/1/e/b/a1ebd58a-8058-498e-8e68-f99ea77dbf55.jpg?ci_seal=c0ef264e89a5cb5ccd1662334ec7eaf4bc7e1ec1",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7074ffa2-64b7-4bf7-afa5-81823ca7c51f",
+          "url": "https://mms.seloger.com/7/0/7/4/7074ffa2-64b7-4bf7-afa5-81823ca7c51f.jpg?ci_seal=2bda038b4fade73a5572cafe277605de61208592",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1fdbc0fd-9c38-4ea0-b3b0-9f85816c3834",
+          "url": "https://mms.seloger.com/1/f/d/b/1fdbc0fd-9c38-4ea0-b3b0-9f85816c3834.jpg?ci_seal=2dca41761270139ca87a65c4fb19eac5e3973927",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ee339740-5c0f-4cf3-b621-a6a460f9d2bd",
+          "url": "https://mms.seloger.com/e/e/3/3/ee339740-5c0f-4cf3-b621-a6a460f9d2bd.jpg?ci_seal=d47b5150a3ffb49e8418bf77eed99138f02dfe42",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "51d7c3a6-35a9-4174-915c-68989c747d6d",
+          "url": "https://mms.seloger.com/5/1/d/7/51d7c3a6-35a9-4174-915c-68989c747d6d.jpg?ci_seal=016c47b0c1cf6606399bed13493b17fde6f413d0",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c877bab2-3929-46b9-9ff1-56663f7c3050",
+          "url": "https://mms.seloger.com/c/8/7/7/c877bab2-3929-46b9-9ff1-56663f7c3050.jpg?ci_seal=de633bfef08b53f91a316229a55144c0de2e3b54",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "54558f7b-dab8-422c-8e62-002d64a1b35d",
+          "url": "https://mms.seloger.com/5/4/5/5/54558f7b-dab8-422c-8e62-002d64a1b35d.jpg?ci_seal=3c1403afb1ec5a775454ebadd8e31fcc105f9fc6",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255886887",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75016",
+      "city": "Paris 16ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 32.02,
+        "accuracy": 4,
+        "high": "43,67",
+        "low": "26,05"
+      },
+      "markerPosition": 6,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "27,05",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 5 pièces",
+      "description": "dans un immeuble de 1930 de standing, avec gardienne. .Appartement en double exposition de 4/5 pièces  de 122 m² au 2ème étage par ascenseur.se composant ainsi: une entrée, un double séjour sur rue avec cheminée, une cuisine équipée dinatoire , un dégagement avec penderie , un wc séparé avec lave mains,une  salle de bain avec wc, 3 chambres sur jardin. chambre parental de 18,50 m² avec son dressing et sa salle d'eau donnant sur un balcon. un parking ( ds immeuble voisin) et une  grande cave au sous/sol complètent le bien. chauffage et eau chaude par immeuble",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "4 jours en ligne",
+      "views": "401 vues",
+      "saves": "11 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "252WH39XQLZP",
+    "legacyId": "255886887",
+    "brand": "seloger",
+    "agencyId": "RC-020345",
+    "static": {
+      "phoneNumbers": [
+        "0608725833"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0608725833"
+      ]
+    },
+    "contactCard": {
+      "title": "JEAN LOUIS FOURMONT SAS",
+      "subtitle": "Jean-Louis Fourmont Sas",
+      "phoneNumbers": [
+        "0608725833"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "JEAN LOUIS FOURMONT SAS",
+        "subtitle": "Jean-Louis Fourmont Sas",
+        "phoneNumbers": [
+          "0608725833"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Jean-Louis Fourmont Sas",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "JEAN LOUIS FOURMONT SAS",
+      "subtitle": "JEAN LOUIS FOURMONT SAS",
+      "phoneNumbers": [
+        "0608725833"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "JEAN LOUIS FOURMONT SAS",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-341443/"
+      },
+      "contactCard": {
+        "title": "Jean-Louis Fourmont Sas",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-341443/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "SAS, société par actions simplifiée JEAN-LOUIS FOURMONT SAS",
+        "<b>Siège:</b> 76 Avenue des Champs Elysées, 75008 Paris",
+        "<b>RCS:</b> 411546476",
+        "<b>SIRET:</b> 41154647600028"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "76 avenue des Champs-Élysées, 75008 Paris",
+      "phoneNumbers": [
+        "0608725833"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75016",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "252WH39XQLZP",
+        "price": 3670,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75016",
+        "legacy_id": "255886887",
+        "product_type": "standard",
+        "client_id": "RC-020345",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "87502",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75016",
+        "estate_type": 1,
+        "id": "255886887",
+        "id_duo": 255886887,
+        "id_solo": 255886887,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 3,
+        "nb_rooms": 5,
+        "parent_site": "SL",
+        "photos_nb": 12,
+        "position": 0,
+        "price": 3670,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 122,
+        "year_of_construction": 1930
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75016",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255886887",
+      "prix": 3700,
+      "nb_pieces": 5,
+      "nb_chambres": 3,
+      "surface": 122,
+      "etage": 7,
+      "commodites": [
+        "ascenseur",
+        "balcon",
+        "cave",
+        "Chauffage-central",
+        "cheminee",
+        "Cuisine-équipée",
+        "Cuisine-séparée",
+        "parking%20ouvert",
+        "parquet",
+        "SalleAmanger",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire",
+        "Sejour",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T5/F5 122 m² 3670 € Auteuil Sud Paris (75016)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T5/F5 122 m² 3670 € Auteuil Sud Paris (75016)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/auteuil-sud/255886887.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/auteuil-sud/255886887.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T5/F5 122 m² 3670 € Auteuil Sud Paris (75016)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T5/F5 122 m² 3670 € Auteuil Sud Paris (75016)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/f/1/0/b/f10b0446-7d52-4e50-a2eb-cf32102dae6a.jpg?ci_seal=d68eeaf7ad2b4aa8902e985775b0e73681f02f4a"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T5/F5 122 m² 3670 € Auteuil Sud Paris (75016)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/auteuil-sud/255886887.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T5/F5 122 m² 3670 € Auteuil Sud Paris (75016)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T5/F5 122 m² 3670 € Auteuil Sud Paris (75016)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/f/1/0/b/f10b0446-7d52-4e50-a2eb-cf32102dae6a.jpg?ci_seal=d68eeaf7ad2b4aa8902e985775b0e73681f02f4a"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T5/F5 122 m² 3670 € Auteuil Sud Paris (75016)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T5/F5 122 m² 3670 € Auteuil Sud Paris (75016)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/auteuil-sud/255886887.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR88&priceMax=4404&priceMin=2936",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR88",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR41",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "252WH39XQLZP"
+}

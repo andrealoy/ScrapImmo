@@ -1,0 +1,1161 @@
+{
+  "brand": "seloger",
+  "id": "23UYDEJT1ZAK",
+  "metadata": {
+    "legacyId": "204643383",
+    "creationDate": "2023-06-26T06:48:00Z",
+    "updateDate": "2025-09-30T12:20:07.825Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Lyon 9ème",
+        "zipCode": "69009",
+        "district": "Vaise-Rochecardon-Industrie"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.829851,
+          45.798218
+        ]
+      }
+    },
+    "description": {
+      "description": "RARE ! \nSitué dans une petite copropriété,  appartement traversant T3 climatisé en face de l'Ile Barbe.\nComposé d'un séjour , une  cuisine aménagée et équipée , WC séparés , deux chambres au premier étage et une salle de bains.\nNombreux rangements.\n2 places de parkings dans la cour de l'immeuble (fermée par un portail)\nVue dégagée sur la Saône.\nSont compris dans les charges chauffage collectif et eau froide.",
+      "texts": [
+        {
+          "text": "RARE ! \nSitué dans une petite copropriété,  appartement traversant T3 climatisé en face de l'Ile Barbe.\nComposé d'un séjour , une  cuisine aménagée et équipée , WC séparés , deux chambres au premier étage et une salle de bains.\nNombreux rangements.\n2 places de parkings dans la cour de l'immeuble (fermée par un portail)\nVue dégagée sur la Saône.\nSont compris dans les charges chauffage collectif et eau froide."
+        }
+      ],
+      "headline": "Appartement 3 pièces Ile Barbe"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "78 m²",
+        "Étage 1/2"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "78 m²",
+          "splitValue": "78",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 1/2",
+          "splitValue": "Étage",
+          "label": "1/2"
+        }
+      ],
+      "price": {
+        "value": "1 323 €",
+        "formatted": "1 323 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1322.77 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1910"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "410fb271-f107-417f-812b-4aac07fe96f6",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 1280 et 1790 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 1280 et 1790 € par an. Prix moyens des énergies indexés au 31/12/2020 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "c404bb83-7165-47ea-b0cb-e3b747f281a1",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "231 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "35 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "35 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est 35 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "35ee40dd-62bd-4b16-95a8-48787d6f17fc",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "35 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est 35 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "204643383"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "COUT"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "990 €/mois Loyer de base",
+          "ariaLabel": "990 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "250 €/mois",
+            "ariaLabel": "250 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 322,77 €/mois",
+            "ariaLabel": "1322.77 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "12,69 €/mois/m²",
+            "ariaLabel": "12,69 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "990"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "1er étage/2 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "2 parkings"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "value": "Belle vue",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "1er étage/2 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "value": "Cheminée",
+                "icon": "chimney"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Belle vue",
+                "icon": "with-view"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "2 parkings"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "36374c56-cbe5-46a3-96ed-f416f8e21e04",
+          "url": "https://mms.seloger.com/3/6/3/7/36374c56-cbe5-46a3-96ed-f416f8e21e04.jpg?ci_seal=9da66fa8e9bd017746955017557012e22d8bf658",
+          "alt": "Appartement à louer 1 323 € 3 pièces 2 chambres 78 m² Étage 1/2 Vaise-Rochecardon-Industrie Lyon 9ème 69009",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c129c589-2b9c-4279-ac7f-42ca324aca0e",
+          "url": "https://mms.seloger.com/c/1/2/9/c129c589-2b9c-4279-ac7f-42ca324aca0e.jpg?ci_seal=438a1aad226514a8edfbada963ff8beb6e20278d"
+        },
+        {
+          "key": "690beba1-71e4-4d29-b79e-9a5a5f23aed4",
+          "url": "https://mms.seloger.com/6/9/0/b/690beba1-71e4-4d29-b79e-9a5a5f23aed4.jpg?ci_seal=ca41336a5341652c71848d9725de9302c0737a0d"
+        },
+        {
+          "key": "102f3ba1-e7e7-4559-8a4e-ab95c81de1d4",
+          "url": "https://mms.seloger.com/1/0/2/f/102f3ba1-e7e7-4559-8a4e-ab95c81de1d4.jpg?ci_seal=242ef74a2724b284359ac461d452a43a4ffe052a"
+        },
+        {
+          "key": "7f892f6e-f2f7-4b31-9883-da4f57d65dbb",
+          "url": "https://mms.seloger.com/7/f/8/9/7f892f6e-f2f7-4b31-9883-da4f57d65dbb.jpg?ci_seal=d7e15777a246f39041c294f7630fbabbde413bda"
+        },
+        {
+          "key": "166cb5e7-b56d-465d-b81c-7c95a979b64c",
+          "url": "https://mms.seloger.com/1/6/6/c/166cb5e7-b56d-465d-b81c-7c95a979b64c.jpg?ci_seal=1c7bdf28dab7971605e857af68a0a25ca10ad77b"
+        },
+        {
+          "key": "1d013428-f4e6-4470-a2b6-ec7b83770e66",
+          "url": "https://mms.seloger.com/1/d/0/1/1d013428-f4e6-4470-a2b6-ec7b83770e66.jpg?ci_seal=8f5a253af27183b343896a69d5c48252788a33a3"
+        },
+        {
+          "key": "a5dbc10b-710f-4788-95de-939ca40e327b",
+          "url": "https://mms.seloger.com/a/5/d/b/a5dbc10b-710f-4788-95de-939ca40e327b.jpg?ci_seal=0d00b2435c7b7afdbc618870ef6041f7622e1224"
+        },
+        {
+          "key": "9e6179ef-ac24-4193-8588-1e172e225eb0",
+          "url": "https://mms.seloger.com/9/e/6/1/9e6179ef-ac24-4193-8588-1e172e225eb0.jpg?ci_seal=4f8391a35628c6934505448c1cf77c6de27cc12c"
+        },
+        {
+          "key": "89f35f20-aa87-485e-b0c2-6c4a0c58102f",
+          "url": "https://mms.seloger.com/8/9/f/3/89f35f20-aa87-485e-b0c2-6c4a0c58102f.jpg?ci_seal=069f93040d6372e5c9a7dc364fae46c3db0069ed",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "204643383",
+      "federalStateGeoId": "AD04FR31",
+      "zip": "69009",
+      "city": "Lyon 9ème",
+      "country": "FRA",
+      "region": "Auvergne-Rhône-Alpes",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.53,
+        "accuracy": 3,
+        "high": "26,68",
+        "low": "11,73"
+      },
+      "markerPosition": 6,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "12,69",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 3 pièces Ile Barbe",
+      "description": "RARE ! \nSitué dans une petite copropriété,  appartement traversant T3 climatisé en face de l'Ile Barbe.\nComposé d'un séjour , une  cuisine aménagée et équipée , WC séparés , deux chambres au premier étage et une salle de bains.\nNombreux rangements.\n2 places de parkings dans la cour de l'immeuble (fermée par un portail)\nVue dégagée sur la Saône.\nSont compris dans les charges chauffage collectif et eau froide.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "en juin 2023",
+      "views": "999+ vues",
+      "saves": "46 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "23UYDEJT1ZAK",
+    "legacyId": "204643383",
+    "brand": "seloger",
+    "agencyId": "RC-075249",
+    "static": {
+      "phoneNumbers": [
+        "0635421427"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0635421427"
+      ]
+    },
+    "contactCard": {
+      "title": "NG PROPERTY",
+      "subtitle": "Hugo Nurier",
+      "phoneNumbers": [
+        "0635421427"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/c/a/a/6/caa6ad70-6e4a-45d7-9d26-192ca4889026.jpg?ci_seal=6fd4ad696dfd192455df6f59f8f73d897e189b8d",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "NG PROPERTY",
+        "subtitle": "Hugo Nurier",
+        "phoneNumbers": [
+          "0635421427"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/c/a/a/6/caa6ad70-6e4a-45d7-9d26-192ca4889026.jpg?ci_seal=6fd4ad696dfd192455df6f59f8f73d897e189b8d"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Hugo Nurier",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "NG PROPERTY",
+      "subtitle": "NG PROPERTY",
+      "phoneNumbers": [
+        "0635421427"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "NG PROPERTY",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/c/a/a/6/caa6ad70-6e4a-45d7-9d26-192ca4889026.jpg?ci_seal=6fd4ad696dfd192455df6f59f8f73d897e189b8d",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/st-didier-au-mont-d-or-69370/agence-74544/"
+      },
+      "contactCard": {
+        "title": "Hugo Nurier",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/st-didier-au-mont-d-or-69370/agence-74544/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 508470887",
+        "<b>SIRET:</b> 50847088700094"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "1 rue claude chappe, 69370 ST DIDIER AU MONT D OR",
+      "phoneNumbers": [
+        "0635421427"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "69009",
+    "av_city": "Lyon",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "23UYDEJT1ZAK",
+        "price": 1322.77,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Lyon",
+        "region": "Auvergne-Rhône-Alpes",
+        "province": "Rhône",
+        "zip_code": "69009",
+        "legacy_id": "204643383",
+        "product_type": "standard",
+        "client_id": "RC-075249",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "299896",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "69009",
+        "estate_type": 1,
+        "id": "204643383",
+        "id_duo": 204643383,
+        "id_solo": 204643383,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 10,
+        "position": 0,
+        "price": 1322.77,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 78.04,
+        "year_of_construction": 1910
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "69123",
+      "cp": "69009",
+      "geodp": "69",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "204643383",
+      "prix": 1400,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 78.04,
+      "etage": 2,
+      "commodites": [
+        "belleVue",
+        "Chauffage-gaz",
+        "cheminee",
+        "Cuisine-équipée",
+        "Cuisine-séparée",
+        "parking%20ouvert",
+        "SalleDeBain-baignoire",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-9eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 9ème arrondissement 69009",
+          "hoverLabel": "Appartements à louer Lyon 9ème arrondissement 69009",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 78.04 m² 1322.77 € Vaise-Rochecardon-Industrie Lyon (69009)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 78.04 m² 1322.77 € Vaise-Rochecardon-Industrie Lyon (69009)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/lyon-9eme-69/vaise-rochecardon-industrie/204643383.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-9eme-69/vaise-rochecardon-industrie/204643383.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 78.04 m² 1322.77 € Vaise-Rochecardon-Industrie Lyon (69009)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 78.04 m² 1322.77 € Vaise-Rochecardon-Industrie Lyon (69009)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/3/6/3/7/36374c56-cbe5-46a3-96ed-f416f8e21e04.jpg?ci_seal=9da66fa8e9bd017746955017557012e22d8bf658"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 78.04 m² 1322.77 € Vaise-Rochecardon-Industrie Lyon (69009)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-9eme-69/vaise-rochecardon-industrie/204643383.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 78.04 m² 1322.77 € Vaise-Rochecardon-Industrie Lyon (69009)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 78.04 m² 1322.77 € Vaise-Rochecardon-Industrie Lyon (69009)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/3/6/3/7/36374c56-cbe5-46a3-96ed-f416f8e21e04.jpg?ci_seal=9da66fa8e9bd017746955017557012e22d8bf658"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 78.04 m² 1322.77 € Vaise-Rochecardon-Industrie Lyon (69009)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 78.04 m² 1322.77 € Vaise-Rochecardon-Industrie Lyon (69009)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-9eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 9ème arrondissement 69009",
+          "hoverLabel": "Appartements à louer Lyon 9ème arrondissement 69009",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/lyon-9eme-69/vaise-rochecardon-industrie/204643383.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#d0b070",
+    "textColor": "dark",
+    "providerName": "NG PROPERTY",
+    "logo": {
+      "src": "https://mms.seloger.com/c/a/a/6/caa6ad70-6e4a-45d7-9d26-192ca4889026.jpg?ci_seal=6fd4ad696dfd192455df6f59f8f73d897e189b8d",
+      "alt": "logo-RC-075249",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/8/c/0/7/8c074f20-b843-4173-9914-2a93ef13a724.png?ci_eqs=&ci_seal=4c42a63bd5698bc959da4218e35559850b40b004",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/st-didier-au-mont-d-or-69370/agence-74544/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/8/c/0/7/8c074f20-b843-4173-9914-2a93ef13a724.png?ci_eqs=&ci_seal=4c42a63bd5698bc959da4218e35559850b40b004",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/st-didier-au-mont-d-or-69370/agence-74544/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/0/6/7/c/067c93ca-11b9-4b50-b31e-e88433f60f58.png?ci_eqs=&ci_seal=e9be21c74756181773a8780a6ea5d7bec3127465",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/st-didier-au-mont-d-or-69370/agence-74544/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR9371&priceMax=1587.32&priceMin=1058.22",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR9371",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR25",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR28808",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR70",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR31",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "23UYDEJT1ZAK"
+}

@@ -1,0 +1,984 @@
+{
+  "brand": "seloger",
+  "id": "2568ND7V71F3",
+  "metadata": {
+    "legacyId": "256148415",
+    "creationDate": "2025-12-09T12:08:00Z",
+    "updateDate": "2025-12-09T13:16:24.303Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 11ème",
+        "zipCode": "75011",
+        "district": "Nation-Alexandre Dumas"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3969849999999986,
+          48.8527889999863
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "1",
+                "color": "#ffcd00"
+              },
+              {
+                "name": "2",
+                "color": "#003da5"
+              },
+              {
+                "name": "6",
+                "color": "#71cc98"
+              },
+              {
+                "name": "9",
+                "color": "#b5bd00"
+              }
+            ]
+          },
+          {
+            "type": "RER",
+            "lines": [
+              {
+                "name": "A",
+                "color": "#E3051C"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "26",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "56",
+                "color": "#a0006e"
+              },
+              {
+                "name": "57",
+                "color": "#9c983a"
+              },
+              {
+                "name": "71",
+                "color": "#5a230a"
+              },
+              {
+                "name": "76",
+                "color": "#62259d"
+              },
+              {
+                "name": "86",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "215",
+                "color": "#77c695"
+              },
+              {
+                "name": "351",
+                "color": "#dc9609"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "METRO AVRON / BD DE CHARONNE / 2 pièces de 47,86m² au 7ème étage avec ascenseur comprenant : une entrée, un séjour avec une cuisine aménagée et semi équipée ouverte, une petite chambre, une salle de bains avec wc, chauffage collectif, libre de suite\nLoyer minoré 24,10 € et loyer majoré 28,90€\nMerci d'avance de déposer votre dossier sur notre site Oralia Lescallier afin d'être recontacté pour une visite.",
+      "texts": [
+        {
+          "text": "METRO AVRON / BD DE CHARONNE / 2 pièces de 47,86m² au 7ème étage avec ascenseur comprenant : une entrée, un séjour avec une cuisine aménagée et semi équipée ouverte, une petite chambre, une salle de bains avec wc, chauffage collectif, libre de suite\nLoyer minoré 24,10 € et loyer majoré 28,90€\nMerci d'avance de déposer votre dossier sur notre site Oralia Lescallier afin d'être recontacté pour une visite."
+        }
+      ],
+      "headline": "Appartement 2 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "47,9 m²",
+        "7ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "47,9 m²",
+          "splitValue": "47,9",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "7ème étage",
+          "splitValue": "7ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 510 €",
+        "formatted": "1 510 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1510 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "f054296b-dd50-4a72-8ace-d1598a0aa0d6",
+          "scales": [
+            {
+              "key": "d284297a-d6a5-48d2-9221-09ed1553f6dd",
+              "name": "Diagnostic de Performance Énergétique (DPE)",
+              "alternateText": "DPE vierge - aucune donnée énergétique n'est disponible pour ce type de bien.",
+              "ariaLabel": "DPE vierge - aucune donnée énergétique n'est disponible pour ce type de bien."
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256148415"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "23"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 370 €/mois Loyer de base",
+          "ariaLabel": "1370 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "140 €/mois",
+            "ariaLabel": "140 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 510 €/mois",
+            "ariaLabel": "1510 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "28,63 €/mois/m²",
+            "ariaLabel": "28,63 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1370"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 14/12/2025"
+        },
+        {
+          "icon": "floors",
+          "value": "7ème étage"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain"
+        },
+        {
+          "icon": "separateEntrance",
+          "value": "Entrée séparée"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "6595ed36-6301-4876-bad0-a324ba4eabd1",
+          "url": "https://mms.seloger.com/6/5/9/5/6595ed36-6301-4876-bad0-a324ba4eabd1.jpg?ci_seal=a56c181c14f6f8d6b8d110fe30a6891afff27cd0",
+          "alt": "Appartement à louer 1 510 € 2 pièces 1 chambre 47,9 m² 7ème étage Nation-Alexandre Dumas Paris 11ème 75011",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ee0a6abc-2ed6-45c1-a649-7f2b09e801ad",
+          "url": "https://mms.seloger.com/e/e/0/a/ee0a6abc-2ed6-45c1-a649-7f2b09e801ad.jpg?ci_seal=46acbf5575048566e5010b99dc60912658aa0685",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "50c98781-3997-4657-879f-3e76e042ee50",
+          "url": "https://mms.seloger.com/5/0/c/9/50c98781-3997-4657-879f-3e76e042ee50.jpg?ci_seal=bd805a88ecfffca93e7f456aa1d5397ff8e7ca1e",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "67395d47-efe0-4973-ba5f-74de3a32deeb",
+          "url": "https://mms.seloger.com/6/7/3/9/67395d47-efe0-4973-ba5f-74de3a32deeb.jpg?ci_seal=95c6a99cecbd2e787d9048669d9d812d7bc72154",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "acd7b807-3da6-4a00-9dbb-61849bc92433",
+          "url": "https://mms.seloger.com/a/c/d/7/acd7b807-3da6-4a00-9dbb-61849bc92433.jpg?ci_seal=38f8aeccca39298aaef1d5d33a268aaa22575deb",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a832af7b-0ec2-4b9d-b6c3-84a61a994393",
+          "url": "https://mms.seloger.com/a/8/3/2/a832af7b-0ec2-4b9d-b6c3-84a61a994393.jpg?ci_seal=92fe3ac55335acbcf38f068c646e620e88a77c46",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e9f72934-8fcd-4dcb-ba33-035863abc624",
+          "url": "https://mms.seloger.com/e/9/f/7/e9f72934-8fcd-4dcb-ba33-035863abc624.jpg?ci_seal=403dfdab2a5061c856bcf2eb202365edbb71a56b",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "473ee402-cb3c-4c3f-bcac-2e865154d52e",
+          "url": "https://mms.seloger.com/4/7/3/e/473ee402-cb3c-4c3f-bcac-2e865154d52e.jpg?ci_seal=f906a0a67e90add4bab59854f2e6d379af5ab630",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256148415",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75011",
+      "city": "Paris 11ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 32.49,
+        "accuracy": 4,
+        "high": "44,35",
+        "low": "25,96"
+      },
+      "markerPosition": 15,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "28,63",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 2 pièces",
+      "description": "METRO AVRON / BD DE CHARONNE / 2 pièces de 47,86m² au 7ème étage avec ascenseur comprenant : une entrée, un séjour avec une cuisine aménagée et semi équipée ouverte, une petite chambre, une salle de bains avec wc, chauffage collectif, libre de suite\nLoyer minoré 24,10 € et loyer majoré 28,90€\nMerci d'avance de déposer votre dossier sur notre site Oralia Lescallier afin d'être recontacté pour une visite.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "104 vues",
+      "saves": "11 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "2568ND7V71F3",
+    "legacyId": "256148415",
+    "brand": "seloger",
+    "agencyId": "RC-116832",
+    "static": {
+      "phoneNumbers": [
+        "06 22 83 51 49"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "06 22 83 51 49"
+      ]
+    },
+    "contactCard": {
+      "title": "Oralia Cabinet Lescallier",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "06 22 83 51 49"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/b/d/9/b/bd9b3390-10ca-4e0f-a8d0-0a4ee7d85aca.jpg?ci_seal=29cfd3bb5ccd0a246fdfcc838b9f7db3dd5f7b8f",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Oralia Cabinet Lescallier",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "06 22 83 51 49"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/b/d/9/b/bd9b3390-10ca-4e0f-a8d0-0a4ee7d85aca.jpg?ci_seal=29cfd3bb5ccd0a246fdfcc838b9f7db3dd5f7b8f"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Oralia Cabinet Lescallier",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "06 22 83 51 49"
+      ],
+      "logoUrl": "https://mms.seloger.com/b/d/9/b/bd9b3390-10ca-4e0f-a8d0-0a4ee7d85aca.jpg?ci_seal=29cfd3bb5ccd0a246fdfcc838b9f7db3dd5f7b8f",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Oralia Cabinet Lescallier",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/b/d/9/b/bd9b3390-10ca-4e0f-a8d0-0a4ee7d85aca.jpg?ci_seal=29cfd3bb5ccd0a246fdfcc838b9f7db3dd5f7b8f",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-9eme-arrondissement-75009/agence-72754/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-9eme-arrondissement-75009/agence-72754/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 542104625",
+        "<b>SIRET:</b> 54210462500067"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "12b rue de la Victoire, 75009 Paris 9ème",
+      "phoneNumbers": [
+        "06 22 83 51 49"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75011",
+    "av_city": "Paris",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "2568ND7V71F3",
+        "price": 1510,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75011",
+        "legacy_id": "256148415",
+        "product_type": "standard",
+        "client_id": "RC-116832"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "177965",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "estate_postalcode": "75011",
+        "estate_type": 1,
+        "id": "256148415",
+        "id_duo": 256148415,
+        "id_solo": 256148415,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 8,
+        "position": 0,
+        "price": 1510,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 47.86
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75011",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256148415",
+      "prix": 1600,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 47.86,
+      "commodites": [
+        "ascenseur",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-11eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 11ème arrondissement 75011",
+          "hoverLabel": "Appartements à louer Paris 11ème arrondissement 75011",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 47.86 m² 1510 € Nation-Alexandre Dumas Paris (75011)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 47.86 m² 1510 € Nation-Alexandre Dumas Paris (75011)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-11eme-75/nation-alexandre-dumas/256148415.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-11eme-75/nation-alexandre-dumas/256148415.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 47.86 m² 1510 € Nation-Alexandre Dumas Paris (75011)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 47.86 m² 1510 € Nation-Alexandre Dumas Paris (75011)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/6/5/9/5/6595ed36-6301-4876-bad0-a324ba4eabd1.jpg?ci_seal=a56c181c14f6f8d6b8d110fe30a6891afff27cd0"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 47.86 m² 1510 € Nation-Alexandre Dumas Paris (75011)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-11eme-75/nation-alexandre-dumas/256148415.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 47.86 m² 1510 € Nation-Alexandre Dumas Paris (75011)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 47.86 m² 1510 € Nation-Alexandre Dumas Paris (75011)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/6/5/9/5/6595ed36-6301-4876-bad0-a324ba4eabd1.jpg?ci_seal=a56c181c14f6f8d6b8d110fe30a6891afff27cd0"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 47.86 m² 1510 € Nation-Alexandre Dumas Paris (75011)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 47.86 m² 1510 € Nation-Alexandre Dumas Paris (75011)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-11eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 11ème arrondissement 75011",
+          "hoverLabel": "Appartements à louer Paris 11ème arrondissement 75011",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-11eme-75/nation-alexandre-dumas/256148415.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR50&priceMax=1812&priceMin=1208",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR50",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR36",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "2568ND7V71F3"
+}

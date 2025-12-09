@@ -1,0 +1,1304 @@
+{
+  "brand": "seloger",
+  "id": "25J3U4PQFSC8",
+  "metadata": {
+    "legacyId": "255915765",
+    "creationDate": "2025-12-05T14:15:00Z",
+    "updateDate": "2025-12-06T01:20:16.389Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 12ème",
+        "zipCode": "75012",
+        "district": "Aligre-Gare de Lyon"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.367087,
+          48.846389999986314
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "1",
+                "color": "#ffcd00"
+              },
+              {
+                "name": "5",
+                "color": "#FF7F32"
+              },
+              {
+                "name": "10",
+                "color": "#c69214"
+              },
+              {
+                "name": "14",
+                "color": "#5f259f"
+              }
+            ]
+          },
+          {
+            "type": "RER",
+            "lines": [
+              {
+                "name": "A",
+                "color": "#E3051C"
+              },
+              {
+                "name": "D",
+                "color": "#5E9620"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "20",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "24",
+                "color": "#a0006e"
+              },
+              {
+                "name": "29",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "57",
+                "color": "#9c983a"
+              },
+              {
+                "name": "61",
+                "color": "#00643c"
+              },
+              {
+                "name": "63",
+                "color": "#cec92a"
+              },
+              {
+                "name": "65"
+              },
+              {
+                "name": "72",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "77",
+                "color": "#006cb8"
+              },
+              {
+                "name": "87",
+                "color": "#62259d"
+              },
+              {
+                "name": "89",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "91",
+                "color": "#dc9609"
+              },
+              {
+                "name": "215",
+                "color": "#77c695"
+              }
+            ]
+          },
+          {
+            "type": "TRAIN",
+            "lines": [
+              {
+                "name": "IC 514",
+                "color": "#5c3e26"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Quai de la Râpée, bel appartement meublé d'environ 63m² en parfait état avec vue dégagée situé au 4ème étage avec ascenseur d'un immeuble des années 60 et composé de : un grand salon salle à manger avec cuisine ouverte entièrement équipée, une chambre double et une salle de douche avec wc.\nProximité immédiate de la gare d'Austerlitz et de la gare de Lyon.\nDouble vitrages dans tout l'appartement.\nChauffage et eau collectifs. \nGardien dans l'immeuble.\nFibre dans l'appartement.\nBAIL CODE CIVIL UNIQUEMENT (résidence secondaire, logement de fonction, bail société)",
+      "texts": [
+        {
+          "text": "Quai de la Râpée, bel appartement meublé d'environ 63m² en parfait état avec vue dégagée situé au 4ème étage avec ascenseur d'un immeuble des années 60 et composé de : un grand salon salle à manger avec cuisine ouverte entièrement équipée, une chambre double et une salle de douche avec wc.\nProximité immédiate de la gare d'Austerlitz et de la gare de Lyon.\nDouble vitrages dans tout l'appartement.\nChauffage et eau collectifs. \nGardien dans l'immeuble.\nFibre dans l'appartement.\nBAIL CODE CIVIL UNIQUEMENT (résidence secondaire, logement de fonction, bail société)"
+        }
+      ],
+      "headline": "Appartement 3 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "1 chambre",
+        "63 m²",
+        "4ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "63 m²",
+          "splitValue": "63",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4ème étage",
+          "splitValue": "4ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "2 200 €",
+        "formatted": "2 200 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "2200 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central: Radiateur"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "f953f5e7-857e-4cd5-99d2-2c3976373916",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 805 et 1089 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 805 et 1089 € par an. Prix moyens des énergies indexés au 31/12/2022 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "d57a6df2-f604-416a-b770-f9b921bdbeec",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "160 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "154 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "2 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est 154 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "70c7074d-5cc3-44ec-a77e-8623182237d1",
+              "efficiencyClass": {
+                "index": 0,
+                "rating": "A"
+              },
+              "values": [
+                {
+                  "value": "2 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : A avec une plage allant de A à G .La consommation d'énergie est 154 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255915765"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "62603-PARISRENTAL"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 801 €/mois Loyer de base",
+          "ariaLabel": "1801 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "170 €/mois",
+            "ariaLabel": "170 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "2 200 €/mois",
+            "ariaLabel": "2200 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "28,59 €/mois/m²",
+            "ariaLabel": "28,59 euros par mètre carré"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 01/01/2026"
+        },
+        {
+          "icon": "floors",
+          "value": "4ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "value": "Belle vue",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "availability",
+                "value": "disponible à partir du 01/01/2026"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "4ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Belle vue",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Gardien",
+                "icon": "custodian"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "0bd6e6e8-645f-461f-b51d-08eb88f64e89",
+          "url": "https://mms.seloger.com/0/b/d/6/0bd6e6e8-645f-461f-b51d-08eb88f64e89.jpg?ci_seal=f9cd8ae6c76087ef6eaec44a79f87955a64e508a",
+          "alt": "Appartement à louer 2 200 € 3 pièces 1 chambre 63 m² 4ème étage Aligre-Gare de Lyon Paris 12ème 75012",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "964b7a29-9fc2-4436-832d-ebc64b181b8d",
+          "url": "https://mms.seloger.com/9/6/4/b/964b7a29-9fc2-4436-832d-ebc64b181b8d.jpg?ci_seal=f71fc87c891bf0ecc720af9763a63db1bb5426ba",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e42d1230-1ab7-4271-b38b-0ae5aedd29cc",
+          "url": "https://mms.seloger.com/e/4/2/d/e42d1230-1ab7-4271-b38b-0ae5aedd29cc.jpg?ci_seal=b958a78e14e958fd9b08e69f287fc65d5a59388c",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "31a94079-68ec-4d2e-ad08-c9ff124f5375",
+          "url": "https://mms.seloger.com/3/1/a/9/31a94079-68ec-4d2e-ad08-c9ff124f5375.jpg?ci_seal=a077b2f998c9c5ed19357f1ea6ce156bf54b28ee",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2a6be643-6e4a-42f5-93aa-9606fad34eab",
+          "url": "https://mms.seloger.com/2/a/6/b/2a6be643-6e4a-42f5-93aa-9606fad34eab.jpg?ci_seal=0a928cad2f4e0570a42cfa811aed5acf724f0f9a",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1471db06-3b34-4ee9-adfa-eac319ac1c69",
+          "url": "https://mms.seloger.com/1/4/7/1/1471db06-3b34-4ee9-adfa-eac319ac1c69.jpg?ci_seal=c312cb0c0ac2523f3326e9d25c3d9cf81dda79fb",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "310f8ad5-b69a-4a9f-8990-1a2da8b3eedf",
+          "url": "https://mms.seloger.com/3/1/0/f/310f8ad5-b69a-4a9f-8990-1a2da8b3eedf.jpg?ci_seal=029acb74970a5c779e61f28a5d6132e2a0090adb",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "acdafb22-edd7-4c3c-9707-48bc09f8d018",
+          "url": "https://mms.seloger.com/a/c/d/a/acdafb22-edd7-4c3c-9707-48bc09f8d018.jpg?ci_seal=c0abae75eef0d4bc4aaa8631cb73ed09c20555ed",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b6a483f5-737a-4c1f-b8c7-3a3551b1bd99",
+          "url": "https://mms.seloger.com/b/6/a/4/b6a483f5-737a-4c1f-b8c7-3a3551b1bd99.jpg?ci_seal=db4d331a9a02491fe3192c8666dac8107fa93a90",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "13908d7d-2101-46a9-9aaa-7cc75e6d4b52",
+          "url": "https://mms.seloger.com/1/3/9/0/13908d7d-2101-46a9-9aaa-7cc75e6d4b52.jpg?ci_seal=14733a58fc8b06978405f1a919ff813756a86225",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "76583816-d4d7-45bb-9804-ca390704f9f0",
+          "url": "https://mms.seloger.com/7/6/5/8/76583816-d4d7-45bb-9804-ca390704f9f0.jpg?ci_seal=ae000026f9a78935454785989195f3da2e5002f4",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "cb73ead3-e62c-4d99-aa4f-5c713798e2cc",
+          "url": "https://mms.seloger.com/c/b/7/3/cb73ead3-e62c-4d99-aa4f-5c713798e2cc.jpg?ci_seal=023c000b73d501c78d12484c1c748527ccb2b5da",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "750cc99b-9a11-4161-ac0e-5f5ad97a573f",
+          "url": "https://mms.seloger.com/7/5/0/c/750cc99b-9a11-4161-ac0e-5f5ad97a573f.jpg?ci_seal=f2747dc4c1851d2298b4b99b5112a1c06244bc82",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255915765",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75012",
+      "city": "Paris 12ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 33.66,
+        "accuracy": 3,
+        "high": "46,15",
+        "low": "27,58"
+      },
+      "markerPosition": 5,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "28,59",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 3 pièces",
+      "description": "Quai de la Râpée, bel appartement meublé d'environ 63m² en parfait état avec vue dégagée situé au 4ème étage avec ascenseur d'un immeuble des années 60 et composé de : un grand salon salle à manger avec cuisine ouverte entièrement équipée, une chambre double et une salle de douche avec wc.\nProximité immédiate de la gare d'Austerlitz et de la gare de Lyon.\nDouble vitrages dans tout l'appartement.\nChauffage et eau collectifs. \nGardien dans l'immeuble.\nFibre dans l'appartement.\nBAIL CODE CIVIL UNIQUEMENT (résidence secondaire, logement de fonction, bail société)",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "4 jours en ligne",
+      "views": "274 vues",
+      "saves": "16 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25J3U4PQFSC8",
+    "legacyId": "255915765",
+    "brand": "seloger",
+    "agencyId": "RC-042474",
+    "static": {
+      "phoneNumbers": [
+        "0189715494"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0189715494"
+      ]
+    },
+    "contactCard": {
+      "title": "DE CIRCOURT ASSOCIATES - PARISRENTAL",
+      "subtitle": "France Ermitage",
+      "phoneNumbers": [
+        "0189715494"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/c/0/0/0/c000de94-9eff-45eb-96b3-2e3c1523bcb4.jpg?ci_seal=d308ebf2661d6aa613affe76e4dcc4f5b392e0ae",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "DE CIRCOURT ASSOCIATES - PARISRENTAL",
+        "subtitle": "France Ermitage",
+        "phoneNumbers": [
+          "0189715494"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/c/0/0/0/c000de94-9eff-45eb-96b3-2e3c1523bcb4.jpg?ci_seal=d308ebf2661d6aa613affe76e4dcc4f5b392e0ae"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à France Ermitage",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "DE CIRCOURT ASSOCIATES - PARISRENTAL",
+      "subtitle": "DE CIRCOURT ASSOCIATES - PARISRENTAL",
+      "phoneNumbers": [
+        "0189715494"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "DE CIRCOURT ASSOCIATES - PARISRENTAL",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/c/0/0/0/c000de94-9eff-45eb-96b3-2e3c1523bcb4.jpg?ci_seal=d308ebf2661d6aa613affe76e4dcc4f5b392e0ae",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-48171/"
+      },
+      "contactCard": {
+        "title": "France Ermitage",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.parisrental.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-48171/",
+      "imprintUrl": null,
+      "feeUrl": "https://fr.parisrental.com/location/services-et-honoraires.html",
+      "agencyLegalInformations": [
+        "Société Anonyme De Circourt Associates",
+        "<b>Siège:</b> 11 rue Royale, 75008 Paris",
+        "<b>RCS:</b> 342553625",
+        "<b>SIRET:</b> 34255362500043"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "34 avenue des Champs Elysées, 75008 Paris",
+      "phoneNumbers": [
+        "0189715494"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75012",
+    "av_city": "Paris",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25J3U4PQFSC8",
+        "price": 2200,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75012",
+        "legacy_id": "255915765",
+        "product_type": "standard",
+        "client_id": "RC-042474",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "67942",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "75012",
+        "estate_type": 1,
+        "id": "255915765",
+        "id_duo": 255915765,
+        "id_solo": 255915765,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 13,
+        "position": 0,
+        "price": 2200,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 63
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75012",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255915765",
+      "prix": 2200,
+      "nb_pieces": 3,
+      "nb_chambres": 1,
+      "surface": 63,
+      "commodites": [
+        "ascenseur",
+        "belleVue",
+        "Chauffage-central",
+        "Cuisine-américaine",
+        "SalleDEau-douche"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-12eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 12ème arrondissement 75012",
+          "hoverLabel": "Appartements à louer Paris 12ème arrondissement 75012",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 63 m² 2200 € Aligre-Gare de Lyon Paris (75012)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 63 m² 2200 € Aligre-Gare de Lyon Paris (75012)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-12eme-75/aligre-gare-de-lyon/255915765.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-12eme-75/aligre-gare-de-lyon/255915765.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 63 m² 2200 € Aligre-Gare de Lyon Paris (75012)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 63 m² 2200 € Aligre-Gare de Lyon Paris (75012)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/0/b/d/6/0bd6e6e8-645f-461f-b51d-08eb88f64e89.jpg?ci_seal=f9cd8ae6c76087ef6eaec44a79f87955a64e508a"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 63 m² 2200 € Aligre-Gare de Lyon Paris (75012)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-12eme-75/aligre-gare-de-lyon/255915765.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 63 m² 2200 € Aligre-Gare de Lyon Paris (75012)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 63 m² 2200 € Aligre-Gare de Lyon Paris (75012)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/0/b/d/6/0bd6e6e8-645f-461f-b51d-08eb88f64e89.jpg?ci_seal=f9cd8ae6c76087ef6eaec44a79f87955a64e508a"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 63 m² 2200 € Aligre-Gare de Lyon Paris (75012)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 63 m² 2200 € Aligre-Gare de Lyon Paris (75012)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-12eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 12ème arrondissement 75012",
+          "hoverLabel": "Appartements à louer Paris 12ème arrondissement 75012",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-12eme-75/aligre-gare-de-lyon/255915765.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#b03050",
+    "textColor": "light",
+    "providerName": "DE CIRCOURT ASSOCIATES - PARISRENTAL",
+    "logo": {
+      "src": "https://mms.seloger.com/c/0/0/0/c000de94-9eff-45eb-96b3-2e3c1523bcb4.jpg?ci_seal=d308ebf2661d6aa613affe76e4dcc4f5b392e0ae",
+      "alt": "logo-RC-042474",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/d/7/1/2/d712380d-4123-4957-8c3a-7c72617a5930.png?ci_eqs=&ci_seal=7dfaa34c66b71d218b6f3261d5394d397ae84a76",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-48171/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/d/7/1/2/d712380d-4123-4957-8c3a-7c72617a5930.png?ci_eqs=&ci_seal=7dfaa34c66b71d218b6f3261d5394d397ae84a76",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-48171/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/3/4/8/c/348c37d5-c101-42f5-97ac-7eb6775da2ab.png?ci_eqs=&ci_seal=e9ef783d8c6d641da78f30479df7ec3c9a3a32e6",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-48171/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR53&priceMax=2640&priceMin=1760",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR53",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR37",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25J3U4PQFSC8"
+}

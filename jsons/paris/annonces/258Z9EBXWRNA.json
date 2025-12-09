@@ -1,0 +1,971 @@
+{
+  "brand": "seloger",
+  "id": "258Z9EBXWRNA",
+  "metadata": {
+    "legacyId": "255904483",
+    "creationDate": "2025-12-05T12:50:00Z",
+    "updateDate": "2025-12-05T14:36:13.394Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 14ème",
+        "zipCode": "75014",
+        "district": "Montsouris Dareau"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338884,
+          48.831867
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "4",
+                "color": "#c800a1"
+              },
+              {
+                "name": "6",
+                "color": "#71cc98"
+              }
+            ]
+          },
+          {
+            "type": "RER",
+            "lines": [
+              {
+                "name": "B",
+                "color": "#5291CE"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "21",
+                "color": "#77c695"
+              },
+              {
+                "name": "38",
+                "color": "#006cb8"
+              },
+              {
+                "name": "59",
+                "color": "#dc9609"
+              },
+              {
+                "name": "64",
+                "color": "#77c695"
+              },
+              {
+                "name": "68",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "88",
+                "color": "#cec92a"
+              },
+              {
+                "name": "216",
+                "color": "#ed1b2a"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Rue Dareau, à proximité de la station Saint-Jacques sur la ligne 6, et Denfert-Rochereau sur la ligne 4 et RER B.\r\nAu 2ème étage avec ascenseur, un appartement 2 pièces meublé de 40 comprenant : une entrée, un séjour avec cuisine ouverte ménagée et équipée, une chambre, et une salle d'eau avec wc.\r\n\r\nLIBRE DE SUITE !\r\n\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :",
+      "texts": [
+        {
+          "text": "Rue Dareau, à proximité de la station Saint-Jacques sur la ligne 6, et Denfert-Rochereau sur la ligne 4 et RER B.\r\nAu 2ème étage avec ascenseur, un appartement 2 pièces meublé de 40 comprenant : une entrée, un séjour avec cuisine ouverte ménagée et équipée, une chambre, et une salle d'eau avec wc.\r\n\r\nLIBRE DE SUITE !\r\n\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :"
+        }
+      ],
+      "headline": "Appartement 2 pièces meublé de 40m2"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "40 m²",
+        "2ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2ème étage",
+          "splitValue": "2ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 350 €",
+        "formatted": "1 350 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1350 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "aa9b3d55-bf0e-4211-a623-a1cfc567e412",
+          "scales": [
+            {
+              "key": "31dc9593-c6bc-41f5-bf7a-b74ffd118098",
+              "name": "Diagnostic de Performance Énergétique (DPE)",
+              "alternateText": "Un certificat énergétique n'est pas nécessaire pour ce bien.",
+              "ariaLabel": "Un certificat énergétique n'est pas nécessaire pour ce bien."
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255904483"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "1247-3190--710"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 350 €/mois Loyer charges comprises",
+          "ariaLabel": "1350 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "80 €/mois",
+            "ariaLabel": "80 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "33,75 €/mois/m²",
+            "ariaLabel": "33,75 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1905"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de douches"
+        },
+        {
+          "icon": "separateEntrance",
+          "value": "Entrée séparée"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "55cc474f-4673-44bb-a8e0-097019608d75",
+          "url": "https://mms.seloger.com/5/5/c/c/55cc474f-4673-44bb-a8e0-097019608d75.jpg?ci_seal=6d65b828ceb74822b5068fee84fd7dfc96824f9d",
+          "alt": "Appartement à louer 1 350 € 2 pièces 1 chambre 40 m² 2ème étage Montsouris Dareau Paris 14ème 75014",
+          "classification": {
+            "name": "HOME_OFFICE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "bcf73348-0208-4cb8-b523-a394c1f62484",
+          "url": "https://mms.seloger.com/b/c/f/7/bcf73348-0208-4cb8-b523-a394c1f62484.jpg?ci_seal=8dc4c8e768527767f3a9d48f480e2c5b7273c3e5",
+          "classification": {
+            "name": "HOME_OFFICE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "07eda54a-306a-4b33-8882-7c84865ef686",
+          "url": "https://mms.seloger.com/0/7/e/d/07eda54a-306a-4b33-8882-7c84865ef686.jpg?ci_seal=e015fc70ac8b18fa4483fc6d02d0473369c67628",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8366af79-ccd9-40ab-a7d4-840ddc8e2466",
+          "url": "https://mms.seloger.com/8/3/6/6/8366af79-ccd9-40ab-a7d4-840ddc8e2466.jpg?ci_seal=aa7bf561fa35f61af4e8753e9c63c84d716c4f64",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8d589c92-ed99-46ea-b5b1-44abf74513a1",
+          "url": "https://mms.seloger.com/8/d/5/8/8d589c92-ed99-46ea-b5b1-44abf74513a1.jpg?ci_seal=7a15421ff4132e4b888d24b60cc483cc5cea8c97",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ecd9606e-71a4-472e-982c-63b9af803fdd",
+          "url": "https://mms.seloger.com/e/c/d/9/ecd9606e-71a4-472e-982c-63b9af803fdd.jpg?ci_seal=c89bf4ef97d8ad2b6de081460690fe8abfadc3f1",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255904483",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75014",
+      "city": "Paris 14ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 32.85,
+        "accuracy": 3,
+        "high": "41,85",
+        "low": "26,58"
+      },
+      "markerPosition": 47,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "33,75",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 2 pièces meublé de 40m2",
+      "description": "Rue Dareau, à proximité de la station Saint-Jacques sur la ligne 6, et Denfert-Rochereau sur la ligne 4 et RER B.\r\nAu 2ème étage avec ascenseur, un appartement 2 pièces meublé de 40 comprenant : une entrée, un séjour avec cuisine ouverte ménagée et équipée, une chambre, et une salle d'eau avec wc.\r\n\r\nLIBRE DE SUITE !\r\n\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "4 jours en ligne",
+      "views": "291 vues",
+      "saves": "12 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "258Z9EBXWRNA",
+    "legacyId": "255904483",
+    "brand": "seloger",
+    "agencyId": "RC-614081",
+    "static": {
+      "phoneNumbers": [
+        "09 80 80 53 59"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "09 80 80 53 59"
+      ]
+    },
+    "contactCard": {
+      "title": "KALIZ GESTION",
+      "subtitle": "Kaliz",
+      "phoneNumbers": [
+        "09 80 80 53 59"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "KALIZ GESTION",
+        "subtitle": "Kaliz",
+        "phoneNumbers": [
+          "09 80 80 53 59"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Kaliz",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "KALIZ GESTION",
+      "subtitle": "KALIZ GESTION",
+      "phoneNumbers": [
+        "09 80 80 53 59"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "KALIZ GESTION",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-43623/"
+      },
+      "contactCard": {
+        "title": "Kaliz",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "https://www.kaliz.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-43623/",
+      "imprintUrl": null,
+      "feeUrl": "https://www.kaliz.fr/",
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 877734913",
+        "<b>SIRET:</b> 87773491300016"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "66 AVENUE DES CHAMPS ELYSEES, 75008 PARIS",
+      "phoneNumbers": [
+        "09 80 80 53 59"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75014",
+    "av_city": "Paris",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "258Z9EBXWRNA",
+        "price": 1350,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75014",
+        "legacy_id": "255904483",
+        "product_type": "standard",
+        "client_id": "RC-614081"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "408121",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "estate_postalcode": "75014",
+        "estate_type": 1,
+        "id": "255904483",
+        "id_duo": 255904483,
+        "id_solo": 255904483,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 6,
+        "position": 0,
+        "price": 1350,
+        "product_geolocation": "localisation_district",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 40
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75014",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255904483",
+      "prix": 1400,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 40,
+      "commodites": [
+        "ascenseur",
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "Cuisine-équipée",
+        "SalleDEau-douche"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-14eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 14ème arrondissement 75014",
+          "hoverLabel": "Appartements à louer Paris 14ème arrondissement 75014",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 40 m² 1350 € Montsouris Dareau Paris (75014)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 40 m² 1350 € Montsouris Dareau Paris (75014)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/croulebarbe/255904483.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/croulebarbe/255904483.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 40 m² 1350 € Montsouris Dareau Paris (75014)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 40 m² 1350 € Montsouris Dareau Paris (75014)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/5/5/c/c/55cc474f-4673-44bb-a8e0-097019608d75.jpg?ci_seal=6d65b828ceb74822b5068fee84fd7dfc96824f9d"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 40 m² 1350 € Montsouris Dareau Paris (75014)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/croulebarbe/255904483.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 40 m² 1350 € Montsouris Dareau Paris (75014)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 40 m² 1350 € Montsouris Dareau Paris (75014)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/5/5/c/c/55cc474f-4673-44bb-a8e0-097019608d75.jpg?ci_seal=6d65b828ceb74822b5068fee84fd7dfc96824f9d"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 40 m² 1350 € Montsouris Dareau Paris (75014)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 40 m² 1350 € Montsouris Dareau Paris (75014)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-14eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 14ème arrondissement 75014",
+          "hoverLabel": "Appartements à louer Paris 14ème arrondissement 75014",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/croulebarbe/255904483.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR70&priceMax=1620&priceMin=1080",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR70",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR39",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "258Z9EBXWRNA"
+}

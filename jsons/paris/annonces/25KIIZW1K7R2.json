@@ -1,0 +1,1027 @@
+{
+  "brand": "seloger",
+  "id": "25KIIZW1K7R2",
+  "metadata": {
+    "legacyId": "256055917",
+    "creationDate": "2025-12-08T09:15:00Z",
+    "updateDate": "2025-12-09T01:21:30.973Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 10ème",
+        "zipCode": "75010",
+        "district": "Chateau d'Eau-Lancry"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3649089999999995,
+          48.87043899998635
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "3",
+                "color": "#827a04"
+              },
+              {
+                "name": "5",
+                "color": "#FF7F32"
+              },
+              {
+                "name": "8",
+                "color": "#dd9cdf"
+              },
+              {
+                "name": "9",
+                "color": "#b5bd00"
+              },
+              {
+                "name": "11",
+                "color": "#6e4c1e"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "20",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "46",
+                "color": "#cec92a"
+              },
+              {
+                "name": "56",
+                "color": "#a0006e"
+              },
+              {
+                "name": "65"
+              },
+              {
+                "name": "75",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "91",
+                "color": "#dc9609"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Bel appartement en duplex, très lumineux, loué meublé, situé au 4ème étage avec ascenseur d’un immeuble sécurisé, Rue Dieu, à deux pas de la place de la République et du canal Saint-Martin.\n\nAu premier niveau, il se compose d’une entrée, d’un vaste séjour/salle à manger climatisé équipé d’un système audio Bose, d’une cuisine séparée entièrement aménagée ouvrant sur un balcon de 6m² aménagé, d’une pièce de rangement et d’un WC indépendant.\n\nÀ l’étage, une suite parentale avec dressing et climatisation, une seconde chambre avec placard intégré, une salle de bains avec baignoire balnéo et douche, une buanderie équipée d’un lave-linge, d’un sèche-linge et d’un tapis de course, ainsi qu’un WC séparé. \nUn grand placard complète le couloir de l’étage.\n\nUne place de parking accessible depuis l’ascenseur est incluse dans le loyer.",
+      "texts": [
+        {
+          "text": "Bel appartement en duplex, très lumineux, loué meublé, situé au 4ème étage avec ascenseur d’un immeuble sécurisé, Rue Dieu, à deux pas de la place de la République et du canal Saint-Martin.\n\nAu premier niveau, il se compose d’une entrée, d’un vaste séjour/salle à manger climatisé équipé d’un système audio Bose, d’une cuisine séparée entièrement aménagée ouvrant sur un balcon de 6m² aménagé, d’une pièce de rangement et d’un WC indépendant.\n\nÀ l’étage, une suite parentale avec dressing et climatisation, une seconde chambre avec placard intégré, une salle de bains avec baignoire balnéo et douche, une buanderie équipée d’un lave-linge, d’un sèche-linge et d’un tapis de course, ainsi qu’un WC séparé. \nUn grand placard complète le couloir de l’étage.\n\nUne place de parking accessible depuis l’ascenseur est incluse dans le loyer."
+        }
+      ],
+      "headline": "Meublé - 2 chambres - 130m2"
+    },
+    "hardFacts": {
+      "title": "Duplex à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "130 m²",
+        "Étage 4/4"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "130 m²",
+          "splitValue": "130",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 4/4",
+          "splitValue": "Étage",
+          "label": "4/4"
+        }
+      ],
+      "price": {
+        "value": "4 350 €",
+        "formatted": "4 350 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "4350 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Première occupation"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Radiateur"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "0b0475c9-6111-434e-a913-147f324eaa83",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "c4ecc561-4aac-436d-b8c5-f97606134d1b",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "132 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "56 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "66c630b6-f47e-4cef-8e2a-baeab853a316",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "56 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256055917"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "AI-MON-A"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "4 350 €/mois Loyer charges comprises",
+          "ariaLabel": "4350 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Prix ​​au m²",
+            "value": "33,46 €/mois/m²",
+            "ariaLabel": "33,46 euros par mètre carré"
+          },
+          {
+            "label": "Prix du parking",
+            "value": "inclus dans le loyer"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Dernier étage, 4ème étage/4 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Parking"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "2 WCs séparées"
+        },
+        {
+          "icon": "balcony",
+          "value": "Balcon (Total 6 m²)"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "Dernier étage, 4ème étage/4 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain; 1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "2 WCs séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Balcon (Total 6 m²)"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "Parking"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "TV par câble",
+                "icon": "tv"
+              }
+            ],
+            "title": "Équipements"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "582c719f-83d5-48f8-9800-964c58dae529",
+          "url": "https://mms.seloger.com/5/8/2/c/582c719f-83d5-48f8-9800-964c58dae529.jpg?ci_seal=817141b816c5a156fe618106bd836c056d3b4fe9",
+          "alt": "Duplex à louer 4 350 € 3 pièces 2 chambres 130 m² Étage 4/4 Chateau d'Eau-Lancry Paris 10ème 75010",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e79e2ece-6053-4c47-ade7-b92110d938f6",
+          "url": "https://mms.seloger.com/e/7/9/e/e79e2ece-6053-4c47-ade7-b92110d938f6.jpg?ci_seal=f34047b2b75c718d9550c575e87ab9034d064977",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6c9653f5-b22d-450f-8a0f-26c5ee6026c5",
+          "url": "https://mms.seloger.com/6/c/9/6/6c9653f5-b22d-450f-8a0f-26c5ee6026c5.jpg?ci_seal=b95764e36ae9859e6f78860906f077ea56639d1c",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "cf4a27e4-441d-45a0-92bc-42a919269a67",
+          "url": "https://mms.seloger.com/c/f/4/a/cf4a27e4-441d-45a0-92bc-42a919269a67.jpg?ci_seal=c845952e9ec13f402824a4b4927a98384efa171f",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f8958d67-efb1-4911-a367-38d147b244c9",
+          "url": "https://mms.seloger.com/f/8/9/5/f8958d67-efb1-4911-a367-38d147b244c9.jpg?ci_seal=aa77e77df4d2d8f24260fffa07695c97cf07e7da",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a463aa38-5a62-4757-b16e-c9e2f7884c33",
+          "url": "https://mms.seloger.com/a/4/6/3/a463aa38-5a62-4757-b16e-c9e2f7884c33.jpg?ci_seal=e7ef8b947a2c0e5d93bdf246797dffdd00cadb16",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e43ec1ac-b732-4de0-a8b9-7b50a54d87e9",
+          "url": "https://mms.seloger.com/e/4/3/e/e43ec1ac-b732-4de0-a8b9-7b50a54d87e9.jpg?ci_seal=927f317de6d7cc36b331d7aaf4cc05d5318196c8",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0a2b6a6b-a089-46e5-ae43-ef89f3c9066a",
+          "url": "https://mms.seloger.com/0/a/2/b/0a2b6a6b-a089-46e5-ae43-ef89f3c9066a.jpg?ci_seal=bfb6a229fb666b022e8f3784c98300b0ef0459a3",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3e85686d-6f5c-4587-8a5e-08cb872e265d",
+          "url": "https://mms.seloger.com/3/e/8/5/3e85686d-6f5c-4587-8a5e-08cb872e265d.jpg?ci_seal=2c81d48cc5c3b5108ac50984350017181d96e13b",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a22e6854-cd72-4010-92f9-9ac404668984",
+          "url": "https://mms.seloger.com/a/2/2/e/a22e6854-cd72-4010-92f9-9ac404668984.jpg?ci_seal=8b954f39604a2fb36e9e7ab032bbf11adda21c1d",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1cb851eb-1f53-429f-9804-684ff3755bf1",
+          "url": "https://mms.seloger.com/1/c/b/8/1cb851eb-1f53-429f-9804-684ff3755bf1.jpg?ci_seal=1c8cf09902219d9f5d575e94c542c25df5ab104d",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "89f5dc2f-a6bd-4dea-aaee-ed699c74d7ac",
+          "url": "https://mms.seloger.com/8/9/f/5/89f5dc2f-a6bd-4dea-aaee-ed699c74d7ac.jpg?ci_seal=b6a48025571326c1a8600a3fb9ed1d1ed4842775",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256055917",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75010",
+      "city": "Paris 10ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 33.72,
+        "accuracy": 3,
+        "high": "45,22",
+        "low": "27,73"
+      },
+      "markerPosition": 33,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "33,46",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Meublé - 2 chambres - 130m2",
+      "description": "Bel appartement en duplex, très lumineux, loué meublé, situé au 4ème étage avec ascenseur d’un immeuble sécurisé, Rue Dieu, à deux pas de la place de la République et du canal Saint-Martin.\n\nAu premier niveau, il se compose d’une entrée, d’un vaste séjour/salle à manger climatisé équipé d’un système audio Bose, d’une cuisine séparée entièrement aménagée ouvrant sur un balcon de 6m² aménagé, d’une pièce de rangement et d’un WC indépendant.\n\nÀ l’étage, une suite parentale avec dressing et climatisation, une seconde chambre avec placard intégré, une salle de bains avec baignoire balnéo et douche, une buanderie équipée d’un lave-linge, d’un sèche-linge et d’un tapis de course, ainsi qu’un WC séparé. \nUn grand placard complète le couloir de l’étage.\n\nUne place de parking accessible depuis l’ascenseur est incluse dans le loyer.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "7 vues",
+      "saves": "0 favori"
+    }
+  },
+  "contactSections": {
+    "id": "25KIIZW1K7R2",
+    "legacyId": "256055917",
+    "brand": "seloger",
+    "agencyId": "RC-808396",
+    "static": {
+      "phoneNumbers": [
+        "0768706842"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0768706842"
+      ]
+    },
+    "contactCard": {
+      "title": "ARMON IMMOBILIER",
+      "subtitle": "Armon Immobilier",
+      "phoneNumbers": [
+        "0768706842"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/9/0/b/2/90b246c0-2101-4621-a09a-1d8b1143de4c.jpg?ci_seal=b50171e976b1b9abeda09967d850f6edcbf454cd",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "ARMON IMMOBILIER",
+        "subtitle": "Armon Immobilier",
+        "phoneNumbers": [
+          "0768706842"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/9/0/b/2/90b246c0-2101-4621-a09a-1d8b1143de4c.jpg?ci_seal=b50171e976b1b9abeda09967d850f6edcbf454cd"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Armon Immobilier",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "ARMON IMMOBILIER",
+      "subtitle": "ARMON IMMOBILIER",
+      "phoneNumbers": [
+        "0768706842"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "ARMON IMMOBILIER",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/9/0/b/2/90b246c0-2101-4621-a09a-1d8b1143de4c.jpg?ci_seal=b50171e976b1b9abeda09967d850f6edcbf454cd",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-49870/"
+      },
+      "contactCard": {
+        "title": "Armon Immobilier",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-49870/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 809759715",
+        "<b>SIRET:</b> 80975971500075"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "30 RUE CAMBACERES, 75008 PARIS",
+      "phoneNumbers": [
+        "0768706842"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75010",
+    "av_city": "Paris",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25KIIZW1K7R2",
+        "price": 4350,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75010",
+        "building_state": "FIRST_TIME_USE",
+        "legacy_id": "256055917",
+        "product_type": "standard",
+        "client_id": "RC-808396",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "435138",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "75010",
+        "estate_type": 9,
+        "id": "256055917",
+        "id_duo": 256055917,
+        "id_solo": 256055917,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 12,
+        "position": 0,
+        "price": 4350,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 130
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75010",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256055917",
+      "prix": 4400,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 130,
+      "etage": 4,
+      "commodites": [
+        "ascenseur",
+        "balcon",
+        "Cuisine-équipée",
+        "Cuisine-séparée",
+        "dernier%20etage",
+        "parking%20ouvert",
+        "parquet",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {},
+    "headInfo": {
+      "title": "",
+      "titleWithCount": "",
+      "description": "",
+      "canonical": "",
+      "robots": "",
+      "breadcrumb": [],
+      "redirectUrl": "https://www.bellesdemeures.com/256055917/detail.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR45&priceMax=5220&priceMin=3480",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR45",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR35",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "propertySubType": "MULTI_STOREY",
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25KIIZW1K7R2"
+}

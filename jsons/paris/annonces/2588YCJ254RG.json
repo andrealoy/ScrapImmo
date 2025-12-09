@@ -1,0 +1,1204 @@
+{
+  "brand": "seloger",
+  "id": "2588YCJ254RG",
+  "metadata": {
+    "legacyId": "254915093",
+    "creationDate": "2025-11-21T20:43:00Z",
+    "updateDate": "2025-12-02T21:41:23.238Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 2ème",
+        "zipCode": "75002"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                2.35266,
+                48.86968
+              ],
+              [
+                2.35424,
+                48.86933
+              ],
+              [
+                2.35095,
+                48.8634
+              ],
+              [
+                2.33043,
+                48.86826
+              ],
+              [
+                2.328,
+                48.86991
+              ],
+              [
+                2.34004,
+                48.87199
+              ],
+              [
+                2.35266,
+                48.86968
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "description": {
+      "description": "A louer deux pièces lumineux et plein de charme de 30m² au cinquième étage sans ascenseur composé d'une pièce principale, une chambre, une cuisine, une salle d'eau refaite à neuf avec WC.\n Proche de tout commerce et de tout transport. Ligne 3 au pied de l'immeuble.\n MERCI DE PRIVILEGIER LA PRISE DE CONTACT PAR MAIL QUI VOUS DONNE ACCES A NOTRE AGENDA ELECTRONIQUE.",
+      "texts": [
+        {
+          "text": "A louer deux pièces lumineux et plein de charme de 30m² au cinquième étage sans ascenseur composé d'une pièce principale, une chambre, une cuisine, une salle d'eau refaite à neuf avec WC.\n Proche de tout commerce et de tout transport. Ligne 3 au pied de l'immeuble.\n MERCI DE PRIVILEGIER LA PRISE DE CONTACT PAR MAIL QUI VOUS DONNE ACCES A NOTRE AGENDA ELECTRONIQUE."
+        }
+      ],
+      "headline": "Deux pièces plein de charme et lumineux quartier Montorgueil"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "30 m²",
+        "Étage 5/6"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "30 m²",
+          "splitValue": "30",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 5/6",
+          "splitValue": "Étage",
+          "label": "5/6"
+        }
+      ],
+      "price": {
+        "value": "1 130 €",
+        "formatted": "1 130 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "1130 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1800"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "03580fbc-5058-4da6-994d-b48918bc4d8b",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 750 et 1060 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 750 et 1060 € par an. Prix moyens des énergies indexés au 02/12/2025 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "257d77fe-7c9c-45b4-856a-a1ad33e1333b",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "296 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "64 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est 0 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "6bf887f9-1462-4b32-ba8c-126c2a897c71",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "64 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est 0 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "254915093"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "17PTSCARXA5GF"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 130 €/mois Loyer charges comprises",
+          "ariaLabel": "1130 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "50 €/mois",
+            "ariaLabel": "50 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "37,67 €/mois/m²",
+            "ariaLabel": "37,67 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1080"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "5ème étage/6 étages"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "barrier-free",
+          "value": "Non accessible aux personnes à mobilité réduite"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "5ème étage/6 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "ea214fc2-f131-4eec-8f67-95176de0449a",
+          "url": "https://mms.seloger.com/e/a/2/1/ea214fc2-f131-4eec-8f67-95176de0449a.jpg?ci_seal=1bcfda109905ee16d73169e97449b510cdd67d96",
+          "alt": "Appartement à louer 1 130 € 2 pièces 1 chambre 30 m² Étage 5/6 Paris 2ème 75002",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f28e24bd-cc4e-443c-bad1-0ab4c6b6efdd",
+          "url": "https://mms.seloger.com/f/2/8/e/f28e24bd-cc4e-443c-bad1-0ab4c6b6efdd.jpg?ci_seal=43b168428e16364c126ff6d1d4ac3f46dd8a39af",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2cd36da8-2673-4817-a8a9-0646a3665315",
+          "url": "https://mms.seloger.com/2/c/d/3/2cd36da8-2673-4817-a8a9-0646a3665315.jpg?ci_seal=e71a6c0d1a887518061a8ec639284847d71fbccb",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "85847618-4755-4096-ac54-07a71edcb0a7",
+          "url": "https://mms.seloger.com/8/5/8/4/85847618-4755-4096-ac54-07a71edcb0a7.jpg?ci_seal=15369d6fa42b484dd53d03009d8a6baa1050bd6c",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c6edc96a-9ac4-45b3-9f0b-42819324aa0e",
+          "url": "https://mms.seloger.com/c/6/e/d/c6edc96a-9ac4-45b3-9f0b-42819324aa0e.jpg?ci_seal=35c547347cdc810aa4e7a3ae759617b0eac7a5d1",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8193b40a-2c62-4a0a-8217-1a02d750bb80",
+          "url": "https://mms.seloger.com/8/1/9/3/8193b40a-2c62-4a0a-8217-1a02d750bb80.jpg?ci_seal=6388c02ff37099d9a9d4f1a93b6b8b3b8ec89cae",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5fdab4f8-c0e1-4696-8fd3-9797067e2c97",
+          "url": "https://mms.seloger.com/5/f/d/a/5fdab4f8-c0e1-4696-8fd3-9797067e2c97.jpg?ci_seal=56fdc53135c6f8d4d44bfefc7734e9ae53b774c7",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "315c80ba-dd57-4439-8d7e-1c182b256e6f",
+          "url": "https://mms.seloger.com/3/1/5/c/315c80ba-dd57-4439-8d7e-1c182b256e6f.jpg?ci_seal=47f078afc996184d9df11938ba7da89b38b2d117",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2384a8f2-7b68-48b3-8a05-87167e17801f",
+          "url": "https://mms.seloger.com/2/3/8/4/2384a8f2-7b68-48b3-8a05-87167e17801f.jpg?ci_seal=7685990c743abb31b5fbea88be5b9b9998fa4afa",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8b83bdb9-0235-4959-9244-432af4f2d595",
+          "url": "https://mms.seloger.com/8/b/8/3/8b83bdb9-0235-4959-9244-432af4f2d595.jpg?ci_seal=8e798a0e34dfb3323f8e7d6283c03005bed7dbe6",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "254915093",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75002",
+      "city": "Paris 2ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 32.72,
+        "accuracy": 4,
+        "high": "43,28",
+        "low": "25,94"
+      },
+      "markerPosition": 68,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "37,67",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Deux pièces plein de charme et lumineux quartier Montorgueil",
+      "description": "A louer deux pièces lumineux et plein de charme de 30m² au cinquième étage sans ascenseur composé d'une pièce principale, une chambre, une cuisine, une salle d'eau refaite à neuf avec WC.\n Proche de tout commerce et de tout transport. Ligne 3 au pied de l'immeuble.\n MERCI DE PRIVILEGIER LA PRISE DE CONTACT PAR MAIL QUI VOUS DONNE ACCES A NOTRE AGENDA ELECTRONIQUE.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "17 jours en ligne",
+      "views": "999+ vues",
+      "saves": "156 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "2588YCJ254RG",
+    "legacyId": "254915093",
+    "brand": "seloger",
+    "agencyId": "RC-012131",
+    "static": {
+      "phoneNumbers": [
+        "01 53 06 60 90"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "01 53 06 60 90"
+      ]
+    },
+    "contactCard": {
+      "title": "Groupe Piic Paris - Charmilles Cap Yvelines",
+      "subtitle": "Mlle. Sophie Pierzchala",
+      "phoneNumbers": [
+        "01 53 06 60 90"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/7/4/f/2/74f276ae-22da-4aed-875b-9d35da6e51a5.jpg?ci_seal=a55c361b4a291ff93351bc39ce4bc7408c725642",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Groupe Piic Paris - Charmilles Cap Yvelines",
+        "subtitle": "Mlle. Sophie Pierzchala",
+        "phoneNumbers": [
+          "01 53 06 60 90"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/7/4/f/2/74f276ae-22da-4aed-875b-9d35da6e51a5.jpg?ci_seal=a55c361b4a291ff93351bc39ce4bc7408c725642"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Mlle. Sophie Pierzchala",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Groupe Piic Paris - Charmilles Cap Yvelines",
+      "subtitle": "Groupe Piic Paris - Charmilles Cap Yvelines",
+      "phoneNumbers": [
+        "01 53 06 60 90"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Groupe Piic Paris - Charmilles Cap Yvelines",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/7/4/f/2/74f276ae-22da-4aed-875b-9d35da6e51a5.jpg?ci_seal=a55c361b4a291ff93351bc39ce4bc7408c725642",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-7418/"
+      },
+      "contactCard": {
+        "title": "Mlle. Sophie Pierzchala",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.piicimmo.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-7418/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "SARL PIIC au capital de 10 000 €",
+        "Carte professionnelle T2548 délivrée par la Préfecture de PARIS",
+        "<b>Siège:</b> 31 rue Dussoubs, 75002 PARIS",
+        "<b>RCS:</b> Paris 582107009",
+        "<b>SIRET:</b> 58210700900034"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "31 rue Dussoubs Paris, 75002 Paris 2ème",
+      "phoneNumbers": [
+        "01 53 06 60 90"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75002",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "2588YCJ254RG",
+        "price": 1130,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75002",
+        "legacy_id": "254915093",
+        "product_type": "standard",
+        "client_id": "RC-012131",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "1869",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75002",
+        "estate_type": 1,
+        "id": "254915093",
+        "id_duo": 254915093,
+        "id_solo": 254915093,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 10,
+        "position": 0,
+        "price": 1130,
+        "product_geolocation": "localisation_city",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 30,
+        "year_of_construction": 1800
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75002",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "254915093",
+      "prix": 1200,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 30,
+      "etage": 6,
+      "commodites": [
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "SalleDEau-douche",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-2eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 2ème arrondissement 75002",
+          "hoverLabel": "Appartements à louer Paris 2ème arrondissement 75002",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 30 m² 1130 € Paris (75002)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 30 m² 1130 € Paris (75002)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-2eme-75/254915093.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-2eme-75/254915093.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 30 m² 1130 € Paris (75002)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 30 m² 1130 € Paris (75002)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/e/a/2/1/ea214fc2-f131-4eec-8f67-95176de0449a.jpg?ci_seal=1bcfda109905ee16d73169e97449b510cdd67d96"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 30 m² 1130 € Paris (75002)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-2eme-75/254915093.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 30 m² 1130 € Paris (75002)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 30 m² 1130 € Paris (75002)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/e/a/2/1/ea214fc2-f131-4eec-8f67-95176de0449a.jpg?ci_seal=1bcfda109905ee16d73169e97449b510cdd67d96"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 30 m² 1130 € Paris (75002)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 30 m² 1130 € Paris (75002)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-2eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 2ème arrondissement 75002",
+          "hoverLabel": "Appartements à louer Paris 2ème arrondissement 75002",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-2eme-75/254915093.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#707090",
+    "textColor": "light",
+    "providerName": "Groupe Piic Paris - Charmilles Cap Yvelines",
+    "logo": {
+      "src": "https://mms.seloger.com/7/4/f/2/74f276ae-22da-4aed-875b-9d35da6e51a5.jpg?ci_seal=a55c361b4a291ff93351bc39ce4bc7408c725642",
+      "alt": "logo-RC-012131",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/9/d/6/d/9d6d405c-46e4-4382-8ba0-cd5d8a765a58.png?ci_eqs=&ci_seal=a93cc0aee6903669168ab53a099e84e8ea4d05ac",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-7418/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/9/d/6/d/9d6d405c-46e4-4382-8ba0-cd5d8a765a58.png?ci_eqs=&ci_seal=a93cc0aee6903669168ab53a099e84e8ea4d05ac",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-7418/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/5/d/8/8/5d889c4c-3db7-4924-b48a-b690200b969f.png?ci_eqs=&ci_seal=4d34ea6d896b51db6c67e340a070360a21417bee",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-2eme-arrondissement-75002/agence-7418/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=AD09FR27&priceMax=1356&priceMin=904",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "AD09FR27",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "2588YCJ254RG"
+}

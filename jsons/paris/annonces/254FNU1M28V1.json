@@ -1,0 +1,1023 @@
+{
+  "brand": "seloger",
+  "id": "254FNU1M28V1",
+  "metadata": {
+    "legacyId": "255958991",
+    "creationDate": "2025-12-06T05:05:00Z",
+    "updateDate": "2025-12-06T05:06:07.836Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 18ème",
+        "zipCode": "75018",
+        "district": "Grandes Carrières-Clichy"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3293591,
+          48.8909264
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "13",
+                "color": "#71c5e8"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "21",
+                "color": "#77c695"
+              },
+              {
+                "name": "31",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "54",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "74",
+                "color": "#cec92a"
+              },
+              {
+                "name": "80",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "81",
+                "color": "#f58f53"
+              },
+              {
+                "name": "95",
+                "color": "#62259d"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Dans une rue calme du 18eme, une ancienne boutique transformée en appartement de 113m² sur deux niveaux. Au Rez de chaussée une pièce de vie ouverte sur la cuisine. Une chambre ou bureau donne sur une cour intérieure et un petit bureau en mezzanine, une salle de douche et un WC. \nEn souplex une suite parentale avec un dressing et un dégagement sur une salle de bain avec une baignoire et une douche ainsi qu'un WC. L'appartement est entièrement refait et très calme avec une belle hauteur sous plafond. Chauffage et eau chaude individuels au gaz. Disponible de suite.\nMetro : Guy Môquet : 250m\nCopropriété de 13 lots - dont 13 lots habitation. (Procédure en cours).\n\rCharges annuelles : 1500.00 euros.",
+      "texts": [
+        {
+          "text": "Dans une rue calme du 18eme, une ancienne boutique transformée en appartement de 113m² sur deux niveaux. Au Rez de chaussée une pièce de vie ouverte sur la cuisine. Une chambre ou bureau donne sur une cour intérieure et un petit bureau en mezzanine, une salle de douche et un WC. \nEn souplex une suite parentale avec un dressing et un dégagement sur une salle de bain avec une baignoire et une douche ainsi qu'un WC. L'appartement est entièrement refait et très calme avec une belle hauteur sous plafond. Chauffage et eau chaude individuels au gaz. Disponible de suite.\nMetro : Guy Môquet : 250m\nCopropriété de 13 lots - dont 13 lots habitation. (Procédure en cours).\n\rCharges annuelles : 1500.00 euros."
+        }
+      ],
+      "headline": "LOFT SOUPLEX"
+    },
+    "hardFacts": {
+      "title": "Duplex à louer",
+      "keyfacts": [
+        "3 pièces",
+        "1 chambre",
+        "113 m²",
+        "RDC/6"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "113 m²",
+          "splitValue": "113",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "RDC/6",
+          "splitValue": "RDC/6",
+          "label": ""
+        }
+      ],
+      "price": {
+        "value": "4 500 €",
+        "formatted": "4 500 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "4500 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1902"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Comme neuf"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel: Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "5f6d1f66-4046-4715-8a39-f140697f8c9d",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 1890 et 2590 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 1890 et 2590 € par an. Prix moyens des énergies indexés au 01/12/2023 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "0a876df4-6120-4ef6-8855-8f61876d0678",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "193 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "154 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "30 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est 154 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "84f9a25c-5cf0-4005-a1fe-68c4dcbaab52",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "30 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est 154 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255958991"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "COYSEVOX"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "4 500 €/mois Loyer charges comprises",
+          "ariaLabel": "4500 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "200 €/mois",
+            "ariaLabel": "200 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "39,82 €/mois/m²",
+            "ariaLabel": "39,82 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "6000.00"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Rez-de-chaussée/6 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "2 WCs"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain; 2 salles de douches"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "Rez-de-chaussée/6 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain; 2 salles de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "2 WCs"
+              },
+              {
+                "icon": "livingRoom",
+                "value": "Salon (total 42 m²)"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              }
+            ],
+            "title": "Intérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "dc0ff1b6-4b34-4eb5-ab95-2e1c5c001752",
+          "url": "https://mms.seloger.com/d/c/0/f/dc0ff1b6-4b34-4eb5-ab95-2e1c5c001752.jpg?ci_seal=28fccf67506aa3648b042c3b2675b57016fff1db",
+          "alt": "Duplex à louer 4 500 € 3 pièces 1 chambre 113 m² RDC/6 Grandes Carrières-Clichy Paris 18ème 75018",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "69245f66-bda9-40c2-8457-3497d6db3761",
+          "url": "https://mms.seloger.com/6/9/2/4/69245f66-bda9-40c2-8457-3497d6db3761.jpg?ci_seal=a04bfa5594195a54dfbfb4ed98b747f39944d91d",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1049c1ac-241a-4d6d-995f-4fdf4821ab2f",
+          "url": "https://mms.seloger.com/1/0/4/9/1049c1ac-241a-4d6d-995f-4fdf4821ab2f.jpg?ci_seal=948ca54c5be6c4b55cc71f158719be65ff22267f",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3897864f-21ba-4f72-8dc8-68c96430f3f5",
+          "url": "https://mms.seloger.com/3/8/9/7/3897864f-21ba-4f72-8dc8-68c96430f3f5.jpg?ci_seal=98c7973fd516c065dcccda4e7d30276c28f24bec",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "618fa047-7216-410e-a075-a5ad40f8922a",
+          "url": "https://mms.seloger.com/6/1/8/f/618fa047-7216-410e-a075-a5ad40f8922a.jpg?ci_seal=89ce79aa266c6db8142bac3c6db7128d36d71b31",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8ec16723-dc5e-4e19-8c48-250292a54fd2",
+          "url": "https://mms.seloger.com/8/e/c/1/8ec16723-dc5e-4e19-8c48-250292a54fd2.jpg?ci_seal=6cde42aa54885baf98a0b59221c3fe18c7108b4b",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "161eb8fc-7753-44d6-983f-f2612765e12f",
+          "url": "https://mms.seloger.com/1/6/1/e/161eb8fc-7753-44d6-983f-f2612765e12f.jpg?ci_seal=3aa33bb9f44d54a3164434bd4f0e19d3046130b2",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9ace4314-9d68-4b44-bab4-417b577fa12a",
+          "url": "https://mms.seloger.com/9/a/c/e/9ace4314-9d68-4b44-bab4-417b577fa12a.jpg?ci_seal=49d67c864c6840896a0a3d50f94366ccb3610036",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "64ef113d-0a72-4d0d-a611-07222a07ec58",
+          "url": "https://mms.seloger.com/6/4/e/f/64ef113d-0a72-4d0d-a611-07222a07ec58.jpg?ci_seal=9705dc8d7e77b6216c43c2009efde1598d5db810",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2dfa9294-52d9-4a21-8ea7-342c98148291",
+          "url": "https://mms.seloger.com/2/d/f/a/2dfa9294-52d9-4a21-8ea7-342c98148291.jpg?ci_seal=6e47f921e0deb1ee2d76292709cc8533c4470729",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "572c83b0-2fcf-40f3-b533-7605b4ba2358",
+          "url": "https://mms.seloger.com/5/7/2/c/572c83b0-2fcf-40f3-b533-7605b4ba2358.jpg?ci_seal=553ec68ae76d3c34ca49d4f8a414448587f1912d",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e0080562-79b5-427c-8e87-720e1b63d1ca",
+          "url": "https://mms.seloger.com/e/0/0/8/e0080562-79b5-427c-8e87-720e1b63d1ca.jpg?ci_seal=74caeb67a04e97936843320c13319fd19f429700",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "eb0b84ba-51e8-495f-8c1f-9dae868287d1",
+          "url": "https://mms.seloger.com/e/b/0/b/eb0b84ba-51e8-495f-8c1f-9dae868287d1.jpg?ci_seal=b886d0b5cb6da9e30c4a1167419287a44e76223c",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "16b873cc-bfec-4c4f-bfe4-1715006c28a6",
+          "url": "https://mms.seloger.com/1/6/b/8/16b873cc-bfec-4c4f-bfe4-1715006c28a6.jpg?ci_seal=d85724b13dce5f03b8ac934c2596ce030af2645b",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255958991",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75018",
+      "city": "Paris 18ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 30.76,
+        "accuracy": 3,
+        "high": "41,31",
+        "low": "25,01"
+      },
+      "markerPosition": 91,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "39,82",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "LOFT SOUPLEX",
+      "description": "Dans une rue calme du 18eme, une ancienne boutique transformée en appartement de 113m² sur deux niveaux. Au Rez de chaussée une pièce de vie ouverte sur la cuisine. Une chambre ou bureau donne sur une cour intérieure et un petit bureau en mezzanine, une salle de douche et un WC. \nEn souplex une suite parentale avec un dressing et un dégagement sur une salle de bain avec une baignoire et une douche ainsi qu'un WC. L'appartement est entièrement refait et très calme avec une belle hauteur sous plafond. Chauffage et eau chaude individuels au gaz. Disponible de suite.\nMetro : Guy Môquet : 250m\nCopropriété de 13 lots - dont 13 lots habitation. (Procédure en cours).\n\rCharges annuelles : 1500.00 euros.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "3 jours en ligne",
+      "views": "21 vues",
+      "saves": "2 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "254FNU1M28V1",
+    "legacyId": "255958991",
+    "brand": "seloger",
+    "agencyId": "RC-111027",
+    "static": {
+      "phoneNumbers": [
+        "0140291898"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0140291898"
+      ]
+    },
+    "contactCard": {
+      "title": "SAS AGENCE BLOMET",
+      "subtitle": "Raymond Bortalis",
+      "phoneNumbers": [
+        "0140291898"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "SAS AGENCE BLOMET",
+        "subtitle": "Raymond Bortalis",
+        "phoneNumbers": [
+          "0140291898"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Raymond Bortalis",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "SAS AGENCE BLOMET",
+      "subtitle": "SAS AGENCE BLOMET",
+      "phoneNumbers": [
+        "0140291898"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "SAS AGENCE BLOMET",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-15eme-arrondissement-75015/agence-21283/"
+      },
+      "contactCard": {
+        "title": "Raymond Bortalis",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-15eme-arrondissement-75015/agence-21283/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 819094574",
+        "<b>SIRET:</b> 81909457400012"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "40 RUE BLOMET, 75015 PARIS",
+      "phoneNumbers": [
+        "0140291898"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75018",
+    "av_city": "Paris",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "254FNU1M28V1",
+        "price": 4500,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75018",
+        "building_state": "MINT_CONDITION",
+        "legacy_id": "255958991",
+        "product_type": "standard",
+        "client_id": "RC-111027",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "283015",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "75018",
+        "estate_type": 9,
+        "id": "255958991",
+        "id_duo": 255958991,
+        "id_solo": 255958991,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 14,
+        "position": 0,
+        "price": 4500,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 113,
+        "year_of_construction": 1902
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75018",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255958991",
+      "prix": 4500,
+      "nb_pieces": 3,
+      "nb_chambres": 1,
+      "surface": 113,
+      "etage": 6,
+      "commodites": [
+        "Chauffage-individuel",
+        "Chauffage-gaz",
+        "Cuisine-américaine",
+        "Cuisine-équipée",
+        "rez-de-chaussee",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire",
+        "Sejour"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {},
+    "headInfo": {
+      "title": "",
+      "titleWithCount": "",
+      "description": "",
+      "canonical": "",
+      "robots": "",
+      "breadcrumb": [],
+      "redirectUrl": ""
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR102&priceMax=5400&priceMin=3600",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR102",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR43",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "propertySubType": "MULTI_STOREY",
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "254FNU1M28V1"
+}

@@ -1,0 +1,1187 @@
+{
+  "brand": "seloger",
+  "id": "25XLMFZCVHK5",
+  "metadata": {
+    "legacyId": "255486383",
+    "creationDate": "2025-11-29T21:41:00Z",
+    "updateDate": "2025-12-09T18:11:13.145Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 9ème",
+        "zipCode": "75009",
+        "district": "Lafayette-Richer"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.337617,
+          48.876042
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "7",
+                "color": "#f59bbb"
+              },
+              {
+                "name": "8",
+                "color": "#dd9cdf"
+              },
+              {
+                "name": "9",
+                "color": "#b5bd00"
+              },
+              {
+                "name": "12",
+                "color": "#007a53"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "20",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "21",
+                "color": "#77c695"
+              },
+              {
+                "name": "26",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "32",
+                "color": "#9c983a"
+              },
+              {
+                "name": "39",
+                "color": "#a0006e"
+              },
+              {
+                "name": "40",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "42",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "43",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "45",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "48",
+                "color": "#006cb8"
+              },
+              {
+                "name": "67",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "68",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "74",
+                "color": "#cec92a"
+              },
+              {
+                "name": "85",
+                "color": "#5a230a"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Métro Notre dame de-Lorette et Opéra. NON ELIGIBLE aux APL. Au pied des commerces. Quartier sur et vivant. Immeuble de standing. Studette MEUBLEE bon état. Au 6ème étage et dernier étage avec ascenseur.\r\nDouche, coin cuisine (évier, plaque et frigo), lit mezzanine, bureau, chaises. Double vitrage. TRES CLAIR et CALME. Digicode, gardien.",
+      "texts": [
+        {
+          "text": "Métro Notre dame de-Lorette et Opéra. NON ELIGIBLE aux APL. Au pied des commerces. Quartier sur et vivant. Immeuble de standing. Studette MEUBLEE bon état. Au 6ème étage et dernier étage avec ascenseur.\r\nDouche, coin cuisine (évier, plaque et frigo), lit mezzanine, bureau, chaises. Double vitrage. TRES CLAIR et CALME. Digicode, gardien."
+        }
+      ],
+      "headline": "Location studio meublé 75009 Opéra"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "10 m²",
+        "Étage 6/6"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "10 m²",
+          "splitValue": "10",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 6/6",
+          "splitValue": "Étage",
+          "label": "6/6"
+        }
+      ],
+      "price": {
+        "value": "585 €",
+        "formatted": "585 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "585 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1900"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "ccb0a9cb-f4a7-448f-8d91-7bd517258fd4",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 520 et 710 €/an"
+            },
+            {
+              "type": "excessiveConsumption",
+              "label": "Consommation d'énergie",
+              "value": "Logement à consommation énergétique excessive: classe F"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 520 et 710 € par an. Date d'indexation du prix des énergies non communiquée."
+            }
+          ],
+          "scales": [
+            {
+              "key": "2c37f66c-cf42-4613-8d7e-28d522eac280",
+              "efficiencyClass": {
+                "index": 5,
+                "rating": "F"
+              },
+              "values": [
+                {
+                  "value": "604 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "19 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : F avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": true
+            },
+            {
+              "key": "75bcab41-b5b7-4502-bf84-38eefff91557",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "19 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255486383"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "GARA4350R"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "585 €/mois Loyer charges comprises",
+          "ariaLabel": "585 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "10 €/mois",
+            "ariaLabel": "10 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "58,50 €/mois/m²",
+            "ariaLabel": "58,50 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "575.00"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Dernier étage, 6ème étage/6 étages"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "value": "Sans vis-à-vis",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "value": "Digicode",
+          "icon": "digital-lock"
+        },
+        {
+          "icon": "intercom",
+          "value": "Interphone"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "87886645-d670-45f8-943b-7b021b215d52",
+          "url": "https://mms.seloger.com/8/7/8/8/87886645-d670-45f8-943b-7b021b215d52.jpg?ci_seal=5812364fd2e54532b91e07c21a162114645f9cfd",
+          "alt": "Appartement à louer 585 € 1 pièce 10 m² Étage 6/6 Lafayette-Richer Paris 9ème 75009",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f3e67c54-26d6-44e5-a615-cab43932dfd7",
+          "url": "https://mms.seloger.com/f/3/e/6/f3e67c54-26d6-44e5-a615-cab43932dfd7.jpg?ci_seal=e7c9d6b32c575d9f303907296e6ffd41d232dda5",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "15748c25-8568-49ef-a9d5-c12bffac38b0",
+          "url": "https://mms.seloger.com/1/5/7/4/15748c25-8568-49ef-a9d5-c12bffac38b0.jpg?ci_seal=20d7bf842a3353d8a5804f215e5a3818b0baec8c",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "64a1fe2a-0e57-4241-b49c-3a82312d6d52",
+          "url": "https://mms.seloger.com/6/4/a/1/64a1fe2a-0e57-4241-b49c-3a82312d6d52.jpg?ci_seal=737f4aaa2bf871d7f6bc8598cb2aef2c7e1ae9a5",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c01d87a0-a3a4-45cd-aa5c-5a5c459f7618",
+          "url": "https://mms.seloger.com/c/0/1/d/c01d87a0-a3a4-45cd-aa5c-5a5c459f7618.jpg?ci_seal=ca58ad1b3473f74a335d6fbe1073d29d79a4b6a5",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9493b237-abcd-4e8b-b183-919eff1f5722",
+          "url": "https://mms.seloger.com/9/4/9/3/9493b237-abcd-4e8b-b183-919eff1f5722.jpg?ci_seal=ca84e3bbf96b9b1cdf777a7317c669704746cf8d",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a9912d16-2517-4d1d-b875-a4ad229186d8",
+          "url": "https://mms.seloger.com/a/9/9/1/a9912d16-2517-4d1d-b875-a4ad229186d8.jpg?ci_seal=b61eb01b6901c4d4ddb3557be47444eb673a5769",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "cca2c741-70ec-49f8-998b-879c9d64f8b3",
+          "url": "https://mms.seloger.com/c/c/a/2/cca2c741-70ec-49f8-998b-879c9d64f8b3.jpg?ci_seal=3711a244386d650908be95c56fa7566ab29db635",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "73adde1a-d8e7-4f6b-87a1-45a1ad7ff295",
+          "url": "https://mms.seloger.com/7/3/a/d/73adde1a-d8e7-4f6b-87a1-45a1ad7ff295.jpg?ci_seal=2a6a677966f50f873388f0769c18f0a3680bd990",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "80aff35c-154c-4185-af71-f0146af96278",
+          "url": "https://mms.seloger.com/8/0/a/f/80aff35c-154c-4185-af71-f0146af96278.jpg?ci_seal=7e21b1b0fd50653c21fdecb0887cfb2282278032",
+          "classification": {
+            "name": "LOGO",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255486383",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75009",
+      "city": "Paris 9ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 34.74,
+        "accuracy": 4,
+        "high": "45,58",
+        "low": "26,78"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "58,50",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Location studio meublé 75009 Opéra",
+      "description": "Métro Notre dame de-Lorette et Opéra. NON ELIGIBLE aux APL. Au pied des commerces. Quartier sur et vivant. Immeuble de standing. Studette MEUBLEE bon état. Au 6ème étage et dernier étage avec ascenseur.\r\nDouche, coin cuisine (évier, plaque et frigo), lit mezzanine, bureau, chaises. Double vitrage. TRES CLAIR et CALME. Digicode, gardien.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "9 jours en ligne",
+      "views": "999+ vues",
+      "saves": "118 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25XLMFZCVHK5",
+    "legacyId": "255486383",
+    "brand": "seloger",
+    "agencyId": "RC-066025",
+    "static": {
+      "phoneNumbers": [
+        "0767822050"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0767822050"
+      ]
+    },
+    "contactCard": {
+      "title": "GARANCE IMMOBILIER - PARIS 14",
+      "subtitle": "Alaïs Hennico",
+      "phoneNumbers": [
+        "0767822050"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/2/d/e/8/2de8abc0-f16e-47ff-afae-643e03da7836.jpg?ci_seal=b807e1d9e0aafd7f9fa7c59134611d667307d1b1",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "GARANCE IMMOBILIER - PARIS 14",
+        "subtitle": "Alaïs Hennico",
+        "phoneNumbers": [
+          "0767822050"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/2/d/e/8/2de8abc0-f16e-47ff-afae-643e03da7836.jpg?ci_seal=b807e1d9e0aafd7f9fa7c59134611d667307d1b1"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Alaïs Hennico",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "GARANCE IMMOBILIER - PARIS 14",
+      "subtitle": "GARANCE IMMOBILIER - PARIS 14",
+      "phoneNumbers": [
+        "0767822050"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "GARANCE IMMOBILIER - PARIS 14",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/2/d/e/8/2de8abc0-f16e-47ff-afae-643e03da7836.jpg?ci_seal=b807e1d9e0aafd7f9fa7c59134611d667307d1b1",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-14eme-arrondissement-75014/agence-141718/"
+      },
+      "contactCard": {
+        "title": "Alaïs Hennico",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.garance-immo.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-14eme-arrondissement-75014/agence-141718/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "SAS, société par actions simplifiée GROUPE GARANCE",
+        "<b>Siège:</b> 46 Rue D'alesia, 75014 Paris",
+        "<b>RCS:</b> 410995161",
+        "<b>SIRET:</b> 41099516100040"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "46 Rue d'Alésia, 75014 Paris",
+      "phoneNumbers": [
+        "0767822050"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75009",
+    "av_city": "Paris",
+    "av_energy_certificate": "F",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25XLMFZCVHK5",
+        "price": 585,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75009",
+        "legacy_id": "255486383",
+        "product_type": "standard",
+        "client_id": "RC-066025",
+        "energy_certificate": "F"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "967",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "F",
+        "estate_postalcode": "75009",
+        "estate_type": 1,
+        "id": "255486383",
+        "id_duo": 255486383,
+        "id_solo": 255486383,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 10,
+        "position": 0,
+        "price": 585,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 10,
+        "year_of_construction": 1900
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75009",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255486383",
+      "prix": 600,
+      "nb_pieces": 1,
+      "surface": 10,
+      "etage": 6,
+      "commodites": [
+        "ascenseur",
+        "Chauffage-electrique",
+        "dernier%20etage",
+        "sansVisAVis"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "F"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-9eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 9ème arrondissement 75009",
+          "hoverLabel": "Appartements à louer Paris 9ème arrondissement 75009",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 10 m² 585 € Lafayette-Richer Paris (75009)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 10 m² 585 € Lafayette-Richer Paris (75009)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/provence-opera/255486383.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/provence-opera/255486383.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 10 m² 585 € Lafayette-Richer Paris (75009)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 10 m² 585 € Lafayette-Richer Paris (75009)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/8/7/8/8/87886645-d670-45f8-943b-7b021b215d52.jpg?ci_seal=5812364fd2e54532b91e07c21a162114645f9cfd"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 10 m² 585 € Lafayette-Richer Paris (75009)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/provence-opera/255486383.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 10 m² 585 € Lafayette-Richer Paris (75009)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 10 m² 585 € Lafayette-Richer Paris (75009)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/8/7/8/8/87886645-d670-45f8-943b-7b021b215d52.jpg?ci_seal=5812364fd2e54532b91e07c21a162114645f9cfd"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 10 m² 585 € Lafayette-Richer Paris (75009)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 10 m² 585 € Lafayette-Richer Paris (75009)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-9eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 9ème arrondissement 75009",
+          "hoverLabel": "Appartements à louer Paris 9ème arrondissement 75009",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/provence-opera/255486383.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#303030",
+    "textColor": "light",
+    "providerName": "GARANCE IMMOBILIER - PARIS 14",
+    "logo": {
+      "src": "https://mms.seloger.com/2/d/e/8/2de8abc0-f16e-47ff-afae-643e03da7836.jpg?ci_seal=b807e1d9e0aafd7f9fa7c59134611d667307d1b1",
+      "alt": "logo-RC-066025",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/b/3/5/2/b352bb6e-60b5-4244-9005-2177d8dae73c.png?ci_eqs=&ci_seal=0a382acb06566a06448fa97f9335adb89a2f31a8",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-14eme-arrondissement-75014/agence-141718/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/b/3/5/2/b352bb6e-60b5-4244-9005-2177d8dae73c.png?ci_eqs=&ci_seal=0a382acb06566a06448fa97f9335adb89a2f31a8",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-14eme-arrondissement-75014/agence-141718/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/9/8/f/0/98f014a5-f3f6-4b63-93dd-529976dbd75c.png?ci_eqs=&ci_seal=877cde8f8ca649bc28a226bd0c4db8413aae628c",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-14eme-arrondissement-75014/agence-141718/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR40&priceMax=702&priceMin=468",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR40",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR34",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25XLMFZCVHK5"
+}

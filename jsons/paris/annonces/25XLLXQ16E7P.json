@@ -1,0 +1,1173 @@
+{
+  "brand": "seloger",
+  "id": "25XLLXQ16E7P",
+  "metadata": {
+    "legacyId": "254709865",
+    "creationDate": "2025-11-19T11:59:00Z",
+    "updateDate": "2025-12-09T15:20:10.822Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 16ème",
+        "zipCode": "75016",
+        "district": "Muette Nord"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.281458000000001,
+          48.86174699998633
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "6",
+                "color": "#71cc98"
+              },
+              {
+                "name": "9",
+                "color": "#b5bd00"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "22",
+                "color": "#00643c"
+              },
+              {
+                "name": "30",
+                "color": "#62259d"
+              },
+              {
+                "name": "32",
+                "color": "#9c983a"
+              },
+              {
+                "name": "52",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "63",
+                "color": "#cec92a"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Appartement meublé de 57,85 m² situé rue Louis David, au cœur du 16ème arrondissement de Paris. Ce deux-pièces se compose d'une agréable pièce à vivre très lumineuse avec cuisine ouverte équipée et aménagée, une chambre , une salle de bain comprennant une douche à l'italienne, une baignoire, un WC.\n\nL'appartement se trouve dans un immeuble calme et sécurisé, à proximité immédiate des commerces et commodités : supermarchés, boulangeries, restaurants, écoles, ainsi que des transports en commun (métro et bus). Un cadre de vie agréable, au sein d'un quartier résidentiel recherché du 16ème  arrondissement.",
+      "texts": [
+        {
+          "text": "Appartement meublé de 57,85 m² situé rue Louis David, au cœur du 16ème arrondissement de Paris. Ce deux-pièces se compose d'une agréable pièce à vivre très lumineuse avec cuisine ouverte équipée et aménagée, une chambre , une salle de bain comprennant une douche à l'italienne, une baignoire, un WC.\n\nL'appartement se trouve dans un immeuble calme et sécurisé, à proximité immédiate des commerces et commodités : supermarchés, boulangeries, restaurants, écoles, ainsi que des transports en commun (métro et bus). Un cadre de vie agréable, au sein d'un quartier résidentiel recherché du 16ème  arrondissement."
+        }
+      ],
+      "headline": "Appartement 2 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "57,9 m²",
+        "1er étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "57,9 m²",
+          "splitValue": "57,9",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1er étage",
+          "splitValue": "1er",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "2 500 €",
+        "formatted": "2 500 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "2500 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "5d80ae63-6e9a-4f0b-a8fb-abdcdb71a74e",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "Minimum 1512 €/an"
+            },
+            {
+              "type": "excessiveConsumption",
+              "label": "Consommation d'énergie",
+              "value": "Logement à consommation énergétique excessive: classe F"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: minimum 1512 € par an. Prix moyens des énergies indexés au 14/08/2015 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "4ee8c48f-4074-4578-8257-e49df89cc705",
+              "efficiencyClass": {
+                "index": 5,
+                "rating": "F"
+              },
+              "values": [
+                {
+                  "value": "349 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "99 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : F avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": true
+            },
+            {
+              "key": "276d09a7-8e49-4be9-bf90-70bc7aa21004",
+              "efficiencyClass": {
+                "index": 6,
+                "rating": "G"
+              },
+              "values": [
+                {
+                  "value": "99 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : G avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "254709865"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "7LOUISDAVID"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "2 250 €/mois Loyer de base",
+          "ariaLabel": "2250 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "250 €/mois",
+            "ariaLabel": "250 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "2 500 €/mois",
+            "ariaLabel": "2500 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "38,89 €/mois/m²",
+            "ariaLabel": "38,89 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "4?500"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "1er étage"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "c45e9623-6897-46e2-a856-bc64d6d8339a",
+          "url": "https://mms.seloger.com/c/4/5/e/c45e9623-6897-46e2-a856-bc64d6d8339a.jpg?ci_seal=fd1dd99fc7fdb3caa9e5d1a2e8b006ec5769f7c6",
+          "alt": "Appartement à louer 2 500 € 2 pièces 1 chambre 57,9 m² 1er étage Muette Nord Paris 16ème 75016",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "35b63e5d-07c5-49e7-a6a3-9737a7677e89",
+          "url": "https://mms.seloger.com/3/5/b/6/35b63e5d-07c5-49e7-a6a3-9737a7677e89.jpg?ci_seal=b5e7cb8ba9d14141ef73d8e76c9e7b7ca6498828",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "81df1bf2-0ea2-4314-b676-63600e03bfcd",
+          "url": "https://mms.seloger.com/8/1/d/f/81df1bf2-0ea2-4314-b676-63600e03bfcd.jpg?ci_seal=08c3c40a18eb61d2fb2b8dc156f02eeb8603ca9e",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "be551aab-021d-44f0-a2d4-0e19931304d1",
+          "url": "https://mms.seloger.com/b/e/5/5/be551aab-021d-44f0-a2d4-0e19931304d1.jpg?ci_seal=34d8bfb7437acec64a08a4f9b7b60ce6118dd51f",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3572e5c6-8a57-4d73-9c33-cb9c87309c43",
+          "url": "https://mms.seloger.com/3/5/7/2/3572e5c6-8a57-4d73-9c33-cb9c87309c43.jpg?ci_seal=1b776e7a6411a0f372ff380620a6bfe23ae56c94",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8d1a92be-9f75-4b3c-aa14-ea732df4e120",
+          "url": "https://mms.seloger.com/8/d/1/a/8d1a92be-9f75-4b3c-aa14-ea732df4e120.jpg?ci_seal=df4c9a0634d6452ca614f4914419deda35ccf4a1",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "736c2915-f967-4b5a-8ecd-75f64f19f39c",
+          "url": "https://mms.seloger.com/7/3/6/c/736c2915-f967-4b5a-8ecd-75f64f19f39c.jpg?ci_seal=c8dcaa290a4b89698bab099a178601bd869f7359",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2140a37b-2faa-49fa-9fc5-023c42dc8912",
+          "url": "https://mms.seloger.com/2/1/4/0/2140a37b-2faa-49fa-9fc5-023c42dc8912.jpg?ci_seal=e37fa20589ea8d48140ef1f74091bd031963ad23",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "115c4876-04f8-4e60-9715-706fad254d7b",
+          "url": "https://mms.seloger.com/1/1/5/c/115c4876-04f8-4e60-9715-706fad254d7b.jpg?ci_seal=3f8d86f00c0c38e063194e37fff6864ed7e74ea4",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ff90c5cd-743e-4b33-a587-2b0c22bdd231",
+          "url": "https://mms.seloger.com/f/f/9/0/ff90c5cd-743e-4b33-a587-2b0c22bdd231.jpg?ci_seal=f1367c15e2d55b204b827f509ca236382d3c6355",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "aff12a84-2ef0-4096-b4f5-631412571c10",
+          "url": "https://mms.seloger.com/a/f/f/1/aff12a84-2ef0-4096-b4f5-631412571c10.jpg?ci_seal=c693b3d60ff7eefb68969da40376997e8d35b3b9",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a3eb529d-8e10-4ef5-9786-e89b58b4c636",
+          "url": "https://mms.seloger.com/a/3/e/b/a3eb529d-8e10-4ef5-9786-e89b58b4c636.jpg?ci_seal=69827da23cbe6d72da65075c6eea8499db3a5fab",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c081b2aa-db89-45b0-b3ea-84d7b3097271",
+          "url": "https://mms.seloger.com/c/0/8/1/c081b2aa-db89-45b0-b3ea-84d7b3097271.jpg?ci_seal=195f625371e1f2baa0190d2481b91301706d230d",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8d8dabe0-36c9-46b6-80e4-173df8ebcdc0",
+          "url": "https://mms.seloger.com/8/d/8/d/8d8dabe0-36c9-46b6-80e4-173df8ebcdc0.jpg?ci_seal=f6cd8dd34409b0975b6ebee94bfad51fc5278f2a",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6d1538f1-e1c7-4ef6-bc09-888e8b8e8277",
+          "url": "https://mms.seloger.com/6/d/1/5/6d1538f1-e1c7-4ef6-bc09-888e8b8e8277.jpg?ci_seal=b3cb723a4a81aa7d33fbdd12f94ba8d61450c78e",
+          "classification": {
+            "name": "COURTYARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "254709865",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75016",
+      "city": "Paris 16ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 34.03,
+        "accuracy": 3,
+        "high": "43,16",
+        "low": "26,26"
+      },
+      "markerPosition": 75,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "38,89",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 2 pièces",
+      "description": "Appartement meublé de 57,85 m² situé rue Louis David, au cœur du 16ème arrondissement de Paris. Ce deux-pièces se compose d'une agréable pièce à vivre très lumineuse avec cuisine ouverte équipée et aménagée, une chambre , une salle de bain comprennant une douche à l'italienne, une baignoire, un WC.\n\nL'appartement se trouve dans un immeuble calme et sécurisé, à proximité immédiate des commerces et commodités : supermarchés, boulangeries, restaurants, écoles, ainsi que des transports en commun (métro et bus). Un cadre de vie agréable, au sein d'un quartier résidentiel recherché du 16ème  arrondissement.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "20 jours en ligne",
+      "views": "172 vues",
+      "saves": "22 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25XLLXQ16E7P",
+    "legacyId": "254709865",
+    "brand": "seloger",
+    "agencyId": "RC-1361075",
+    "static": {
+      "phoneNumbers": [
+        "0666971319"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0666971319"
+      ]
+    },
+    "contactCard": {
+      "title": "Moriss Immobilier - Paris 18",
+      "subtitle": "Moriss Gestion",
+      "phoneNumbers": [
+        "0666971319"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/7/e/6/d/7e6d4823-d805-453d-875c-887322c8f4aa.jpg?ci_seal=2f2b6ebce542c4d0ca0fd49d58cdc791e84c1155",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Moriss Immobilier - Paris 18",
+        "subtitle": "Moriss Gestion",
+        "phoneNumbers": [
+          "0666971319"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/7/e/6/d/7e6d4823-d805-453d-875c-887322c8f4aa.jpg?ci_seal=2f2b6ebce542c4d0ca0fd49d58cdc791e84c1155"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Moriss Gestion",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Moriss Immobilier - Paris 18",
+      "subtitle": "Moriss Immobilier - Paris 18",
+      "phoneNumbers": [
+        "0666971319"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Moriss Immobilier - Paris 18",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/7/e/6/d/7e6d4823-d805-453d-875c-887322c8f4aa.jpg?ci_seal=2f2b6ebce542c4d0ca0fd49d58cdc791e84c1155",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-18eme-arrondissement-75018/agence-87759/"
+      },
+      "contactCard": {
+        "title": "Moriss Gestion",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "https://www.morissimmobilier.com/agences/agence-immobiliere-abbesses/?gclid=EAIaIQobChMIg4_i5civ6gIVm94YCh04kwAeEAAYASAAEgLZH_D_BwE",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-18eme-arrondissement-75018/agence-87759/",
+      "imprintUrl": null,
+      "feeUrl": "https://www.morissimmobilier.com:443/wp-content/uploads/2022/06/BAREME-MORISS-IMMOBILIER-2022.pdf",
+      "agencyLegalInformations": [
+        "Société à responsabilité limitée (sans autre indication) MAUBEUGE CONSEIL",
+        "<b>Siège:</b> 123 Rue Ordener, 75018 Paris",
+        "<b>RCS:</b> 823142005",
+        "<b>SIRET:</b> 82314200500037"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "123 rue Ordener, 75018 Paris",
+      "phoneNumbers": [
+        "0666971319"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75016",
+    "av_city": "Paris",
+    "av_energy_certificate": "F",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25XLLXQ16E7P",
+        "price": 2500,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75016",
+        "legacy_id": "254709865",
+        "product_type": "standard",
+        "client_id": "RC-1361075",
+        "energy_certificate": "F"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "62455",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "F",
+        "estate_postalcode": "75016",
+        "estate_type": 1,
+        "id": "254709865",
+        "id_duo": 254709865,
+        "id_solo": 254709865,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 15,
+        "position": 0,
+        "price": 2500,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 57.85
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75016",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "254709865",
+      "prix": 2500,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 57.85,
+      "commodites": [
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "F"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 57.85 m² 2500 € Muette Nord Paris (75016)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 57.85 m² 2500 € Muette Nord Paris (75016)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/muette-nord/254709865.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/muette-nord/254709865.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 57.85 m² 2500 € Muette Nord Paris (75016)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 57.85 m² 2500 € Muette Nord Paris (75016)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/c/4/5/e/c45e9623-6897-46e2-a856-bc64d6d8339a.jpg?ci_seal=fd1dd99fc7fdb3caa9e5d1a2e8b006ec5769f7c6"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 57.85 m² 2500 € Muette Nord Paris (75016)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/muette-nord/254709865.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 57.85 m² 2500 € Muette Nord Paris (75016)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 57.85 m² 2500 € Muette Nord Paris (75016)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/c/4/5/e/c45e9623-6897-46e2-a856-bc64d6d8339a.jpg?ci_seal=fd1dd99fc7fdb3caa9e5d1a2e8b006ec5769f7c6"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 57.85 m² 2500 € Muette Nord Paris (75016)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 57.85 m² 2500 € Muette Nord Paris (75016)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-16eme-75/muette-nord/254709865.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#303030",
+    "textColor": "light",
+    "providerName": "Moriss Immobilier - Paris 18",
+    "logo": {
+      "src": "https://mms.seloger.com/7/e/6/d/7e6d4823-d805-453d-875c-887322c8f4aa.jpg?ci_seal=2f2b6ebce542c4d0ca0fd49d58cdc791e84c1155",
+      "alt": "logo-RC-1361075",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/0/5/5/9/0559c0d3-a9f3-4f01-a6ce-65a0d0bf256c.png?ci_eqs=&ci_seal=dfddb7cb67de1ce84ad27f90b6fa5a8901d2ff0b",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-18eme-arrondissement-75018/agence-87759/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/0/5/5/9/0559c0d3-a9f3-4f01-a6ce-65a0d0bf256c.png?ci_eqs=&ci_seal=dfddb7cb67de1ce84ad27f90b6fa5a8901d2ff0b",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-18eme-arrondissement-75018/agence-87759/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/0/8/2/b/082b4f69-debc-4027-bc9f-cfe0a846f3ea.png?ci_eqs=&ci_seal=94f17ee3755508534a421feb296c9641e3fa8698",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-18eme-arrondissement-75018/agence-87759/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR85&priceMax=3000&priceMin=2000",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR85",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR41",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25XLLXQ16E7P"
+}

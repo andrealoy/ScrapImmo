@@ -1,0 +1,1086 @@
+{
+  "brand": "seloger",
+  "id": "254IW52F75YL",
+  "metadata": {
+    "creationDate": "2025-11-21T13:24:29.8471191Z",
+    "updateDate": "2025-11-21T13:24:29.8471174Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FR",
+        "city": "Annecy",
+        "zipCode": "74000",
+        "district": "Galbert"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.118392999999999,
+          45.905894999999944
+        ]
+      }
+    },
+    "description": {
+      "description": "Appartement meublé  lumineux, 49m2, refait à neuf, entièrement équipé, une chambre lit 160x200 , un salon avec canapé lit, \nUn balcon de 11m2,cuisine équipée,  une place de parking , une cave \n5min à pied du centre Courier, \nNous souhaitons louer à partir du 1er décembre en bail mobilité de préférence.\nloyer 1200€ hors charges \ncharges locatives 90€ (eau chaude, chauffage, charges copropriété)\nsi vous le souhaitez Nous proposons un forfait mensuel de 70€ pour eau froide , électricité, internet, \n\nUn dossier complet est attendu (bulletin de paie, feuille d’imposition, copie carte identité caution.solidaire)\ncordialement",
+      "texts": [
+        {
+          "text": "Appartement meublé  lumineux, 49m2, refait à neuf, entièrement équipé, une chambre lit 160x200 , un salon avec canapé lit, \nUn balcon de 11m2,cuisine équipée,  une place de parking , une cave \n5min à pied du centre Courier, \nNous souhaitons louer à partir du 1er décembre en bail mobilité de préférence.\nloyer 1200€ hors charges \ncharges locatives 90€ (eau chaude, chauffage, charges copropriété)\nsi vous le souhaitez Nous proposons un forfait mensuel de 70€ pour eau froide , électricité, internet, \n\nUn dossier complet est attendu (bulletin de paie, feuille d’imposition, copie carte identité caution.solidaire)\ncordialement"
+        }
+      ],
+      "headline": "T2 Meublé 49m2 Annecy"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "49 m²",
+        "Étage 1/4"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "49 m²",
+          "splitValue": "49",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 1/4",
+          "splitValue": "Étage",
+          "label": "1/4"
+        }
+      ],
+      "price": {
+        "value": "1 290 €",
+        "formatted": "1 290 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1290 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1975"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Comme neuf"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "339fef84-7c9f-40cb-a272-9d963af7feae",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "d53210a0-e405-417c-a705-e63f2dd321e0",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "8afad714-54b1-4efa-a9a6-d3c894f54e09",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "254IW52F75YL"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 200 €/mois Loyer de base",
+          "ariaLabel": "1200 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "90 €/mois",
+            "ariaLabel": "90 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 290 €/mois",
+            "ariaLabel": "1290 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "24,49 €/mois/m²",
+            "ariaLabel": "24,49 euros par mètre carré"
+          },
+          {
+            "label": "Prix du parking",
+            "value": "inclus dans le loyer"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2400"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible immédiatement"
+        },
+        {
+          "icon": "floors",
+          "value": "1er étage/4 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "value": "Cave",
+          "icon": "cellar"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Parking"
+        },
+        {
+          "icon": "balcony",
+          "value": "Balcon (Total 11 m²)"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "availability",
+                "value": "disponible immédiatement"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "flat-share-possible",
+                "value": "Colocation non autorisée"
+              },
+              {
+                "icon": "floors",
+                "value": "1er étage/4 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "value": "Cave",
+                "icon": "cellar"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Balcon (Total 11 m²)"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "Parking"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "9ce784bd-c391-4c0c-9801-1e8ca855610b",
+          "url": "https://mms.seloger.com/9/c/e/7/9ce784bd-c391-4c0c-9801-1e8ca855610b.jpg?ci_seal=32a58f76b71b5d1a8cfd7da0706d30401251decb",
+          "description": "photo salon.jpg",
+          "alt": "Appartement à louer 1 290 € 2 pièces 1 chambre 49 m² Étage 1/4 Galbert Annecy 74000",
+          "title": "photo salon.jpg",
+          "ariaLabel": "photo salon.jpg",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "721a8522-c965-45cb-a623-51adc6dfcaee",
+          "url": "https://mms.seloger.com/7/2/1/a/721a8522-c965-45cb-a623-51adc6dfcaee.jpg?ci_seal=b6d0ab74d229ed3c30a2885f5a2e38b85958e08c",
+          "description": "photo cuisine.jpg",
+          "title": "photo cuisine.jpg",
+          "ariaLabel": "photo cuisine.jpg",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "dbc40fee-fe08-4bcb-a692-8bc028010790",
+          "url": "https://mms.seloger.com/d/b/c/4/dbc40fee-fe08-4bcb-a692-8bc028010790.jpg?ci_seal=05270d335145d192b66b03f3ef3a8fbad7b5c40c",
+          "description": "photo salle eau 2.jpg",
+          "title": "photo salle eau 2.jpg",
+          "ariaLabel": "photo salle eau 2.jpg",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "593122c7-fc74-4d05-bfa7-a93f68bb1a84",
+          "url": "https://mms.seloger.com/5/9/3/1/593122c7-fc74-4d05-bfa7-a93f68bb1a84.jpg?ci_seal=d0e9589dd04cc617a46e16d416ed93dba01a0f4a",
+          "description": "photo salon 2.jpg",
+          "title": "photo salon 2.jpg",
+          "ariaLabel": "photo salon 2.jpg",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "06f69391-a054-4c39-999b-df2a806450f9",
+          "url": "https://mms.seloger.com/0/6/f/6/06f69391-a054-4c39-999b-df2a806450f9.jpg?ci_seal=5161d085649ec2e982581ed4022d18d703ddc846",
+          "description": "photo cuisine 2.jpg",
+          "title": "photo cuisine 2.jpg",
+          "ariaLabel": "photo cuisine 2.jpg",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "515bd206-fdb9-43a0-87df-2bdd297dc8cd",
+          "url": "https://mms.seloger.com/5/1/5/b/515bd206-fdb9-43a0-87df-2bdd297dc8cd.jpg?ci_seal=038f2e673832d78f98efa43775f7694ed4e67e2a",
+          "description": "photo chambre.jpg",
+          "title": "photo chambre.jpg",
+          "ariaLabel": "photo chambre.jpg",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "federalStateGeoId": "AD04FR31",
+      "zip": "74000",
+      "city": "Annecy",
+      "country": "FR",
+      "region": "Auvergne-Rhône-Alpes",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 18.02,
+        "accuracy": 3,
+        "high": "28,52",
+        "low": "12,72"
+      },
+      "markerPosition": 74,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "24,49",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "T2 Meublé 49m2 Annecy",
+      "description": "Appartement meublé  lumineux, 49m2, refait à neuf, entièrement équipé, une chambre lit 160x200 , un salon avec canapé lit, \nUn balcon de 11m2,cuisine équipée,  une place de parking , une cave \n5min à pied du centre Courier, \nNous souhaitons louer à partir du 1er décembre en bail mobilité de préférence.\nloyer 1200€ hors charges \ncharges locatives 90€ (eau chaude, chauffage, charges copropriété)\nsi vous le souhaitez Nous proposons un forfait mensuel de 70€ pour eau froide , électricité, internet, \n\nUn dossier complet est attendu (bulletin de paie, feuille d’imposition, copie carte identité caution.solidaire)\ncordialement",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "18 jours en ligne",
+      "views": "89 vues",
+      "saves": "6 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "254IW52F75YL",
+    "brand": "seloger",
+    "agencyId": "2e5d3740-6cf0-41de-90d7-b2233a50781f",
+    "static": {
+      "phoneNumbers": []
+    },
+    "sticky": {
+      "phoneNumbers": []
+    },
+    "contactCard": {
+      "title": "cariou",
+      "subtitle": "Propriétaire particulier",
+      "phoneNumbers": [],
+      "isPrivateOwner": true,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": false
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": true
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "cariou",
+        "subtitle": "Propriétaire particulier",
+        "phoneNumbers": [],
+        "isPrivateOwner": true,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à cariou",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Propriétaire particulier",
+      "phoneNumbers": [],
+      "logoUrl": null,
+      "isPrivateOwner": true
+    },
+    "provider": {
+      "intermediaryCard": {
+        "display": false,
+        "title": "",
+        "subtitle": ""
+      },
+      "contactCard": {
+        "title": "cariou",
+        "subtitle": "Propriétaire particulier",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": true,
+      "imprintUrl": null,
+      "agencyLegalInformations": [],
+      "displayLinks": false,
+      "phoneNumbers": []
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "private",
+    "av_language": "fr",
+    "av_zip_code": "74000",
+    "av_city": "Annecy",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "254IW52F75YL",
+        "price": 1290,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Annecy",
+        "region": "Auvergne-Rhône-Alpes",
+        "province": "Upper Savoy",
+        "currency": "EUR",
+        "zip_code": "74000",
+        "building_state": "MINT_CONDITION",
+        "product_type": "standard",
+        "client_id": "2e5d3740-6cf0-41de-90d7-b2233a50781f",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_type": "particulier",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "74000",
+        "estate_type": 1,
+        "id_duo": null,
+        "id_solo": null,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 6,
+        "position": 0,
+        "price": 1290,
+        "product_geolocation": "localisation_street",
+        "product_type": "client",
+        "product_variant": "classified",
+        "space": 0,
+        "year_of_construction": 1975
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "74010",
+      "cp": "74000",
+      "geodp": "74",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "prix": 1300,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 0,
+      "etage": 4,
+      "commodites": [
+        "ascenseur",
+        "balcon",
+        "cave",
+        "Chauffage-central",
+        "Chauffage-gaz",
+        "Cuisine-équipée",
+        "parking%20ouvert",
+        "SalleDEau-douche"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/74/bien-appartement/",
+          "label": "Appartements à louer Haute-Savoie 74",
+          "hoverLabel": "Appartements à louer Haute-Savoie 74",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-annecy-74/bien-appartement/",
+          "label": "Appartements à louer Annecy 74000",
+          "hoverLabel": "Appartements à louer Annecy 74000",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 49 m² 1290 € Galbert Annecy (74000)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 49 m² 1290 € Galbert Annecy (74000)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/annecy-74/galbert/254IW52F75YL.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/annecy-74/galbert/254IW52F75YL.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 49 m² 1290 € Galbert Annecy (74000)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 49 m² 1290 € Galbert Annecy (74000)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/9/c/e/7/9ce784bd-c391-4c0c-9801-1e8ca855610b.jpg?ci_seal=32a58f76b71b5d1a8cfd7da0706d30401251decb"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 49 m² 1290 € Galbert Annecy (74000)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/annecy-74/galbert/254IW52F75YL.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 49 m² 1290 € Galbert Annecy (74000)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 49 m² 1290 € Galbert Annecy (74000)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/9/c/e/7/9ce784bd-c391-4c0c-9801-1e8ca855610b.jpg?ci_seal=32a58f76b71b5d1a8cfd7da0706d30401251decb"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 49 m² 1290 € Galbert Annecy (74000)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 49 m² 1290 € Galbert Annecy (74000)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/74/bien-appartement/",
+          "label": "Appartements à louer Haute-Savoie 74",
+          "hoverLabel": "Appartements à louer Haute-Savoie 74",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-annecy-74/bien-appartement/",
+          "label": "Appartements à louer Annecy 74000",
+          "hoverLabel": "Appartements à louer Annecy 74000",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/annecy-74/galbert/254IW52F75YL.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR6025&priceMax=1548&priceMin=1032",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR6025",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD08FR30806",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR75",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR31",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ]
+  },
+  "cps": "254IW52F75YL"
+}

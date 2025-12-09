@@ -1,0 +1,1127 @@
+{
+  "brand": "seloger",
+  "id": "256BL417EYTF",
+  "metadata": {
+    "legacyId": "256059415",
+    "creationDate": "2025-12-08T09:48:00Z",
+    "updateDate": "2025-12-08T11:16:21.397Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 2ème",
+        "zipCode": "75002",
+        "district": "Montorgueil-Saint Denis"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.347986,
+          48.86543999998634
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "3",
+                "color": "#827a04"
+              },
+              {
+                "name": "4",
+                "color": "#c800a1"
+              }
+            ]
+          },
+          {
+            "type": "RER",
+            "lines": [
+              {
+                "name": "A",
+                "color": "#E3051C"
+              },
+              {
+                "name": "B",
+                "color": "#5291CE"
+              },
+              {
+                "name": "D",
+                "color": "#5E9620"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "20",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "29",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "38",
+                "color": "#006cb8"
+              },
+              {
+                "name": "39",
+                "color": "#a0006e"
+              },
+              {
+                "name": "47",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "67",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "74",
+                "color": "#cec92a"
+              },
+              {
+                "name": "85",
+                "color": "#5a230a"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Paris 2ème - Quartier piétonnier Montorgueil\nDans un immeuble de 1900, au 3ème étage sur cour un studio très bien meublé et rénové comprenant :\nUne pièce principale avec cuisine américaine entièrement équipée (réfrigérateur, micro-ondes, plaques, lave-vaisselle,..) une salle d'eau avec wc (lave-linge).\nTrès clair. Calme.\nChauffage et eau chaude électrique individuel.\nCave.\nA 5 min à pied de la Station de métro Sentier (ligne 3)",
+      "texts": [
+        {
+          "text": "Paris 2ème - Quartier piétonnier Montorgueil\nDans un immeuble de 1900, au 3ème étage sur cour un studio très bien meublé et rénové comprenant :\nUne pièce principale avec cuisine américaine entièrement équipée (réfrigérateur, micro-ondes, plaques, lave-vaisselle,..) une salle d'eau avec wc (lave-linge).\nTrès clair. Calme.\nChauffage et eau chaude électrique individuel.\nCave.\nA 5 min à pied de la Station de métro Sentier (ligne 3)"
+        }
+      ],
+      "headline": "Appartement 1 pièce"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "23 m²",
+        "3ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "23 m²",
+          "splitValue": "23",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3ème étage",
+          "splitValue": "3ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 138 €",
+        "formatted": "1 138 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1137.51 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "b691c7bc-9535-4373-acf4-665d6178086e",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 740 et 1060 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 740 et 1060 € par an. Date d'indexation du prix des énergies non communiquée."
+            }
+          ],
+          "scales": [
+            {
+              "key": "c2425bbf-00dc-4caa-9a86-9be20100c200",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "348 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "11 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "a4a757f2-ff55-400b-8543-8739258eb776",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "11 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256059415"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "LA2563"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 037,51 €/mois Loyer de base",
+          "ariaLabel": "1037.51 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "100 €/mois",
+            "ariaLabel": "100 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 137,51 €/mois",
+            "ariaLabel": "1137.51 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "45,11 €/mois/m²",
+            "ariaLabel": "45,11 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2075,02"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "3ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "value": "Cave",
+          "icon": "cellar"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de douches"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "3ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "value": "Cave",
+                "icon": "cellar"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "3094c084-cf6f-40d5-8c15-c6c0aadef995",
+          "url": "https://mms.seloger.com/3/0/9/4/3094c084-cf6f-40d5-8c15-c6c0aadef995.jpg?ci_seal=33d8d8e40fc9df410d1430df6b53c690e6f5b66f",
+          "alt": "Appartement à louer 1 138 € 1 pièce 23 m² 3ème étage Montorgueil-Saint Denis Paris 2ème 75002",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "176650b8-9e94-421e-b8a8-2857917a9b52",
+          "url": "https://mms.seloger.com/1/7/6/6/176650b8-9e94-421e-b8a8-2857917a9b52.jpg?ci_seal=8abcc6c2cb3058901177a5452def5692a0763c42",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e4e804c2-d80b-44e3-9345-1f207c6561e1",
+          "url": "https://mms.seloger.com/e/4/e/8/e4e804c2-d80b-44e3-9345-1f207c6561e1.jpg?ci_seal=a24610e5bf70d55ef9bb4900732dd2fb738feaec",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5ff49328-58c9-43b9-8107-5f91af037c60",
+          "url": "https://mms.seloger.com/5/f/f/4/5ff49328-58c9-43b9-8107-5f91af037c60.jpg?ci_seal=eeedb6f26dcd1fb7916892ee74a92822654a4f0c",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256059415",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75002",
+      "city": "Paris 2ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 37.32,
+        "accuracy": 3,
+        "high": "46,90",
+        "low": "28,60"
+      },
+      "markerPosition": 90,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "45,11",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 1 pièce",
+      "description": "Paris 2ème - Quartier piétonnier Montorgueil\nDans un immeuble de 1900, au 3ème étage sur cour un studio très bien meublé et rénové comprenant :\nUne pièce principale avec cuisine américaine entièrement équipée (réfrigérateur, micro-ondes, plaques, lave-vaisselle,..) une salle d'eau avec wc (lave-linge).\nTrès clair. Calme.\nChauffage et eau chaude électrique individuel.\nCave.\nA 5 min à pied de la Station de métro Sentier (ligne 3)",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "188 vues",
+      "saves": "20 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "256BL417EYTF",
+    "legacyId": "256059415",
+    "brand": "seloger",
+    "agencyId": "RC-015086",
+    "static": {
+      "phoneNumbers": [
+        "0143872200"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0143872200"
+      ]
+    },
+    "contactCard": {
+      "title": "TRANSACTION GROUPE IMMOBILIER EUROPE",
+      "subtitle": "Groupe Immobilier Europe",
+      "phoneNumbers": [
+        "0143872200"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/5/0/8/8/5088bd92-153b-4562-a154-fe9228649c76.jpg?ci_seal=1c483af610719bc3bcc2e5aeab734531947d5a54",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "TRANSACTION GROUPE IMMOBILIER EUROPE",
+        "subtitle": "Groupe Immobilier Europe",
+        "phoneNumbers": [
+          "0143872200"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/5/0/8/8/5088bd92-153b-4562-a154-fe9228649c76.jpg?ci_seal=1c483af610719bc3bcc2e5aeab734531947d5a54"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Groupe Immobilier Europe",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "TRANSACTION GROUPE IMMOBILIER EUROPE",
+      "subtitle": "TRANSACTION GROUPE IMMOBILIER EUROPE",
+      "phoneNumbers": [
+        "0143872200"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "TRANSACTION GROUPE IMMOBILIER EUROPE",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/5/0/8/8/5088bd92-153b-4562-a154-fe9228649c76.jpg?ci_seal=1c483af610719bc3bcc2e5aeab734531947d5a54",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-174759/"
+      },
+      "contactCard": {
+        "title": "Groupe Immobilier Europe",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "https://gieurope.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-174759/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "Société à responsabilité limitée (sans autre indication) GROUPE IMMOBILIER EUROPE",
+        "<b>Siège:</b> 51 Rue De Rome, 75008 Paris",
+        "<b>RCS:</b> 312137961",
+        "<b>SIRET:</b> 31213796100016"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "51 rue de Rome, 75008 Paris",
+      "phoneNumbers": [
+        "0143872200"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75002",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "256BL417EYTF",
+        "price": 1137.51,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75002",
+        "legacy_id": "256059415",
+        "product_type": "standard",
+        "client_id": "RC-015086",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "31",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75002",
+        "estate_type": 1,
+        "id": "256059415",
+        "id_duo": 256059415,
+        "id_solo": 256059415,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 4,
+        "position": 0,
+        "price": 1137.51,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 23
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75002",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256059415",
+      "prix": 1200,
+      "nb_pieces": 1,
+      "surface": 23,
+      "commodites": [
+        "cave",
+        "Cuisine-américaine",
+        "SalleDEau-douche"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-2eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 2ème arrondissement 75002",
+          "hoverLabel": "Appartements à louer Paris 2ème arrondissement 75002",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 23 m² 1137.51 € Montorgueil-Saint Denis Paris (75002)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 23 m² 1137.51 € Montorgueil-Saint Denis Paris (75002)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-2eme-75/montorgueil-saint-denis/256059415.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-2eme-75/montorgueil-saint-denis/256059415.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 23 m² 1137.51 € Montorgueil-Saint Denis Paris (75002)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 23 m² 1137.51 € Montorgueil-Saint Denis Paris (75002)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/3/0/9/4/3094c084-cf6f-40d5-8c15-c6c0aadef995.jpg?ci_seal=33d8d8e40fc9df410d1430df6b53c690e6f5b66f"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 23 m² 1137.51 € Montorgueil-Saint Denis Paris (75002)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-2eme-75/montorgueil-saint-denis/256059415.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 23 m² 1137.51 € Montorgueil-Saint Denis Paris (75002)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 23 m² 1137.51 € Montorgueil-Saint Denis Paris (75002)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/3/0/9/4/3094c084-cf6f-40d5-8c15-c6c0aadef995.jpg?ci_seal=33d8d8e40fc9df410d1430df6b53c690e6f5b66f"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 23 m² 1137.51 € Montorgueil-Saint Denis Paris (75002)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 23 m² 1137.51 € Montorgueil-Saint Denis Paris (75002)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-2eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 2ème arrondissement 75002",
+          "hoverLabel": "Appartements à louer Paris 2ème arrondissement 75002",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-2eme-75/montorgueil-saint-denis/256059415.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR8&priceMax=1365.01&priceMin=910.01",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR8",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR27",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "256BL417EYTF"
+}

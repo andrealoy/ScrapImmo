@@ -1,0 +1,1099 @@
+{
+  "brand": "seloger",
+  "id": "25E2KCTWNTAY",
+  "metadata": {
+    "legacyId": "256139925",
+    "creationDate": "2025-12-09T11:19:00Z",
+    "updateDate": "2025-12-09T11:21:09.59Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 18ème",
+        "zipCode": "75018",
+        "district": "Montmartre"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3376,
+          48.88793
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "12",
+                "color": "#007a53"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "40",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "80",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "95",
+                "color": "#62259d"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "M° LAMARCK CAULAINCOURT - PROCHE AV JUNOT\r\nBeau studio meublé et équipée luxueusement au rdc d'une résidence de charme.\r\nComposée d'une pièce principale avec coin chambre et cuisine équipée (four, lave-vaisselle..), et d'une salle d'eau avec wc (lave-linge). Nombreux rangements, résidence au calme. Sombre.\r\nBail secteur libre (résidence secondaire) Idéal pied à terre. Libre le 5 janvier.",
+      "texts": [
+        {
+          "text": "M° LAMARCK CAULAINCOURT - PROCHE AV JUNOT\r\nBeau studio meublé et équipée luxueusement au rdc d'une résidence de charme.\r\nComposée d'une pièce principale avec coin chambre et cuisine équipée (four, lave-vaisselle..), et d'une salle d'eau avec wc (lave-linge). Nombreux rangements, résidence au calme. Sombre.\r\nBail secteur libre (résidence secondaire) Idéal pied à terre. Libre le 5 janvier."
+        }
+      ],
+      "headline": "STUDIO MEUBLÉ - M° LAMARCK CAULAINCOURT"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "24,4 m²",
+        "RDC/2"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "24,4 m²",
+          "splitValue": "24,4",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "RDC/2",
+          "splitValue": "RDC/2",
+          "label": ""
+        }
+      ],
+      "price": {
+        "value": "1 150 €",
+        "formatted": "1 150 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "1150 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "c2f903d8-d1ad-491a-948c-7215df4b73d2",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 490 et 710 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 490 et 710 € par an. Prix moyens des énergies indexés au 31/12/2020 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "4a9061d8-3c3e-49e8-a6c1-8170c5a80dc2",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "251 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "8 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "3a5121a0-e4c6-456c-bc36-8dd03de70200",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "8 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256139925"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "558Q-874-FPO"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 150 €/mois Loyer charges comprises",
+          "ariaLabel": "1150 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "15 €/mois",
+            "ariaLabel": "15 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "47,19 €/mois/m²",
+            "ariaLabel": "47,19 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2270"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Rez-de-chaussée/2 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de douches"
+        },
+        {
+          "icon": "closet",
+          "value": "Placard"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "8f378868-5978-4fe6-89bd-f7cc73bd11b3",
+          "url": "https://mms.seloger.com/8/f/3/7/8f378868-5978-4fe6-89bd-f7cc73bd11b3.jpg?ci_seal=d287c875063f9ca42f93de86a6057acbfb3dc623",
+          "alt": "Appartement à louer 1 150 € 1 pièce 24,4 m² RDC/2 Montmartre Paris 18ème 75018",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "16730d36-8d33-4350-8fae-f34dd1312027",
+          "url": "https://mms.seloger.com/1/6/7/3/16730d36-8d33-4350-8fae-f34dd1312027.jpg?ci_seal=72e803ee6c7b41b48cde60edfa724336d7b6e41f",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "024b8de2-2728-4f46-9546-9307143418b1",
+          "url": "https://mms.seloger.com/0/2/4/b/024b8de2-2728-4f46-9546-9307143418b1.jpg?ci_seal=dbcae9191ab39c52bd0d8d41ed5aadc7f66a6640",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ff1d6d9d-4695-4e47-ade4-6578300fb604",
+          "url": "https://mms.seloger.com/f/f/1/d/ff1d6d9d-4695-4e47-ade4-6578300fb604.jpg?ci_seal=cf57723fc2509052391d8c90c4881206cee04a6c",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "dfeaaf58-f74f-4548-ab18-83c8c3e34629",
+          "url": "https://mms.seloger.com/d/f/e/a/dfeaaf58-f74f-4548-ab18-83c8c3e34629.jpg?ci_seal=f27dce8b0f52dccd7f4331025587ecde44d8fa79",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "dd8ce8aa-317c-41a3-bcce-6d5fa7560834",
+          "url": "https://mms.seloger.com/d/d/8/c/dd8ce8aa-317c-41a3-bcce-6d5fa7560834.jpg?ci_seal=fb5a901d2ea0b770a32fd81afd5fc98e90d95b3c",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "167c797a-d2c0-4c28-a44f-ec0793853af1",
+          "url": "https://mms.seloger.com/1/6/7/c/167c797a-d2c0-4c28-a44f-ec0793853af1.jpg?ci_seal=229e9fbfa6866137c3b557dfd9060a7829e0e462",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a0df2b35-15df-4530-856d-a490136f9399",
+          "url": "https://mms.seloger.com/a/0/d/f/a0df2b35-15df-4530-856d-a490136f9399.jpg?ci_seal=2f8eacb0512a57ab95bdcef04e7c9c24753f072a",
+          "classification": {
+            "name": "COURTYARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5f8ef299-a1af-444a-a2ef-cb51399740bd",
+          "url": "https://mms.seloger.com/5/f/8/e/5f8ef299-a1af-444a-a2ef-cb51399740bd.jpg?ci_seal=b3b18e82fcd4444b5fce9b42f87fba35eb58c316",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "591e64dd-0cc9-460d-91ad-4ace85636330",
+          "url": "https://mms.seloger.com/5/9/1/e/591e64dd-0cc9-460d-91ad-4ace85636330.jpg?ci_seal=2376e985932c68c9c8db99e9cf25f6f48e784ee9",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c4b94af1-7017-4380-87ca-8e730bf0a3f9",
+          "url": "https://mms.seloger.com/c/4/b/9/c4b94af1-7017-4380-87ca-8e730bf0a3f9.jpg?ci_seal=682b8c36202952781920f6b76852d46b272bfde3",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4ce2045f-55b9-4c51-95fb-25015614fdbb",
+          "url": "https://mms.seloger.com/4/c/e/2/4ce2045f-55b9-4c51-95fb-25015614fdbb.jpg?ci_seal=414e8b9749b567ded27f443694c2de5333ee2517",
+          "classification": {
+            "name": "COURTYARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256139925",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75018",
+      "city": "Paris 18ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 32.7,
+        "accuracy": 3,
+        "high": "42,86",
+        "low": "26,10"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "47,19",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "STUDIO MEUBLÉ - M° LAMARCK CAULAINCOURT",
+      "description": "M° LAMARCK CAULAINCOURT - PROCHE AV JUNOT\r\nBeau studio meublé et équipée luxueusement au rdc d'une résidence de charme.\r\nComposée d'une pièce principale avec coin chambre et cuisine équipée (four, lave-vaisselle..), et d'une salle d'eau avec wc (lave-linge). Nombreux rangements, résidence au calme. Sombre.\r\nBail secteur libre (résidence secondaire) Idéal pied à terre. Libre le 5 janvier.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "22 vues",
+      "saves": "4 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25E2KCTWNTAY",
+    "legacyId": "256139925",
+    "brand": "seloger",
+    "agencyId": "RC-010334",
+    "static": {
+      "phoneNumbers": [
+        "0187161948"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0187161948"
+      ]
+    },
+    "contactCard": {
+      "title": "Agence Acquerir",
+      "subtitle": "Agence Acquerir",
+      "phoneNumbers": [
+        "0187161948"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/6/9/1/9/69197590-7073-4eec-9142-694dfc890cbb.jpg?ci_seal=24a213de11eee04b108ad1c3eaf6112d68cf771f",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Agence Acquerir",
+        "subtitle": "Agence Acquerir",
+        "phoneNumbers": [
+          "0187161948"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/6/9/1/9/69197590-7073-4eec-9142-694dfc890cbb.jpg?ci_seal=24a213de11eee04b108ad1c3eaf6112d68cf771f"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Agence Acquerir",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Agence Acquerir",
+      "subtitle": "Agence Acquerir",
+      "phoneNumbers": [
+        "0187161948"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Agence Acquerir",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/6/9/1/9/69197590-7073-4eec-9142-694dfc890cbb.jpg?ci_seal=24a213de11eee04b108ad1c3eaf6112d68cf771f",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-18eme-arrondissement-75018/agence-60438/"
+      },
+      "contactCard": {
+        "title": "Agence Acquerir",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.orpi.com/agenceacquerir",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-18eme-arrondissement-75018/agence-60438/",
+      "imprintUrl": null,
+      "feeUrl": "https://telemaque.orpi.coop/agence/5625/20240606111920/bareme.pdf",
+      "agencyLegalInformations": [
+        "SARL ACQUERIR au capital de 7 622 €",
+        "Carte professionnelle T8466 délivrée par la Préfecture de Police de Paris",
+        "Garantie financière GALIAN pour un montant de 140 000 €",
+        "<b>Siège:</b> 51 rue Caulaincourt, 75018 PARIS",
+        "<b>RCS:</b> Paris 412971426",
+        "<b>SIRET:</b> 41297142600017"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "51 rue Caulaincourt, 75018 Paris",
+      "phoneNumbers": [
+        "0187161948"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75018",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25E2KCTWNTAY",
+        "price": 1150,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75018",
+        "legacy_id": "256139925",
+        "product_type": "standard",
+        "client_id": "RC-010334",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "60512",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75018",
+        "estate_type": 1,
+        "id": "256139925",
+        "id_duo": 256139925,
+        "id_solo": 256139925,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 12,
+        "position": 0,
+        "price": 1150,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 24.37
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75018",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256139925",
+      "prix": 1200,
+      "nb_pieces": 1,
+      "surface": 24.37,
+      "etage": 2,
+      "commodites": [
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "Cuisine-équipée",
+        "rez-de-chaussee",
+        "SalleDEau-douche"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-18eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 18ème arrondissement 75018",
+          "hoverLabel": "Appartements à louer Paris 18ème arrondissement 75018",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 24.37 m² 1150 € Montmartre Paris (75018)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 24.37 m² 1150 € Montmartre Paris (75018)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-18eme-75/montmartre/256139925.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-18eme-75/montmartre/256139925.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 24.37 m² 1150 € Montmartre Paris (75018)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 24.37 m² 1150 € Montmartre Paris (75018)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/8/f/3/7/8f378868-5978-4fe6-89bd-f7cc73bd11b3.jpg?ci_seal=d287c875063f9ca42f93de86a6057acbfb3dc623"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 24.37 m² 1150 € Montmartre Paris (75018)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-18eme-75/montmartre/256139925.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 24.37 m² 1150 € Montmartre Paris (75018)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 24.37 m² 1150 € Montmartre Paris (75018)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/8/f/3/7/8f378868-5978-4fe6-89bd-f7cc73bd11b3.jpg?ci_seal=d287c875063f9ca42f93de86a6057acbfb3dc623"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 24.37 m² 1150 € Montmartre Paris (75018)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 24.37 m² 1150 € Montmartre Paris (75018)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-18eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 18ème arrondissement 75018",
+          "hoverLabel": "Appartements à louer Paris 18ème arrondissement 75018",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-18eme-75/montmartre/256139925.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR103&priceMax=1380&priceMin=920",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR103",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR43",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25E2KCTWNTAY"
+}

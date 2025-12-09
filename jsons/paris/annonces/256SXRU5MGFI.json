@@ -1,0 +1,1044 @@
+{
+  "brand": "seloger",
+  "id": "256SXRU5MGFI",
+  "metadata": {
+    "legacyId": "255634813",
+    "creationDate": "2025-12-02T09:52:00Z",
+    "updateDate": "2025-12-03T01:21:10.318Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 16ème",
+        "zipCode": "75016",
+        "district": "Chaillot"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.286099,
+          48.87229499998636
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "1",
+                "color": "#ffcd00"
+              },
+              {
+                "name": "2",
+                "color": "#003da5"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "52",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "73",
+                "color": "#5a230a"
+              },
+              {
+                "name": "82",
+                "color": "#f68f4b"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "A LOUER UNIQUEMENT EN BAIL CODE CIVIL (bail au nom d'une société, bail pour un logement de fonction, bail pour une résidence secondaire). \nAvenue Foch, à deux pas de l'Etoile, très beau 2 pièces meublé de 40 m2 situé au 2ème étage d'un immeuble de standing composé d'une entrée, un séjour avec canapé convertible, une cuisine ouverte équipée, une chambre, une salle de bain avec WC. Un balcon de 6 m².\nClimatisation, chauffage collectif, gardien 24h/24, accès club de sport dans l'immeuble avec tarif préférentiel. Très belles prestations.",
+      "texts": [
+        {
+          "text": "A LOUER UNIQUEMENT EN BAIL CODE CIVIL (bail au nom d'une société, bail pour un logement de fonction, bail pour une résidence secondaire). \nAvenue Foch, à deux pas de l'Etoile, très beau 2 pièces meublé de 40 m2 situé au 2ème étage d'un immeuble de standing composé d'une entrée, un séjour avec canapé convertible, une cuisine ouverte équipée, une chambre, une salle de bain avec WC. Un balcon de 6 m².\nClimatisation, chauffage collectif, gardien 24h/24, accès club de sport dans l'immeuble avec tarif préférentiel. Très belles prestations."
+        }
+      ],
+      "headline": "Appartement 2 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "40 m²",
+        "2ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2ème étage",
+          "splitValue": "2ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 950 €",
+        "formatted": "1 950 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1950 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "96b989a1-5ade-461f-95d3-bb718f270273",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 750 et 1090 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 750 et 1090 € par an. Prix moyens des énergies indexés au 31/12/2022 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "6fdc7c09-2d28-4f40-967d-af3c0a749bb9",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "230 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "211 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "45 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est 211 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "eda83d20-99d3-4078-8359-a95fce544c9e",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "45 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est 211 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255634813"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "62598-PARISRENTAL"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 576 €/mois Loyer de base",
+          "ariaLabel": "1576 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "240 €/mois",
+            "ariaLabel": "240 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 950 €/mois",
+            "ariaLabel": "1950 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "39,40 €/mois/m²",
+            "ariaLabel": "39,40 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "3900 €"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 10/12/2025"
+        },
+        {
+          "icon": "floors",
+          "value": "2ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "availability",
+                "value": "disponible à partir du 10/12/2025"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "2ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Balcon"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Gardien",
+                "icon": "custodian"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "63c2a79a-ca8b-46a1-b56a-399b7fe5e69c",
+          "url": "https://mms.seloger.com/6/3/c/2/63c2a79a-ca8b-46a1-b56a-399b7fe5e69c.jpg?ci_seal=35eb3a13902dc0989e2cbbe0177c2b6e02e4e9b9",
+          "alt": "Appartement à louer 1 950 € 2 pièces 1 chambre 40 m² 2ème étage Chaillot Paris 16ème 75016",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2b2b8fe4-5033-4ff4-a1e0-0d7361f2d2f1",
+          "url": "https://mms.seloger.com/2/b/2/b/2b2b8fe4-5033-4ff4-a1e0-0d7361f2d2f1.jpg?ci_seal=47d478b4d20e9bb4a146f34f84cb06bfb5dce12f",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "571fb682-a0d3-4b24-8368-453bf217e2da",
+          "url": "https://mms.seloger.com/5/7/1/f/571fb682-a0d3-4b24-8368-453bf217e2da.jpg?ci_seal=cf7d97f74c955cb36093b0f4c4ff2b40b73ba2fa",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5c49c2a8-4cea-4efb-9969-7bbefdc27c30",
+          "url": "https://mms.seloger.com/5/c/4/9/5c49c2a8-4cea-4efb-9969-7bbefdc27c30.jpg?ci_seal=f078c28edc134b2b0d4cfea021208fbef24824ae",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6e0fbb04-7119-4485-876e-d88efdd06836",
+          "url": "https://mms.seloger.com/6/e/0/f/6e0fbb04-7119-4485-876e-d88efdd06836.jpg?ci_seal=26dc0e7d78fe83ab641794dfc6888f47f0e41196",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ca027431-1052-4af7-a7cc-26fdcf5326d7",
+          "url": "https://mms.seloger.com/c/a/0/2/ca027431-1052-4af7-a7cc-26fdcf5326d7.jpg?ci_seal=5d83803eb755bdf4ac198b201484ce22f94332c1",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "adc997d1-aed4-4572-9ac2-a355180f60a4",
+          "url": "https://mms.seloger.com/a/d/c/9/adc997d1-aed4-4572-9ac2-a355180f60a4.jpg?ci_seal=abfb12247e31c76a3bdf252ba746f019872ed43d",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255634813",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75016",
+      "city": "Paris 16ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "39,40",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 2 pièces",
+      "description": "A LOUER UNIQUEMENT EN BAIL CODE CIVIL (bail au nom d'une société, bail pour un logement de fonction, bail pour une résidence secondaire). \nAvenue Foch, à deux pas de l'Etoile, très beau 2 pièces meublé de 40 m2 situé au 2ème étage d'un immeuble de standing composé d'une entrée, un séjour avec canapé convertible, une cuisine ouverte équipée, une chambre, une salle de bain avec WC. Un balcon de 6 m².\nClimatisation, chauffage collectif, gardien 24h/24, accès club de sport dans l'immeuble avec tarif préférentiel. Très belles prestations.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "7 jours en ligne",
+      "views": "117 vues",
+      "saves": "13 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "256SXRU5MGFI",
+    "legacyId": "255634813",
+    "brand": "seloger",
+    "agencyId": "RC-042474",
+    "static": {
+      "phoneNumbers": [
+        "0189715494"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0189715494"
+      ]
+    },
+    "contactCard": {
+      "title": "DE CIRCOURT ASSOCIATES - PARISRENTAL",
+      "subtitle": "France Ermitage",
+      "phoneNumbers": [
+        "0189715494"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/c/0/0/0/c000de94-9eff-45eb-96b3-2e3c1523bcb4.jpg?ci_seal=d308ebf2661d6aa613affe76e4dcc4f5b392e0ae",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "DE CIRCOURT ASSOCIATES - PARISRENTAL",
+        "subtitle": "France Ermitage",
+        "phoneNumbers": [
+          "0189715494"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/c/0/0/0/c000de94-9eff-45eb-96b3-2e3c1523bcb4.jpg?ci_seal=d308ebf2661d6aa613affe76e4dcc4f5b392e0ae"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à France Ermitage",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "DE CIRCOURT ASSOCIATES - PARISRENTAL",
+      "subtitle": "DE CIRCOURT ASSOCIATES - PARISRENTAL",
+      "phoneNumbers": [
+        "0189715494"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "DE CIRCOURT ASSOCIATES - PARISRENTAL",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/c/0/0/0/c000de94-9eff-45eb-96b3-2e3c1523bcb4.jpg?ci_seal=d308ebf2661d6aa613affe76e4dcc4f5b392e0ae",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-48171/"
+      },
+      "contactCard": {
+        "title": "France Ermitage",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.parisrental.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-48171/",
+      "imprintUrl": null,
+      "feeUrl": "https://fr.parisrental.com/location/services-et-honoraires.html",
+      "agencyLegalInformations": [
+        "Société Anonyme De Circourt Associates",
+        "<b>Siège:</b> 11 rue Royale, 75008 Paris",
+        "<b>RCS:</b> 342553625",
+        "<b>SIRET:</b> 34255362500043"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "34 avenue des Champs Elysées, 75008 Paris",
+      "phoneNumbers": [
+        "0189715494"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75016",
+    "av_city": "Paris",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "256SXRU5MGFI",
+        "price": 1950,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75016",
+        "legacy_id": "255634813",
+        "product_type": "standard",
+        "client_id": "RC-042474",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "67942",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "75016",
+        "estate_type": 1,
+        "id": "255634813",
+        "id_duo": 255634813,
+        "id_solo": 255634813,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 7,
+        "position": 0,
+        "price": 1950,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 40
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75016",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255634813",
+      "prix": 2000,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 40,
+      "commodites": [
+        "ascenseur",
+        "balcon",
+        "Chauffage-central",
+        "Cuisine-américaine",
+        "Cuisine-équipée",
+        "parquet",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-16eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 16ème arrondissement 75016",
+          "hoverLabel": "Appartements à louer Paris 16ème arrondissement 75016",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {}
+  },
+  "farbwelt": {
+    "color": "#b03050",
+    "textColor": "light",
+    "providerName": "DE CIRCOURT ASSOCIATES - PARISRENTAL",
+    "logo": {
+      "src": "https://mms.seloger.com/c/0/0/0/c000de94-9eff-45eb-96b3-2e3c1523bcb4.jpg?ci_seal=d308ebf2661d6aa613affe76e4dcc4f5b392e0ae",
+      "alt": "logo-RC-042474",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/d/7/1/2/d712380d-4123-4957-8c3a-7c72617a5930.png?ci_eqs=&ci_seal=7dfaa34c66b71d218b6f3261d5394d397ae84a76",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-48171/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/d/7/1/2/d712380d-4123-4957-8c3a-7c72617a5930.png?ci_eqs=&ci_seal=7dfaa34c66b71d218b6f3261d5394d397ae84a76",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-48171/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/3/4/8/c/348c37d5-c101-42f5-97ac-7eb6775da2ab.png?ci_eqs=&ci_seal=e9ef783d8c6d641da78f30479df7ec3c9a3a32e6",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-48171/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR89&priceMax=2340&priceMin=1560",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR89",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR41",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "256SXRU5MGFI"
+}

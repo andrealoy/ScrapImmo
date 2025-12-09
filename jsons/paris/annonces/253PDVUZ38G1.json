@@ -1,0 +1,1221 @@
+{
+  "brand": "seloger",
+  "id": "253PDVUZ38G1",
+  "metadata": {
+    "legacyId": "255350679",
+    "creationDate": "2025-11-27T21:13:00Z",
+    "updateDate": "2025-12-08T21:16:13.258Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 9ème",
+        "zipCode": "75009"
+      },
+      "isAddressPublished": false,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                2.34676,
+                48.87087
+              ],
+              [
+                2.34004,
+                48.87199
+              ],
+              [
+                2.32584,
+                48.86954
+              ],
+              [
+                2.32716,
+                48.88346
+              ],
+              [
+                2.32954,
+                48.88459
+              ],
+              [
+                2.3398,
+                48.88202
+              ],
+              [
+                2.34946,
+                48.88372
+              ],
+              [
+                2.34792,
+                48.87069
+              ],
+              [
+                2.34676,
+                48.87087
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "description": {
+      "description": "EN BAIL CODE CIVIL UNIQUEMENT ( RESIDENCE SECONDAIRE OU BAIL SOCIETE ), L'agence VKS IMMOBILIER vous propose ce superbe appartement de 4 pièces de 80m² situé rue Richer, à deux pas des Folies Bergères, des metros Cadet et Grands Boulevards, dans un immeuble ancien, bien entretenu, au 4ème étage avec ascenseur comprenant une entrée, un beau séjour, une salle à manger ouverte sur une magnifique cuisine entièrement équipée et aménagée, 2 chambres, une salle de douche avec toilettes et toilettes invités avec buanderie - Appartement meublé en parfait état - Disponible à partir du 1er décembre - Loue 2720€ + 150€ de charges - DG : 5440€ - DPE : E - Honoraires : 2870€ HT - A voir sans tarder",
+      "texts": [
+        {
+          "text": "EN BAIL CODE CIVIL UNIQUEMENT ( RESIDENCE SECONDAIRE OU BAIL SOCIETE ), L'agence VKS IMMOBILIER vous propose ce superbe appartement de 4 pièces de 80m² situé rue Richer, à deux pas des Folies Bergères, des metros Cadet et Grands Boulevards, dans un immeuble ancien, bien entretenu, au 4ème étage avec ascenseur comprenant une entrée, un beau séjour, une salle à manger ouverte sur une magnifique cuisine entièrement équipée et aménagée, 2 chambres, une salle de douche avec toilettes et toilettes invités avec buanderie - Appartement meublé en parfait état - Disponible à partir du 1er décembre - Loue 2720€ + 150€ de charges - DG : 5440€ - DPE : E - Honoraires : 2870€ HT - A voir sans tarder"
+        }
+      ],
+      "headline": "PARIS IX - RUE RICHER"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "4 pièces",
+        "2 chambres",
+        "80 m²",
+        "4ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "4 pièces",
+          "splitValue": "4",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "80 m²",
+          "splitValue": "80",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4ème étage",
+          "splitValue": "4ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "2 870 €",
+        "formatted": "2 870 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "2870 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1880"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "e557508c-a43f-4646-a280-347ef3a31830",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "5359b60d-d5e6-4519-952b-e06dc464ddf6",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "284 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "62 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est 0 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "3b2e7a61-3605-4977-be19-78ff9c28ee91",
+              "efficiencyClass": {
+                "index": 5,
+                "rating": "F"
+              },
+              "values": [
+                {
+                  "value": "62 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : F avec une plage allant de A à G .La consommation d'énergie est 0 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255350679"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "1986"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "2 870 €/mois Loyer charges comprises",
+          "ariaLabel": "2870 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "150 €/mois",
+            "ariaLabel": "150 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "35,88 €/mois/m²",
+            "ariaLabel": "35,88 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "5460"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "4ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée, Cuisine intégrée"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: ouest, est"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de douches"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "Orientation",
+                "value": "Exposition: ouest, est"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "4ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "cf7b093f-4b63-4f02-be15-b7dfa033905d",
+          "url": "https://mms.seloger.com/c/f/7/b/cf7b093f-4b63-4f02-be15-b7dfa033905d.jpg?ci_seal=72f9fa23767f4e099295b6ea7f5cf2e29e2911c8",
+          "alt": "Appartement à louer 2 870 € 4 pièces 2 chambres 80 m² 4ème étage Paris 9ème 75009",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ca2a3a16-9b45-43cb-ae29-5170b98ab4a9",
+          "url": "https://mms.seloger.com/c/a/2/a/ca2a3a16-9b45-43cb-ae29-5170b98ab4a9.jpg?ci_seal=217b01d7099edb08a3c675cb6d3a47d906672a49",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "df7f303d-a87e-41c4-85a6-659b2002c706",
+          "url": "https://mms.seloger.com/d/f/7/f/df7f303d-a87e-41c4-85a6-659b2002c706.jpg?ci_seal=dd1382eb4ce095c1e1d6bfe1d114751f6f998ef8",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "bd3e1a8e-99df-4ecc-b594-c2d5956771c2",
+          "url": "https://mms.seloger.com/b/d/3/e/bd3e1a8e-99df-4ecc-b594-c2d5956771c2.jpg?ci_seal=05f3a991dd52b07102baa073cabaa6e6b0e4b5d6",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "caf3ccb0-bf88-47ee-b91a-4ce3ddbc6c36",
+          "url": "https://mms.seloger.com/c/a/f/3/caf3ccb0-bf88-47ee-b91a-4ce3ddbc6c36.jpg?ci_seal=d048fc72243c2fd5246ca8c8340ff8ac8e027671",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e982066e-2f8e-4347-b299-d9439556bd10",
+          "url": "https://mms.seloger.com/e/9/8/2/e982066e-2f8e-4347-b299-d9439556bd10.jpg?ci_seal=1386f44632ec13c757cac2c1f5274ddcb80603c0",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "39679f8b-0f78-4116-b432-40f82f0e9e98",
+          "url": "https://mms.seloger.com/3/9/6/7/39679f8b-0f78-4116-b432-40f82f0e9e98.jpg?ci_seal=05beef9d8722bd641bcfbf8860beb6262cf57ff1",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "aa8dcc08-f959-4e46-9819-bef5c255c992",
+          "url": "https://mms.seloger.com/a/a/8/d/aa8dcc08-f959-4e46-9819-bef5c255c992.jpg?ci_seal=71f7795ccffe8bd6e28efb312bdfcc2665375adc",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "940ff383-2934-4735-b0a6-6eeef7ed150f",
+          "url": "https://mms.seloger.com/9/4/0/f/940ff383-2934-4735-b0a6-6eeef7ed150f.jpg?ci_seal=6df166493e1f9ac44f79d7de71457838f1ff016b",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0ec83ba0-874e-42ee-a9c7-2555f826b6f7",
+          "url": "https://mms.seloger.com/0/e/c/8/0ec83ba0-874e-42ee-a9c7-2555f826b6f7.jpg?ci_seal=a89182395001ee2c024fb9eb18e00109a2645694",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4ced7920-d4c0-48c4-9d2a-ef1ccadb26f8",
+          "url": "https://mms.seloger.com/4/c/e/d/4ced7920-d4c0-48c4-9d2a-ef1ccadb26f8.jpg?ci_seal=95233221ce82e17a9d74be7aed769c78f0b58e3f",
+          "classification": {
+            "name": "STAIRCASE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "305ff66c-b70e-48fc-8af0-9601d6b9b3f5",
+          "url": "https://mms.seloger.com/3/0/5/f/305ff66c-b70e-48fc-8af0-9601d6b9b3f5.jpg?ci_seal=2bb15748a38bcef947987b56ca9222c434b90ba1",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255350679",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75009",
+      "city": "Paris 9ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 32.72,
+        "accuracy": 4,
+        "high": "43,28",
+        "low": "25,94"
+      },
+      "markerPosition": 57,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "35,88",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "PARIS IX - RUE RICHER",
+      "description": "EN BAIL CODE CIVIL UNIQUEMENT ( RESIDENCE SECONDAIRE OU BAIL SOCIETE ), L'agence VKS IMMOBILIER vous propose ce superbe appartement de 4 pièces de 80m² situé rue Richer, à deux pas des Folies Bergères, des metros Cadet et Grands Boulevards, dans un immeuble ancien, bien entretenu, au 4ème étage avec ascenseur comprenant une entrée, un beau séjour, une salle à manger ouverte sur une magnifique cuisine entièrement équipée et aménagée, 2 chambres, une salle de douche avec toilettes et toilettes invités avec buanderie - Appartement meublé en parfait état - Disponible à partir du 1er décembre - Loue 2720€ + 150€ de charges - DG : 5440€ - DPE : E - Honoraires : 2870€ HT - A voir sans tarder",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "11 jours en ligne",
+      "views": "156 vues",
+      "saves": "2 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "253PDVUZ38G1",
+    "legacyId": "255350679",
+    "brand": "seloger",
+    "agencyId": "RC-084100",
+    "static": {
+      "phoneNumbers": [
+        "01 48 24 00 35"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "01 48 24 00 35"
+      ]
+    },
+    "contactCard": {
+      "title": "VKS IMMOBILIER",
+      "subtitle": "Vks Immobilier",
+      "phoneNumbers": [
+        "01 48 24 00 35"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/0/0/d/3/00d326f9-3703-4030-8f5e-4395ac5ab151.jpg?ci_seal=8faac221c0d5e5eab5e4450bff50859151f24250",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "VKS IMMOBILIER",
+        "subtitle": "Vks Immobilier",
+        "phoneNumbers": [
+          "01 48 24 00 35"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/0/0/d/3/00d326f9-3703-4030-8f5e-4395ac5ab151.jpg?ci_seal=8faac221c0d5e5eab5e4450bff50859151f24250"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Vks Immobilier",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "VKS IMMOBILIER",
+      "subtitle": "VKS IMMOBILIER",
+      "phoneNumbers": [
+        "01 48 24 00 35"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "VKS IMMOBILIER",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/0/0/d/3/00d326f9-3703-4030-8f5e-4395ac5ab151.jpg?ci_seal=8faac221c0d5e5eab5e4450bff50859151f24250",
+        "logoHref": "https://www.seloger.com/professionnels/agents-commerciaux/paris-9eme-arrondissement-75009/agence-19306/"
+      },
+      "contactCard": {
+        "title": "Vks Immobilier",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.vks-immobilier.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agents-commerciaux/paris-9eme-arrondissement-75009/agence-19306/",
+      "imprintUrl": null,
+      "feeUrl": "https://www.vks-immobilier.com/i/redac/honoraires?honofor=1",
+      "agencyLegalInformations": [
+        "VKS IMMOBILIER",
+        "<b>Siège:</b> 26 rue trevise, 75009 PARIS 9EME",
+        "<b>RCS:</b> 521847277",
+        "<b>SIRET:</b> 52184727700014"
+      ],
+      "publisherType": "REAL_ESTATE_AGENT",
+      "displayLinks": true,
+      "address": "26 RUE TREVISE, 75009 Paris 9ème",
+      "phoneNumbers": [
+        "01 48 24 00 35"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75009",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "253PDVUZ38G1",
+        "price": 2870,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75009",
+        "legacy_id": "255350679",
+        "product_type": "standard",
+        "client_id": "RC-084100",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "75445",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75009",
+        "estate_type": 1,
+        "id": "255350679",
+        "id_duo": 255350679,
+        "id_solo": 255350679,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 4,
+        "parent_site": "SL",
+        "photos_nb": 12,
+        "position": 0,
+        "price": 2870,
+        "product_geolocation": "localisation_city",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 80,
+        "year_of_construction": 1880
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75009",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255350679",
+      "prix": 2900,
+      "nb_pieces": 4,
+      "nb_chambres": 2,
+      "surface": 80,
+      "commodites": [
+        "Chauffage-individuel",
+        "Chauffage-gaz",
+        "Cuisine-équipée",
+        "Cuisine-séparée",
+        "SalleDEau-douche",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-9eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 9ème arrondissement 75009",
+          "hoverLabel": "Appartements à louer Paris 9ème arrondissement 75009",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T4/F4 80 m² 2870 € Paris (75009)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T4/F4 80 m² 2870 € Paris (75009)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/255350679.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/255350679.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T4/F4 80 m² 2870 € Paris (75009)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T4/F4 80 m² 2870 € Paris (75009)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/c/f/7/b/cf7b093f-4b63-4f02-be15-b7dfa033905d.jpg?ci_seal=72f9fa23767f4e099295b6ea7f5cf2e29e2911c8"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T4/F4 80 m² 2870 € Paris (75009)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/255350679.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T4/F4 80 m² 2870 € Paris (75009)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T4/F4 80 m² 2870 € Paris (75009)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/c/f/7/b/cf7b093f-4b63-4f02-be15-b7dfa033905d.jpg?ci_seal=72f9fa23767f4e099295b6ea7f5cf2e29e2911c8"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T4/F4 80 m² 2870 € Paris (75009)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T4/F4 80 m² 2870 € Paris (75009)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-9eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 9ème arrondissement 75009",
+          "hoverLabel": "Appartements à louer Paris 9ème arrondissement 75009",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-9eme-75/255350679.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#d0b030",
+    "textColor": "dark",
+    "providerName": "VKS IMMOBILIER",
+    "logo": {
+      "src": "https://mms.seloger.com/0/0/d/3/00d326f9-3703-4030-8f5e-4395ac5ab151.jpg?ci_seal=8faac221c0d5e5eab5e4450bff50859151f24250",
+      "alt": "logo-RC-084100",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/2/2/c/a/22caa153-5dfd-42bb-8cda-46695fab86ca.png?ci_eqs=&ci_seal=24d3e91e2aef44c5d868c0fb6fe03de61b669db5",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agents-commerciaux/paris-9eme-arrondissement-75009/agence-19306/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/2/2/c/a/22caa153-5dfd-42bb-8cda-46695fab86ca.png?ci_eqs=&ci_seal=24d3e91e2aef44c5d868c0fb6fe03de61b669db5",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agents-commerciaux/paris-9eme-arrondissement-75009/agence-19306/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/7/3/2/7/7327f4e8-092b-47c2-a336-1f13d602f50b.png?ci_eqs=&ci_seal=1685ddf77df56f9f91ec6a80f7ef2538d28e1c6c",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agents-commerciaux/paris-9eme-arrondissement-75009/agence-19306/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=AD09FR34&priceMax=3444&priceMin=2296",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "AD09FR34",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "253PDVUZ38G1"
+}

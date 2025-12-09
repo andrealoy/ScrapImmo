@@ -1,0 +1,1237 @@
+{
+  "brand": "seloger",
+  "id": "251PFLS5XLSK",
+  "metadata": {
+    "legacyId": "255625335",
+    "creationDate": "2025-12-02T07:34:00Z",
+    "updateDate": "2025-12-09T09:40:12.789Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 7ème",
+        "zipCode": "75007",
+        "district": "Gros Caillou"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3081060000000004,
+          48.85517699998633
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "8",
+                "color": "#dd9cdf"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "28",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "69",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "80",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "82",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "86",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "87",
+                "color": "#62259d"
+              },
+              {
+                "name": "92",
+                "color": "#ffbe02"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Charmant appartement situé dans une rue calme du 7ème arrondissement, à proximité de la rue Cler et non loin de la rue Saint Dominique.\nCe grand 2 pièces de 57m2 est au 2ème étage avec ascenseur d'un immeuble ancien. Il est composé d'une entrée avec rangements, d'un grand double séjour, d'une chambre avec grande penderie, d'une cuisine meublée et partiellement équipée, ainsi que d'une salle d'eau et d'un toilette indépendant.\nParquet, moulures et cheminées.\nL'appartement est en très bon état et loué avec une cave.",
+      "texts": [
+        {
+          "text": "Charmant appartement situé dans une rue calme du 7ème arrondissement, à proximité de la rue Cler et non loin de la rue Saint Dominique.\nCe grand 2 pièces de 57m2 est au 2ème étage avec ascenseur d'un immeuble ancien. Il est composé d'une entrée avec rangements, d'un grand double séjour, d'une chambre avec grande penderie, d'une cuisine meublée et partiellement équipée, ainsi que d'une salle d'eau et d'un toilette indépendant.\nParquet, moulures et cheminées.\nL'appartement est en très bon état et loué avec une cave."
+        }
+      ],
+      "headline": "Charmant 2P, loué vide, prox École Militaire"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "57 m²",
+        "Étage 2/6"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "57 m²",
+          "splitValue": "57",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 2/6",
+          "splitValue": "Étage",
+          "label": "2/6"
+        }
+      ],
+      "price": {
+        "value": "2 400 €",
+        "formatted": "2 400 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "2400 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1900"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "0e7dd2a1-1f81-476f-a6c7-58ccb81353ea",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 1119 et 1513 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 1119 et 1513 € par an. Prix moyens des énergies indexés au 31/12/2024 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "69b3122a-c2f1-4045-90b4-5fbc19255b4d",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "317 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "138 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "10 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est 138 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "dd7809c0-5b58-4852-b26a-52529d0bf4ed",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "10 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est 138 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255625335"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "CHEVERT"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 744,20 €/mois Loyer de base",
+          "ariaLabel": "1744.2 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "160 €/mois",
+            "ariaLabel": "160 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "2 400 €/mois",
+            "ariaLabel": "2400 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "30,60 €/mois/m²",
+            "ariaLabel": "30,60 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2240"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage/6 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "value": "Cave",
+          "icon": "cellar"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: sud, ouest, est"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "Orientation",
+                "value": "Exposition: sud, ouest, est"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "2ème étage/6 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "value": "Cave",
+                "icon": "cellar"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "e970b900-5054-48df-abbc-1a52ec46ed82",
+          "url": "https://mms.seloger.com/e/9/7/0/e970b900-5054-48df-abbc-1a52ec46ed82.jpg?ci_seal=ca4d0ecfac45c64884f4200ac20fe9d49c2c822a",
+          "alt": "Appartement à louer 2 400 € 2 pièces 1 chambre 57 m² Étage 2/6 Gros Caillou Paris 7ème 75007",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6edc7a59-8f4f-47f4-b3a7-556ff964c406",
+          "url": "https://mms.seloger.com/6/e/d/c/6edc7a59-8f4f-47f4-b3a7-556ff964c406.jpg?ci_seal=54fcc568ee3b3778907b8e0eb9f6d94722820bb9",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0a278c81-c3f9-4c35-9b86-03b881608b36",
+          "url": "https://mms.seloger.com/0/a/2/7/0a278c81-c3f9-4c35-9b86-03b881608b36.jpg?ci_seal=149a47a0081db2cd9b88db1f1834f812e75b9881",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c547c055-317a-4eac-9cec-9a34e71dac8d",
+          "url": "https://mms.seloger.com/c/5/4/7/c547c055-317a-4eac-9cec-9a34e71dac8d.jpg?ci_seal=ba1785c212e6f44ed183ea7c2262f27a442a702a",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "807f7383-6575-43e4-a82a-fccf60765405",
+          "url": "https://mms.seloger.com/8/0/7/f/807f7383-6575-43e4-a82a-fccf60765405.jpg?ci_seal=8f9404c8a7baef0124cba2feb6a062fddbc60569",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7a883fae-5f34-4f89-bd61-ea42410d729e",
+          "url": "https://mms.seloger.com/7/a/8/8/7a883fae-5f34-4f89-bd61-ea42410d729e.jpg?ci_seal=055f660c814c20fc889bd5c14f47ab4591c9d57b",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "da335100-c21b-4161-aa13-e9806613802e",
+          "url": "https://mms.seloger.com/d/a/3/3/da335100-c21b-4161-aa13-e9806613802e.jpg?ci_seal=2dfb14048e76cd351f257919e98ef919cb1a176f",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e9b56bca-80c8-4904-a91e-8f33cf4cb861",
+          "url": "https://mms.seloger.com/e/9/b/5/e9b56bca-80c8-4904-a91e-8f33cf4cb861.jpg?ci_seal=6cae5c35aea95f4e5092e4f16a7f23edb364e74c",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "026fae24-3d86-44f2-a4eb-f09401710309",
+          "url": "https://mms.seloger.com/0/2/6/f/026fae24-3d86-44f2-a4eb-f09401710309.jpg?ci_seal=9b1bb084eea8239cf30abfcecd49c08a5f974baa",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "52b8f4b5-a921-4ab0-b4fe-7f2eae28eb74",
+          "url": "https://mms.seloger.com/5/2/b/8/52b8f4b5-a921-4ab0-b4fe-7f2eae28eb74.jpg?ci_seal=a993f90ffda9419694964feaaf786c4824d94523",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e885fd42-dc87-493d-8da6-82b219448390",
+          "url": "https://mms.seloger.com/e/8/8/5/e885fd42-dc87-493d-8da6-82b219448390.jpg?ci_seal=d82c46fd229c50207aa807b700a916195848f8ab",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "dda8362a-2bf8-4b40-bdd6-f0e777cb5877",
+          "url": "https://mms.seloger.com/d/d/a/8/dda8362a-2bf8-4b40-bdd6-f0e777cb5877.jpg?ci_seal=5339a30c23bea7ddd294ecf5145df44ddd8c3361",
+          "classification": {
+            "name": "COURTYARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ea7cfc75-65af-4366-a4e3-8188e15de297",
+          "url": "https://mms.seloger.com/e/a/7/c/ea7cfc75-65af-4366-a4e3-8188e15de297.jpg?ci_seal=1e44ac60c18476ec66fe8481d57402d8f2dd296b",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0a976e9f-131b-421a-86b1-bcf1b173de16",
+          "url": "https://mms.seloger.com/0/a/9/7/0a976e9f-131b-421a-86b1-bcf1b173de16.jpg?ci_seal=002d65030484add1f7d98a38905100c4a2d063b1",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255625335",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75007",
+      "city": "Paris 7ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 36.04,
+        "accuracy": 3,
+        "high": "46,83",
+        "low": "28,31"
+      },
+      "markerPosition": 12,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "30,60",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Charmant 2P, loué vide, prox École Militaire",
+      "description": "Charmant appartement situé dans une rue calme du 7ème arrondissement, à proximité de la rue Cler et non loin de la rue Saint Dominique.\nCe grand 2 pièces de 57m2 est au 2ème étage avec ascenseur d'un immeuble ancien. Il est composé d'une entrée avec rangements, d'un grand double séjour, d'une chambre avec grande penderie, d'une cuisine meublée et partiellement équipée, ainsi que d'une salle d'eau et d'un toilette indépendant.\nParquet, moulures et cheminées.\nL'appartement est en très bon état et loué avec une cave.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "7 jours en ligne",
+      "views": "204 vues",
+      "saves": "9 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "251PFLS5XLSK",
+    "legacyId": "255625335",
+    "brand": "seloger",
+    "agencyId": "RC-042243",
+    "static": {
+      "phoneNumbers": [
+        "0607394095"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0607394095"
+      ]
+    },
+    "contactCard": {
+      "title": "Appart en vue",
+      "subtitle": "Anne-Sophie Belan",
+      "phoneNumbers": [
+        "0607394095"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Appart en vue",
+        "subtitle": "Anne-Sophie Belan",
+        "phoneNumbers": [
+          "0607394095"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Anne-Sophie Belan",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Appart en vue",
+      "subtitle": "Appart en vue",
+      "phoneNumbers": [
+        "0607394095"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Appart en vue",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-52710/"
+      },
+      "contactCard": {
+        "title": "Anne-Sophie Belan",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-52710/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "SARL Appart en vue au capital de 10 000 €",
+        "Carte professionnelle T12432 délivrée par la Préfecture de PARIS",
+        "<b>Siège:</b> 45 RUE DE COURCELLES, 75008 PARIS 8EME",
+        "<b>RCS:</b> PARIS 502704117",
+        "<b>SIRET:</b> 50270411700014"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "45 rue de Courcelles, 75008 Paris 8ème",
+      "phoneNumbers": [
+        "0607394095"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75007",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "251PFLS5XLSK",
+        "price": 2400,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75007",
+        "legacy_id": "255625335",
+        "product_type": "standard",
+        "client_id": "RC-042243",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "84622",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75007",
+        "estate_type": 1,
+        "id": "255625335",
+        "id_duo": 255625335,
+        "id_solo": 255625335,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 14,
+        "position": 0,
+        "price": 2400,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 57,
+        "year_of_construction": 1900
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75007",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255625335",
+      "prix": 2400,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 57,
+      "etage": 6,
+      "commodites": [
+        "ascenseur",
+        "cave",
+        "Chauffage-electrique",
+        "Cuisine-séparée",
+        "parquet",
+        "SalleDEau-douche",
+        "sud",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-7eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 7ème arrondissement 75007",
+          "hoverLabel": "Appartements à louer Paris 7ème arrondissement 75007",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 57 m² 2400 € Gros Caillou Paris (75007)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 57 m² 2400 € Gros Caillou Paris (75007)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-7eme-75/gros-caillou/255625335.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-7eme-75/gros-caillou/255625335.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 57 m² 2400 € Gros Caillou Paris (75007)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 57 m² 2400 € Gros Caillou Paris (75007)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/e/9/7/0/e970b900-5054-48df-abbc-1a52ec46ed82.jpg?ci_seal=ca4d0ecfac45c64884f4200ac20fe9d49c2c822a"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 57 m² 2400 € Gros Caillou Paris (75007)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-7eme-75/gros-caillou/255625335.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 57 m² 2400 € Gros Caillou Paris (75007)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 57 m² 2400 € Gros Caillou Paris (75007)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/e/9/7/0/e970b900-5054-48df-abbc-1a52ec46ed82.jpg?ci_seal=ca4d0ecfac45c64884f4200ac20fe9d49c2c822a"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 57 m² 2400 € Gros Caillou Paris (75007)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 57 m² 2400 € Gros Caillou Paris (75007)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-7eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 7ème arrondissement 75007",
+          "hoverLabel": "Appartements à louer Paris 7ème arrondissement 75007",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-7eme-75/gros-caillou/255625335.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR26&priceMax=2880&priceMin=1920",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR26",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR32",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "251PFLS5XLSK"
+}

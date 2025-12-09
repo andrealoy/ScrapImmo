@@ -1,0 +1,1100 @@
+{
+  "brand": "seloger",
+  "id": "25JJP2Z7TFCE",
+  "metadata": {
+    "legacyId": "255765641",
+    "creationDate": "2025-12-03T18:15:00Z",
+    "updateDate": "2025-12-03T18:16:13.594Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 7ème",
+        "zipCode": "13007",
+        "district": "Endoume"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.35535,
+          43.2861
+        ]
+      }
+    },
+    "description": {
+      "description": "Coup de cœur absolu pour ce joli t2 situé avenue David Dellepiane en plein cœur du quartier de St Lambert.\r\n\r\nL'appartement est composé d'un salon lumineux à la vue dégagée et d'une cuisine ouverte aménagé, d'une salle d'eaux avec wc et d'une chambre avec dressing. \r\n\r\nL'emplacement, la luminosité et le calme sont les principaux atouts de cette perle du 7ème. \r\n\r\nLoyer : 755 euros \r\nCharges 35 euros \r\ncaution 1510 euros\r\n\r\nHonoraires d'agences : 390 €\r\n\r\nDemandes soumises à étude de dossier : \r\nGARANTIE VISALE conseillée.",
+      "texts": [
+        {
+          "text": "Coup de cœur absolu pour ce joli t2 situé avenue David Dellepiane en plein cœur du quartier de St Lambert.\r\n\r\nL'appartement est composé d'un salon lumineux à la vue dégagée et d'une cuisine ouverte aménagé, d'une salle d'eaux avec wc et d'une chambre avec dressing. \r\n\r\nL'emplacement, la luminosité et le calme sont les principaux atouts de cette perle du 7ème. \r\n\r\nLoyer : 755 euros \r\nCharges 35 euros \r\ncaution 1510 euros\r\n\r\nHonoraires d'agences : 390 €\r\n\r\nDemandes soumises à étude de dossier : \r\nGARANTIE VISALE conseillée."
+        }
+      ],
+      "headline": "T2 MEUBLE ENDOUME"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "30 m²",
+        "2ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "30 m²",
+          "splitValue": "30",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2ème étage",
+          "splitValue": "2ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "790 €",
+        "formatted": "790 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "790 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Entretenu"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel: Radiateur"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "029c4c46-3c65-4859-974c-efd3f533cd5c",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "5c3f3d09-2b43-41c6-848a-4902f8f80274",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "234 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "86c48acd-3ff8-4bcd-b7d7-ace988808c6e",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255765641"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "84957510"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "790 €/mois Loyer charges comprises",
+          "ariaLabel": "790 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Prix ​​au m²",
+            "value": "26,33 €/mois/m²",
+            "ariaLabel": "26,33 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "0"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: ouest"
+        },
+        {
+          "value": "Belle vue",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "barrier-free",
+          "value": "Non accessible aux personnes à mobilité réduite"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "Orientation",
+                "value": "Exposition: ouest"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "2ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "livingRoom",
+                "value": "Salon (total 12,4 m²)"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              },
+              {
+                "value": "Belle vue",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "219691c7-1b78-4aaf-b0f9-0e45e378cfe3",
+          "url": "https://mms.seloger.com/2/1/9/6/219691c7-1b78-4aaf-b0f9-0e45e378cfe3.jpg?ci_seal=db703f38e0d6d58a33c1356378beb9e363e42f82",
+          "alt": "Appartement à louer 790 € 2 pièces 1 chambre 30 m² 2ème étage Endoume Marseille 7ème 13007",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0b66a704-52cb-4189-8d55-8ee23da067ee",
+          "url": "https://mms.seloger.com/0/b/6/6/0b66a704-52cb-4189-8d55-8ee23da067ee.jpg?ci_seal=72aaef039a89e88d4180298aba0326799ac61578",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9b70d35c-8b0e-480e-8f1b-01547d2edce4",
+          "url": "https://mms.seloger.com/9/b/7/0/9b70d35c-8b0e-480e-8f1b-01547d2edce4.jpg?ci_seal=6659b932d87d6024d3349bf305cd6cb0f335c9aa",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3348ec28-0586-43dd-88b3-16fc78177567",
+          "url": "https://mms.seloger.com/3/3/4/8/3348ec28-0586-43dd-88b3-16fc78177567.jpg?ci_seal=6abfae0a958e278c8b03f72e32566a890b79852d",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4ffe609d-c200-42c6-a94a-9a123661e63c",
+          "url": "https://mms.seloger.com/4/f/f/e/4ffe609d-c200-42c6-a94a-9a123661e63c.jpg?ci_seal=2db89edab6784cdf30e920db78576f11fdbf037d",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "bf1e20d9-ec50-4dcd-b0da-64f7c5d45ea9",
+          "url": "https://mms.seloger.com/b/f/1/e/bf1e20d9-ec50-4dcd-b0da-64f7c5d45ea9.jpg?ci_seal=7c99f514546e107c3ee8982f25a7a0a3184a4c4e",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ],
+      "floorplans": [
+        {
+          "key": "f315a96f-4c67-43a0-a713-4c6a01085402",
+          "url": "https://mms.seloger.com/f/3/1/5/f315a96f-4c67-43a0-a713-4c6a01085402.jpg?ci_seal=6fc10623c8f719e7ca1aef9ae10cc47f2cc3460f",
+          "alt": "Appartement à louer 790 € 2 pièces 1 chambre 30 m² 2ème étage Endoume Marseille 7ème 13007",
+          "classification": {
+            "name": "FLOORPLAN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255765641",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13007",
+      "city": "Marseille 7ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.28,
+        "accuracy": 1,
+        "high": "24,25",
+        "low": "12"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "26,33",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "T2 MEUBLE ENDOUME",
+      "description": "Coup de cœur absolu pour ce joli t2 situé avenue David Dellepiane en plein cœur du quartier de St Lambert.\r\n\r\nL'appartement est composé d'un salon lumineux à la vue dégagée et d'une cuisine ouverte aménagé, d'une salle d'eaux avec wc et d'une chambre avec dressing. \r\n\r\nL'emplacement, la luminosité et le calme sont les principaux atouts de cette perle du 7ème. \r\n\r\nLoyer : 755 euros \r\nCharges 35 euros \r\ncaution 1510 euros\r\n\r\nHonoraires d'agences : 390 €\r\n\r\nDemandes soumises à étude de dossier : \r\nGARANTIE VISALE conseillée.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "6 jours en ligne",
+      "views": "375 vues",
+      "saves": "37 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25JJP2Z7TFCE",
+    "legacyId": "255765641",
+    "brand": "seloger",
+    "agencyId": "RC-079396",
+    "static": {
+      "phoneNumbers": [
+        "0423474831"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0423474831"
+      ]
+    },
+    "contactCard": {
+      "title": "Buddy’s Immobilier 5 avenues",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0423474831"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/5/f/1/9/5f19ef5b-161b-4d92-9fcd-6d54a9bbf7f6.jpg?ci_seal=5ea2810ef1f86f172fdb6d32251b44934c60d890",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Buddy’s Immobilier 5 avenues",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "0423474831"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/5/f/1/9/5f19ef5b-161b-4d92-9fcd-6d54a9bbf7f6.jpg?ci_seal=5ea2810ef1f86f172fdb6d32251b44934c60d890"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Buddy’s Immobilier 5 avenues",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0423474831"
+      ],
+      "logoUrl": "https://mms.seloger.com/5/f/1/9/5f19ef5b-161b-4d92-9fcd-6d54a9bbf7f6.jpg?ci_seal=5ea2810ef1f86f172fdb6d32251b44934c60d890",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Buddy’s Immobilier 5 avenues",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/5/f/1/9/5f19ef5b-161b-4d92-9fcd-6d54a9bbf7f6.jpg?ci_seal=5ea2810ef1f86f172fdb6d32251b44934c60d890",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-4eme-arrondissement-13004/agence-275838/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "website": "https://buddys-immobilier.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-4eme-arrondissement-13004/agence-275838/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "Société à responsabilité limitée (sans autre indication) BUDDY'S IMMOBILIER 5 AVENUES",
+        "<b>Siège:</b> 31 Rue Docteur Acquaviva, 13004 Marseille",
+        "<b>RCS:</b> 518790209",
+        "<b>SIRET:</b> 51879020900028"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "31 rue Docteur Acquaviva, 13004 Marseille 4ème arrondissement",
+      "phoneNumbers": [
+        "0423474831"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13007",
+    "av_city": "Marseille 7ème",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25JJP2Z7TFCE",
+        "price": 790,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 7ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13007",
+        "building_state": "WELL_KEPT",
+        "legacy_id": "255765641",
+        "product_type": "standard",
+        "client_id": "RC-079396",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "39268",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "13007",
+        "estate_type": 1,
+        "id": "255765641",
+        "id_duo": 255765641,
+        "id_solo": 255765641,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 7,
+        "position": 0,
+        "price": 790,
+        "product_geolocation": "localisation_district",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 30
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13007",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255765641",
+      "prix": 800,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 30,
+      "commodites": [
+        "belleVue",
+        "Chauffage-individuel",
+        "SalleDEau-douche",
+        "Sejour"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-7eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 7ème arrondissement 13007",
+          "hoverLabel": "Appartements à louer Marseille 7ème arrondissement 13007",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 30 m² 790 € Endoume Marseille (13007)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 30 m² 790 € Endoume Marseille (13007)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-7eme-13/bompard/255765641.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-7eme-13/bompard/255765641.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 30 m² 790 € Endoume Marseille (13007)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 30 m² 790 € Endoume Marseille (13007)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/2/1/9/6/219691c7-1b78-4aaf-b0f9-0e45e378cfe3.jpg?ci_seal=db703f38e0d6d58a33c1356378beb9e363e42f82"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 30 m² 790 € Endoume Marseille (13007)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-7eme-13/bompard/255765641.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 30 m² 790 € Endoume Marseille (13007)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 30 m² 790 € Endoume Marseille (13007)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/2/1/9/6/219691c7-1b78-4aaf-b0f9-0e45e378cfe3.jpg?ci_seal=db703f38e0d6d58a33c1356378beb9e363e42f82"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 30 m² 790 € Endoume Marseille (13007)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 30 m² 790 € Endoume Marseille (13007)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-7eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 7ème arrondissement 13007",
+          "hoverLabel": "Appartements à louer Marseille 7ème arrondissement 13007",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-7eme-13/bompard/255765641.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1068&priceMax=948&priceMin=632",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1068",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR7",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25JJP2Z7TFCE"
+}

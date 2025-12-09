@@ -1,0 +1,1220 @@
+{
+  "brand": "seloger",
+  "id": "25LYE7S276S1",
+  "metadata": {
+    "legacyId": "255740389",
+    "creationDate": "2025-12-03T12:09:00Z",
+    "updateDate": "2025-12-05T13:11:24.591Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 8ème",
+        "zipCode": "75008",
+        "district": "Saint Philippe du Roule"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.310564,
+          48.871487
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "1",
+                "color": "#ffcd00"
+              },
+              {
+                "name": "9",
+                "color": "#b5bd00"
+              },
+              {
+                "name": "13",
+                "color": "#71c5e8"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "22",
+                "color": "#00643c"
+              },
+              {
+                "name": "28",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "32",
+                "color": "#9c983a"
+              },
+              {
+                "name": "42",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "43",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "52",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "73",
+                "color": "#5a230a"
+              },
+              {
+                "name": "80",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "83",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "84",
+                "color": "#d282be"
+              },
+              {
+                "name": "93",
+                "color": "#77c695"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "LOCATION MEUBLEE LODGIS (Référence : 20826410) : Cet appartement meublé de 26 m² est situé Rue Du Colisée, dans un quartier résidentiel du 8ème arrondissement de Paris. Composé de 2 pièces dont 1 chambre, cet appartement en location meublée peut accueillir jusqu'à 2 personnes. Cet appartement lumineux et calme au 2e étage sans ascenseur, bénéficie de l'équipement nécessaire pour vous sentir comme à la maison . Parfaitement desservi par les transports en commun (Saint-Philippe du Roule/M 9), vous trouverez à proximité de nombreux commerces et services (Club de gym à proximité, Cinéma, Epicerie, Kiosque à journaux, Laverie à proximité, Pharmacie, Théâtre, Supermarché, Restaurant, Pressing, Parc, Musée, Ecole, Boulangerie, Brasserie, Boucherie Charcuterie).",
+      "texts": [
+        {
+          "text": "LOCATION MEUBLEE LODGIS (Référence : 20826410) : Cet appartement meublé de 26 m² est situé Rue Du Colisée, dans un quartier résidentiel du 8ème arrondissement de Paris. Composé de 2 pièces dont 1 chambre, cet appartement en location meublée peut accueillir jusqu'à 2 personnes. Cet appartement lumineux et calme au 2e étage sans ascenseur, bénéficie de l'équipement nécessaire pour vous sentir comme à la maison . Parfaitement desservi par les transports en commun (Saint-Philippe du Roule/M 9), vous trouverez à proximité de nombreux commerces et services (Club de gym à proximité, Cinéma, Epicerie, Kiosque à journaux, Laverie à proximité, Pharmacie, Théâtre, Supermarché, Restaurant, Pressing, Parc, Musée, Ecole, Boulangerie, Brasserie, Boucherie Charcuterie)."
+        }
+      ],
+      "headline": "2 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "26 m²",
+        "2ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "26 m²",
+          "splitValue": "26",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2ème étage",
+          "splitValue": "2ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 700 €",
+        "formatted": "1 700 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "1700 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1880"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Remis à neuf"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "542449d9-78fd-405c-b1db-79ed38ea8f2b",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "c91406ce-7ef9-4644-abd4-68db25899ec5",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "316 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "44 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "44eca5e3-5ec0-4157-8c4f-3e200ef078ce",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "44 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255740389"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "20826410"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 700 €/mois Loyer charges comprises",
+          "ariaLabel": "1700 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "170 €/mois",
+            "ariaLabel": "170 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "65,38 €/mois/m²",
+            "ariaLabel": "65,38 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "3060"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "2ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée, Cuisine intégrée"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Gardien",
+                "icon": "custodian"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "86eefae1-d019-4265-93d5-8d8482f392a2",
+          "url": "https://mms.seloger.com/8/6/e/e/86eefae1-d019-4265-93d5-8d8482f392a2.jpg?ci_seal=21da13bdfb299c7cbf0bfcf783f87cea40d27110",
+          "alt": "Appartement à louer 1 700 € 2 pièces 1 chambre 26 m² 2ème étage Saint Philippe du Roule Paris 8ème 75008",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "02e1c21d-f324-4562-8c3e-757c7ef40155",
+          "url": "https://mms.seloger.com/0/2/e/1/02e1c21d-f324-4562-8c3e-757c7ef40155.jpg?ci_seal=df87a76fad3db1755dc049d144cb1b09060dff7d",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "86a27ad1-e3d2-462c-a768-50247a67438c",
+          "url": "https://mms.seloger.com/8/6/a/2/86a27ad1-e3d2-462c-a768-50247a67438c.jpg?ci_seal=46d95218c86c67a0d1f9022cdcdc8d66d8e055b6",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d78637dc-4386-49f8-82b5-b597763209c6",
+          "url": "https://mms.seloger.com/d/7/8/6/d78637dc-4386-49f8-82b5-b597763209c6.jpg?ci_seal=222baeac51b41348d402cf162e3043c4cd38ae97",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "81bdb9b3-a3ec-4623-81d1-6d00756901a3",
+          "url": "https://mms.seloger.com/8/1/b/d/81bdb9b3-a3ec-4623-81d1-6d00756901a3.jpg?ci_seal=34fd7bed4fee497749a9edc57837d55fae04c161",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e9bc3198-7e94-4579-a845-e3f8d166f695",
+          "url": "https://mms.seloger.com/e/9/b/c/e9bc3198-7e94-4579-a845-e3f8d166f695.jpg?ci_seal=bd3c6c4bd0ca3260815d28cac05242c54cfe854e",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "97bacf1d-3cd5-4e88-94aa-af5f1901ae6e",
+          "url": "https://mms.seloger.com/9/7/b/a/97bacf1d-3cd5-4e88-94aa-af5f1901ae6e.jpg?ci_seal=2a10cb8b049560c02881c55b61eea20d5a74ad15",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "bb9c1c5d-ee20-4e6a-ab1e-05cfb9e76e22",
+          "url": "https://mms.seloger.com/b/b/9/c/bb9c1c5d-ee20-4e6a-ab1e-05cfb9e76e22.jpg?ci_seal=50a1963dcd76b023252b6973293a296a35aec505",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "de36c522-7b06-4eec-bc65-42c12c210dae",
+          "url": "https://mms.seloger.com/d/e/3/6/de36c522-7b06-4eec-bc65-42c12c210dae.jpg?ci_seal=2f9f193de76176f4515ac0b6daa98189e357e1cb",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f6fa0f52-0ab0-4460-9df8-e5a1428162da",
+          "url": "https://mms.seloger.com/f/6/f/a/f6fa0f52-0ab0-4460-9df8-e5a1428162da.jpg?ci_seal=17d8476f972c7e7d4edb66b8aa98c6e771c7ff7c",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "25071386-3da7-47ae-92b5-2bbd8b9c49dd",
+          "url": "https://mms.seloger.com/2/5/0/7/25071386-3da7-47ae-92b5-2bbd8b9c49dd.jpg?ci_seal=7c6a13512bb14cda45cbe7129a7ebcc408b1cc96",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0a6daac9-414c-4582-9caf-f749c1ab37fd",
+          "url": "https://mms.seloger.com/0/a/6/d/0a6daac9-414c-4582-9caf-f749c1ab37fd.jpg?ci_seal=0278533e20fb4557e9adbb26bcf1600335994aed",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c2e4e6ca-831e-4d3b-957d-578e11f77ad0",
+          "url": "https://mms.seloger.com/c/2/e/4/c2e4e6ca-831e-4d3b-957d-578e11f77ad0.jpg?ci_seal=015c773deceecbcd680e5a70c80d4e9c479401e5",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255740389",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75008",
+      "city": "Paris 8ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 36.27,
+        "accuracy": 3,
+        "high": "47,76",
+        "low": "29,12"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "65,38",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "2 pièces",
+      "description": "LOCATION MEUBLEE LODGIS (Référence : 20826410) : Cet appartement meublé de 26 m² est situé Rue Du Colisée, dans un quartier résidentiel du 8ème arrondissement de Paris. Composé de 2 pièces dont 1 chambre, cet appartement en location meublée peut accueillir jusqu'à 2 personnes. Cet appartement lumineux et calme au 2e étage sans ascenseur, bénéficie de l'équipement nécessaire pour vous sentir comme à la maison . Parfaitement desservi par les transports en commun (Saint-Philippe du Roule/M 9), vous trouverez à proximité de nombreux commerces et services (Club de gym à proximité, Cinéma, Epicerie, Kiosque à journaux, Laverie à proximité, Pharmacie, Théâtre, Supermarché, Restaurant, Pressing, Parc, Musée, Ecole, Boulangerie, Brasserie, Boucherie Charcuterie).",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "6 jours en ligne",
+      "views": "125 vues",
+      "saves": "5 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25LYE7S276S1",
+    "legacyId": "255740389",
+    "brand": "seloger",
+    "agencyId": "RC-1017268",
+    "static": {
+      "phoneNumbers": [
+        "+33170391112"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33170391112"
+      ]
+    },
+    "contactCard": {
+      "title": "LODGIS",
+      "subtitle": "Lodgis",
+      "phoneNumbers": [
+        "+33170391112"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/f/b/a/b/fbabcdc0-c10a-4566-9086-0da70321aa57.jpg?ci_seal=4f8c325196fb080e6219469a6cae49485a313141",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "LODGIS",
+        "subtitle": "Lodgis",
+        "phoneNumbers": [
+          "+33170391112"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/f/b/a/b/fbabcdc0-c10a-4566-9086-0da70321aa57.jpg?ci_seal=4f8c325196fb080e6219469a6cae49485a313141"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Lodgis",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "LODGIS",
+      "subtitle": "LODGIS",
+      "phoneNumbers": [
+        "+33170391112"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "LODGIS",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/f/b/a/b/fbabcdc0-c10a-4566-9086-0da70321aa57.jpg?ci_seal=4f8c325196fb080e6219469a6cae49485a313141",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-46792/"
+      },
+      "contactCard": {
+        "title": "Lodgis",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://lodgis.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-46792/",
+      "imprintUrl": null,
+      "feeUrl": "https://www.lodgis.com/fr/l-agence-lodgis/honoraires/",
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 423936376",
+        "<b>SIRET:</b> 42393637600098"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "27-29 RUE DE CHOISEUL 75002, 75008 PARIS",
+      "phoneNumbers": [
+        "+33170391112"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75008",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25LYE7S276S1",
+        "price": 1700,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75008",
+        "building_state": "REFURBISHED",
+        "legacy_id": "255740389",
+        "product_type": "standard",
+        "client_id": "RC-1017268",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "440512",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75008",
+        "estate_type": 1,
+        "id": "255740389",
+        "id_duo": 255740389,
+        "id_solo": 255740389,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 13,
+        "position": 0,
+        "price": 1700,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 26,
+        "year_of_construction": 1880
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75008",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255740389",
+      "prix": 1700,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 26,
+      "commodites": [
+        "Chauffage-central",
+        "Cuisine-équipée",
+        "Cuisine-séparée",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-8eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 8ème arrondissement 75008",
+          "hoverLabel": "Appartements à louer Paris 8ème arrondissement 75008",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 26 m² 1700 € Saint Philippe du Roule Paris (75008)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 26 m² 1700 € Saint Philippe du Roule Paris (75008)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-8eme-75/saint-philippe-du-roule/255740389.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-8eme-75/saint-philippe-du-roule/255740389.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 26 m² 1700 € Saint Philippe du Roule Paris (75008)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 26 m² 1700 € Saint Philippe du Roule Paris (75008)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/8/6/e/e/86eefae1-d019-4265-93d5-8d8482f392a2.jpg?ci_seal=21da13bdfb299c7cbf0bfcf783f87cea40d27110"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 26 m² 1700 € Saint Philippe du Roule Paris (75008)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-8eme-75/saint-philippe-du-roule/255740389.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 26 m² 1700 € Saint Philippe du Roule Paris (75008)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 26 m² 1700 € Saint Philippe du Roule Paris (75008)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/8/6/e/e/86eefae1-d019-4265-93d5-8d8482f392a2.jpg?ci_seal=21da13bdfb299c7cbf0bfcf783f87cea40d27110"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 26 m² 1700 € Saint Philippe du Roule Paris (75008)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 26 m² 1700 € Saint Philippe du Roule Paris (75008)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-8eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 8ème arrondissement 75008",
+          "hoverLabel": "Appartements à louer Paris 8ème arrondissement 75008",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-8eme-75/saint-philippe-du-roule/255740389.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR30&priceMax=2040&priceMin=1360",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR30",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR33",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25LYE7S276S1"
+}

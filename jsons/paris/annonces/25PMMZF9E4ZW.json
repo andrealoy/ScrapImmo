@@ -1,0 +1,1211 @@
+{
+  "brand": "seloger",
+  "id": "25PMMZF9E4ZW",
+  "metadata": {
+    "legacyId": "255778657",
+    "creationDate": "2025-12-03T22:29:00Z",
+    "updateDate": "2025-12-08T23:11:16.501Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 8ème",
+        "zipCode": "75008"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                2.32093,
+                48.86302
+              ],
+              [
+                2.31868,
+                48.86372
+              ],
+              [
+                2.30174,
+                48.8635
+              ],
+              [
+                2.29503,
+                48.87377
+              ],
+              [
+                2.29815,
+                48.87808
+              ],
+              [
+                2.32716,
+                48.88346
+              ],
+              [
+                2.32584,
+                48.86954
+              ],
+              [
+                2.32093,
+                48.86302
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "description": {
+      "description": "Très bel appartement de 4 pièces, d'une superficie de 155 m², situé au 3e étage avec ascenseur dans un bel immeuble ancien.\n Il se compose d'une entrée avec placards, d'un grand séjour avec balcon, d'une cuisine séparée et aménagée, de trois chambres avec des rangements, de deux salles de douche, d'une salle de bains, de 3 wcs, ainsi que d'une buanderie. \n Lustrage des parquets, peintures neuves, fenêtres en double vitrage. Charme de l'ancien, moulures, cheminées.\n Immeuble sécurisé, gardienne, fibre optique",
+      "texts": [
+        {
+          "text": "Très bel appartement de 4 pièces, d'une superficie de 155 m², situé au 3e étage avec ascenseur dans un bel immeuble ancien.\n Il se compose d'une entrée avec placards, d'un grand séjour avec balcon, d'une cuisine séparée et aménagée, de trois chambres avec des rangements, de deux salles de douche, d'une salle de bains, de 3 wcs, ainsi que d'une buanderie. \n Lustrage des parquets, peintures neuves, fenêtres en double vitrage. Charme de l'ancien, moulures, cheminées.\n Immeuble sécurisé, gardienne, fibre optique"
+        }
+      ],
+      "headline": "Paris VIIIe - Miromesnil - Saint Augustin"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "4 pièces",
+        "3 chambres",
+        "155 m²",
+        "Étage 1/6"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "4 pièces",
+          "splitValue": "4",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "3 chambres",
+          "splitValue": "3",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "155 m²",
+          "splitValue": "155",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 1/6",
+          "splitValue": "Étage",
+          "label": "1/6"
+        }
+      ],
+      "price": {
+        "value": "4 774 €",
+        "formatted": "4 774 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "4774 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1900"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "f8eb884c-040d-42f8-a963-af19c2eec0ae",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 1820 et 2510 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 1820 et 2510 € par an. Prix moyens des énergies indexés au 09/12/2025 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "53f1eaab-84a9-4b1b-836a-425e551637b9",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "125 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "25 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est 0 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "308f1d43-ac9a-4909-907c-344d82be268c",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "25 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est 0 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255778657"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "LAP80000869"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "4 774 €/mois Loyer charges comprises",
+          "ariaLabel": "4774 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "353,56 €/mois",
+            "ariaLabel": "353.56 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "30,80 €/mois/m²",
+            "ariaLabel": "30,80 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "4421"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "1er étage/6 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "WC dans la salle de bains"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "3 chambres"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "1er étage/6 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain; 2 salles de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "WC dans la salle de bains"
+              },
+              {
+                "icon": "bedroom",
+                "value": "3 chambres"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Gardien",
+                "icon": "custodian"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "80f797e2-ae3a-4c50-936b-23626b324f2f",
+          "url": "https://mms.seloger.com/8/0/f/7/80f797e2-ae3a-4c50-936b-23626b324f2f.jpg?ci_seal=3024d789dcbc37b97635513bdfc65627ad8655cc",
+          "alt": "Appartement à louer 4 774 € 4 pièces 3 chambres 155 m² Étage 1/6 Paris 8ème 75008",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f2a6d9f9-1601-42bd-9f12-955f518eddd6",
+          "url": "https://mms.seloger.com/f/2/a/6/f2a6d9f9-1601-42bd-9f12-955f518eddd6.jpg?ci_seal=7ddf0b1c500fe3fb43fe796d4f57918c09706fc0",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c157733d-ef06-495c-afc1-8ea2b2b889e6",
+          "url": "https://mms.seloger.com/c/1/5/7/c157733d-ef06-495c-afc1-8ea2b2b889e6.jpg?ci_seal=1b808701263e8567ad7478eb1854eec75258bc0e",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "bc371793-a97e-4450-b17c-a0ca67696a1e",
+          "url": "https://mms.seloger.com/b/c/3/7/bc371793-a97e-4450-b17c-a0ca67696a1e.jpg?ci_seal=8641b35ee041885962a77636cd9aa25662cbd67e",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8613287d-11b8-44f7-8244-76f923e26434",
+          "url": "https://mms.seloger.com/8/6/1/3/8613287d-11b8-44f7-8244-76f923e26434.jpg?ci_seal=4bfe27f5a122a324914b52fe061e52a28403bb3d",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "12f6cdd4-8991-450e-9513-27ad5b2792a4",
+          "url": "https://mms.seloger.com/1/2/f/6/12f6cdd4-8991-450e-9513-27ad5b2792a4.jpg?ci_seal=7a36796e31385c554a073f1804899da4796dcac7",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d20e55eb-60e7-4770-a41b-07caf5ec49df",
+          "url": "https://mms.seloger.com/d/2/0/e/d20e55eb-60e7-4770-a41b-07caf5ec49df.jpg?ci_seal=85892d0b45101408f4cd0cc746ece74c27cb5e2c",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "127cb96b-6aa9-434d-ad21-cd7c899fc24d",
+          "url": "https://mms.seloger.com/1/2/7/c/127cb96b-6aa9-434d-ad21-cd7c899fc24d.jpg?ci_seal=b8216f21dda4a644c83acdb1771d354e24e42ffe",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255778657",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75008",
+      "city": "Paris 8ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 32.72,
+        "accuracy": 4,
+        "high": "43,28",
+        "low": "25,94"
+      },
+      "markerPosition": 28,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "30,80",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Paris VIIIe - Miromesnil - Saint Augustin",
+      "description": "Très bel appartement de 4 pièces, d'une superficie de 155 m², situé au 3e étage avec ascenseur dans un bel immeuble ancien.\n Il se compose d'une entrée avec placards, d'un grand séjour avec balcon, d'une cuisine séparée et aménagée, de trois chambres avec des rangements, de deux salles de douche, d'une salle de bains, de 3 wcs, ainsi que d'une buanderie. \n Lustrage des parquets, peintures neuves, fenêtres en double vitrage. Charme de l'ancien, moulures, cheminées.\n Immeuble sécurisé, gardienne, fibre optique",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "5 jours en ligne",
+      "views": "118 vues",
+      "saves": "5 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25PMMZF9E4ZW",
+    "legacyId": "255778657",
+    "brand": "seloger",
+    "agencyId": "RC-087364",
+    "static": {
+      "phoneNumbers": [
+        "01 55 42 77 71"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "01 55 42 77 71"
+      ]
+    },
+    "contactCard": {
+      "title": "CABINET JACQUES AZOULAY – ETUDES & CONSEILS",
+      "subtitle": "M. Etudes & Conseils Cabinet Jacques Azoulay",
+      "phoneNumbers": [
+        "01 55 42 77 71"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/1/c/e/1/1ce19098-85a8-4d21-9525-4d74765dd7e0.jpg?ci_seal=6ffa6680eab093127d14bafd57882b13dfd98878",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "CABINET JACQUES AZOULAY – ETUDES & CONSEILS",
+        "subtitle": "M. Etudes & Conseils Cabinet Jacques Azoulay",
+        "phoneNumbers": [
+          "01 55 42 77 71"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/1/c/e/1/1ce19098-85a8-4d21-9525-4d74765dd7e0.jpg?ci_seal=6ffa6680eab093127d14bafd57882b13dfd98878"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à M. Etudes & Conseils Cabinet Jacques Azoulay",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "CABINET JACQUES AZOULAY – ETUDES & CONSEILS",
+      "subtitle": "CABINET JACQUES AZOULAY – ETUDES & CONSEILS",
+      "phoneNumbers": [
+        "01 55 42 77 71"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "CABINET JACQUES AZOULAY – ETUDES & CONSEILS",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/1/c/e/1/1ce19098-85a8-4d21-9525-4d74765dd7e0.jpg?ci_seal=6ffa6680eab093127d14bafd57882b13dfd98878",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-5eme-arrondissement-75005/agence-175/"
+      },
+      "contactCard": {
+        "title": "M. Etudes & Conseils Cabinet Jacques Azoulay",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.azoulay.net/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-5eme-arrondissement-75005/agence-175/",
+      "imprintUrl": null,
+      "feeUrl": "https://cabinetazoulay.la-boite-immo.com/i/redac/honoraires?honofor=1",
+      "agencyLegalInformations": [
+        "ETUDES & CONSEILS - JACQUES AZOULAY",
+        "<b>Siège:</b> 31 QUAI DE LA TOURNELLE, 75005 PARIS",
+        "<b>RCS:</b> 794495754",
+        "<b>SIRET:</b> 79449575400010"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "31 quai de la Tournelle, 75005 Paris",
+      "phoneNumbers": [
+        "01 55 42 77 71"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75008",
+    "av_city": "Paris",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25PMMZF9E4ZW",
+        "price": 4774,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75008",
+        "legacy_id": "255778657",
+        "product_type": "standard",
+        "client_id": "RC-087364",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "102209",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "75008",
+        "estate_type": 1,
+        "id": "255778657",
+        "id_duo": 255778657,
+        "id_solo": 255778657,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 3,
+        "nb_rooms": 4,
+        "parent_site": "SL",
+        "photos_nb": 8,
+        "position": 0,
+        "price": 4774,
+        "product_geolocation": "localisation_city",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 155,
+        "year_of_construction": 1900
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75008",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255778657",
+      "prix": 4800,
+      "nb_pieces": 4,
+      "nb_chambres": 3,
+      "surface": 155,
+      "etage": 6,
+      "commodites": [
+        "ascenseur",
+        "Chauffage-individuel",
+        "Chauffage-gaz",
+        "Cuisine-équipée",
+        "Cuisine-séparée",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-8eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 8ème arrondissement 75008",
+          "hoverLabel": "Appartements à louer Paris 8ème arrondissement 75008",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T4/F4 155 m² 4774 € Paris (75008)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T4/F4 155 m² 4774 € Paris (75008)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-8eme-75/255778657.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-8eme-75/255778657.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T4/F4 155 m² 4774 € Paris (75008)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T4/F4 155 m² 4774 € Paris (75008)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/8/0/f/7/80f797e2-ae3a-4c50-936b-23626b324f2f.jpg?ci_seal=3024d789dcbc37b97635513bdfc65627ad8655cc"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T4/F4 155 m² 4774 € Paris (75008)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-8eme-75/255778657.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T4/F4 155 m² 4774 € Paris (75008)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T4/F4 155 m² 4774 € Paris (75008)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/8/0/f/7/80f797e2-ae3a-4c50-936b-23626b324f2f.jpg?ci_seal=3024d789dcbc37b97635513bdfc65627ad8655cc"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T4/F4 155 m² 4774 € Paris (75008)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T4/F4 155 m² 4774 € Paris (75008)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-8eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 8ème arrondissement 75008",
+          "hoverLabel": "Appartements à louer Paris 8ème arrondissement 75008",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-8eme-75/255778657.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#505050",
+    "textColor": "light",
+    "providerName": "CABINET JACQUES AZOULAY – ETUDES & CONSEILS",
+    "logo": {
+      "src": "https://mms.seloger.com/1/c/e/1/1ce19098-85a8-4d21-9525-4d74765dd7e0.jpg?ci_seal=6ffa6680eab093127d14bafd57882b13dfd98878",
+      "alt": "logo-RC-087364",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/9/e/3/4/9e348245-38f0-4a73-b366-f39b37683d95.png?ci_eqs=&ci_seal=8e1badd0dca28432723cf53fe90f5c17cf226c0e",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-5eme-arrondissement-75005/agence-175/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/9/e/3/4/9e348245-38f0-4a73-b366-f39b37683d95.png?ci_eqs=&ci_seal=8e1badd0dca28432723cf53fe90f5c17cf226c0e",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-5eme-arrondissement-75005/agence-175/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/2/d/1/5/2d15ddb2-d8b5-48d0-b1fe-2b7f9588fcc1.png?ci_eqs=&ci_seal=9c368f40a9f6fc9a0d3cb7e1507f6aafe65a9f9b",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-5eme-arrondissement-75005/agence-175/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=AD09FR33&priceMax=5728.8&priceMin=3819.2",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "AD09FR33",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25PMMZF9E4ZW"
+}

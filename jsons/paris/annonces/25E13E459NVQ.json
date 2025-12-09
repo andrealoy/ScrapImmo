@@ -1,0 +1,1576 @@
+{
+  "brand": "seloger",
+  "id": "25E13E459NVQ",
+  "metadata": {
+    "legacyId": "255095317",
+    "creationDate": "2025-11-24T17:55:00Z",
+    "updateDate": "2025-11-25T01:21:10.918Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 1er",
+        "zipCode": "75001",
+        "district": "Saint Germain l'Auxerrois"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34138,
+          48.8595
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "1",
+                "color": "#ffcd00"
+              },
+              {
+                "name": "4",
+                "color": "#c800a1"
+              },
+              {
+                "name": "7",
+                "color": "#f59bbb"
+              },
+              {
+                "name": "11",
+                "color": "#6e4c1e"
+              },
+              {
+                "name": "14",
+                "color": "#5f259f"
+              }
+            ]
+          },
+          {
+            "type": "RER",
+            "lines": [
+              {
+                "name": "A",
+                "color": "#E3051C"
+              },
+              {
+                "name": "B",
+                "color": "#5291CE"
+              },
+              {
+                "name": "D",
+                "color": "#5E9620"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "21",
+                "color": "#77c695"
+              },
+              {
+                "name": "24",
+                "color": "#a0006e"
+              },
+              {
+                "name": "27",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "38",
+                "color": "#006cb8"
+              },
+              {
+                "name": "47",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "58",
+                "color": "#00643c"
+              },
+              {
+                "name": "67",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "69",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "70",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "72",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "74",
+                "color": "#cec92a"
+              },
+              {
+                "name": "76",
+                "color": "#62259d"
+              },
+              {
+                "name": "81",
+                "color": "#f58f53"
+              },
+              {
+                "name": "85",
+                "color": "#5a230a"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "L'Agence Dauphine Rive Gauche vous propose à la location un splendide appartement meublé en Duplex avec vue exceptionnelle sur la Seine comprenant : un séjour-salle à manger avec balcon (exposition Sud Ouest), une cuisine entièrement équipée, deux chambres dont une avec un coin bureau, un dressing et une salle d'eau, une salle de bains et douche.  \r\nPrestations Haut de Gamme, Poutres, parquet et climatisation.\r\n\r\nBAIL SECONDAIRE EXCLUSIVEMENT OU BAIL SOCIETE pour une durée minimum de 12 mois",
+      "texts": [
+        {
+          "text": "L'Agence Dauphine Rive Gauche vous propose à la location un splendide appartement meublé en Duplex avec vue exceptionnelle sur la Seine comprenant : un séjour-salle à manger avec balcon (exposition Sud Ouest), une cuisine entièrement équipée, deux chambres dont une avec un coin bureau, un dressing et une salle d'eau, une salle de bains et douche.  \r\nPrestations Haut de Gamme, Poutres, parquet et climatisation.\r\n\r\nBAIL SECONDAIRE EXCLUSIVEMENT OU BAIL SOCIETE pour une durée minimum de 12 mois"
+        }
+      ],
+      "headline": "ILE DE LA CITÉ - QUAI DES ORFEVRES-PLACE DAUPHINE"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "4 pièces",
+        "2 chambres",
+        "109 m²",
+        "2ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "4 pièces",
+          "splitValue": "4",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "109 m²",
+          "splitValue": "109",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2ème étage",
+          "splitValue": "2ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "8 000 €",
+        "formatted": "8 000 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "8000 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Entretenu"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "3d794513-daf3-4c83-9014-a233363a1760",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "1f2059e8-e8b3-483a-bc4d-b6d011d5f3bc",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "185 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "43 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "4c5041ad-c824-4a44-b5b0-fa53cfe64920",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "43 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255095317"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "4684028"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "7 550 €/mois Loyer de base",
+          "ariaLabel": "7550 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "450 €/mois",
+            "ariaLabel": "450 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "8 000 €/mois",
+            "ariaLabel": "8000 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "69,27 €/mois/m²",
+            "ariaLabel": "69,27 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "15300"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Balcon"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: sud, ouest"
+        },
+        {
+          "value": "Belle vue",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "Orientation",
+                "value": "Exposition: sud, ouest"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "2ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain; 1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Balcon"
+              },
+              {
+                "value": "Belle vue",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "a9023470-e198-49da-b777-17b8af68448a",
+          "url": "https://mms.seloger.com/a/9/0/2/a9023470-e198-49da-b777-17b8af68448a.jpg?ci_seal=9b0b2214f979d5b75190fa887acf3d34e83080fe",
+          "alt": "Appartement à louer 8 000 € 4 pièces 2 chambres 109 m² 2ème étage Saint Germain l'Auxerrois Paris 1er 75001",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "baa2741c-9413-401c-9ce9-c266ba9a0b9d",
+          "url": "https://mms.seloger.com/b/a/a/2/baa2741c-9413-401c-9ce9-c266ba9a0b9d.jpg?ci_seal=78a7091d48f8c32842e8a7f65888718f0d45ff37",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "dafa60a6-b53a-4fb0-9cdb-123db659b14c",
+          "url": "https://mms.seloger.com/d/a/f/a/dafa60a6-b53a-4fb0-9cdb-123db659b14c.jpg?ci_seal=6edaada57217e03df34e3f06effe00230daeddff",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "da359313-cd5a-4baa-aa13-f107333e1663",
+          "url": "https://mms.seloger.com/d/a/3/5/da359313-cd5a-4baa-aa13-f107333e1663.jpg?ci_seal=7f977844148ae7346d918862b51868eb4e7a54cb",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c5b8407b-c846-4a8c-8e88-fef6bea1b30c",
+          "url": "https://mms.seloger.com/c/5/b/8/c5b8407b-c846-4a8c-8e88-fef6bea1b30c.jpg?ci_seal=2ab09d72ae6fc20dea5abb296d0983ab23ae4ba5",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4661c970-491e-4061-8665-7cdd1dac13f2",
+          "url": "https://mms.seloger.com/4/6/6/1/4661c970-491e-4061-8665-7cdd1dac13f2.jpg?ci_seal=d38ac8c53cd97b947eb58b7cf549a3615e3c02dc",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b5006a36-bfba-4ced-952f-a3f79d7b732e",
+          "url": "https://mms.seloger.com/b/5/0/0/b5006a36-bfba-4ced-952f-a3f79d7b732e.jpg?ci_seal=723e228acf716c090cb756f40b48e786e99495d3",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "13107dae-51a7-498d-bb6c-771099b8e4bc",
+          "url": "https://mms.seloger.com/1/3/1/0/13107dae-51a7-498d-bb6c-771099b8e4bc.jpg?ci_seal=fecd492975e76674a25e824236cc4d3da066468b",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f368d777-a05f-4a15-aa75-84ae9cfd3287",
+          "url": "https://mms.seloger.com/f/3/6/8/f368d777-a05f-4a15-aa75-84ae9cfd3287.jpg?ci_seal=aac21f6672a60a6056057a6a70fcaeb6d0c7ba59",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5704622d-b467-46f8-b644-1103cec4e188",
+          "url": "https://mms.seloger.com/5/7/0/4/5704622d-b467-46f8-b644-1103cec4e188.jpg?ci_seal=4ae0fd0089fe2c57b8b26b314c8abe14c9617598",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e47ff498-0d72-4d88-8596-ea4a48c223fa",
+          "url": "https://mms.seloger.com/e/4/7/f/e47ff498-0d72-4d88-8596-ea4a48c223fa.jpg?ci_seal=9fa6c314d5a2f97de5328fcc0d8f5299d3cecba8",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a02a44b5-d586-4571-94b3-a43e81dbc751",
+          "url": "https://mms.seloger.com/a/0/2/a/a02a44b5-d586-4571-94b3-a43e81dbc751.jpg?ci_seal=e7f6763309e01f5c3f8f61f1ffa465bc7699d978",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "36eb287e-3828-4eb6-9a59-423503dcdf7a",
+          "url": "https://mms.seloger.com/3/6/e/b/36eb287e-3828-4eb6-9a59-423503dcdf7a.jpg?ci_seal=f67bdf6ec9cb04cb9d2b5079607280b172b69a8e",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "066f1710-e37a-498c-8e0f-c16cb6de9681",
+          "url": "https://mms.seloger.com/0/6/6/f/066f1710-e37a-498c-8e0f-c16cb6de9681.jpg?ci_seal=60d403490c11d2a6b0bb0c2515c0cdc1a6f59d8a",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "396c3b97-0e6b-4da3-94b2-d1c6c738a028",
+          "url": "https://mms.seloger.com/3/9/6/c/396c3b97-0e6b-4da3-94b2-d1c6c738a028.jpg?ci_seal=0300ca18c8c2d839509e7e79ebfef9c334945cf2",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2bfe6b30-dcc4-45ca-b4b4-f11aa7cef0f6",
+          "url": "https://mms.seloger.com/2/b/f/e/2bfe6b30-dcc4-45ca-b4b4-f11aa7cef0f6.jpg?ci_seal=008c323fd2ff357b354a6e21ff33827348663a1c",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1de4066b-79de-49c6-8d12-c7b624d2ff18",
+          "url": "https://mms.seloger.com/1/d/e/4/1de4066b-79de-49c6-8d12-c7b624d2ff18.jpg?ci_seal=4eb427e515b128f55a0e4f3e1a54c5b78c2868ed",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f08c6ace-2974-4aac-8cf1-a7185550c688",
+          "url": "https://mms.seloger.com/f/0/8/c/f08c6ace-2974-4aac-8cf1-a7185550c688.jpg?ci_seal=3d321eaa8e83ef001bf3ee776f364f6f7ddd2453",
+          "classification": {
+            "name": "HOME_OFFICE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "bbede94e-3c8e-4680-93b7-c747cec57b0c",
+          "url": "https://mms.seloger.com/b/b/e/d/bbede94e-3c8e-4680-93b7-c747cec57b0c.jpg?ci_seal=fc0acf472b9d3081c39c6c79d5f26afb9b10f546",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b43744d8-b303-4745-8c24-78d3cf57154e",
+          "url": "https://mms.seloger.com/b/4/3/7/b43744d8-b303-4745-8c24-78d3cf57154e.jpg?ci_seal=660a0271cbc4c489ab47056dafbcd02ffa61e54f",
+          "classification": {
+            "name": "HOME_OFFICE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "455c41ed-1ce3-43ac-8596-ef6bf3e4f9e7",
+          "url": "https://mms.seloger.com/4/5/5/c/455c41ed-1ce3-43ac-8596-ef6bf3e4f9e7.jpg?ci_seal=7c2ca77b61ce8037b8ef8fa3c0f8467708e4c4a8",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6a251045-f86c-4b3f-a69e-6a035db31e75",
+          "url": "https://mms.seloger.com/6/a/2/5/6a251045-f86c-4b3f-a69e-6a035db31e75.jpg?ci_seal=083ac4ff06b76dbf89060d8a3c98e281fd69c603",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "87464629-67bf-4988-a3be-fa7f1f37777e",
+          "url": "https://mms.seloger.com/8/7/4/6/87464629-67bf-4988-a3be-fa7f1f37777e.jpg?ci_seal=340dbecc807e474d294aaced508af1ff4f43b63e",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "94463360-50d4-4ef2-a20f-ccb2e2d3bcc0",
+          "url": "https://mms.seloger.com/9/4/4/6/94463360-50d4-4ef2-a20f-ccb2e2d3bcc0.jpg?ci_seal=b8d5320815cec47010a8e00876b98c9d5b8a6c0e",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "81c2e657-2c62-4e0e-974a-e4ef3314a65f",
+          "url": "https://mms.seloger.com/8/1/c/2/81c2e657-2c62-4e0e-974a-e4ef3314a65f.jpg?ci_seal=b4e3608366cf8dbfacff3e40f07437d73a18a0c1",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8458cad1-7e13-48e9-9dda-c3278e3d1d79",
+          "url": "https://mms.seloger.com/8/4/5/8/8458cad1-7e13-48e9-9dda-c3278e3d1d79.jpg?ci_seal=faedb8cd6509ab2a3e19dfa36a48577a1c80b551",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e50531b7-d735-4c0f-bd57-31c7587f3440",
+          "url": "https://mms.seloger.com/e/5/0/5/e50531b7-d735-4c0f-bd57-31c7587f3440.jpg?ci_seal=da50e744366c27198946d330f9c496108ebda0d7",
+          "classification": {
+            "name": "STAIRCASE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0fd10266-5173-4043-97f4-5d1233f2de00",
+          "url": "https://mms.seloger.com/0/f/d/1/0fd10266-5173-4043-97f4-5d1233f2de00.jpg?ci_seal=5998c0627dc9275055d55ce82017a10d749f450e",
+          "classification": {
+            "name": "LOGO",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a822cd2e-628c-43be-8b17-d65e9e3eb886",
+          "url": "https://mms.seloger.com/a/8/2/2/a822cd2e-628c-43be-8b17-d65e9e3eb886.jpg?ci_seal=b4e1647a22c3cbc7d54cea0e6da5db58bbdb73a6",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "96734746-3e90-49be-b37c-9a2eb4e3c8bd",
+          "url": "https://mms.seloger.com/9/6/7/3/96734746-3e90-49be-b37c-9a2eb4e3c8bd.jpg?ci_seal=a6c9a07ee556b3408582d54e8a1b8ba4226fa7fc",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a794a6af-d3f4-4fd6-a71f-940a68397233",
+          "url": "https://mms.seloger.com/a/7/9/4/a794a6af-d3f4-4fd6-a71f-940a68397233.jpg?ci_seal=e213c90b3c25b0e319432b42ff63f194639ad298",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6bef11b2-cc43-40de-9f49-52a221e52358",
+          "url": "https://mms.seloger.com/6/b/e/f/6bef11b2-cc43-40de-9f49-52a221e52358.jpg?ci_seal=e3a1e334a1a108931e97df0a930d9fc80fc16b46",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fa9cbbb0-f974-488a-a6e7-400a53f6dd92",
+          "url": "https://mms.seloger.com/f/a/9/c/fa9cbbb0-f974-488a-a6e7-400a53f6dd92.jpg?ci_seal=0a8af72d87478ba760d9b2297bad63dc5448d2a9",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "629ab8df-e23e-46f1-9a99-61569d5a8c96",
+          "url": "https://mms.seloger.com/6/2/9/a/629ab8df-e23e-46f1-9a99-61569d5a8c96.jpg?ci_seal=adc152533a7322c368a62438930b9821d4eab22d",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e7b26fd8-a75c-4509-8c32-7633b7a5ff06",
+          "url": "https://mms.seloger.com/e/7/b/2/e7b26fd8-a75c-4509-8c32-7633b7a5ff06.jpg?ci_seal=28dfca7e47ff63c9bef7909f41012a7dc5a9c04e",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2855a688-505e-4ec9-ba57-3a1ae4bbbfa1",
+          "url": "https://mms.seloger.com/2/8/5/5/2855a688-505e-4ec9-ba57-3a1ae4bbbfa1.jpg?ci_seal=80bb89931db5c4783101ad269df30ba8020b1230",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ed9ee225-6c4e-47cf-a79e-4dcadb99a748",
+          "url": "https://mms.seloger.com/e/d/9/e/ed9ee225-6c4e-47cf-a79e-4dcadb99a748.jpg?ci_seal=b5c8053b04151c062bd24f18eddbde00960ff961",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a4bdfafa-462f-4532-9169-2205cfccf708",
+          "url": "https://mms.seloger.com/a/4/b/d/a4bdfafa-462f-4532-9169-2205cfccf708.jpg?ci_seal=506f53428b2643cf7e4123f95ed28ae1ff28bc93",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2f3ec149-ce15-4510-bee2-479f5dfc5b9d",
+          "url": "https://mms.seloger.com/2/f/3/e/2f3ec149-ce15-4510-bee2-479f5dfc5b9d.jpg?ci_seal=7863854cb74fec3b1b4d973406add81d9d9660b1",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ed7fbd3b-e5e5-475f-a9ea-b39d6544b4e5",
+          "url": "https://mms.seloger.com/e/d/7/f/ed7fbd3b-e5e5-475f-a9ea-b39d6544b4e5.jpg?ci_seal=5de0725c6bbc53b720b5922f80f3990190f1ecde",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1db03da7-27d2-4d51-aa57-29d39e8aa18d",
+          "url": "https://mms.seloger.com/1/d/b/0/1db03da7-27d2-4d51-aa57-29d39e8aa18d.jpg?ci_seal=24fe9609e888eefbd294ce1ed2778342b482222b",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fd88afec-e951-4604-abde-599ebe728c8c",
+          "url": "https://mms.seloger.com/f/d/8/8/fd88afec-e951-4604-abde-599ebe728c8c.jpg?ci_seal=4126a72bd489b87e59cddb2ec828bca1901bf3bb",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "36f5ba6d-422d-4b8b-98e7-fe04edfd8e76",
+          "url": "https://mms.seloger.com/3/6/f/5/36f5ba6d-422d-4b8b-98e7-fe04edfd8e76.jpg?ci_seal=f3202dcfc5ff59d1f152cd829b73ba32ef5595ab",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ],
+      "floorplans": [
+        {
+          "key": "d529141e-6676-4ed7-89bc-01e3cc9f91e7",
+          "url": "https://mms.seloger.com/d/5/2/9/d529141e-6676-4ed7-89bc-01e3cc9f91e7.jpg?ci_seal=6782d5d4eb212672f94507e069fbc825e4f935cc",
+          "alt": "Appartement à louer 8 000 € 4 pièces 2 chambres 109 m² 2ème étage Saint Germain l'Auxerrois Paris 1er 75001",
+          "classification": {
+            "name": "FLOORPLAN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "33056eb3-6d81-4844-9e25-dd89fe831493",
+          "url": "https://mms.seloger.com/3/3/0/5/33056eb3-6d81-4844-9e25-dd89fe831493.jpg?ci_seal=f2372d325ef5e426b93904deb12bf014a85b2183",
+          "classification": {
+            "name": "FLOORPLAN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255095317",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75001",
+      "city": "Paris 1er",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 36.06,
+        "accuracy": 2,
+        "high": "43,27",
+        "low": "28,10"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "69,27",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "ILE DE LA CITÉ - QUAI DES ORFEVRES-PLACE DAUPHINE",
+      "description": "L'Agence Dauphine Rive Gauche vous propose à la location un splendide appartement meublé en Duplex avec vue exceptionnelle sur la Seine comprenant : un séjour-salle à manger avec balcon (exposition Sud Ouest), une cuisine entièrement équipée, deux chambres dont une avec un coin bureau, un dressing et une salle d'eau, une salle de bains et douche.  \r\nPrestations Haut de Gamme, Poutres, parquet et climatisation.\r\n\r\nBAIL SECONDAIRE EXCLUSIVEMENT OU BAIL SOCIETE pour une durée minimum de 12 mois",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "15 jours en ligne",
+      "views": "13 vues",
+      "saves": "0 favori"
+    }
+  },
+  "contactSections": {
+    "id": "25E13E459NVQ",
+    "legacyId": "255095317",
+    "brand": "seloger",
+    "agencyId": "RC-094088",
+    "static": {
+      "phoneNumbers": [
+        "0143544343"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0143544343"
+      ]
+    },
+    "contactCard": {
+      "title": "DAUPHINE RIVE GAUCHE",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0143544343"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/1/5/f/4/15f4306a-677d-41ef-8097-794fad9d8247.jpg?ci_seal=c0e41a8b1098aa125a1fa3ab0b7e676eace9ed61",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "DAUPHINE RIVE GAUCHE",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "0143544343"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/1/5/f/4/15f4306a-677d-41ef-8097-794fad9d8247.jpg?ci_seal=c0e41a8b1098aa125a1fa3ab0b7e676eace9ed61"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "DAUPHINE RIVE GAUCHE",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0143544343"
+      ],
+      "logoUrl": "https://mms.seloger.com/1/5/f/4/15f4306a-677d-41ef-8097-794fad9d8247.jpg?ci_seal=c0e41a8b1098aa125a1fa3ab0b7e676eace9ed61",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "DAUPHINE RIVE GAUCHE",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/1/5/f/4/15f4306a-677d-41ef-8097-794fad9d8247.jpg?ci_seal=c0e41a8b1098aa125a1fa3ab0b7e676eace9ed61",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-6eme-arrondissement-75006/agence-48221/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "website": "https://www.agencedauphine.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-6eme-arrondissement-75006/agence-48221/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 330963612",
+        "<b>SIRET:</b> 33096361200032"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "24 rue Dauphine, 75006 Paris 6ème",
+      "phoneNumbers": [
+        "0143544343"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75001",
+    "av_city": "Paris",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25E13E459NVQ",
+        "price": 8000,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75001",
+        "building_state": "WELL_KEPT",
+        "legacy_id": "255095317",
+        "product_type": "standard",
+        "client_id": "RC-094088",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "142536",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "75001",
+        "estate_type": 1,
+        "id": "255095317",
+        "id_duo": 255095317,
+        "id_solo": 255095317,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 4,
+        "parent_site": "SL",
+        "photos_nb": 45,
+        "position": 0,
+        "price": 8000,
+        "product_geolocation": "localisation_district",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 109
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75001",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255095317",
+      "prix": 8000,
+      "nb_pieces": 4,
+      "nb_chambres": 2,
+      "surface": 109,
+      "commodites": [
+        "ascenseur",
+        "balcon",
+        "belleVue",
+        "Chauffage-gaz",
+        "parquet",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire",
+        "sud"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-1er-75/bien-appartement/",
+          "label": "Appartements à louer Paris 1er arrondissement 75001",
+          "hoverLabel": "Appartements à louer Paris 1er arrondissement 75001",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T4/F4 109 m² 8000 € Saint Germain l'Auxerrois Paris (75001)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T4/F4 109 m² 8000 € Saint Germain l'Auxerrois Paris (75001)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-1er-75/saint-germain-l-auxerrois/255095317.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-1er-75/saint-germain-l-auxerrois/255095317.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T4/F4 109 m² 8000 € Saint Germain l'Auxerrois Paris (75001)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T4/F4 109 m² 8000 € Saint Germain l'Auxerrois Paris (75001)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/a/9/0/2/a9023470-e198-49da-b777-17b8af68448a.jpg?ci_seal=9b0b2214f979d5b75190fa887acf3d34e83080fe"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T4/F4 109 m² 8000 € Saint Germain l'Auxerrois Paris (75001)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-1er-75/saint-germain-l-auxerrois/255095317.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T4/F4 109 m² 8000 € Saint Germain l'Auxerrois Paris (75001)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T4/F4 109 m² 8000 € Saint Germain l'Auxerrois Paris (75001)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/a/9/0/2/a9023470-e198-49da-b777-17b8af68448a.jpg?ci_seal=9b0b2214f979d5b75190fa887acf3d34e83080fe"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T4/F4 109 m² 8000 € Saint Germain l'Auxerrois Paris (75001)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T4/F4 109 m² 8000 € Saint Germain l'Auxerrois Paris (75001)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-1er-75/bien-appartement/",
+          "label": "Appartements à louer Paris 1er arrondissement 75001",
+          "hoverLabel": "Appartements à louer Paris 1er arrondissement 75001",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.bellesdemeures.com/255095317/detail.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#F4F0EC",
+    "textColor": "dark",
+    "providerName": "DAUPHINE RIVE GAUCHE",
+    "logo": {
+      "src": "https://mms.seloger.com/1/5/f/4/15f4306a-677d-41ef-8097-794fad9d8247.jpg?ci_seal=c0e41a8b1098aa125a1fa3ab0b7e676eace9ed61",
+      "alt": "logo-RC-094088",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/9/0/b/8/90b8bb3c-5dab-4e32-91a7-7acd789e1b95.jpg?ci_eqs=&ci_seal=5b2151d1e9481d6c7e1001d35bc63bc5964a52f2",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-6eme-arrondissement-75006/agence-48221/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/9/0/b/8/90b8bb3c-5dab-4e32-91a7-7acd789e1b95.jpg?ci_eqs=&ci_seal=5b2151d1e9481d6c7e1001d35bc63bc5964a52f2",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-6eme-arrondissement-75006/agence-48221/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/f/5/e/b/f5eb8406-fe1e-4e1e-ba07-fc0c1e01e0a7.jpg?ci_eqs=&ci_seal=2cf579f869510d606d600b9db6a937bd1b2f2fe1",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-6eme-arrondissement-75006/agence-48221/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR2&priceMax=9600&priceMin=6400",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR2",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR26",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25E13E459NVQ"
+}

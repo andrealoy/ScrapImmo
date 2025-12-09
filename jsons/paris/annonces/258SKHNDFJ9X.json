@@ -1,0 +1,1155 @@
+{
+  "brand": "seloger",
+  "id": "258SKHNDFJ9X",
+  "metadata": {
+    "legacyId": "255576953",
+    "creationDate": "2025-12-01T14:05:00Z",
+    "updateDate": "2025-12-02T15:35:10.913Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 4ème",
+        "zipCode": "75004",
+        "district": "Saint Gervais"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3615046491681757,
+          48.85628750358948
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "1",
+                "color": "#ffcd00"
+              },
+              {
+                "name": "7",
+                "color": "#f59bbb"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "29",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "67",
+                "color": "#ff82b4"
+              },
+              {
+                "name": "69",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "72",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "76",
+                "color": "#62259d"
+              },
+              {
+                "name": "91",
+                "color": "#dc9609"
+              },
+              {
+                "name": "96",
+                "color": "#dc9609"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "QUARTIER LE MARAIS - Métro Saint-Paul (Ligne 1) \n\nAU 6ème étage sur cour d'un bel immeuble calme, nous vous proposons un appartement meublé de 50.14 m² comprenant une entrée avec placard, un grand séjour, une cuisine aménagée et équipée, une chambre avec de nombreux rangements et une salle d'eau avec machine à laver. WC séparé.\n\nChauffage et eau chaude individuels gaz\nLoyer HC : 1920.00 €\nProvisions sur charge : 60.00 €\nDépôt de garantie : 1980.00 €\nHonoraires d'agence à la charge du locataire : 752.10 €\n\nZone soumise à encadrement des loyers. Le loyer de référence majoré fixé par arrêté préfectoral est de 2105.88 euros. Le loyer de base est de 1920.00 euros. Cet appartement ne fait l'objet d'un complément de loyer.",
+      "texts": [
+        {
+          "text": "QUARTIER LE MARAIS - Métro Saint-Paul (Ligne 1) \n\nAU 6ème étage sur cour d'un bel immeuble calme, nous vous proposons un appartement meublé de 50.14 m² comprenant une entrée avec placard, un grand séjour, une cuisine aménagée et équipée, une chambre avec de nombreux rangements et une salle d'eau avec machine à laver. WC séparé.\n\nChauffage et eau chaude individuels gaz\nLoyer HC : 1920.00 €\nProvisions sur charge : 60.00 €\nDépôt de garantie : 1980.00 €\nHonoraires d'agence à la charge du locataire : 752.10 €\n\nZone soumise à encadrement des loyers. Le loyer de référence majoré fixé par arrêté préfectoral est de 2105.88 euros. Le loyer de base est de 1920.00 euros. Cet appartement ne fait l'objet d'un complément de loyer."
+        }
+      ],
+      "headline": "Appartement 2 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "50,1 m²",
+        "Étage 6/6"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "50,1 m²",
+          "splitValue": "50,1",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 6/6",
+          "splitValue": "Étage",
+          "label": "6/6"
+        }
+      ],
+      "price": {
+        "value": "1 980 €",
+        "formatted": "1 980 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "1980 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "8b1b57b7-6715-422e-9091-905241ac053c",
+          "features": [
+            {
+              "type": "excessiveConsumption",
+              "label": "Consommation d'énergie",
+              "value": "Logement à consommation énergétique excessive: classe F"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "f47f89d9-ea07-4763-aa69-17b42279e4fb",
+              "efficiencyClass": {
+                "index": 5,
+                "rating": "F"
+              },
+              "values": [
+                {
+                  "value": "417 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "92 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : F avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": true
+            },
+            {
+              "key": "36151cc2-b9ff-4bb5-869d-a4161c0b2e10",
+              "efficiencyClass": {
+                "index": 5,
+                "rating": "F"
+              },
+              "values": [
+                {
+                  "value": "92 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : F avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255576953"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "2P Marais"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 920 €/mois Loyer de base",
+          "ariaLabel": "1920 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "60 €/mois",
+            "ariaLabel": "60 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 980 €/mois",
+            "ariaLabel": "1980 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "38,29 €/mois/m²",
+            "ariaLabel": "38,29 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "3840"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Dernier étage, 6ème étage/6 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "value": "Belle vue, Sans vis-à-vis",
+          "icon": "with-view"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "Dernier étage, 6ème étage/6 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              },
+              {
+                "value": "Belle vue, Sans vis-à-vis",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "27b23a84-1523-4eff-8a67-cf3e4da38c1c",
+          "url": "https://mms.seloger.com/2/7/b/2/27b23a84-1523-4eff-8a67-cf3e4da38c1c.jpg?ci_seal=0c48ac7e6cefd9639d609435663340e9e78bb509",
+          "alt": "Appartement à louer 1 980 € 2 pièces 1 chambre 50,1 m² Étage 6/6 Saint Gervais Paris 4ème 75004",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3781b8fc-cb32-4d16-b844-8ab6b7879c8c",
+          "url": "https://mms.seloger.com/3/7/8/1/3781b8fc-cb32-4d16-b844-8ab6b7879c8c.jpg?ci_seal=77aaefaef751bf44ede60b9d4ac4dd34fb663f34",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "914d434d-afd5-4972-aaa1-6fc35e1ff9b6",
+          "url": "https://mms.seloger.com/9/1/4/d/914d434d-afd5-4972-aaa1-6fc35e1ff9b6.jpg?ci_seal=0f395e8fc47802c573815d2d1828323d79363eb5",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8789f186-dbd2-42d2-8546-efd9763681b0",
+          "url": "https://mms.seloger.com/8/7/8/9/8789f186-dbd2-42d2-8546-efd9763681b0.jpg?ci_seal=b285d7cc54a8497adffd0120d49b2b558493f044",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b3264931-6d18-425c-825e-49279230f4a5",
+          "url": "https://mms.seloger.com/b/3/2/6/b3264931-6d18-425c-825e-49279230f4a5.jpg?ci_seal=5a1684e1fbeb65fd2d3af169db2306119f219f17",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255576953",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75004",
+      "city": "Paris 4ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 38.56,
+        "accuracy": 3,
+        "high": "52,59",
+        "low": "30,23"
+      },
+      "markerPosition": 36,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "38,29",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 2 pièces",
+      "description": "QUARTIER LE MARAIS - Métro Saint-Paul (Ligne 1) \n\nAU 6ème étage sur cour d'un bel immeuble calme, nous vous proposons un appartement meublé de 50.14 m² comprenant une entrée avec placard, un grand séjour, une cuisine aménagée et équipée, une chambre avec de nombreux rangements et une salle d'eau avec machine à laver. WC séparé.\n\nChauffage et eau chaude individuels gaz\nLoyer HC : 1920.00 €\nProvisions sur charge : 60.00 €\nDépôt de garantie : 1980.00 €\nHonoraires d'agence à la charge du locataire : 752.10 €\n\nZone soumise à encadrement des loyers. Le loyer de référence majoré fixé par arrêté préfectoral est de 2105.88 euros. Le loyer de base est de 1920.00 euros. Cet appartement ne fait l'objet d'un complément de loyer.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "8 jours en ligne",
+      "views": "318 vues",
+      "saves": "20 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "258SKHNDFJ9X",
+    "legacyId": "255576953",
+    "brand": "seloger",
+    "agencyId": "RC-012413",
+    "static": {
+      "phoneNumbers": [
+        "0140093244"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0140093244"
+      ]
+    },
+    "contactCard": {
+      "title": "CABINET MICHOU",
+      "subtitle": "Cabinet R. Michou",
+      "phoneNumbers": [
+        "0140093244"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/2/b/d/9/2bd91e23-45aa-4ab4-a055-5f78766b2183.jpg?ci_seal=77d618910f60d09440c6bb6548148d6fbea2316b",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "CABINET MICHOU",
+        "subtitle": "Cabinet R. Michou",
+        "phoneNumbers": [
+          "0140093244"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/2/b/d/9/2bd91e23-45aa-4ab4-a055-5f78766b2183.jpg?ci_seal=77d618910f60d09440c6bb6548148d6fbea2316b"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Cabinet R. Michou",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "CABINET MICHOU",
+      "subtitle": "CABINET MICHOU",
+      "phoneNumbers": [
+        "0140093244"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "CABINET MICHOU",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/2/b/d/9/2bd91e23-45aa-4ab4-a055-5f78766b2183.jpg?ci_seal=77d618910f60d09440c6bb6548148d6fbea2316b",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-4eme-arrondissement-75004/agence-3801/"
+      },
+      "contactCard": {
+        "title": "Cabinet R. Michou",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://cabinet-michou.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-4eme-arrondissement-75004/agence-3801/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 562016535",
+        "<b>SIRET:</b> 56201653500014"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "20 rue Malher, 75004 Paris",
+      "phoneNumbers": [
+        "0140093244"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75004",
+    "av_city": "Paris",
+    "av_energy_certificate": "F",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "258SKHNDFJ9X",
+        "price": 1980,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75004",
+        "legacy_id": "255576953",
+        "product_type": "standard",
+        "client_id": "RC-012413",
+        "energy_certificate": "F"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "23171",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "F",
+        "estate_postalcode": "75004",
+        "estate_type": 1,
+        "id": "255576953",
+        "id_duo": 255576953,
+        "id_solo": 255576953,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 5,
+        "position": 0,
+        "price": 1980,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 50.14
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75004",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255576953",
+      "prix": 2000,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 50.14,
+      "etage": 6,
+      "commodites": [
+        "ascenseur",
+        "belleVue",
+        "Chauffage-gaz",
+        "Cuisine-séparée",
+        "dernier%20etage",
+        "parquet",
+        "SalleDEau-douche",
+        "sansVisAVis",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "F"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-4eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 4ème arrondissement 75004",
+          "hoverLabel": "Appartements à louer Paris 4ème arrondissement 75004",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 50.14 m² 1980 € Saint Gervais Paris (75004)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 50.14 m² 1980 € Saint Gervais Paris (75004)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-4eme-75/saint-gervais/255576953.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-4eme-75/saint-gervais/255576953.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 50.14 m² 1980 € Saint Gervais Paris (75004)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 50.14 m² 1980 € Saint Gervais Paris (75004)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/2/7/b/2/27b23a84-1523-4eff-8a67-cf3e4da38c1c.jpg?ci_seal=0c48ac7e6cefd9639d609435663340e9e78bb509"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 50.14 m² 1980 € Saint Gervais Paris (75004)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-4eme-75/saint-gervais/255576953.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 50.14 m² 1980 € Saint Gervais Paris (75004)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 50.14 m² 1980 € Saint Gervais Paris (75004)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/2/7/b/2/27b23a84-1523-4eff-8a67-cf3e4da38c1c.jpg?ci_seal=0c48ac7e6cefd9639d609435663340e9e78bb509"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 50.14 m² 1980 € Saint Gervais Paris (75004)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 50.14 m² 1980 € Saint Gervais Paris (75004)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-4eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 4ème arrondissement 75004",
+          "hoverLabel": "Appartements à louer Paris 4ème arrondissement 75004",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-4eme-75/saint-gervais/255576953.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR14&priceMax=2376&priceMin=1584",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR14",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR29",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "258SKHNDFJ9X"
+}

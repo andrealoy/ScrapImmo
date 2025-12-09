@@ -1,0 +1,1066 @@
+{
+  "brand": "seloger",
+  "id": "25PUZ1IESWA3",
+  "metadata": {
+    "legacyId": "256080207",
+    "creationDate": "2025-12-08T15:43:00Z",
+    "updateDate": "2025-12-09T13:51:08.038Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 17ème",
+        "zipCode": "75017",
+        "district": "Champerret-Berthier"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2889329,
+          48.8830514
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "3",
+                "color": "#827a04"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "43",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "93",
+                "color": "#77c695"
+              },
+              {
+                "name": "164",
+                "color": "#a0006e"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Rue Emilie Allez, au 2ème étage avec ascenseur d'un immeuble récent bien tenu. Appartement de type studio composé comme suit : Pièce principale de 25m² au calme sur cour donnant  accès au balcon de 6m², cuisine US aménagée et équipée, salle d'eau, toilette séparé, nombreux placards et rangements. Location meublé : Loyer : 1150 euros / mois – Forfait de charges :  150 euros (eau chaude et froide chauffage). / mois. Soit 13 00 euros charges comprise.\r\nHonoraires d'agence à la charge du preneur : 540 euros TTC. (Incluant 108 euros d'honoraires pour la réalisation de l'état des lieux).\r\n\r\nVisite vendredi 12 à 18h",
+      "texts": [
+        {
+          "text": "Rue Emilie Allez, au 2ème étage avec ascenseur d'un immeuble récent bien tenu. Appartement de type studio composé comme suit : Pièce principale de 25m² au calme sur cour donnant  accès au balcon de 6m², cuisine US aménagée et équipée, salle d'eau, toilette séparé, nombreux placards et rangements. Location meublé : Loyer : 1150 euros / mois – Forfait de charges :  150 euros (eau chaude et froide chauffage). / mois. Soit 13 00 euros charges comprise.\r\nHonoraires d'agence à la charge du preneur : 540 euros TTC. (Incluant 108 euros d'honoraires pour la réalisation de l'état des lieux).\r\n\r\nVisite vendredi 12 à 18h"
+        }
+      ],
+      "headline": "Studio avec Balcon"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "34 m²",
+        "Étage 2/6"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 2/6",
+          "splitValue": "Étage",
+          "label": "2/6"
+        }
+      ],
+      "price": {
+        "value": "1 300 €",
+        "formatted": "1 300 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1300 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1970"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central: Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "34c988b4-15d0-4fe2-9c05-5a5d5dadec7c",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 500 et 800 €/an"
+            },
+            {
+              "type": "excessiveConsumption",
+              "label": "Consommation d'énergie",
+              "value": "Logement à consommation énergétique excessive: classe F"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 500 et 800 € par an. Date d'indexation du prix des énergies non communiquée."
+            }
+          ],
+          "scales": [
+            {
+              "key": "d6907876-8674-4a88-8aa1-164f1ef5aa49",
+              "efficiencyClass": {
+                "index": 5,
+                "rating": "F"
+              },
+              "values": [
+                {
+                  "value": "300 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "200 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : F avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": true
+            },
+            {
+              "key": "6282f945-79a4-4f36-bd3f-5edc7c31ffb1",
+              "efficiencyClass": {
+                "index": 5,
+                "rating": "F"
+              },
+              "values": [
+                {
+                  "value": "200 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : F avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256080207"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "DOM1503"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 300 €/mois Loyer charges comprises",
+          "ariaLabel": "1300 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "150 €/mois",
+            "ariaLabel": "150 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "38,24 €/mois/m²",
+            "ariaLabel": "38,24 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2300"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage/6 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Balcon (Total 6 m²)"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain; 1 salle de douches"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "90f30aaf-8ad6-4431-91ff-9db497a4b255",
+          "url": "https://mms.seloger.com/9/0/f/3/90f30aaf-8ad6-4431-91ff-9db497a4b255.jpg?ci_seal=3c578c066e8aeb5d245de946d87bf15b5ad6aa34",
+          "alt": "Appartement à louer 1 300 € 1 pièce 34 m² Étage 2/6 Champerret-Berthier Paris 17ème 75017",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3da17b36-c254-40c1-950a-76a68594fe29",
+          "url": "https://mms.seloger.com/3/d/a/1/3da17b36-c254-40c1-950a-76a68594fe29.jpg?ci_seal=6a923185a198afe9e40328804131ff19703d335c",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f5c562a8-b267-4871-9b62-aff8ed59ee99",
+          "url": "https://mms.seloger.com/f/5/c/5/f5c562a8-b267-4871-9b62-aff8ed59ee99.jpg?ci_seal=19f7a6e1f57ae073af215aad3b5d8c9abf58ee2e",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c57502ae-87d3-4d77-9ef7-e953ea790e3b",
+          "url": "https://mms.seloger.com/c/5/7/5/c57502ae-87d3-4d77-9ef7-e953ea790e3b.jpg?ci_seal=b0a8a7113602665a1b43f2b6c441631eb32c9870",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fb10b631-1384-4bbf-84ca-fa40096d15b3",
+          "url": "https://mms.seloger.com/f/b/1/0/fb10b631-1384-4bbf-84ca-fa40096d15b3.jpg?ci_seal=8c279d6b476856465abe49e1e2f995fc6eb84c54",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "17943316-9964-4b28-b0e3-366d165773f4",
+          "url": "https://mms.seloger.com/1/7/9/4/17943316-9964-4b28-b0e3-366d165773f4.jpg?ci_seal=d063cf5d05121f0dc43813dc30a9dc51e5c6b8d8",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256080207",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75017",
+      "city": "Paris 17ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 33.15,
+        "accuracy": 3,
+        "high": "39,77",
+        "low": "26,51"
+      },
+      "markerPosition": 88,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "38,24",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Studio avec Balcon",
+      "description": "Rue Emilie Allez, au 2ème étage avec ascenseur d'un immeuble récent bien tenu. Appartement de type studio composé comme suit : Pièce principale de 25m² au calme sur cour donnant  accès au balcon de 6m², cuisine US aménagée et équipée, salle d'eau, toilette séparé, nombreux placards et rangements. Location meublé : Loyer : 1150 euros / mois – Forfait de charges :  150 euros (eau chaude et froide chauffage). / mois. Soit 13 00 euros charges comprise.\r\nHonoraires d'agence à la charge du preneur : 540 euros TTC. (Incluant 108 euros d'honoraires pour la réalisation de l'état des lieux).\r\n\r\nVisite vendredi 12 à 18h",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "83 vues",
+      "saves": "9 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25PUZ1IESWA3",
+    "legacyId": "256080207",
+    "brand": "seloger",
+    "agencyId": "RC-080048",
+    "static": {
+      "phoneNumbers": [
+        "06 87 25 01 18"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "06 87 25 01 18"
+      ]
+    },
+    "contactCard": {
+      "title": "Agence SAP",
+      "subtitle": "Charles-Henri Idais",
+      "phoneNumbers": [
+        "06 87 25 01 18"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/7/a/d/2/7ad2701c-9ade-40e3-8b53-49d1a185972d.jpg?ci_seal=b0fc7f32495e0a9bf4bb79d87a5a7dd9cec20b4d",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Agence SAP",
+        "subtitle": "Charles-Henri Idais",
+        "phoneNumbers": [
+          "06 87 25 01 18"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/7/a/d/2/7ad2701c-9ade-40e3-8b53-49d1a185972d.jpg?ci_seal=b0fc7f32495e0a9bf4bb79d87a5a7dd9cec20b4d"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Charles-Henri Idais",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Agence SAP",
+      "subtitle": "Agence SAP",
+      "phoneNumbers": [
+        "06 87 25 01 18"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Agence SAP",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/7/a/d/2/7ad2701c-9ade-40e3-8b53-49d1a185972d.jpg?ci_seal=b0fc7f32495e0a9bf4bb79d87a5a7dd9cec20b4d",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-18eme-arrondissement-75018/agence-88352/"
+      },
+      "contactCard": {
+        "title": "Charles-Henri Idais",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-18eme-arrondissement-75018/agence-88352/",
+      "imprintUrl": null,
+      "feeUrl": "http://www.sonlogement-a-paris.fr:80/immo,honoraires_low_cost.htm",
+      "agencyLegalInformations": [
+        "SAS, société par actions simplifiée SELOGER A PARIS",
+        "<b>Siège:</b> 112 Boulevard de Rochechouart, 75018 Paris",
+        "<b>RCS:</b> 520206434",
+        "<b>SIRET:</b> 52020643400026"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "112 Boulevard de Rochechouart, 75018 Paris",
+      "phoneNumbers": [
+        "06 87 25 01 18"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75017",
+    "av_city": "Paris",
+    "av_energy_certificate": "F",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25PUZ1IESWA3",
+        "price": 1300,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75017",
+        "legacy_id": "256080207",
+        "product_type": "standard",
+        "client_id": "RC-080048",
+        "energy_certificate": "F"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "51517",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "F",
+        "estate_postalcode": "75017",
+        "estate_type": 1,
+        "id": "256080207",
+        "id_duo": 256080207,
+        "id_solo": 256080207,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 6,
+        "position": 0,
+        "price": 1300,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 34,
+        "year_of_construction": 1970
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75017",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256080207",
+      "prix": 1300,
+      "nb_pieces": 1,
+      "surface": 34,
+      "etage": 6,
+      "commodites": [
+        "ascenseur",
+        "balcon",
+        "Chauffage-central",
+        "Chauffage-gaz",
+        "Cuisine-américaine",
+        "Cuisine-équipée",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "F"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-17eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 17ème arrondissement 75017",
+          "hoverLabel": "Appartements à louer Paris 17ème arrondissement 75017",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 34 m² 1300 € Champerret-Berthier Paris (75017)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 34 m² 1300 € Champerret-Berthier Paris (75017)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-17eme-75/champerret-berthier/256080207.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-17eme-75/champerret-berthier/256080207.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 34 m² 1300 € Champerret-Berthier Paris (75017)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 34 m² 1300 € Champerret-Berthier Paris (75017)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/9/0/f/3/90f30aaf-8ad6-4431-91ff-9db497a4b255.jpg?ci_seal=3c578c066e8aeb5d245de946d87bf15b5ad6aa34"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 34 m² 1300 € Champerret-Berthier Paris (75017)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-17eme-75/champerret-berthier/256080207.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 34 m² 1300 € Champerret-Berthier Paris (75017)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 34 m² 1300 € Champerret-Berthier Paris (75017)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/9/0/f/3/90f30aaf-8ad6-4431-91ff-9db497a4b255.jpg?ci_seal=3c578c066e8aeb5d245de946d87bf15b5ad6aa34"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 34 m² 1300 € Champerret-Berthier Paris (75017)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 34 m² 1300 € Champerret-Berthier Paris (75017)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-17eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 17ème arrondissement 75017",
+          "hoverLabel": "Appartements à louer Paris 17ème arrondissement 75017",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-17eme-75/champerret-berthier/256080207.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR91&priceMax=1560&priceMin=1040",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR91",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR42",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25PUZ1IESWA3"
+}

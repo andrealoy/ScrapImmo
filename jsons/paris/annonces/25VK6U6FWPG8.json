@@ -1,0 +1,1197 @@
+{
+  "brand": "seloger",
+  "id": "25VK6U6FWPG8",
+  "metadata": {
+    "legacyId": "255764955",
+    "creationDate": "2025-12-03T18:01:00Z",
+    "updateDate": "2025-12-09T01:21:30.295Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 15ème",
+        "zipCode": "75015",
+        "district": "Vaugirard-Parc des Expositions"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2950580000000005,
+          48.83564899998627
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "12",
+                "color": "#007a53"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "39",
+                "color": "#a0006e"
+              },
+              {
+                "name": "62",
+                "color": "#5a230a"
+              },
+              {
+                "name": "80",
+                "color": "#ff82b4"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "M° Convention // Rue Eugene Gibez. Dans un bel immeuble ancien, au 5ème étage sans ascenseur, 2 pièces meublé de 52,38m2 Carrez, comprenant : petite entrée avec rangements ouverte sur un spacieux séjour, chambre avec balcon, cuisine indépendante aménagée et équipée ( Réfrigérateur, Plaques Electriques, Lave-linge, Lave-vaisselle, Four), SDB avec Baignoire, WC séparé. Très calme et Lumineux. Dispo le 6 Janvier 2026. DPE en cours.\nPRENEZ RENDEZ-VOUS 24/7 EXCLUSIVEMENT PAR INTERNET; merci de remplir le champ \"Contacter l'agence\". Nous vous enverrons un mail et sms au nom de PROCITY IMMOBILIER où vous pourrez vous inscrire soit à la visite soit sur liste d'attente.",
+      "texts": [
+        {
+          "text": "M° Convention // Rue Eugene Gibez. Dans un bel immeuble ancien, au 5ème étage sans ascenseur, 2 pièces meublé de 52,38m2 Carrez, comprenant : petite entrée avec rangements ouverte sur un spacieux séjour, chambre avec balcon, cuisine indépendante aménagée et équipée ( Réfrigérateur, Plaques Electriques, Lave-linge, Lave-vaisselle, Four), SDB avec Baignoire, WC séparé. Très calme et Lumineux. Dispo le 6 Janvier 2026. DPE en cours.\nPRENEZ RENDEZ-VOUS 24/7 EXCLUSIVEMENT PAR INTERNET; merci de remplir le champ \"Contacter l'agence\". Nous vous enverrons un mail et sms au nom de PROCITY IMMOBILIER où vous pourrez vous inscrire soit à la visite soit sur liste d'attente."
+        }
+      ],
+      "headline": "2 Pièces Meublé avec Balcon"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "53 m²",
+        "Étage 5/6"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "53 m²",
+          "splitValue": "53",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 5/6",
+          "splitValue": "Étage",
+          "label": "5/6"
+        }
+      ],
+      "price": {
+        "value": "1 730 €",
+        "formatted": "1 730 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "1730 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "8e7a64bb-840d-4f93-8f17-885a131d06af",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "c9a69add-0906-49b0-b712-e487e6777369",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "319 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "10 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est 0 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "6290ad69-39c3-426a-8207-8817f5b17630",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "10 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est 0 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255764955"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "4941"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 664 €/mois Loyer de base",
+          "ariaLabel": "1664 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "66 €/mois",
+            "ariaLabel": "66 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 730 €/mois",
+            "ariaLabel": "1730 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "31,40 €/mois/m²",
+            "ariaLabel": "31,40 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "3328.00"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "5ème étage/6 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Balcon"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "5ème étage/6 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Balcon"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "46f4b154-13b9-4a8b-8838-d46a559ae1a2",
+          "url": "https://mms.seloger.com/4/6/f/4/46f4b154-13b9-4a8b-8838-d46a559ae1a2.jpg?ci_seal=d15a66390f1ead696a640528eb3e17fc3bf04ab8",
+          "alt": "Appartement à louer 1 730 € 2 pièces 1 chambre 53 m² Étage 5/6 Vaugirard-Parc des Expositions Paris 15ème 75015",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ef55ed69-c4d7-46ce-afca-ebe90bc560b0",
+          "url": "https://mms.seloger.com/e/f/5/5/ef55ed69-c4d7-46ce-afca-ebe90bc560b0.jpg?ci_seal=fd806a0080987b9d2e693b39d986d9d039b52ab9",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2f69c7b3-89d5-47d5-ac48-e9bea13c0ac6",
+          "url": "https://mms.seloger.com/2/f/6/9/2f69c7b3-89d5-47d5-ac48-e9bea13c0ac6.jpg?ci_seal=ec551dd392212a95f78b785ff4c4e6eb19628352",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ca60e97a-453c-4faf-a349-3c945b81ba9b",
+          "url": "https://mms.seloger.com/c/a/6/0/ca60e97a-453c-4faf-a349-3c945b81ba9b.jpg?ci_seal=8c6757fa12c51171389d90dc21a14d19ac572c88",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1778ea0f-6ca1-4698-8444-656fed035a14",
+          "url": "https://mms.seloger.com/1/7/7/8/1778ea0f-6ca1-4698-8444-656fed035a14.jpg?ci_seal=43b432c6fc957958086dd2b7c311f919e3689478",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c8050ccb-bc19-4f16-a906-fbc04c184cbb",
+          "url": "https://mms.seloger.com/c/8/0/5/c8050ccb-bc19-4f16-a906-fbc04c184cbb.jpg?ci_seal=b3660fa76d17931130ca22a652b239c9271cd8f7",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6f1abfe9-f406-4a99-b3a1-e7539b9ec5c0",
+          "url": "https://mms.seloger.com/6/f/1/a/6f1abfe9-f406-4a99-b3a1-e7539b9ec5c0.jpg?ci_seal=7af8bffeac9f3afecbcaac61a5d3d530ea675813",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9110015f-b79f-4be9-9900-61295b2d22fd",
+          "url": "https://mms.seloger.com/9/1/1/0/9110015f-b79f-4be9-9900-61295b2d22fd.jpg?ci_seal=ffc7461b96aa6968295c6c401275a8f4805fa918",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b183f2c5-4f56-42e5-9b1a-b156d393fdfa",
+          "url": "https://mms.seloger.com/b/1/8/3/b183f2c5-4f56-42e5-9b1a-b156d393fdfa.jpg?ci_seal=f29a28a918e7e23db20698146a5784cbc6e62208",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9bbc42f5-476d-4fba-b687-fd29b488b017",
+          "url": "https://mms.seloger.com/9/b/b/c/9bbc42f5-476d-4fba-b687-fd29b488b017.jpg?ci_seal=85a91c7c39bd23a468da90ca6741a261a6696332",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "463a1416-d5f9-4543-98d6-d9419a24747a",
+          "url": "https://mms.seloger.com/4/6/3/a/463a1416-d5f9-4543-98d6-d9419a24747a.jpg?ci_seal=c181a156222b73f7c6db099a764de19f5c1410b4",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "60085a5f-3b3a-4baf-b416-1a2071122857",
+          "url": "https://mms.seloger.com/6/0/0/8/60085a5f-3b3a-4baf-b416-1a2071122857.jpg?ci_seal=d73c3ddb58fce4b793946e078db42a0b34e1e01a",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3feafa7b-9d1c-4733-8d1d-c78ecdf7121a",
+          "url": "https://mms.seloger.com/3/f/e/a/3feafa7b-9d1c-4733-8d1d-c78ecdf7121a.jpg?ci_seal=71a9c1a9ca2e8ef1820f7a35c72e3476141e23f3",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e3a3010b-d342-4fa2-ac7f-1315ef75f360",
+          "url": "https://mms.seloger.com/e/3/a/3/e3a3010b-d342-4fa2-ac7f-1315ef75f360.jpg?ci_seal=fc9f85d156d5592a886de4c3055313e89bc24a37",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c2453423-24ae-4813-aeac-f5addc6aeed6",
+          "url": "https://mms.seloger.com/c/2/4/5/c2453423-24ae-4813-aeac-f5addc6aeed6.jpg?ci_seal=8f4098a2bc399bac7a1e16f52ecea11fada0250a",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6518709a-11de-4658-aec1-ad7742112dda",
+          "url": "https://mms.seloger.com/6/5/1/8/6518709a-11de-4658-aec1-ad7742112dda.jpg?ci_seal=c93262fcabcaffb96e1ed511964ea29b0cf01416",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2a96ff70-1c8f-462b-b9da-82868e215d23",
+          "url": "https://mms.seloger.com/2/a/9/6/2a96ff70-1c8f-462b-b9da-82868e215d23.jpg?ci_seal=af2567a8164777d5c21d0d64b282e9cb5d443491",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255764955",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75015",
+      "city": "Paris 15ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 30.98,
+        "accuracy": 5,
+        "high": "40,36",
+        "low": "25,42"
+      },
+      "markerPosition": 40,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "31,40",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "2 Pièces Meublé avec Balcon",
+      "description": "M° Convention // Rue Eugene Gibez. Dans un bel immeuble ancien, au 5ème étage sans ascenseur, 2 pièces meublé de 52,38m2 Carrez, comprenant : petite entrée avec rangements ouverte sur un spacieux séjour, chambre avec balcon, cuisine indépendante aménagée et équipée ( Réfrigérateur, Plaques Electriques, Lave-linge, Lave-vaisselle, Four), SDB avec Baignoire, WC séparé. Très calme et Lumineux. Dispo le 6 Janvier 2026. DPE en cours.\nPRENEZ RENDEZ-VOUS 24/7 EXCLUSIVEMENT PAR INTERNET; merci de remplir le champ \"Contacter l'agence\". Nous vous enverrons un mail et sms au nom de PROCITY IMMOBILIER où vous pourrez vous inscrire soit à la visite soit sur liste d'attente.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "5 jours en ligne",
+      "views": "165 vues",
+      "saves": "11 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25VK6U6FWPG8",
+    "legacyId": "255764955",
+    "brand": "seloger",
+    "agencyId": "RC-115677",
+    "static": {
+      "phoneNumbers": [
+        "01 85 73 40 73"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "01 85 73 40 73"
+      ]
+    },
+    "contactCard": {
+      "title": "PROCITY IMMOBILIER",
+      "subtitle": "Procity Immobilier",
+      "phoneNumbers": [
+        "01 85 73 40 73"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/2/8/6/9/28694a5b-7a7b-405c-bb56-6387bb7a643d.jpg?ci_seal=86411433f4d118dc65985458fc75d2f2b931adb7",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      },
+      "rating": 4.666666666666667
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "PROCITY IMMOBILIER",
+        "subtitle": "Procity Immobilier",
+        "phoneNumbers": [
+          "01 85 73 40 73"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/2/8/6/9/28694a5b-7a7b-405c-bb56-6387bb7a643d.jpg?ci_seal=86411433f4d118dc65985458fc75d2f2b931adb7"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Procity Immobilier",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "PROCITY IMMOBILIER",
+      "subtitle": "PROCITY IMMOBILIER",
+      "phoneNumbers": [
+        "01 85 73 40 73"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "PROCITY IMMOBILIER",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/2/8/6/9/28694a5b-7a7b-405c-bb56-6387bb7a643d.jpg?ci_seal=86411433f4d118dc65985458fc75d2f2b931adb7",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-18eme-arrondissement-75018/agence-356234/"
+      },
+      "contactCard": {
+        "title": "Procity Immobilier",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-18eme-arrondissement-75018/agence-356234/",
+      "imprintUrl": null,
+      "feeUrl": "https://www.meilleursagents.com:443/my/realtor/page",
+      "agencyLegalInformations": [
+        "Société à responsabilité limitée (sans autre indication) SARL 45 RUE MARX DORMOY",
+        "<b>Siège:</b> 45 Rue Marx Dormoy, 75018 Paris",
+        "<b>RCS:</b> 821613049",
+        "<b>SIRET:</b> 82161304900013"
+      ],
+      "publisherType": "AGENCY",
+      "rating": {
+        "rating": 4.666666666666667,
+        "reviews": 3,
+        "link": "https://www.seloger.com/professionnels/agences-immobilieres/paris-18eme-arrondissement-75018/agence-356234/#?avisImmo=true"
+      },
+      "displayLinks": true,
+      "address": "45 Rue Marx Dormoy, 75018 Paris",
+      "phoneNumbers": [
+        "01 85 73 40 73"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75015",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25VK6U6FWPG8",
+        "price": 1730,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75015",
+        "legacy_id": "255764955",
+        "product_type": "standard",
+        "client_id": "RC-115677",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "88260",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75015",
+        "estate_type": 1,
+        "id": "255764955",
+        "id_duo": 255764955,
+        "id_solo": 255764955,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 17,
+        "position": 0,
+        "price": 1730,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 53
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75015",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255764955",
+      "prix": 1800,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 53,
+      "etage": 6,
+      "commodites": [
+        "balcon",
+        "Cuisine-équipée",
+        "Cuisine-séparée",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-15eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 15ème arrondissement 75015",
+          "hoverLabel": "Appartements à louer Paris 15ème arrondissement 75015",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 53 m² 1730 € Vaugirard-Parc des Expositions Paris (75015)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 53 m² 1730 € Vaugirard-Parc des Expositions Paris (75015)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/vaugirard-parc-des-expositions/255764955.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/vaugirard-parc-des-expositions/255764955.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 53 m² 1730 € Vaugirard-Parc des Expositions Paris (75015)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 53 m² 1730 € Vaugirard-Parc des Expositions Paris (75015)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/4/6/f/4/46f4b154-13b9-4a8b-8838-d46a559ae1a2.jpg?ci_seal=d15a66390f1ead696a640528eb3e17fc3bf04ab8"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 53 m² 1730 € Vaugirard-Parc des Expositions Paris (75015)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/vaugirard-parc-des-expositions/255764955.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 53 m² 1730 € Vaugirard-Parc des Expositions Paris (75015)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 53 m² 1730 € Vaugirard-Parc des Expositions Paris (75015)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/4/6/f/4/46f4b154-13b9-4a8b-8838-d46a559ae1a2.jpg?ci_seal=d15a66390f1ead696a640528eb3e17fc3bf04ab8"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 53 m² 1730 € Vaugirard-Parc des Expositions Paris (75015)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 53 m² 1730 € Vaugirard-Parc des Expositions Paris (75015)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-15eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 15ème arrondissement 75015",
+          "hoverLabel": "Appartements à louer Paris 15ème arrondissement 75015",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-15eme-75/vaugirard-parc-des-expositions/255764955.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR83&priceMax=2076&priceMin=1384",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR83",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR40",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25VK6U6FWPG8"
+}

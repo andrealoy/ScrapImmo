@@ -1,0 +1,1257 @@
+{
+  "brand": "seloger",
+  "id": "25YRVSGV6433",
+  "metadata": {
+    "legacyId": "255747597",
+    "creationDate": "2025-12-03T14:01:00Z",
+    "updateDate": "2025-12-08T17:25:23.923Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris 13ème",
+        "zipCode": "75013",
+        "district": "Dunois-Bibliothèque-Jeanne-d'Arc"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37136,
+          48.8277
+        ]
+      },
+      "transport": {
+        "closestLines": [
+          {
+            "type": "METRO",
+            "lines": [
+              {
+                "name": "14",
+                "color": "#5f259f"
+              }
+            ]
+          },
+          {
+            "type": "RER",
+            "lines": [
+              {
+                "name": "C",
+                "color": "#FCD946"
+              }
+            ]
+          },
+          {
+            "type": "BUS",
+            "lines": [
+              {
+                "name": "25",
+                "color": "#ed1b2a"
+              },
+              {
+                "name": "27",
+                "color": "#f68f4b"
+              },
+              {
+                "name": "62",
+                "color": "#5a230a"
+              },
+              {
+                "name": "64",
+                "color": "#77c695"
+              },
+              {
+                "name": "71",
+                "color": "#5a230a"
+              },
+              {
+                "name": "83",
+                "color": "#ffbe02"
+              },
+              {
+                "name": "89",
+                "color": "#82c8e6"
+              },
+              {
+                "name": "132",
+                "color": "#62259d"
+              },
+              {
+                "name": "325",
+                "color": "#82c8e6"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "description": {
+      "description": "Au cinquième étage avec ascenseur d'un immeuble récent de standing nous vous proposons un appartement de 2 PIÈCES de 48,41 m² avec balcon,En très bon état général.\r\n\r\nLumineux et calme, il comprend : une entrée avec placard, une grande chambre sur cour, un salon ouvrant sur un large balcon, une cuisine entièrement équipée, une salle de bains avec lave linge, des WC séparés, et de nombreux rangements. \r\n\r\nParking en sous-sol. \r\n\r\nLoyer : 1 590 € dont 200 € de charges avec régularisation annuelle\r\n\r\nHonoraires locataire : 690 €\r\n\r\nDPE : E (273) \r\nGES : E (55)",
+      "texts": [
+        {
+          "text": "Au cinquième étage avec ascenseur d'un immeuble récent de standing nous vous proposons un appartement de 2 PIÈCES de 48,41 m² avec balcon,En très bon état général.\r\n\r\nLumineux et calme, il comprend : une entrée avec placard, une grande chambre sur cour, un salon ouvrant sur un large balcon, une cuisine entièrement équipée, une salle de bains avec lave linge, des WC séparés, et de nombreux rangements. \r\n\r\nParking en sous-sol. \r\n\r\nLoyer : 1 590 € dont 200 € de charges avec régularisation annuelle\r\n\r\nHonoraires locataire : 690 €\r\n\r\nDPE : E (273) \r\nGES : E (55)"
+        }
+      ],
+      "headline": "2 PIÈCES - BALCON - QUARTIER BNF"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "48,4 m²",
+        "5ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "48,4 m²",
+          "splitValue": "48,4",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5ème étage",
+          "splitValue": "5ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 590 €",
+        "formatted": "1 590 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "1590 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1970"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Entretenu"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central: Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "a3422b23-d4bc-4554-999a-d075c6bd9d79",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 710 et 1050 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 710 et 1050 € par an. Prix moyens des énergies indexés au 01/01/2021 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "79f62feb-5fa4-4682-b02a-b0e5aa026385",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "273 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "55 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "aa598da6-7512-4090-9360-d8f65e8fbef1",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "55 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255747597"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "86373809"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 390 €/mois Loyer de base",
+          "ariaLabel": "1390 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "200 €/mois",
+            "ariaLabel": "200 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 590 €/mois",
+            "ariaLabel": "1590 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "28,71 €/mois/m²",
+            "ariaLabel": "28,71 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2780"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "5ème étage"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "balcony",
+          "value": "Balcon (Total 3 m²)"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: est"
+        },
+        {
+          "value": "Belle vue",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "barrier-free",
+          "value": "Accessible aux personne à mobilité réduite"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "Orientation",
+                "value": "Exposition: est"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "5ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Accessible aux personne à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "livingRoom",
+                "value": "Salon (total 19,4 m²)"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Balcon (Total 3 m²)"
+              },
+              {
+                "value": "Belle vue",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "d16ca111-5da9-42f6-802e-2b6557c009d1",
+          "url": "https://mms.seloger.com/d/1/6/c/d16ca111-5da9-42f6-802e-2b6557c009d1.jpg?ci_seal=fb4c46d34da01cbff35032082f86ba0355b07032",
+          "alt": "Appartement à louer 1 590 € 2 pièces 1 chambre 48,4 m² 5ème étage Dunois-Bibliothèque-Jeanne-d'Arc Paris 13ème 75013",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "494380fb-cf93-4edc-8dff-2b88a0bff693",
+          "url": "https://mms.seloger.com/4/9/4/3/494380fb-cf93-4edc-8dff-2b88a0bff693.jpg?ci_seal=d9838c00dc080015b436547ac8a9494c6b9b896c",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "01ee8289-d3df-4810-9efe-84a97560aa23",
+          "url": "https://mms.seloger.com/0/1/e/e/01ee8289-d3df-4810-9efe-84a97560aa23.jpg?ci_seal=fcb1cdb386199fa758a750b71e7cd8686014db03",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4d72a1f4-ee3f-4d4b-b354-cb56d092534e",
+          "url": "https://mms.seloger.com/4/d/7/2/4d72a1f4-ee3f-4d4b-b354-cb56d092534e.jpg?ci_seal=ca30484f3788538b1cec52c5c06505ecc8d23abe",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c7a13423-a354-41a0-9e53-6f4dcb760b1e",
+          "url": "https://mms.seloger.com/c/7/a/1/c7a13423-a354-41a0-9e53-6f4dcb760b1e.jpg?ci_seal=79fe410b1e66a6a23b45400d098c5aed61cacc2a",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "869a7ccc-900a-4b03-8723-730b10d0720b",
+          "url": "https://mms.seloger.com/8/6/9/a/869a7ccc-900a-4b03-8723-730b10d0720b.jpg?ci_seal=b40746abeed8bc20fd67e4553597bd9f32624017",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5c81960c-64fe-4a1c-9ef6-89e294312052",
+          "url": "https://mms.seloger.com/5/c/8/1/5c81960c-64fe-4a1c-9ef6-89e294312052.jpg?ci_seal=4caa9682a572868bb25de0cb380bc9f744b2e09d",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "96f3712c-fb62-440d-9488-c89979e8486e",
+          "url": "https://mms.seloger.com/9/6/f/3/96f3712c-fb62-440d-9488-c89979e8486e.jpg?ci_seal=711008796c9267b5fa10a4761e4e51c424f5610d",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6ddfbe69-34ce-4283-a828-0bef271b53c1",
+          "url": "https://mms.seloger.com/6/d/d/f/6ddfbe69-34ce-4283-a828-0bef271b53c1.jpg?ci_seal=28111f41953056531f0cecbc583623cf8315d31a",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4cb9209d-b782-4f4b-9cc8-c0b6dc32a90f",
+          "url": "https://mms.seloger.com/4/c/b/9/4cb9209d-b782-4f4b-9cc8-c0b6dc32a90f.jpg?ci_seal=04ac7d02938178685379d25924fc04645b981e33",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "536c1c50-2e38-4f47-a431-a7667bc513ed",
+          "url": "https://mms.seloger.com/5/3/6/c/536c1c50-2e38-4f47-a431-a7667bc513ed.jpg?ci_seal=ff6e19bcaad2f80b4f7ca1fd0ea1c56b76d57276",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d83393f9-bb9e-429c-8ef9-0a5292a01831",
+          "url": "https://mms.seloger.com/d/8/3/3/d83393f9-bb9e-429c-8ef9-0a5292a01831.jpg?ci_seal=ca335e5df76bec49ef5d2d50a5c0bb2f847e1d12",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9011bd8c-5999-4a2c-b3d5-72ea71eeeca1",
+          "url": "https://mms.seloger.com/9/0/1/1/9011bd8c-5999-4a2c-b3d5-72ea71eeeca1.jpg?ci_seal=c6149c83124002ec18f10f1bdde669ab4ab6960e",
+          "classification": {
+            "name": "GARAGE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ],
+      "floorplans": [
+        {
+          "key": "ef6ef7e5-938e-47e1-81ff-1cda114cae2b",
+          "url": "https://mms.seloger.com/e/f/6/e/ef6ef7e5-938e-47e1-81ff-1cda114cae2b.jpg?ci_seal=6dc54e070982696c02ac687820b7a619c93f70db",
+          "alt": "Appartement à louer 1 590 € 2 pièces 1 chambre 48,4 m² 5ème étage Dunois-Bibliothèque-Jeanne-d'Arc Paris 13ème 75013",
+          "classification": {
+            "name": "FLOORPLAN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255747597",
+      "federalStateGeoId": "AD04FR5",
+      "zip": "75013",
+      "city": "Paris 13ème",
+      "country": "FRA",
+      "region": "Ile-de-France",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 29.97,
+        "accuracy": 4,
+        "high": "39,60",
+        "low": "23,84"
+      },
+      "markerPosition": 31,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "28,71",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "2 PIÈCES - BALCON - QUARTIER BNF",
+      "description": "Au cinquième étage avec ascenseur d'un immeuble récent de standing nous vous proposons un appartement de 2 PIÈCES de 48,41 m² avec balcon,En très bon état général.\r\n\r\nLumineux et calme, il comprend : une entrée avec placard, une grande chambre sur cour, un salon ouvrant sur un large balcon, une cuisine entièrement équipée, une salle de bains avec lave linge, des WC séparés, et de nombreux rangements. \r\n\r\nParking en sous-sol. \r\n\r\nLoyer : 1 590 € dont 200 € de charges avec régularisation annuelle\r\n\r\nHonoraires locataire : 690 €\r\n\r\nDPE : E (273) \r\nGES : E (55)",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "6 jours en ligne",
+      "views": "161 vues",
+      "saves": "9 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25YRVSGV6433",
+    "legacyId": "255747597",
+    "brand": "seloger",
+    "agencyId": "RC-031508",
+    "static": {
+      "phoneNumbers": [
+        "+33 6 78 01 57 44"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33 6 78 01 57 44"
+      ]
+    },
+    "contactCard": {
+      "title": "ELIOTT S",
+      "subtitle": "Lucille Huart",
+      "phoneNumbers": [
+        "+33 6 78 01 57 44"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "ELIOTT S",
+        "subtitle": "Lucille Huart",
+        "phoneNumbers": [
+          "+33 6 78 01 57 44"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Lucille Huart",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "ELIOTT S",
+      "subtitle": "ELIOTT S",
+      "phoneNumbers": [
+        "+33 6 78 01 57 44"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "ELIOTT S",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-13eme-arrondissement-75013/agence-13191/"
+      },
+      "contactCard": {
+        "title": "Lucille Huart",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-13eme-arrondissement-75013/agence-13191/",
+      "imprintUrl": null,
+      "feeUrl": "http://ap.immo/uploads/company/6636/fees_document.pdf?1689504234",
+      "agencyLegalInformations": [
+        "SAS ELIOTT'S Immobilier au capital de 18 000 €",
+        "Garantie financière GALIAN pour un montant de 120 000 €",
+        "<b>Siège:</b> 189, rue de Tolbiac, 75013 PARIS",
+        "<b>RCS:</b> PARIS 808572705",
+        "<b>SIRET:</b> 80857270500024"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "189 RUE DE TOLBIAC, 75013 PARIS 13",
+      "phoneNumbers": [
+        "+33 6 78 01 57 44"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "75013",
+    "av_city": "Paris",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25YRVSGV6433",
+        "price": 1590,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Paris",
+        "region": "Ile-de-France",
+        "zip_code": "75013",
+        "building_state": "WELL_KEPT",
+        "legacy_id": "255747597",
+        "product_type": "standard",
+        "client_id": "RC-031508",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "251519",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "75013",
+        "estate_type": 1,
+        "id": "255747597",
+        "id_duo": 255747597,
+        "id_solo": 255747597,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 14,
+        "position": 0,
+        "price": 1590,
+        "product_geolocation": "localisation_district",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 48.41,
+        "year_of_construction": 1970
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "75056",
+      "cp": "75013",
+      "geodp": "75",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255747597",
+      "prix": 1600,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 48.41,
+      "commodites": [
+        "ascenseur",
+        "balcon",
+        "belleVue",
+        "Chauffage-central",
+        "Chauffage-gaz",
+        "handicape",
+        "SalleDeBain-baignoire",
+        "Sejour"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-13eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 13ème arrondissement 75013",
+          "hoverLabel": "Appartements à louer Paris 13ème arrondissement 75013",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 48.41 m² 1590 € Dunois-Bibliothèque-Jeanne-d'Arc Paris (75013)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 48.41 m² 1590 € Dunois-Bibliothèque-Jeanne-d'Arc Paris (75013)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/buttes-aux-cailles-glaciere/255747597.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/buttes-aux-cailles-glaciere/255747597.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 48.41 m² 1590 € Dunois-Bibliothèque-Jeanne-d'Arc Paris (75013)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 48.41 m² 1590 € Dunois-Bibliothèque-Jeanne-d'Arc Paris (75013)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/d/1/6/c/d16ca111-5da9-42f6-802e-2b6557c009d1.jpg?ci_seal=fb4c46d34da01cbff35032082f86ba0355b07032"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 48.41 m² 1590 € Dunois-Bibliothèque-Jeanne-d'Arc Paris (75013)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/buttes-aux-cailles-glaciere/255747597.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 48.41 m² 1590 € Dunois-Bibliothèque-Jeanne-d'Arc Paris (75013)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 48.41 m² 1590 € Dunois-Bibliothèque-Jeanne-d'Arc Paris (75013)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/d/1/6/c/d16ca111-5da9-42f6-802e-2b6557c009d1.jpg?ci_seal=fb4c46d34da01cbff35032082f86ba0355b07032"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 48.41 m² 1590 € Dunois-Bibliothèque-Jeanne-d'Arc Paris (75013)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 48.41 m² 1590 € Dunois-Bibliothèque-Jeanne-d'Arc Paris (75013)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/ile-de-france.htm",
+          "label": "Appartements à louer Ile-de-France",
+          "hoverLabel": "Appartements à louer Ile-de-France",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/immo-paris-13eme-75/bien-appartement/",
+          "label": "Appartements à louer Paris 13ème arrondissement 75013",
+          "hoverLabel": "Appartements à louer Paris 13ème arrondissement 75013",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/paris-13eme-75/buttes-aux-cailles-glaciere/255747597.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR65&priceMax=1908&priceMin=1272",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR65",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR38",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR31096",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR76",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR5",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25YRVSGV6433"
+}
