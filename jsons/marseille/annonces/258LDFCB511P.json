@@ -1,0 +1,1035 @@
+{
+  "brand": "seloger",
+  "id": "258LDFCB511P",
+  "metadata": {
+    "legacyId": "254701105",
+    "creationDate": "2025-11-19T11:52:00Z",
+    "updateDate": "2025-12-09T14:01:15.662Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 1er",
+        "zipCode": "13001",
+        "district": "Le chapitre"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3835311,
+          43.299871
+        ]
+      }
+    },
+    "description": {
+      "description": "Rue Beaumont, au 3eme étage sans ascenseur, un appartement composé d'une entrée, un séjour lumineux, une cuisine séparée, deux chambres, une salle d'eau avec WC et un placard.\r\nDisponible dès maintenant.\r\nPour plus d'informations contactez l'Agence \r\nFrais annuels d'énergie estimés entre 1130 et 1580 euros.\r\n(Prix moyens des énergies indexés sur les années 2021,2022 et 2023 abonnement compris)",
+      "texts": [
+        {
+          "text": "Rue Beaumont, au 3eme étage sans ascenseur, un appartement composé d'une entrée, un séjour lumineux, une cuisine séparée, deux chambres, une salle d'eau avec WC et un placard.\r\nDisponible dès maintenant.\r\nPour plus d'informations contactez l'Agence \r\nFrais annuels d'énergie estimés entre 1130 et 1580 euros.\r\n(Prix moyens des énergies indexés sur les années 2021,2022 et 2023 abonnement compris)"
+        }
+      ],
+      "headline": "Appartement"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "49,8 m²",
+        "3ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "49,8 m²",
+          "splitValue": "49,8",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3ème étage",
+          "splitValue": "3ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "810 €",
+        "formatted": "810 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "810 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "3e94f0c8-b522-4256-b636-46efa4275674",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "346cfc56-6588-43d3-925f-e356fad99cd0",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "288 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "9 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "ed2c15ed-1736-4987-ab3f-312d2db6e674",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "9 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "254701105"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "L093088"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "810 €/mois Loyer charges comprises",
+          "ariaLabel": "810 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "60 €/mois",
+            "ariaLabel": "60 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "16,27 €/mois/m²",
+            "ariaLabel": "16,27 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "750"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "3ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de douches"
+        },
+        {
+          "icon": "separateEntrance",
+          "value": "Entrée séparée"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "47237006-70bb-4fd1-ac43-c9ccae963c86",
+          "url": "https://mms.seloger.com/4/7/2/3/47237006-70bb-4fd1-ac43-c9ccae963c86.jpg?ci_seal=0e428426f08777b92a67cc44d1f90cafee90f913",
+          "alt": "Appartement à louer 810 € 3 pièces 2 chambres 49,8 m² 3ème étage Le chapitre Marseille 1er 13001",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b6c4000d-e703-4ad0-b8a1-215b70bae71d",
+          "url": "https://mms.seloger.com/b/6/c/4/b6c4000d-e703-4ad0-b8a1-215b70bae71d.jpg?ci_seal=92d7cb4dbae58913dd383d4fad35ebd9f44e2343",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fbb732d3-ffc0-40fa-9f04-41fd28c038df",
+          "url": "https://mms.seloger.com/f/b/b/7/fbb732d3-ffc0-40fa-9f04-41fd28c038df.jpg?ci_seal=c09050a69a39b2ee0a2a1fba685c9264e2e4811a",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "aaa57675-a955-450e-ba9d-7d127bbebadc",
+          "url": "https://mms.seloger.com/a/a/a/5/aaa57675-a955-450e-ba9d-7d127bbebadc.jpg?ci_seal=59b4df98c91505d3a99f58515ded743d872dc98a",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2aeef5b3-1935-4d32-94ce-260c01843e8b",
+          "url": "https://mms.seloger.com/2/a/e/e/2aeef5b3-1935-4d32-94ce-260c01843e8b.jpg?ci_seal=95706f31e18a14a83e47c20e9dfd7ed79b51b782",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "254701105",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13001",
+      "city": "Marseille 1er",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.28,
+        "accuracy": 1,
+        "high": "24,25",
+        "low": "12"
+      },
+      "markerPosition": 35,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "16,27",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement",
+      "description": "Rue Beaumont, au 3eme étage sans ascenseur, un appartement composé d'une entrée, un séjour lumineux, une cuisine séparée, deux chambres, une salle d'eau avec WC et un placard.\r\nDisponible dès maintenant.\r\nPour plus d'informations contactez l'Agence \r\nFrais annuels d'énergie estimés entre 1130 et 1580 euros.\r\n(Prix moyens des énergies indexés sur les années 2021,2022 et 2023 abonnement compris)",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "20 jours en ligne",
+      "views": "154 vues",
+      "saves": "12 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "258LDFCB511P",
+    "legacyId": "254701105",
+    "brand": "seloger",
+    "agencyId": "RC-039594",
+    "static": {
+      "phoneNumbers": [
+        "0661669526 / 0496125170"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0661669526 / 0496125170"
+      ]
+    },
+    "contactCard": {
+      "title": "AGENCE IMMOBILIERE DES TANNEURS",
+      "subtitle": "Orlane Sarrand",
+      "phoneNumbers": [
+        "0661669526 / 0496125170"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/f/e/e/1/fee13168-4c70-4c58-a022-16398850ffb4.jpg?ci_seal=88cef94dc5f078e988bdf4658930f94fead883c4",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "AGENCE IMMOBILIERE DES TANNEURS",
+        "subtitle": "Orlane Sarrand",
+        "phoneNumbers": [
+          "0661669526 / 0496125170"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/f/e/e/1/fee13168-4c70-4c58-a022-16398850ffb4.jpg?ci_seal=88cef94dc5f078e988bdf4658930f94fead883c4"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Orlane Sarrand",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "AGENCE IMMOBILIERE DES TANNEURS",
+      "subtitle": "AGENCE IMMOBILIERE DES TANNEURS",
+      "phoneNumbers": [
+        "0661669526 / 0496125170"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "AGENCE IMMOBILIERE DES TANNEURS",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/f/e/e/1/fee13168-4c70-4c58-a022-16398850ffb4.jpg?ci_seal=88cef94dc5f078e988bdf4658930f94fead883c4",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-6eme-arrondissement-13006/agence-292545/"
+      },
+      "contactCard": {
+        "title": "Orlane Sarrand",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-6eme-arrondissement-13006/agence-292545/",
+      "imprintUrl": null,
+      "feeUrl": "https://agencedestanneurs.com:443/bareme-de-tarifs.html",
+      "agencyLegalInformations": [
+        "Société à responsabilité limitée (sans autre indication) AGENCE DES TANNEURS",
+        "<b>Siège:</b> 6 Place Paul Cezanne, 13006 Marseille",
+        "<b>RCS:</b> 388395592",
+        "<b>SIRET:</b> 38839559200032"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "Place Paul Cézanne,, 13006 Marseille 6ème arrondissement",
+      "phoneNumbers": [
+        "0661669526 / 0496125170"
+      ]
+    },
+    "plato": {
+      "available": true,
+      "eventType": "visit",
+      "settings": {
+        "agencyId": "RC-039594",
+        "source": "seloger.com",
+        "locale": "fr",
+        "reference": "L093088"
+      }
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13001",
+    "av_city": "Marseille 1er",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "258LDFCB511P",
+        "price": 810,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 1er",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13001",
+        "legacy_id": "254701105",
+        "product_type": "standard",
+        "client_id": "RC-039594",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "37533",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "13001",
+        "estate_type": 1,
+        "id": "254701105",
+        "id_duo": 254701105,
+        "id_solo": 254701105,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 5,
+        "position": 0,
+        "price": 810,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 49.8
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13001",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "254701105",
+      "prix": 900,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 49.8,
+      "commodites": [
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "Cuisine-séparée",
+        "SalleDEau-douche"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-1er-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 1er arrondissement 13001",
+          "hoverLabel": "Appartements à louer Marseille 1er arrondissement 13001",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 49.8 m² 810 € Le chapitre Marseille (13001)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 49.8 m² 810 € Le chapitre Marseille (13001)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-1er-13/le-chapitre/254701105.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-1er-13/le-chapitre/254701105.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 49.8 m² 810 € Le chapitre Marseille (13001)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 49.8 m² 810 € Le chapitre Marseille (13001)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/4/7/2/3/47237006-70bb-4fd1-ac43-c9ccae963c86.jpg?ci_seal=0e428426f08777b92a67cc44d1f90cafee90f913"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 49.8 m² 810 € Le chapitre Marseille (13001)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-1er-13/le-chapitre/254701105.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 49.8 m² 810 € Le chapitre Marseille (13001)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 49.8 m² 810 € Le chapitre Marseille (13001)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/4/7/2/3/47237006-70bb-4fd1-ac43-c9ccae963c86.jpg?ci_seal=0e428426f08777b92a67cc44d1f90cafee90f913"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 49.8 m² 810 € Le chapitre Marseille (13001)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 49.8 m² 810 € Le chapitre Marseille (13001)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-1er-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 1er arrondissement 13001",
+          "hoverLabel": "Appartements à louer Marseille 1er arrondissement 13001",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-1er-13/le-chapitre/254701105.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1040&priceMax=972&priceMin=648",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1040",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR1",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "258LDFCB511P"
+}

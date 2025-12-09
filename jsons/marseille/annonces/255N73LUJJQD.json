@@ -1,0 +1,1143 @@
+{
+  "brand": "seloger",
+  "id": "255N73LUJJQD",
+  "metadata": {
+    "legacyId": "255102495",
+    "creationDate": "2025-11-24T19:08:00Z",
+    "updateDate": "2025-12-08T02:25:08.209Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 10ème",
+        "zipCode": "13010",
+        "district": "Saint Loup"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.433034,
+          43.283085
+        ]
+      }
+    },
+    "description": {
+      "description": "SANS HONORAIRES. Dans résidence récente au cœur du quartier de Saint Loup, spacieux appartement de 78m² au 1er étage disposant d'un agréable séjour/cuisine (non équipée) offrant un accès à une magnifique terrasse, deux belles chambres dont une est équipée de placards aménagés, une salle de bain et WC séparés. Une place de parking est comprise dans le montant du loyer. Les charges comprennent l'eau froide, l'eau chaude, la taxe d'ordures ménagères ainsi que les charges de copropriété. Normes BBC Référence à rappeler lors de nos échanges : Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  Logement Locatif Interm.",
+      "texts": [
+        {
+          "text": "SANS HONORAIRES. Dans résidence récente au cœur du quartier de Saint Loup, spacieux appartement de 78m² au 1er étage disposant d'un agréable séjour/cuisine (non équipée) offrant un accès à une magnifique terrasse, deux belles chambres dont une est équipée de placards aménagés, une salle de bain et WC séparés. Une place de parking est comprise dans le montant du loyer. Les charges comprennent l'eau froide, l'eau chaude, la taxe d'ordures ménagères ainsi que les charges de copropriété. Normes BBC Référence à rappeler lors de nos échanges : Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  Logement Locatif Interm."
+        }
+      ],
+      "headline": "Appartement T3"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "78 m²",
+        "1er étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "78 m²",
+          "splitValue": "78",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1er étage",
+          "splitValue": "1er",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 175 €",
+        "formatted": "1 175 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1175.39 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "2017"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "ab63f93d-c730-4f14-af5f-71b0b4f82afb",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "4cb06a33-2525-4b76-9816-6859097f7fd8",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "93 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "6 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "d599e276-3b16-47bd-9717-7cfe7d081178",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "6 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255102495"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "602_0602_002209"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 175,39 €/mois Loyer charges comprises",
+          "ariaLabel": "1175.39 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "173,20 €/mois",
+            "ariaLabel": "173.2 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "15,07 €/mois/m²",
+            "ariaLabel": "15,07 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "944,08"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "1er étage"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Parking"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "WC dans la salle de bains"
+        },
+        {
+          "icon": "terrace",
+          "value": "Terrasse"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: ouest"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "Orientation",
+                "value": "Exposition: ouest"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "1er étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "WC dans la salle de bains"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "terrace",
+                "value": "Terrasse"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "Parking"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "67affbc6-e591-4d8d-a2ab-c966db26b99a",
+          "url": "https://mms.seloger.com/6/7/a/f/67affbc6-e591-4d8d-a2ab-c966db26b99a.jpg?ci_seal=5b779b48aaf5a58547131830e4165557a9d30130",
+          "alt": "Appartement à louer 1 175 € 3 pièces 2 chambres 78 m² 1er étage Saint Loup Marseille 10ème 13010",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7c633ca1-277b-4ab9-a789-c997b68e07cb",
+          "url": "https://mms.seloger.com/7/c/6/3/7c633ca1-277b-4ab9-a789-c997b68e07cb.jpg?ci_seal=ee5c4b5825fa339b4dbc77859e2b909e777bcd67",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "47219f7c-95b6-4580-bc0e-bf716a9ddf32",
+          "url": "https://mms.seloger.com/4/7/2/1/47219f7c-95b6-4580-bc0e-bf716a9ddf32.jpg?ci_seal=a4954320f1defa8ff280de45036f20a16dd24bf6",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "254c95e8-d771-4d3c-aa0a-0e5f27f4b947",
+          "url": "https://mms.seloger.com/2/5/4/c/254c95e8-d771-4d3c-aa0a-0e5f27f4b947.jpg?ci_seal=6c1b87b377ddaae5d83ddb9ea8cab48425447a1b",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d78feb1f-1c3c-425b-91f7-0dac09b91357",
+          "url": "https://mms.seloger.com/d/7/8/f/d78feb1f-1c3c-425b-91f7-0dac09b91357.jpg?ci_seal=77c83201e59e5778d1e11bab0112cdc835970a3e",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255102495",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13010",
+      "city": "Marseille 10ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.28,
+        "accuracy": 1,
+        "high": "24,25",
+        "low": "12"
+      },
+      "markerPosition": 25,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "15,07",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement T3",
+      "description": "SANS HONORAIRES. Dans résidence récente au cœur du quartier de Saint Loup, spacieux appartement de 78m² au 1er étage disposant d'un agréable séjour/cuisine (non équipée) offrant un accès à une magnifique terrasse, deux belles chambres dont une est équipée de placards aménagés, une salle de bain et WC séparés. Une place de parking est comprise dans le montant du loyer. Les charges comprennent l'eau froide, l'eau chaude, la taxe d'ordures ménagères ainsi que les charges de copropriété. Normes BBC Référence à rappeler lors de nos échanges : Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  Logement Locatif Interm.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "15 jours en ligne",
+      "views": "253 vues",
+      "saves": "22 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "255N73LUJJQD",
+    "legacyId": "255102495",
+    "brand": "seloger",
+    "agencyId": "RC-021304",
+    "static": {
+      "phoneNumbers": [
+        "0972150696 / 0004002209"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0972150696 / 0004002209"
+      ]
+    },
+    "contactCard": {
+      "title": "CDC HABITAT",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0972150696 / 0004002209"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/0/1/d/1/01d1e199-6b92-442a-a087-b35675f39b91.jpg?ci_seal=a4034bb421685209e3957fddd08a8f2d86f9f643",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "CDC HABITAT",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "0972150696 / 0004002209"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/0/1/d/1/01d1e199-6b92-442a-a087-b35675f39b91.jpg?ci_seal=a4034bb421685209e3957fddd08a8f2d86f9f643"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "CDC HABITAT",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0972150696 / 0004002209"
+      ],
+      "logoUrl": "https://mms.seloger.com/0/1/d/1/01d1e199-6b92-442a-a087-b35675f39b91.jpg?ci_seal=a4034bb421685209e3957fddd08a8f2d86f9f643",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "CDC HABITAT",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/0/1/d/1/01d1e199-6b92-442a-a087-b35675f39b91.jpg?ci_seal=a4034bb421685209e3957fddd08a8f2d86f9f643",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/montpellier-3-34000/agence-70171/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "website": "https://www.cdc-habitat.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/montpellier-3-34000/agence-70171/",
+      "imprintUrl": null,
+      "feeUrl": "https://www.cdc-habitat.fr/",
+      "agencyLegalInformations": [
+        "SAEM CDC HABITAT au capital de 493 449 600 €",
+        "<b>Siège:</b> 33 avenue Pierre Mendès France, 75646 PARIS CEDEX 13",
+        "<b>RCS:</b> PARIS 470801168",
+        "<b>SIRET:</b> 47080116800019"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "34000 Montpellier Cedex 3",
+      "phoneNumbers": [
+        "0972150696 / 0004002209"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13010",
+    "av_city": "Marseille 10ème",
+    "av_energy_certificate": "B",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "255N73LUJJQD",
+        "price": 1175.39,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 10ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13010",
+        "legacy_id": "255102495",
+        "product_type": "standard",
+        "client_id": "RC-021304",
+        "energy_certificate": "B"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "8798",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "B",
+        "estate_postalcode": "13010",
+        "estate_type": 1,
+        "id": "255102495",
+        "id_duo": 255102495,
+        "id_solo": 255102495,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 5,
+        "position": 0,
+        "price": 1175.39,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 78,
+        "year_of_construction": 2017
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13010",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255102495",
+      "prix": 1200,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 78,
+      "commodites": [
+        "ascenseur",
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "parking%20ouvert",
+        "SalleDeBain-baignoire",
+        "terrasse"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "B"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-10eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 10ème arrondissement 13010",
+          "hoverLabel": "Appartements à louer Marseille 10ème arrondissement 13010",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 78 m² 1175.39 € Saint Loup Marseille (13010)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 78 m² 1175.39 € Saint Loup Marseille (13010)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-10eme-13/saint-loup/255102495.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-10eme-13/saint-loup/255102495.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 78 m² 1175.39 € Saint Loup Marseille (13010)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 78 m² 1175.39 € Saint Loup Marseille (13010)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/6/7/a/f/67affbc6-e591-4d8d-a2ab-c966db26b99a.jpg?ci_seal=5b779b48aaf5a58547131830e4165557a9d30130"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 78 m² 1175.39 € Saint Loup Marseille (13010)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-10eme-13/saint-loup/255102495.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 78 m² 1175.39 € Saint Loup Marseille (13010)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 78 m² 1175.39 € Saint Loup Marseille (13010)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/6/7/a/f/67affbc6-e591-4d8d-a2ab-c966db26b99a.jpg?ci_seal=5b779b48aaf5a58547131830e4165557a9d30130"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 78 m² 1175.39 € Saint Loup Marseille (13010)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 78 m² 1175.39 € Saint Loup Marseille (13010)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-10eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 10ème arrondissement 13010",
+          "hoverLabel": "Appartements à louer Marseille 10ème arrondissement 13010",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-10eme-13/saint-loup/255102495.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#f01010",
+    "textColor": "dark",
+    "providerName": "CDC HABITAT",
+    "logo": {
+      "src": "https://mms.seloger.com/0/1/d/1/01d1e199-6b92-442a-a087-b35675f39b91.jpg?ci_seal=a4034bb421685209e3957fddd08a8f2d86f9f643",
+      "alt": "logo-RC-021304",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/6/4/1/6/641671ca-061b-4ea6-a5ce-878a1452b3ef.png?ci_eqs=&ci_seal=062a5271caa73cb5a49f99f38ccd25ab668af0ed",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/montpellier-3-34000/agence-70171/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/6/4/1/6/641671ca-061b-4ea6-a5ce-878a1452b3ef.png?ci_eqs=&ci_seal=062a5271caa73cb5a49f99f38ccd25ab668af0ed",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/montpellier-3-34000/agence-70171/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/a/c/b/b/acbb62d7-2e60-44d5-9b15-91f1dcf11e0e.png?ci_eqs=&ci_seal=ea81a5a39b7b63d5c9c9248e9c9cdfafc844f802",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/montpellier-3-34000/agence-70171/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1096&priceMax=1410.47&priceMin=940.31",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1096",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR10",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "255N73LUJJQD"
+}
