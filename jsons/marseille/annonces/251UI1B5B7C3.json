@@ -1,0 +1,863 @@
+{
+  "brand": "seloger",
+  "id": "251UI1B5B7C3",
+  "metadata": {
+    "legacyId": "253914147",
+    "creationDate": "2025-11-07T19:25:00Z",
+    "updateDate": "2025-11-24T17:46:16.759Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 5ème",
+        "zipCode": "13005",
+        "district": "Saint Pierre"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4105995,
+          43.2928228
+        ]
+      }
+    },
+    "description": {
+      "description": "Joli duplex, très lumineux, spacieux, dans le quartier de Saint-Pierre, exposé EST. L'appartement se compose d'un salon avec climatisation réversible, canapé, TV, fibre internet avec box Devialet. Il comprend également une cuisine ouverte entièrement équipée avec four, plaque vitrocéramique, micro-ondes, hotte aspirante, détecteur de fumée, cafetière, lave-vaisselle, réfrigérateur et congélateur séparé. La salle d'eau est équipée d'une douche à l'italienne. Le WC est séparé. Enfin, une chambre à l'étage dispose d'un lit de 180 cm, vélux, canapé, nombreux rangements et climatisation mobile. Lumière d'ambiance, lave-linge et sèche-linge et appartement entièrement connecté et équipé avec Alexa. Petite copropriété calme et résidentielle. METRO 1 : LA FOURRAGERE TRAMWAY 1 : LES CAILLOLS",
+      "texts": [
+        {
+          "text": "Joli duplex, très lumineux, spacieux, dans le quartier de Saint-Pierre, exposé EST. L'appartement se compose d'un salon avec climatisation réversible, canapé, TV, fibre internet avec box Devialet. Il comprend également une cuisine ouverte entièrement équipée avec four, plaque vitrocéramique, micro-ondes, hotte aspirante, détecteur de fumée, cafetière, lave-vaisselle, réfrigérateur et congélateur séparé. La salle d'eau est équipée d'une douche à l'italienne. Le WC est séparé. Enfin, une chambre à l'étage dispose d'un lit de 180 cm, vélux, canapé, nombreux rangements et climatisation mobile. Lumière d'ambiance, lave-linge et sèche-linge et appartement entièrement connecté et équipé avec Alexa. Petite copropriété calme et résidentielle. METRO 1 : LA FOURRAGERE TRAMWAY 1 : LES CAILLOLS"
+        }
+      ],
+      "headline": "Atelier du Monde"
+    },
+    "hardFacts": {
+      "title": "Duplex à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "31 m²"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "31 m²",
+          "splitValue": "31",
+          "label": "m²"
+        }
+      ],
+      "price": {
+        "value": "875 €",
+        "formatted": "875 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "875 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "045cc63f-7982-484b-8807-6491447f9bce",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "c9572be3-5a73-43d4-8a42-6cc5218761ac",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "155 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "4 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "85df381e-a78a-44d5-ae6c-0c7216991bfa",
+              "efficiencyClass": {
+                "index": 0,
+                "rating": "A"
+              },
+              "values": [
+                {
+                  "value": "4 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : A avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "253914147"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "Atelier du Monde"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "875 €/mois Loyer charges comprises",
+          "ariaLabel": "875 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "76 €/mois",
+            "ariaLabel": "76 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "28,23 €/mois/m²",
+            "ariaLabel": "28,23 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1598"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de douches"
+        },
+        {
+          "icon": "closet",
+          "value": "Placard"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "e2af7ca3-90ab-4686-b4c3-fe76b6d8eef3",
+          "url": "https://mms.seloger.com/e/2/a/f/e2af7ca3-90ab-4686-b4c3-fe76b6d8eef3.jpg?ci_seal=249b080c10edfbff4ce7f6833204211fe91555d4",
+          "alt": "Duplex à louer 875 € 2 pièces 1 chambre 31 m² Saint Pierre Marseille 5ème 13005",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "53b9360d-13d3-40aa-89e2-31a0fcc28ba3",
+          "url": "https://mms.seloger.com/5/3/b/9/53b9360d-13d3-40aa-89e2-31a0fcc28ba3.jpg?ci_seal=8d931abcd01a6482b9760e026c190eb8e21b2fe4",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "12210644-e82b-4a36-8f12-f3bc281d9294",
+          "url": "https://mms.seloger.com/1/2/2/1/12210644-e82b-4a36-8f12-f3bc281d9294.jpg?ci_seal=a68aa58e260e50c43db5479ffea6648ac8bfe191",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "cad4e914-14bf-4bdc-b77d-f67c81454daf",
+          "url": "https://mms.seloger.com/c/a/d/4/cad4e914-14bf-4bdc-b77d-f67c81454daf.jpg?ci_seal=769aec0fd3efefe2acf2a3d4feb95e05fe4f232a",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2542f5b9-6492-42d9-9da3-4d36baa56f10",
+          "url": "https://mms.seloger.com/2/5/4/2/2542f5b9-6492-42d9-9da3-4d36baa56f10.jpg?ci_seal=b660257fa2873242e6270be79bc9a5bb2abc6a52",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c5d2b32e-627d-414e-9e99-334ec3504a7e",
+          "url": "https://mms.seloger.com/c/5/d/2/c5d2b32e-627d-414e-9e99-334ec3504a7e.jpg?ci_seal=56b5e077ad3cb825706584cea63e4e5487b1db5b",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "128e6eb1-abce-4d7d-8e2d-e3523683e399",
+          "url": "https://mms.seloger.com/1/2/8/e/128e6eb1-abce-4d7d-8e2d-e3523683e399.jpg?ci_seal=94310862b3c314e3c6f78151409c3f53ef235b8d",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "57c434a4-a1f6-4fd4-af13-ca61c404c001",
+          "url": "https://mms.seloger.com/5/7/c/4/57c434a4-a1f6-4fd4-af13-ca61c404c001.jpg?ci_seal=f6eb3ffd72f85beefa75d3820e9f5e17f9f52517",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "14fdfd69-3e8e-40e0-9988-fdef127c8631",
+          "url": "https://mms.seloger.com/1/4/f/d/14fdfd69-3e8e-40e0-9988-fdef127c8631.jpg?ci_seal=72912b0fcdd51ad62bbee2e86abbf8a9697ffc90",
+          "classification": {
+            "name": "STAIRCASE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "43543cd2-c100-4677-b8af-98cd724501a5",
+          "url": "https://mms.seloger.com/4/3/5/4/43543cd2-c100-4677-b8af-98cd724501a5.jpg?ci_seal=aa91133251c7d214bbf32f466244afabbc14fa19",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a83d653a-e415-4456-9678-b64bed5c1660",
+          "url": "https://mms.seloger.com/a/8/3/d/a83d653a-e415-4456-9678-b64bed5c1660.jpg?ci_seal=18347cec7abbd123a173f0966e35b0564a5d3a5f",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "13cee327-999d-4df9-9dee-c6289ea6631d",
+          "url": "https://mms.seloger.com/1/3/c/e/13cee327-999d-4df9-9dee-c6289ea6631d.jpg?ci_seal=77a52e3f5fa7ec0b4ba5860540f6a49672bd107e",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8ad33cd9-edff-4ff8-a294-d838f29a5fa6",
+          "url": "https://mms.seloger.com/8/a/d/3/8ad33cd9-edff-4ff8-a294-d838f29a5fa6.jpg?ci_seal=ade1efd9ae3dc2888ca1e2577fb24772b0827ad0",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1d5630dd-03f3-484b-9395-6b84f5231ed3",
+          "url": "https://mms.seloger.com/1/d/5/6/1d5630dd-03f3-484b-9395-6b84f5231ed3.jpg?ci_seal=933ff5774e498ac837b8161a02f49ae288725335",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "aa03bc8f-c29d-45bd-b424-502916a008f8",
+          "url": "https://mms.seloger.com/a/a/0/3/aa03bc8f-c29d-45bd-b424-502916a008f8.jpg?ci_seal=4b642d39be04960efea54247f311e5eeb403bb94",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "253914147",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13005",
+      "city": "Marseille 5ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.28,
+        "accuracy": 1,
+        "high": "24,25",
+        "low": "12"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "28,23",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Atelier du Monde",
+      "description": "Joli duplex, très lumineux, spacieux, dans le quartier de Saint-Pierre, exposé EST. L'appartement se compose d'un salon avec climatisation réversible, canapé, TV, fibre internet avec box Devialet. Il comprend également une cuisine ouverte entièrement équipée avec four, plaque vitrocéramique, micro-ondes, hotte aspirante, détecteur de fumée, cafetière, lave-vaisselle, réfrigérateur et congélateur séparé. La salle d'eau est équipée d'une douche à l'italienne. Le WC est séparé. Enfin, une chambre à l'étage dispose d'un lit de 180 cm, vélux, canapé, nombreux rangements et climatisation mobile. Lumière d'ambiance, lave-linge et sèche-linge et appartement entièrement connecté et équipé avec Alexa. Petite copropriété calme et résidentielle. METRO 1 : LA FOURRAGERE TRAMWAY 1 : LES CAILLOLS",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 mois en ligne",
+      "views": "198 vues",
+      "saves": "21 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "251UI1B5B7C3",
+    "legacyId": "253914147",
+    "brand": "seloger",
+    "agencyId": "RC-115927",
+    "static": {
+      "phoneNumbers": [
+        "0413944305"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0413944305"
+      ]
+    },
+    "contactCard": {
+      "title": "LOUER A MARSEILLE",
+      "subtitle": "Louer À Marseille",
+      "phoneNumbers": [
+        "0413944305"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "LOUER A MARSEILLE",
+        "subtitle": "Louer À Marseille",
+        "phoneNumbers": [
+          "0413944305"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Louer À Marseille",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "LOUER A MARSEILLE",
+      "subtitle": "LOUER A MARSEILLE",
+      "phoneNumbers": [
+        "0413944305"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "LOUER A MARSEILLE",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-404759/"
+      },
+      "contactCard": {
+        "title": "Louer À Marseille",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-404759/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 520648163",
+        "<b>SIRET:</b> 52064816300035"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "98 Avenue du Prado, 13008 Marseille",
+      "phoneNumbers": [
+        "0413944305"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13005",
+    "av_city": "Marseille 5ème",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "251UI1B5B7C3",
+        "price": 875,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 5ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13005",
+        "legacy_id": "253914147",
+        "product_type": "standard",
+        "client_id": "RC-115927",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "539983",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "13005",
+        "estate_type": 9,
+        "id": "253914147",
+        "id_duo": 253914147,
+        "id_solo": 253914147,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 15,
+        "position": 0,
+        "price": 875,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 31
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13005",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "253914147",
+      "prix": 900,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 31,
+      "commodites": [
+        "SalleDEau-douche"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {},
+    "headInfo": {
+      "title": "",
+      "titleWithCount": "",
+      "description": "",
+      "canonical": "",
+      "robots": "",
+      "breadcrumb": [],
+      "redirectUrl": ""
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1060&priceMax=1050&priceMin=700",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1060",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR5",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "propertySubType": "MULTI_STOREY",
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "251UI1B5B7C3"
+}

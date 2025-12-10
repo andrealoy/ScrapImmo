@@ -1,0 +1,1169 @@
+{
+  "brand": "seloger",
+  "id": "25Z7HD9WX5KT",
+  "metadata": {
+    "legacyId": "253813313",
+    "creationDate": "2025-11-06T16:57:00Z",
+    "updateDate": "2025-12-05T10:56:11.086Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Nice",
+        "zipCode": "06100",
+        "district": "Mantega"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.25387,
+          43.71285
+        ]
+      }
+    },
+    "description": {
+      "description": "NICE PESSICART-  71 AVENUE DE PESSICART\r\nVenez visiter cet agréable F1 meublé de 29.90m² situé au 6ème étage avec ascenseur, composé d'une entrée avec un placard, un séjour avec cuisine américaine équipée, une salle de bain avec WC, et une belle terrasse au calme et vue sur verdure. Climatisation réversible. Proche transports et commerces. GLI demandée.",
+      "texts": [
+        {
+          "text": "NICE PESSICART-  71 AVENUE DE PESSICART\r\nVenez visiter cet agréable F1 meublé de 29.90m² situé au 6ème étage avec ascenseur, composé d'une entrée avec un placard, un séjour avec cuisine américaine équipée, une salle de bain avec WC, et une belle terrasse au calme et vue sur verdure. Climatisation réversible. Proche transports et commerces. GLI demandée."
+        }
+      ],
+      "headline": "A LOUER 1 PIECE MEUBLE"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "29,9 m²",
+        "6ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "29,9 m²",
+          "splitValue": "29,9",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6ème étage",
+          "splitValue": "6ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "730 €",
+        "formatted": "730 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "730 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "278b45b2-4698-42ac-9971-fc44ee5c3c9b",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "78e9b238-213b-49f7-96fe-f0b36f8917c8",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "229 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "9 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "c3bd2c9a-ab35-45ba-826a-1f32ce38a933",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "9 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "253813313"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "5776156"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "700 €/mois Loyer de base",
+          "ariaLabel": "700 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "30 €/mois",
+            "ariaLabel": "30 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "730 €/mois",
+            "ariaLabel": "730 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "23,41 €/mois/m²",
+            "ariaLabel": "23,41 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1400"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "6ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "terrace",
+          "value": "Terrasse"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "value": "Sans vis-à-vis",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "6ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte, Cuisine intégrée"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              },
+              {
+                "icon": "terrace",
+                "value": "Terrasse"
+              },
+              {
+                "value": "Sans vis-à-vis",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "9246ca84-43db-4b0e-8d5e-2fdb8c95877b",
+          "url": "https://mms.seloger.com/9/2/4/6/9246ca84-43db-4b0e-8d5e-2fdb8c95877b.jpg?ci_seal=2d262e0a4734e228f9d781c8a07d69d77f355afa",
+          "alt": "Appartement à louer 730 € 1 pièce 29,9 m² 6ème étage Mantega Nice 06100",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d499482d-fc85-4a2e-bb98-2c9dd0a5ae6d",
+          "url": "https://mms.seloger.com/d/4/9/9/d499482d-fc85-4a2e-bb98-2c9dd0a5ae6d.jpg?ci_seal=9926ff25c833c86bcdf60ff92e7aec533b3fad02",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5ed2920f-1d60-4c4d-ad8a-686e6e685702",
+          "url": "https://mms.seloger.com/5/e/d/2/5ed2920f-1d60-4c4d-ad8a-686e6e685702.jpg?ci_seal=bddb26f160e9ae2a683bebb49a0593975b302b58",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d2b5ed9d-03b2-448d-aafd-1e557cb1bb0a",
+          "url": "https://mms.seloger.com/d/2/b/5/d2b5ed9d-03b2-448d-aafd-1e557cb1bb0a.jpg?ci_seal=87273f2f65d8e9c05e297154cfe01b651d35b5eb",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0ee66349-ee66-4a0a-b469-fceec2552b3a",
+          "url": "https://mms.seloger.com/0/e/e/6/0ee66349-ee66-4a0a-b469-fceec2552b3a.jpg?ci_seal=a077060bdb85310a318b7c6cf7382d4913a99234",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8664c8b9-6581-4c50-9697-aff54e0c4a67",
+          "url": "https://mms.seloger.com/8/6/6/4/8664c8b9-6581-4c50-9697-aff54e0c4a67.jpg?ci_seal=b5c7332fa2f4b6d684a3612315f4b70625ded9f0",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "70e35b17-2e03-4c92-a1fa-4258e0b68124",
+          "url": "https://mms.seloger.com/7/0/e/3/70e35b17-2e03-4c92-a1fa-4258e0b68124.jpg?ci_seal=d5ca1a37b8fa528848cb9a09ca8ecdc4bdfc5821",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "bbc89ddd-1e9e-4815-8b3a-f1bb9db14390",
+          "url": "https://mms.seloger.com/b/b/c/8/bbc89ddd-1e9e-4815-8b3a-f1bb9db14390.jpg?ci_seal=e98ab645998f1e5bed28393699722f97156a899b",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4cdb76eb-d393-4291-93fe-122475daca15",
+          "url": "https://mms.seloger.com/4/c/d/b/4cdb76eb-d393-4291-93fe-122475daca15.jpg?ci_seal=0068e82509a9c85a4cfda41f2cd7f005459fc437",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5873f7ac-a364-4e89-9f21-b7b62b68c3fd",
+          "url": "https://mms.seloger.com/5/8/7/3/5873f7ac-a364-4e89-9f21-b7b62b68c3fd.jpg?ci_seal=50f37daaea971a379a1159efedd9763c3669626b",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "253813313",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "06100",
+      "city": "Nice",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 19.94,
+        "accuracy": 2,
+        "high": "28,86",
+        "low": "14,80"
+      },
+      "markerPosition": 61,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "23,41",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "A LOUER 1 PIECE MEUBLE",
+      "description": "NICE PESSICART-  71 AVENUE DE PESSICART\r\nVenez visiter cet agréable F1 meublé de 29.90m² situé au 6ème étage avec ascenseur, composé d'une entrée avec un placard, un séjour avec cuisine américaine équipée, une salle de bain avec WC, et une belle terrasse au calme et vue sur verdure. Climatisation réversible. Proche transports et commerces. GLI demandée.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 mois en ligne",
+      "views": "999+ vues",
+      "saves": "59 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25Z7HD9WX5KT",
+    "legacyId": "253813313",
+    "brand": "seloger",
+    "agencyId": "RC-080019",
+    "static": {
+      "phoneNumbers": [
+        "+33 6 21 68 13 24"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33 6 21 68 13 24"
+      ]
+    },
+    "contactCard": {
+      "title": "CABINET CROUZET & BREIL",
+      "subtitle": "Renata Oliveri",
+      "phoneNumbers": [
+        "+33 6 21 68 13 24"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/c/6/b/c/c6bc7f95-9923-42b7-9ee5-bfd9efb7f899.jpg?ci_seal=51d4f393775f60ec08bb9eabd4c2c7a71f82c1af",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "CABINET CROUZET & BREIL",
+        "subtitle": "Renata Oliveri",
+        "phoneNumbers": [
+          "+33 6 21 68 13 24"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/c/6/b/c/c6bc7f95-9923-42b7-9ee5-bfd9efb7f899.jpg?ci_seal=51d4f393775f60ec08bb9eabd4c2c7a71f82c1af"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Renata Oliveri",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "CABINET CROUZET & BREIL",
+      "subtitle": "CABINET CROUZET & BREIL",
+      "phoneNumbers": [
+        "+33 6 21 68 13 24"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "CABINET CROUZET & BREIL",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/c/6/b/c/c6bc7f95-9923-42b7-9ee5-bfd9efb7f899.jpg?ci_seal=51d4f393775f60ec08bb9eabd4c2c7a71f82c1af",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/nice-06000/agence-10682/"
+      },
+      "contactCard": {
+        "title": "Renata Oliveri",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/nice-06000/agence-10682/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 965800691",
+        "<b>SIRET:</b> 96580069100010"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "134 boulevard Gambetta, 06000 Nice",
+      "phoneNumbers": [
+        "+33 6 21 68 13 24"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "06100",
+    "av_city": "Nizza",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25Z7HD9WX5KT",
+        "price": 730,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Nizza",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "province": "Maritime Alps",
+        "zip_code": "06100",
+        "legacy_id": "253813313",
+        "product_type": "standard",
+        "client_id": "RC-080019",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "117075",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "06100",
+        "estate_type": 1,
+        "id": "253813313",
+        "id_duo": 253813313,
+        "id_solo": 253813313,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 10,
+        "position": 0,
+        "price": 730,
+        "product_geolocation": "localisation_district",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 29.9
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "06088",
+      "cp": "06100",
+      "geodp": "06",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "253813313",
+      "prix": 800,
+      "nb_pieces": 1,
+      "surface": 29.9,
+      "commodites": [
+        "ascenseur",
+        "Chauffage-electrique",
+        "Cuisine-américaine",
+        "Cuisine-équipée",
+        "sansVisAVis",
+        "terrasse"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/06/bien-appartement/",
+          "label": "Appartements à louer Alpes-Maritimes 06",
+          "hoverLabel": "Appartements à louer Alpes-Maritimes 06",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-nice-06/bien-appartement/",
+          "label": "Appartements à louer Nice 06000",
+          "hoverLabel": "Appartements à louer Nice 06000",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 29.9 m² 730 € Mantega Nice (06100)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 29.9 m² 730 € Mantega Nice (06100)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/nice-06/mantega/253813313.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/nice-06/mantega/253813313.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 29.9 m² 730 € Mantega Nice (06100)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 29.9 m² 730 € Mantega Nice (06100)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/9/2/4/6/9246ca84-43db-4b0e-8d5e-2fdb8c95877b.jpg?ci_seal=2d262e0a4734e228f9d781c8a07d69d77f355afa"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 29.9 m² 730 € Mantega Nice (06100)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/nice-06/mantega/253813313.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 29.9 m² 730 € Mantega Nice (06100)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 29.9 m² 730 € Mantega Nice (06100)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/9/2/4/6/9246ca84-43db-4b0e-8d5e-2fdb8c95877b.jpg?ci_seal=2d262e0a4734e228f9d781c8a07d69d77f355afa"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 29.9 m² 730 € Mantega Nice (06100)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 29.9 m² 730 € Mantega Nice (06100)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/06/bien-appartement/",
+          "label": "Appartements à louer Alpes-Maritimes 06",
+          "hoverLabel": "Appartements à louer Alpes-Maritimes 06",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-nice-06/bien-appartement/",
+          "label": "Appartements à louer Nice 06000",
+          "hoverLabel": "Appartements à louer Nice 06000",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/nice-06/mantega/253813313.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#267C9C",
+    "textColor": "light",
+    "providerName": "CABINET CROUZET & BREIL",
+    "logo": {
+      "src": "https://mms.seloger.com/c/6/b/c/c6bc7f95-9923-42b7-9ee5-bfd9efb7f899.jpg?ci_seal=51d4f393775f60ec08bb9eabd4c2c7a71f82c1af",
+      "alt": "logo-RC-080019",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/4/6/a/a/46aadf53-4281-43f2-9485-4cf9e8de0928.png?ci_eqs=&ci_seal=7f602f65024e356507cf36e52b1c43a5757f68c2",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/nice-06000/agence-10682/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/4/6/a/a/46aadf53-4281-43f2-9485-4cf9e8de0928.png?ci_eqs=&ci_seal=7f602f65024e356507cf36e52b1c43a5757f68c2",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/nice-06000/agence-10682/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/6/8/f/7/68f7f417-a178-4512-bf61-f6005f5b69f0.png?ci_eqs=&ci_seal=e93c86ab851252140ce71f58bb62997cf934ff48",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/nice-06000/agence-10682/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR476&priceMax=876&priceMin=584",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR476",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD08FR2038",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR6",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25Z7HD9WX5KT"
+}

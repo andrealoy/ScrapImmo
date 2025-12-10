@@ -1,0 +1,1113 @@
+{
+  "brand": "seloger",
+  "id": "25U88DNN4HUB",
+  "metadata": {
+    "legacyId": "255695003",
+    "creationDate": "2025-12-02T21:55:00Z",
+    "updateDate": "2025-12-08T09:40:14.861Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Lyon 2ème",
+        "zipCode": "69002",
+        "district": "Presqu'île - Centre ville - Cordeliers"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.837795,
+          45.761277
+        ]
+      }
+    },
+    "description": {
+      "description": "PRESQU'ILE, T2 en plein centre avec très belle vue dégagée (dernier étage) composé d'une entrée, d'un séjour, d'une chambre, d'une cuisine ouverte sur séjour, d'une salle de bains avec WC. A voir..\r\n\r\nZone soumise à l'encadrement des loyers :\r\nLoyer de référence : 660.00 €/mois\r\nLoyer majoré : 792.00 € /mois\r\nComplément : 0\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  georisques. gouv. fr",
+      "texts": [
+        {
+          "text": "PRESQU'ILE, T2 en plein centre avec très belle vue dégagée (dernier étage) composé d'une entrée, d'un séjour, d'une chambre, d'une cuisine ouverte sur séjour, d'une salle de bains avec WC. A voir..\r\n\r\nZone soumise à l'encadrement des loyers :\r\nLoyer de référence : 660.00 €/mois\r\nLoyer majoré : 792.00 € /mois\r\nComplément : 0\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  georisques. gouv. fr"
+        }
+      ],
+      "headline": "T2"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "44 m²",
+        "Étage 4/5"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44 m²",
+          "splitValue": "44",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 4/5",
+          "splitValue": "Étage",
+          "label": "4/5"
+        }
+      ],
+      "price": {
+        "value": "710 €",
+        "formatted": "710 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "710 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "355983b9-f805-45c9-a655-b07b7d82c03a",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 1370 et 1900 €/an"
+            },
+            {
+              "type": "excessiveConsumption",
+              "label": "Consommation d'énergie",
+              "value": "Logement à consommation énergétique excessive: classe F"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 1370 et 1900 € par an. Date d'indexation du prix des énergies non communiquée."
+            }
+          ],
+          "scales": [
+            {
+              "key": "b2271792-507e-49e1-b7f1-1459a06e529d",
+              "efficiencyClass": {
+                "index": 5,
+                "rating": "F"
+              },
+              "values": [
+                {
+                  "value": "400 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "13 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : F avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": true
+            },
+            {
+              "key": "23d97ff4-d9ad-499f-838f-e353947b35ef",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "13 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255695003"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "948"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "710 €/mois Loyer charges comprises",
+          "ariaLabel": "710 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "35 €/mois",
+            "ariaLabel": "35 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "16,14 €/mois/m²",
+            "ariaLabel": "16,14 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "675"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 21/12/2025"
+        },
+        {
+          "icon": "floors",
+          "value": "4ème étage/5 étages"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "value": "Belle vue",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "availability",
+                "value": "disponible à partir du 21/12/2025"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "4ème étage/5 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              },
+              {
+                "value": "Belle vue",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "f1db32e9-7411-4a7a-9fde-dd8225446293",
+          "url": "https://mms.seloger.com/f/1/d/b/f1db32e9-7411-4a7a-9fde-dd8225446293.jpg?ci_seal=6b5970821c9f964fff0df3309e9fe17d64da750f",
+          "alt": "Appartement à louer 710 € 2 pièces 1 chambre 44 m² Étage 4/5 Presqu'île - Centre ville - Cordeliers Lyon 2ème 69002",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "01cbf9c6-8b11-4e52-a05c-2007490f9940",
+          "url": "https://mms.seloger.com/0/1/c/b/01cbf9c6-8b11-4e52-a05c-2007490f9940.jpg?ci_seal=62e5ab1dcb2f0c01b2a59062e9ee8b795ab66910",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a679a7a9-e2ef-4ac1-8e32-b16ce544c2ab",
+          "url": "https://mms.seloger.com/a/6/7/9/a679a7a9-e2ef-4ac1-8e32-b16ce544c2ab.jpg?ci_seal=2e77004b3bfeab57a00d63c78bdb0eb133995454",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5b3f2c44-f254-4b78-b7ed-04eb923ffa1d",
+          "url": "https://mms.seloger.com/5/b/3/f/5b3f2c44-f254-4b78-b7ed-04eb923ffa1d.jpg?ci_seal=ebeb3ead9b2bb8b4c14abeb974c18009a537a9da",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7eaac56f-8453-463e-b838-369bb7be1c2d",
+          "url": "https://mms.seloger.com/7/e/a/a/7eaac56f-8453-463e-b838-369bb7be1c2d.jpg?ci_seal=acf7363a56c06f0c9f42222cc618b7508cb0d107",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3946c3ae-e6dc-4ceb-8861-1cdf2cc53e6a",
+          "url": "https://mms.seloger.com/3/9/4/6/3946c3ae-e6dc-4ceb-8861-1cdf2cc53e6a.jpg?ci_seal=7a04ccaba3b55a79e0eb14b7f1c2d9cfe04e6fb8",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255695003",
+      "federalStateGeoId": "AD04FR31",
+      "zip": "69002",
+      "city": "Lyon 2ème",
+      "country": "FRA",
+      "region": "Auvergne-Rhône-Alpes",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 19.86,
+        "accuracy": 3,
+        "high": "31,31",
+        "low": "14,64"
+      },
+      "markerPosition": 9,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "16,14",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "T2",
+      "description": "PRESQU'ILE, T2 en plein centre avec très belle vue dégagée (dernier étage) composé d'une entrée, d'un séjour, d'une chambre, d'une cuisine ouverte sur séjour, d'une salle de bains avec WC. A voir..\r\n\r\nZone soumise à l'encadrement des loyers :\r\nLoyer de référence : 660.00 €/mois\r\nLoyer majoré : 792.00 € /mois\r\nComplément : 0\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  georisques. gouv. fr",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "7 jours en ligne",
+      "views": "587 vues",
+      "saves": "42 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25U88DNN4HUB",
+    "legacyId": "255695003",
+    "brand": "seloger",
+    "agencyId": "RC-075894",
+    "static": {
+      "phoneNumbers": [
+        "04 78 93 00 16"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "04 78 93 00 16"
+      ]
+    },
+    "contactCard": {
+      "title": "RÉGIE BARI",
+      "subtitle": "Bari",
+      "phoneNumbers": [
+        "04 78 93 00 16"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/c/e/d/3/ced39722-5ce0-45a8-9178-d08a3f0bcbef.jpg?ci_seal=39ec57f60af90b08561795184411264d80a70696",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "RÉGIE BARI",
+        "subtitle": "Bari",
+        "phoneNumbers": [
+          "04 78 93 00 16"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/c/e/d/3/ced39722-5ce0-45a8-9178-d08a3f0bcbef.jpg?ci_seal=39ec57f60af90b08561795184411264d80a70696"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Bari",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "RÉGIE BARI",
+      "subtitle": "RÉGIE BARI",
+      "phoneNumbers": [
+        "04 78 93 00 16"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "RÉGIE BARI",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/c/e/d/3/ced39722-5ce0-45a8-9178-d08a3f0bcbef.jpg?ci_seal=39ec57f60af90b08561795184411264d80a70696",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-6eme-arrondissement-69006/agence-259208/"
+      },
+      "contactCard": {
+        "title": "Bari",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.bari.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-6eme-arrondissement-69006/agence-259208/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 303847370",
+        "<b>SIRET:</b> 30384737000028"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "14 RUE TRONCHET, 69006 LYON",
+      "phoneNumbers": [
+        "04 78 93 00 16"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "69002",
+    "av_city": "Lyon",
+    "av_energy_certificate": "F",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25U88DNN4HUB",
+        "price": 710,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Lyon",
+        "region": "Auvergne-Rhône-Alpes",
+        "province": "Rhône",
+        "zip_code": "69002",
+        "legacy_id": "255695003",
+        "product_type": "standard",
+        "client_id": "RC-075894",
+        "energy_certificate": "F"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "500645",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "F",
+        "estate_postalcode": "69002",
+        "estate_type": 1,
+        "id": "255695003",
+        "id_duo": 255695003,
+        "id_solo": 255695003,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 6,
+        "position": 0,
+        "price": 710,
+        "product_geolocation": "localisation_district",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 44
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "69123",
+      "cp": "69002",
+      "geodp": "69",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255695003",
+      "prix": 800,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 44,
+      "etage": 5,
+      "commodites": [
+        "ascenseur",
+        "belleVue",
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "F"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-2eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 2ème arrondissement 69002",
+          "hoverLabel": "Appartements à louer Lyon 2ème arrondissement 69002",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 44 m² 710 € Presqu'île - Centre ville - Cordeliers Lyon (69002)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 44 m² 710 € Presqu'île - Centre ville - Cordeliers Lyon (69002)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/lyon-2eme-69/bellecour-ainay/255695003.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-2eme-69/bellecour-ainay/255695003.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 44 m² 710 € Presqu'île - Centre ville - Cordeliers Lyon (69002)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 44 m² 710 € Presqu'île - Centre ville - Cordeliers Lyon (69002)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/f/1/d/b/f1db32e9-7411-4a7a-9fde-dd8225446293.jpg?ci_seal=6b5970821c9f964fff0df3309e9fe17d64da750f"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 44 m² 710 € Presqu'île - Centre ville - Cordeliers Lyon (69002)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-2eme-69/bellecour-ainay/255695003.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 44 m² 710 € Presqu'île - Centre ville - Cordeliers Lyon (69002)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 44 m² 710 € Presqu'île - Centre ville - Cordeliers Lyon (69002)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/f/1/d/b/f1db32e9-7411-4a7a-9fde-dd8225446293.jpg?ci_seal=6b5970821c9f964fff0df3309e9fe17d64da750f"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 44 m² 710 € Presqu'île - Centre ville - Cordeliers Lyon (69002)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 44 m² 710 € Presqu'île - Centre ville - Cordeliers Lyon (69002)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-2eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 2ème arrondissement 69002",
+          "hoverLabel": "Appartements à louer Lyon 2ème arrondissement 69002",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/lyon-2eme-69/bellecour-ainay/255695003.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR9343&priceMax=852&priceMin=568",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR9343",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR18",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR28808",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR70",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR31",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25U88DNN4HUB"
+}

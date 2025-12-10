@@ -1,0 +1,1005 @@
+{
+  "brand": "seloger",
+  "id": "252ARDBTZA2V",
+  "metadata": {
+    "legacyId": "255843471",
+    "creationDate": "2025-12-04T15:24:00Z",
+    "updateDate": "2025-12-08T17:31:21.144Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 1er",
+        "zipCode": "13001",
+        "district": "Thiers"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3836223,
+          43.2977604
+        ]
+      }
+    },
+    "description": {
+      "description": "Nous vous proposons à la location un studio de 20 mètres carrés situé au rez-de-chaussée d'un immeuble au coeur du quartier Thiers.\r\n\r\nLe logement comprend une pièce de vie avec lit convertible, un coin cuisine équipée ( micro-onde, bouilloire, machine à café), un espace dressing et une salle de bain.",
+      "texts": [
+        {
+          "text": "Nous vous proposons à la location un studio de 20 mètres carrés situé au rez-de-chaussée d'un immeuble au coeur du quartier Thiers.\r\n\r\nLe logement comprend une pièce de vie avec lit convertible, un coin cuisine équipée ( micro-onde, bouilloire, machine à café), un espace dressing et une salle de bain."
+        }
+      ],
+      "headline": "Studio meublé 21m² - Quartier Thiers"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "21 m²",
+        "RDC/4"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "21 m²",
+          "splitValue": "21",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "RDC/4",
+          "splitValue": "RDC/4",
+          "label": ""
+        }
+      ],
+      "price": {
+        "value": "615 €",
+        "formatted": "615 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "615 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel: Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "1f49c109-efc5-4d94-bd45-d5f66b1ff9f1",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "dc6404b3-16b8-430f-ad6c-245275fec318",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "264 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "8 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "b644f676-b5ea-4669-adef-d5b2357a0fc1",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "8 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255843471"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "OC-SENACSTUDIO"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "615 €/mois Loyer charges comprises",
+          "ariaLabel": "615 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "55 €/mois",
+            "ariaLabel": "55 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "29,29 €/mois/m²",
+            "ariaLabel": "29,29 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1120"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Rez-de-chaussée/4 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Kitchenette, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain; 1 salle de douches"
+        },
+        {
+          "icon": "floor-covering",
+          "value": "Revêtement du sol: Parquet"
+        },
+        {
+          "icon": "intercom",
+          "value": "Interphone"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "0054e604-8618-42aa-8c40-f818cafc7431",
+          "url": "https://mms.seloger.com/0/0/5/4/0054e604-8618-42aa-8c40-f818cafc7431.jpg?ci_seal=b26d8de90e29537af5d1a9518ee15f57246ecf97",
+          "alt": "Appartement à louer 615 € 1 pièce 21 m² RDC/4 Thiers Marseille 1er 13001",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "20a0fe82-8400-4213-a15a-b6d11f814a8b",
+          "url": "https://mms.seloger.com/2/0/a/0/20a0fe82-8400-4213-a15a-b6d11f814a8b.jpg?ci_seal=8bb74cfda4e6e95aa8b767dd53149fd23256dcfb",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "38b50d7e-8e99-4c0f-ba87-d4d4f0b66997",
+          "url": "https://mms.seloger.com/3/8/b/5/38b50d7e-8e99-4c0f-ba87-d4d4f0b66997.jpg?ci_seal=281b67937b8117a32f699553b0f428a360586614",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7e29bb95-8ef5-4007-9d8f-c64cbad27ca1",
+          "url": "https://mms.seloger.com/7/e/2/9/7e29bb95-8ef5-4007-9d8f-c64cbad27ca1.jpg?ci_seal=2de987ddae72ed4730fa93d58ab278f1a07090c2",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255843471",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13001",
+      "city": "Marseille 1er",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 15.96,
+        "accuracy": 2,
+        "high": "26,41",
+        "low": "10,65"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "29,29",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Studio meublé 21m² - Quartier Thiers",
+      "description": "Nous vous proposons à la location un studio de 20 mètres carrés situé au rez-de-chaussée d'un immeuble au coeur du quartier Thiers.\r\n\r\nLe logement comprend une pièce de vie avec lit convertible, un coin cuisine équipée ( micro-onde, bouilloire, machine à café), un espace dressing et une salle de bain.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "5 jours en ligne",
+      "views": "71 vues",
+      "saves": "11 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "252ARDBTZA2V",
+    "legacyId": "255843471",
+    "brand": "seloger",
+    "agencyId": "RC-115927",
+    "static": {
+      "phoneNumbers": [
+        "0755926162"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0755926162"
+      ]
+    },
+    "contactCard": {
+      "title": "LOUER A MARSEILLE",
+      "subtitle": "Louer À Marseille",
+      "phoneNumbers": [
+        "0755926162"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "LOUER A MARSEILLE",
+        "subtitle": "Louer À Marseille",
+        "phoneNumbers": [
+          "0755926162"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Louer À Marseille",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "LOUER A MARSEILLE",
+      "subtitle": "LOUER A MARSEILLE",
+      "phoneNumbers": [
+        "0755926162"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "LOUER A MARSEILLE",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-404759/"
+      },
+      "contactCard": {
+        "title": "Louer À Marseille",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-404759/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 520648163",
+        "<b>SIRET:</b> 52064816300035"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "98 Avenue du Prado, 13008 Marseille",
+      "phoneNumbers": [
+        "0755926162"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13001",
+    "av_city": "Marseille 1er",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "252ARDBTZA2V",
+        "price": 615,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 1er",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13001",
+        "legacy_id": "255843471",
+        "product_type": "standard",
+        "client_id": "RC-115927",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "539983",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "13001",
+        "estate_type": 1,
+        "id": "255843471",
+        "id_duo": 255843471,
+        "id_solo": 255843471,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 4,
+        "position": 0,
+        "price": 615,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 21
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13001",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255843471",
+      "prix": 700,
+      "nb_pieces": 1,
+      "surface": 21,
+      "etage": 4,
+      "commodites": [
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "Cuisine-équipée",
+        "parquet",
+        "rez-de-chaussee",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-1er-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 1er arrondissement 13001",
+          "hoverLabel": "Appartements à louer Marseille 1er arrondissement 13001",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 21 m² 615 € Thiers Marseille (13001)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 21 m² 615 € Thiers Marseille (13001)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-1er-13/thiers/255843471.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-1er-13/thiers/255843471.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 21 m² 615 € Thiers Marseille (13001)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 21 m² 615 € Thiers Marseille (13001)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/0/0/5/4/0054e604-8618-42aa-8c40-f818cafc7431.jpg?ci_seal=b26d8de90e29537af5d1a9518ee15f57246ecf97"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 21 m² 615 € Thiers Marseille (13001)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-1er-13/thiers/255843471.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 21 m² 615 € Thiers Marseille (13001)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 21 m² 615 € Thiers Marseille (13001)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/0/0/5/4/0054e604-8618-42aa-8c40-f818cafc7431.jpg?ci_seal=b26d8de90e29537af5d1a9518ee15f57246ecf97"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 21 m² 615 € Thiers Marseille (13001)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 21 m² 615 € Thiers Marseille (13001)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-1er-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 1er arrondissement 13001",
+          "hoverLabel": "Appartements à louer Marseille 1er arrondissement 13001",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-1er-13/thiers/255843471.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1044&priceMax=738&priceMin=492",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1044",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR1",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "252ARDBTZA2V"
+}

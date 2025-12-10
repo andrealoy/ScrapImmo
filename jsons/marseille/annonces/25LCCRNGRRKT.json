@@ -1,0 +1,1409 @@
+{
+  "brand": "seloger",
+  "id": "25LCCRNGRRKT",
+  "metadata": {
+    "legacyId": "255189155",
+    "creationDate": "2025-11-25T18:29:00Z",
+    "updateDate": "2025-12-01T17:25:17.415Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 8ème",
+        "zipCode": "13008",
+        "district": "Périer"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.379134999999998,
+          43.2782709999999
+        ]
+      }
+    },
+    "description": {
+      "description": "Dans immeuble semi récent de très bonne tenue, sécurisée avec gardien,\nType 4 au 6° étage avec ascenseur, traversant, composé de deux entrées, une principale, une de service, hall d'entrée, séjour avec balcon terrasse de 17 m2 avec très belle vue dégagée, une cuisine séparée équipée, 3 chambres dont une suite parentale avec salle de bain, une salle d'eau, un wc séparé.\nClimatisation réversible.",
+      "texts": [
+        {
+          "text": "Dans immeuble semi récent de très bonne tenue, sécurisée avec gardien,\nType 4 au 6° étage avec ascenseur, traversant, composé de deux entrées, une principale, une de service, hall d'entrée, séjour avec balcon terrasse de 17 m2 avec très belle vue dégagée, une cuisine séparée équipée, 3 chambres dont une suite parentale avec salle de bain, une salle d'eau, un wc séparé.\nClimatisation réversible."
+        }
+      ],
+      "headline": "Appartement 4 pièces PERIER"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "4 pièces",
+        "3 chambres",
+        "124 m²",
+        "Étage 6/7"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "4 pièces",
+          "splitValue": "4",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "3 chambres",
+          "splitValue": "3",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "124 m²",
+          "splitValue": "124",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 6/7",
+          "splitValue": "Étage",
+          "label": "6/7"
+        }
+      ],
+      "price": {
+        "value": "2 150 €",
+        "formatted": "2 150 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "2150 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage au sol"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "409b2afc-2aa8-47be-a573-709192b76df2",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 1180 et 1650 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 1180 et 1650 € par an. Prix moyens des énergies indexés au 31/12/2020 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "78e65972-e770-4200-9a20-1745ace0dd95",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "122 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "53 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "3 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est 53 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "adbf079b-8c92-4680-bd5b-d0b891fe7eb5",
+              "efficiencyClass": {
+                "index": 0,
+                "rating": "A"
+              },
+              "values": [
+                {
+                  "value": "3 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : A avec une plage allant de A à G .La consommation d'énergie est 53 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255189155"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "PERIER"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "2 000 €/mois Loyer de base",
+          "ariaLabel": "2000 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "150 €/mois",
+            "ariaLabel": "150 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "2 150 €/mois",
+            "ariaLabel": "2150 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "16,13 €/mois/m²",
+            "ariaLabel": "16,13 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2000"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "6ème étage/7 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "balcony",
+          "value": "2 balcons (Total 17 m²)"
+        },
+        {
+          "icon": "terrace",
+          "value": "Terrasse"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "Orientation",
+                "value": "Exposition: sud, nord"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "6ème étage/7 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Accessible aux personne à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain; 1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "3 chambres"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "2 balcons (Total 17 m²)"
+              },
+              {
+                "icon": "terrace",
+                "value": "Terrasse"
+              },
+              {
+                "value": "Belle vue, Sans vis-à-vis",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "TV par câble",
+                "icon": "tv"
+              }
+            ],
+            "title": "Équipements"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Gardien",
+                "icon": "custodian"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "86e378f2-70b1-4ece-8b23-9cdc8244ac0d",
+          "url": "https://mms.seloger.com/8/6/e/3/86e378f2-70b1-4ece-8b23-9cdc8244ac0d.jpg?ci_seal=25f64724a244733d07f957d413219faafa50279c",
+          "description": "Séjour",
+          "alt": "Appartement à louer 2 150 € 4 pièces 3 chambres 124 m² Étage 6/7 Périer Marseille 8ème 13008",
+          "title": "Séjour",
+          "ariaLabel": "Séjour",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8646222c-8429-45b9-9f5b-73afc867c351",
+          "url": "https://mms.seloger.com/8/6/4/6/8646222c-8429-45b9-9f5b-73afc867c351.jpg?ci_seal=7f6d456eed7e842b31384525b0a78fed436ad02f",
+          "description": "Cuisine",
+          "title": "Cuisine",
+          "ariaLabel": "Cuisine",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ab53f64a-95bc-45f6-bbae-b0d5714c1c5b",
+          "url": "https://mms.seloger.com/a/b/5/3/ab53f64a-95bc-45f6-bbae-b0d5714c1c5b.jpg?ci_seal=f2203154d0b293a74f3559beeea6f69c32881517",
+          "description": "Cuisine",
+          "title": "Cuisine",
+          "ariaLabel": "Cuisine",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0affd703-6d9f-4a14-a94f-77042f25ba14",
+          "url": "https://mms.seloger.com/0/a/f/f/0affd703-6d9f-4a14-a94f-77042f25ba14.jpg?ci_seal=2662769b549e5c313aba35bd3e5960f836f85842",
+          "description": "Vue cuisine",
+          "title": "Vue cuisine",
+          "ariaLabel": "Vue cuisine",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "533cdc63-bb2b-463b-a1ed-e7a6e4212274",
+          "url": "https://mms.seloger.com/5/3/3/c/533cdc63-bb2b-463b-a1ed-e7a6e4212274.jpg?ci_seal=0756405a31453b9fe97cf7308fdcabb2faa7725b",
+          "description": "Salon",
+          "title": "Salon",
+          "ariaLabel": "Salon",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "dbd9dae6-2ab8-457e-a043-3d8fef387fef",
+          "url": "https://mms.seloger.com/d/b/d/9/dbd9dae6-2ab8-457e-a043-3d8fef387fef.jpg?ci_seal=a9a1a3416bbbc3c77b7fffa2a8d1dcd8ddebe5bf",
+          "description": "Séjour",
+          "title": "Séjour",
+          "ariaLabel": "Séjour",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "aef9bc6d-d405-4220-a0e1-8578579d1bb4",
+          "url": "https://mms.seloger.com/a/e/f/9/aef9bc6d-d405-4220-a0e1-8578579d1bb4.jpg?ci_seal=5b5a6d9aa1a9767cd26e19d647e19f72a731dfc4",
+          "description": "Séjour",
+          "title": "Séjour",
+          "ariaLabel": "Séjour",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f9136c71-2030-4e00-8eb9-8020b133f81f",
+          "url": "https://mms.seloger.com/f/9/1/3/f9136c71-2030-4e00-8eb9-8020b133f81f.jpg?ci_seal=b1bb59ff46ff00c0176181a949e6e0a926643bf3",
+          "description": "Vue séjour",
+          "title": "Vue séjour",
+          "ariaLabel": "Vue séjour",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2288c7e0-389f-4d45-8654-5ac5a19953fe",
+          "url": "https://mms.seloger.com/2/2/8/8/2288c7e0-389f-4d45-8654-5ac5a19953fe.jpg?ci_seal=5912bbda22378f2ab2b88f9a9fa37e7b938c1b7b",
+          "description": "Vue séjour",
+          "title": "Vue séjour",
+          "ariaLabel": "Vue séjour",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "aea4c339-02b5-4ca0-98ae-19376bd48fa4",
+          "url": "https://mms.seloger.com/a/e/a/4/aea4c339-02b5-4ca0-98ae-19376bd48fa4.jpg?ci_seal=ec5bd40751fad6ed3e04fab7d43cde482fe25770",
+          "description": "Vue séjour",
+          "title": "Vue séjour",
+          "ariaLabel": "Vue séjour",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b0e5e2b8-f6e2-4f79-b2a2-2b58b1fcaf58",
+          "url": "https://mms.seloger.com/b/0/e/5/b0e5e2b8-f6e2-4f79-b2a2-2b58b1fcaf58.jpg?ci_seal=f54c6cb4f9059fa8b446cd568e13de2cfd014db4",
+          "description": "Terrasse",
+          "title": "Terrasse",
+          "ariaLabel": "Terrasse",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "330e7c39-54e0-4b59-aa3e-a7311dca9399",
+          "url": "https://mms.seloger.com/3/3/0/e/330e7c39-54e0-4b59-aa3e-a7311dca9399.jpg?ci_seal=3eac8304a24ac75fab56ad840dfb4989d1efb36e",
+          "description": "Couloir",
+          "title": "Couloir",
+          "ariaLabel": "Couloir",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "beece79e-9d2a-4bc2-8e1a-a1715bad9946",
+          "url": "https://mms.seloger.com/b/e/e/c/beece79e-9d2a-4bc2-8e1a-a1715bad9946.jpg?ci_seal=d89eeef54a0f35b598aa01e9432d03542813157b",
+          "description": "Chambre 3",
+          "title": "Chambre 3",
+          "ariaLabel": "Chambre 3",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ce7babd0-190a-47fc-aa1a-f2092bf0d44f",
+          "url": "https://mms.seloger.com/c/e/7/b/ce7babd0-190a-47fc-aa1a-f2092bf0d44f.jpg?ci_seal=52e6775dfb874d46e07d389775e5615bc081f525",
+          "description": "Chambre 2",
+          "title": "Chambre 2",
+          "ariaLabel": "Chambre 2",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ee0c9e7b-f36e-430e-b59b-337edabb5e1a",
+          "url": "https://mms.seloger.com/e/e/0/c/ee0c9e7b-f36e-430e-b59b-337edabb5e1a.jpg?ci_seal=4040cc2e416d671a821b58be5165df722d51349b",
+          "description": "Salle d'eau",
+          "title": "Salle d'eau",
+          "ariaLabel": "Salle d'eau",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5e5165a2-586f-4ebb-9124-987916f0dad6",
+          "url": "https://mms.seloger.com/5/e/5/1/5e5165a2-586f-4ebb-9124-987916f0dad6.jpg?ci_seal=27df42ce823b39e39d50c1b38b13fef4ad558fc6",
+          "description": "Salle d'eau",
+          "title": "Salle d'eau",
+          "ariaLabel": "Salle d'eau",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "45731e34-6be7-40aa-9855-ca37c1fcdf6b",
+          "url": "https://mms.seloger.com/4/5/7/3/45731e34-6be7-40aa-9855-ca37c1fcdf6b.jpg?ci_seal=d2ba88a27903096574f0850969253b97371fffb8",
+          "description": "Dressing",
+          "title": "Dressing",
+          "ariaLabel": "Dressing",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c807d8de-6c3c-4b87-841c-45523d21498e",
+          "url": "https://mms.seloger.com/c/8/0/7/c807d8de-6c3c-4b87-841c-45523d21498e.jpg?ci_seal=5516e5ab4b0b95e9125cd3f9424393a11b561683",
+          "description": "Chambre suite parentale",
+          "title": "Chambre suite parentale",
+          "ariaLabel": "Chambre suite parentale",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8a204b1a-89b7-4886-bb78-e0fa6c1c5774",
+          "url": "https://mms.seloger.com/8/a/2/0/8a204b1a-89b7-4886-bb78-e0fa6c1c5774.jpg?ci_seal=27cbe4a36f73397db244415dcef537707b357ec5",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4bd3c45f-d45f-4bf1-8888-b86b2d603cd9",
+          "url": "https://mms.seloger.com/4/b/d/3/4bd3c45f-d45f-4bf1-8888-b86b2d603cd9.jpg?ci_seal=d365c31fa492ec29657a2282463cfe9229c0b18e",
+          "description": "Hall immeuble",
+          "title": "Hall immeuble",
+          "ariaLabel": "Hall immeuble",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4f8a3764-d95c-4e34-bd6a-a6489150268c",
+          "url": "https://mms.seloger.com/4/f/8/a/4f8a3764-d95c-4e34-bd6a-a6489150268c.jpg?ci_seal=da3be5acb7bd4456a2a8f40a7e2dbfb1a44c5aec",
+          "description": "Hall immeuble",
+          "title": "Hall immeuble",
+          "ariaLabel": "Hall immeuble",
+          "classification": {
+            "name": "HOME_OFFICE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "302eb58e-a7b8-4fc3-8566-ad70a9c7fa6e",
+          "url": "https://mms.seloger.com/3/0/2/e/302eb58e-a7b8-4fc3-8566-ad70a9c7fa6e.jpg?ci_seal=fd1fbefc557afb187255851919f0e2a4ccb23074",
+          "description": "Hall immeuble",
+          "title": "Hall immeuble",
+          "ariaLabel": "Hall immeuble",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5a5cd8fc-c9d9-4aaa-8d73-016c24cdbc03",
+          "url": "https://mms.seloger.com/5/a/5/c/5a5cd8fc-c9d9-4aaa-8d73-016c24cdbc03.jpg?ci_seal=03af32e8d61a225e2b8869df65d0eb7a412247a1",
+          "description": "Terrasse salon",
+          "title": "Terrasse salon",
+          "ariaLabel": "Terrasse salon",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d2295af5-8e36-4c5d-ae78-1aa8f295bc34",
+          "url": "https://mms.seloger.com/d/2/2/9/d2295af5-8e36-4c5d-ae78-1aa8f295bc34.jpg?ci_seal=a1896465d519be06857aa5a34781b127d2dbd6b7",
+          "description": "Salle de bain suite parentale",
+          "title": "Salle de bain suite parentale",
+          "ariaLabel": "Salle de bain suite parentale",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "af183fba-a79e-46dd-aa71-aaff9e1bfde6",
+          "url": "https://mms.seloger.com/a/f/1/8/af183fba-a79e-46dd-aa71-aaff9e1bfde6.jpg?ci_seal=605528ea0ef4b391fa8ec3f562342c370c52ccb8",
+          "description": "Chambre 2",
+          "title": "Chambre 2",
+          "ariaLabel": "Chambre 2",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2de77028-e948-410d-a424-f6818561fac7",
+          "url": "https://mms.seloger.com/2/d/e/7/2de77028-e948-410d-a424-f6818561fac7.jpg?ci_seal=61b934d212b9d229a2f170bb0ee564590cc9273e",
+          "description": "Cuisine",
+          "title": "Cuisine",
+          "ariaLabel": "Cuisine",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "42b80f6a-4c12-419f-9dde-7c8f28cce598",
+          "url": "https://mms.seloger.com/4/2/b/8/42b80f6a-4c12-419f-9dde-7c8f28cce598.jpg?ci_seal=e09fe60aa34c11900fc2efffa1d9d67fef685589",
+          "description": "Balcon chambre",
+          "title": "Balcon chambre",
+          "ariaLabel": "Balcon chambre",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255189155",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13008",
+      "city": "Marseille 8ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 19.07,
+        "accuracy": 1,
+        "high": "30,50",
+        "low": "13,18"
+      },
+      "markerPosition": 17,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "16,13",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 4 pièces PERIER",
+      "description": "Dans immeuble semi récent de très bonne tenue, sécurisée avec gardien,\nType 4 au 6° étage avec ascenseur, traversant, composé de deux entrées, une principale, une de service, hall d'entrée, séjour avec balcon terrasse de 17 m2 avec très belle vue dégagée, une cuisine séparée équipée, 3 chambres dont une suite parentale avec salle de bain, une salle d'eau, un wc séparé.\nClimatisation réversible.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "12 jours en ligne",
+      "views": "279 vues",
+      "saves": "11 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25LCCRNGRRKT",
+    "legacyId": "255189155",
+    "brand": "seloger",
+    "agencyId": "RC-024747",
+    "static": {
+      "phoneNumbers": [
+        "+33612217275"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33612217275"
+      ]
+    },
+    "contactCard": {
+      "title": "F.B. IMMOBILIER",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "+33612217275"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "F.B. IMMOBILIER",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "+33612217275"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "F.B. IMMOBILIER",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "+33612217275"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "F.B. IMMOBILIER",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agents-commerciaux/marseille-10eme-arrondissement-13010/agence-44914/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agents-commerciaux/marseille-10eme-arrondissement-13010/agence-44914/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 805021706",
+        "<b>SIRET:</b> 80502170600017"
+      ],
+      "publisherType": "REAL_ESTATE_AGENT",
+      "displayLinks": true,
+      "address": "13010 MARSEILLE 10EME",
+      "phoneNumbers": [
+        "+33612217275"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13008",
+    "av_city": "Marseille 8ème",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25LCCRNGRRKT",
+        "price": 2150,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 8ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13008",
+        "legacy_id": "255189155",
+        "product_type": "standard",
+        "client_id": "RC-024747",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "107594",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "13008",
+        "estate_type": 1,
+        "id": "255189155",
+        "id_duo": 255189155,
+        "id_solo": 255189155,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 3,
+        "nb_rooms": 4,
+        "parent_site": "SL",
+        "photos_nb": 27,
+        "position": 0,
+        "price": 2150,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 124
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13008",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255189155",
+      "prix": 2200,
+      "nb_pieces": 4,
+      "nb_chambres": 3,
+      "surface": 124,
+      "etage": 7,
+      "commodites": [
+        "ascenseur",
+        "balcon",
+        "belleVue",
+        "Chauffage-sol",
+        "Cuisine-équipée",
+        "Cuisine-séparée",
+        "handicape",
+        "parquet",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire",
+        "sansVisAVis",
+        "sud",
+        "terrasse",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-8eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 8ème arrondissement 13008",
+          "hoverLabel": "Appartements à louer Marseille 8ème arrondissement 13008",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T4/F4 124 m² 2150 € Périer Marseille (13008)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T4/F4 124 m² 2150 € Périer Marseille (13008)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-8eme-13/perier/255189155.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-8eme-13/perier/255189155.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T4/F4 124 m² 2150 € Périer Marseille (13008)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T4/F4 124 m² 2150 € Périer Marseille (13008)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/8/6/e/3/86e378f2-70b1-4ece-8b23-9cdc8244ac0d.jpg?ci_seal=25f64724a244733d07f957d413219faafa50279c"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T4/F4 124 m² 2150 € Périer Marseille (13008)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-8eme-13/perier/255189155.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T4/F4 124 m² 2150 € Périer Marseille (13008)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T4/F4 124 m² 2150 € Périer Marseille (13008)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/8/6/e/3/86e378f2-70b1-4ece-8b23-9cdc8244ac0d.jpg?ci_seal=25f64724a244733d07f957d413219faafa50279c"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T4/F4 124 m² 2150 € Périer Marseille (13008)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T4/F4 124 m² 2150 € Périer Marseille (13008)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-8eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 8ème arrondissement 13008",
+          "hoverLabel": "Appartements à louer Marseille 8ème arrondissement 13008",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-8eme-13/perier/255189155.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1077&priceMax=2580&priceMin=1720",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1077",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR8",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25LCCRNGRRKT"
+}

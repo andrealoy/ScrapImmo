@@ -1,0 +1,1249 @@
+{
+  "brand": "seloger",
+  "id": "25EFHGUBY3KC",
+  "metadata": {
+    "legacyId": "253386785",
+    "creationDate": "2025-10-31T14:55:00Z",
+    "updateDate": "2025-12-08T10:35:09.376Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Nice",
+        "zipCode": "06300",
+        "district": "Vieux-Nice"
+      },
+      "isAddressPublished": false,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7.281,
+                43.69969
+              ],
+              [
+                7.28231,
+                43.69725
+              ],
+              [
+                7.28084,
+                43.69884
+              ],
+              [
+                7.28172,
+                43.69698
+              ],
+              [
+                7.2808,
+                43.69675
+              ],
+              [
+                7.27961,
+                43.69688
+              ],
+              [
+                7.27985,
+                43.69813
+              ],
+              [
+                7.27856,
+                43.69654
+              ],
+              [
+                7.27709,
+                43.69656
+              ],
+              [
+                7.2774,
+                43.69779
+              ],
+              [
+                7.2772,
+                43.69821
+              ],
+              [
+                7.27688,
+                43.69819
+              ],
+              [
+                7.27697,
+                43.69867
+              ],
+              [
+                7.27861,
+                43.70024
+              ],
+              [
+                7.27967,
+                43.70071
+              ],
+              [
+                7.28041,
+                43.70048
+              ],
+              [
+                7.281,
+                43.69969
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "description": {
+      "description": "A deux pas de la mer, rue Raoul Bosio, studio meublé et rénové au 4ème étage, composé d'un séjour avec coin cuisine équipée et une salle de douche avec wc. Lumineux et ensoleillé, vue dégagée. A proximité du tramway.\r\nSurface habitable: 15.75m2\r\nLoyer : 690€ par mois charges comprises dont 30€ de provisions pour charges.\r\nDépôt de garantie: 1320€\r\nHonoraires charges locataire: 204.75€TTC\r\ndont 47.25€TTC pour état des lieux.\r\nContact agence :",
+      "texts": [
+        {
+          "text": "A deux pas de la mer, rue Raoul Bosio, studio meublé et rénové au 4ème étage, composé d'un séjour avec coin cuisine équipée et une salle de douche avec wc. Lumineux et ensoleillé, vue dégagée. A proximité du tramway.\r\nSurface habitable: 15.75m2\r\nLoyer : 690€ par mois charges comprises dont 30€ de provisions pour charges.\r\nDépôt de garantie: 1320€\r\nHonoraires charges locataire: 204.75€TTC\r\ndont 47.25€TTC pour état des lieux.\r\nContact agence :"
+        }
+      ],
+      "headline": "STUDIO MEUBLE-VIEUX NICE"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "15,8 m²",
+        "Étage 4/5"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "15,8 m²",
+          "splitValue": "15,8",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 4/5",
+          "splitValue": "Étage",
+          "label": "4/5"
+        }
+      ],
+      "price": {
+        "value": "690 €",
+        "formatted": "690 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "690 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Entretenu"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel: Aérotherme"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "60a47aff-235c-4457-81e1-faebdf67a586",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "4b1d61dc-c5e4-44ba-8067-a830e0e0ea94",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "287 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "9 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "613fbb0d-26e9-4a4f-930d-c64607b7e851",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "9 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "253386785"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "382108"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "660 €/mois Loyer de base",
+          "ariaLabel": "660 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "30 €/mois",
+            "ariaLabel": "30 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "690 €/mois",
+            "ariaLabel": "690 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "41,90 €/mois/m²",
+            "ariaLabel": "41,90 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1320"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "4ème étage/5 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: sud"
+        },
+        {
+          "value": "Belle vue",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "barrier-free",
+          "value": "Non accessible aux personnes à mobilité réduite"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "Orientation",
+                "value": "Exposition: sud"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "4ème étage/5 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "livingRoom",
+                "value": "Salon (total 11,3 m²)"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              },
+              {
+                "value": "Belle vue",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "30b41af2-ecb8-47a7-9b0b-bb136366ec71",
+          "url": "https://mms.seloger.com/3/0/b/4/30b41af2-ecb8-47a7-9b0b-bb136366ec71.jpg?ci_seal=0b82cb24a9b2b00f8263b01cc80a349c127c268a",
+          "alt": "Appartement à louer 690 € 1 pièce 15,8 m² Étage 4/5 Vieux-Nice Nice 06300",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "939778c6-e68c-4ffa-94b4-9569e1aed702",
+          "url": "https://mms.seloger.com/9/3/9/7/939778c6-e68c-4ffa-94b4-9569e1aed702.jpg?ci_seal=d847dcbbef5b763b2a0f572cfd9329a8129a7385",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9550c447-9483-44d7-b060-dcb2838b2a00",
+          "url": "https://mms.seloger.com/9/5/5/0/9550c447-9483-44d7-b060-dcb2838b2a00.jpg?ci_seal=2e589691cc639d9b4f30d9743226e053d22a781c",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0abd64a2-b0e3-44ed-aae0-1961050d24a1",
+          "url": "https://mms.seloger.com/0/a/b/d/0abd64a2-b0e3-44ed-aae0-1961050d24a1.jpg?ci_seal=62a76e52f05d37941e424b5b8988f1d004ff2337",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "085f2527-d89e-4916-9ad5-d99d9e35fc86",
+          "url": "https://mms.seloger.com/0/8/5/f/085f2527-d89e-4916-9ad5-d99d9e35fc86.jpg?ci_seal=b66cf6aea4438026eb69774bb6447ae2c1f90a79",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "37649d09-2c38-426b-8286-7a37709a55e8",
+          "url": "https://mms.seloger.com/3/7/6/4/37649d09-2c38-426b-8286-7a37709a55e8.jpg?ci_seal=102a7057f0a1f80992e0e926fa077f083717378a",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4d3139a4-3b8c-4d6f-b0d2-99e4ec5aab4e",
+          "url": "https://mms.seloger.com/4/d/3/1/4d3139a4-3b8c-4d6f-b0d2-99e4ec5aab4e.jpg?ci_seal=06452a87fcc13d65c118d9dc21981a6da79210a8",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "105c469f-4ad5-4da6-b28c-1bf5971b7189",
+          "url": "https://mms.seloger.com/1/0/5/c/105c469f-4ad5-4da6-b28c-1bf5971b7189.jpg?ci_seal=2eed80dd8761fdfeeb2c73e2afed7815a1fa1654",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a37222ab-61fa-4d16-8e4e-c5629dbde832",
+          "url": "https://mms.seloger.com/a/3/7/2/a37222ab-61fa-4d16-8e4e-c5629dbde832.jpg?ci_seal=9e6cfe4a00057659b9f436fb90461db3b2a166f6",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3f7266a4-147f-41d1-8df7-c12727237d51",
+          "url": "https://mms.seloger.com/3/f/7/2/3f7266a4-147f-41d1-8df7-c12727237d51.jpg?ci_seal=284bdd48483e31ecafd26395c933d2b4f595edac",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "253386785",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "06300",
+      "city": "Nice",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 19.94,
+        "accuracy": 2,
+        "high": "28,86",
+        "low": "14,80"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "41,90",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "STUDIO MEUBLE-VIEUX NICE",
+      "description": "A deux pas de la mer, rue Raoul Bosio, studio meublé et rénové au 4ème étage, composé d'un séjour avec coin cuisine équipée et une salle de douche avec wc. Lumineux et ensoleillé, vue dégagée. A proximité du tramway.\r\nSurface habitable: 15.75m2\r\nLoyer : 690€ par mois charges comprises dont 30€ de provisions pour charges.\r\nDépôt de garantie: 1320€\r\nHonoraires charges locataire: 204.75€TTC\r\ndont 47.25€TTC pour état des lieux.\r\nContact agence :",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 mois en ligne",
+      "views": "999+ vues",
+      "saves": "93 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25EFHGUBY3KC",
+    "legacyId": "253386785",
+    "brand": "seloger",
+    "agencyId": "RC-008239",
+    "static": {
+      "phoneNumbers": [
+        "+33647798589 / 0493800844"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33647798589 / 0493800844"
+      ]
+    },
+    "contactCard": {
+      "title": "GROUPE PALAIS IMMOBILIER LOCATION VIEUX NICE",
+      "subtitle": "Virginie Malbaut",
+      "phoneNumbers": [
+        "+33647798589 / 0493800844"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/1/f/3/5/1f35e532-3fab-4d1d-afeb-7165b654575c.jpg?ci_seal=e5b507521e7819d9b2055f9711e75caa997349b4",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "GROUPE PALAIS IMMOBILIER LOCATION VIEUX NICE",
+        "subtitle": "Virginie Malbaut",
+        "phoneNumbers": [
+          "+33647798589 / 0493800844"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/1/f/3/5/1f35e532-3fab-4d1d-afeb-7165b654575c.jpg?ci_seal=e5b507521e7819d9b2055f9711e75caa997349b4"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Virginie Malbaut",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "GROUPE PALAIS IMMOBILIER LOCATION VIEUX NICE",
+      "subtitle": "GROUPE PALAIS IMMOBILIER LOCATION VIEUX NICE",
+      "phoneNumbers": [
+        "+33647798589 / 0493800844"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "GROUPE PALAIS IMMOBILIER LOCATION VIEUX NICE",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/1/f/3/5/1f35e532-3fab-4d1d-afeb-7165b654575c.jpg?ci_seal=e5b507521e7819d9b2055f9711e75caa997349b4",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/nice-06300/agence-15578/"
+      },
+      "contactCard": {
+        "title": "Virginie Malbaut",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.groupepalaisimmobilier.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/nice-06300/agence-15578/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 391026531"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "21 rue de la Prefecture, 06300 Nice",
+      "phoneNumbers": [
+        "+33647798589 / 0493800844"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "06300",
+    "av_city": "Nizza",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25EFHGUBY3KC",
+        "price": 690,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Nizza",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "province": "Maritime Alps",
+        "zip_code": "06300",
+        "building_state": "WELL_KEPT",
+        "legacy_id": "253386785",
+        "product_type": "standard",
+        "client_id": "RC-008239",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "106981",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "06300",
+        "estate_type": 1,
+        "id": "253386785",
+        "id_duo": 253386785,
+        "id_solo": 253386785,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 10,
+        "position": 0,
+        "price": 690,
+        "product_geolocation": "localisation_city",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 15.75
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "06088",
+      "cp": "06300",
+      "geodp": "06",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "253386785",
+      "prix": 700,
+      "nb_pieces": 1,
+      "surface": 15.75,
+      "etage": 5,
+      "commodites": [
+        "belleVue",
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "Cuisine-américaine",
+        "SalleDEau-douche",
+        "Sejour",
+        "sud"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/06/bien-appartement/",
+          "label": "Appartements à louer Alpes-Maritimes 06",
+          "hoverLabel": "Appartements à louer Alpes-Maritimes 06",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-nice-06/bien-appartement/",
+          "label": "Appartements à louer Nice 06000",
+          "hoverLabel": "Appartements à louer Nice 06000",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 15.75 m² 690 € Vieux-Nice Nice (06300)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 15.75 m² 690 € Vieux-Nice Nice (06300)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/nice-06/vieux-nice/253386785.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/nice-06/vieux-nice/253386785.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 15.75 m² 690 € Vieux-Nice Nice (06300)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 15.75 m² 690 € Vieux-Nice Nice (06300)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/3/0/b/4/30b41af2-ecb8-47a7-9b0b-bb136366ec71.jpg?ci_seal=0b82cb24a9b2b00f8263b01cc80a349c127c268a"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 15.75 m² 690 € Vieux-Nice Nice (06300)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/nice-06/vieux-nice/253386785.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 15.75 m² 690 € Vieux-Nice Nice (06300)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 15.75 m² 690 € Vieux-Nice Nice (06300)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/3/0/b/4/30b41af2-ecb8-47a7-9b0b-bb136366ec71.jpg?ci_seal=0b82cb24a9b2b00f8263b01cc80a349c127c268a"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 15.75 m² 690 € Vieux-Nice Nice (06300)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 15.75 m² 690 € Vieux-Nice Nice (06300)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/06/bien-appartement/",
+          "label": "Appartements à louer Alpes-Maritimes 06",
+          "hoverLabel": "Appartements à louer Alpes-Maritimes 06",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-nice-06/bien-appartement/",
+          "label": "Appartements à louer Nice 06000",
+          "hoverLabel": "Appartements à louer Nice 06000",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/nice-06/vieux-nice/253386785.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#b01010",
+    "textColor": "light",
+    "providerName": "GROUPE PALAIS IMMOBILIER LOCATION VIEUX NICE",
+    "logo": {
+      "src": "https://mms.seloger.com/1/f/3/5/1f35e532-3fab-4d1d-afeb-7165b654575c.jpg?ci_seal=e5b507521e7819d9b2055f9711e75caa997349b4",
+      "alt": "logo-RC-008239",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/b/4/1/5/b4158ad9-b0fe-4052-9a27-a2c7ff658307.png?ci_eqs=&ci_seal=aec228892b3cce67b0dc5e069b2ec63b3f817061",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/nice-06300/agence-15578/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/b/4/1/5/b4158ad9-b0fe-4052-9a27-a2c7ff658307.png?ci_eqs=&ci_seal=aec228892b3cce67b0dc5e069b2ec63b3f817061",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/nice-06300/agence-15578/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/c/a/b/7/cab7e1ec-d43b-4f77-876d-36160bd946f3.png?ci_eqs=&ci_seal=80d11a23b419d37d5a14e537b91149f8f4f1e48f",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/nice-06300/agence-15578/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR463&priceMax=828&priceMin=552",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR463",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD08FR2038",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR6",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25EFHGUBY3KC"
+}

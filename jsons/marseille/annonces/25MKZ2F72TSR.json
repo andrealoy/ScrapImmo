@@ -1,0 +1,1094 @@
+{
+  "brand": "seloger",
+  "id": "25MKZ2F72TSR",
+  "metadata": {
+    "legacyId": "256146621",
+    "creationDate": "2025-12-09T12:40:00Z",
+    "updateDate": "2025-12-09T12:46:07.216Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 7ème",
+        "zipCode": "13007",
+        "district": "Le Roucas Blanc"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.366058,
+          43.271052
+        ]
+      }
+    },
+    "description": {
+      "description": "T3 MEUBLE ROUCAS BLANC VUE MER + TERRASSE + PARKING - RARE à la location- Dans secteur recherché, au 1er étage d'une villa, T3 meublé de 81.24 m2 avec terrasses 31 m2 vue mer et parking. Appartement rénové par décoratrice d'intérieur, prestations luxe et entièrement équipé, ce T3 peut être loué pour une période entre 4 mois et un an. Loyer tout inclus ( eau, chauffage, climatisation, électricité). \n Loyer de 3 500,00 euros par mois charges comprises Les honoraires charge locataire sont de 1 056,00 euros ( soit 13,00 euros/m² ) dont 244,00 euros pour état des lieux ( soit 3,00 euros/m² ). \nDPE ANCIENNE VERSION. Montant estimé des dépenses annuelles d'énergie pour un usage standard : 1 105 euros.",
+      "texts": [
+        {
+          "text": "T3 MEUBLE ROUCAS BLANC VUE MER + TERRASSE + PARKING - RARE à la location- Dans secteur recherché, au 1er étage d'une villa, T3 meublé de 81.24 m2 avec terrasses 31 m2 vue mer et parking. Appartement rénové par décoratrice d'intérieur, prestations luxe et entièrement équipé, ce T3 peut être loué pour une période entre 4 mois et un an. Loyer tout inclus ( eau, chauffage, climatisation, électricité). \n Loyer de 3 500,00 euros par mois charges comprises Les honoraires charge locataire sont de 1 056,00 euros ( soit 13,00 euros/m² ) dont 244,00 euros pour état des lieux ( soit 3,00 euros/m² ). \nDPE ANCIENNE VERSION. Montant estimé des dépenses annuelles d'énergie pour un usage standard : 1 105 euros."
+        }
+      ],
+      "headline": "Appartement"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "81,2 m²",
+        "1er étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "81,2 m²",
+          "splitValue": "81,2",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1er étage",
+          "splitValue": "1er",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "3 500 €",
+        "formatted": "3 500 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "3500 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "28524ab6-b8c8-4d66-9d49-d8b6c91006a6",
+          "scales": [
+            {
+              "key": "214ebcd5-8885-4f72-bcb1-218bf5c06a0b",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "133 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "4 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "d1ebee5d-448f-4549-894b-6843d301252f",
+              "efficiencyClass": {
+                "index": 0
+              },
+              "values": [
+                {
+                  "value": "4 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256146621"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "GES12140002-939"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "3 500 €/mois Loyer charges comprises",
+          "ariaLabel": "3500 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Prix ​​au m²",
+            "value": "43,08 €/mois/m²",
+            "ariaLabel": "43,08 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "7000.0"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 10/01/2026"
+        },
+        {
+          "icon": "floors",
+          "value": "1er étage"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "terrace",
+          "value": "Terrasse"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        },
+        {
+          "icon": "barrier-free",
+          "value": "Non accessible aux personnes à mobilité réduite"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "38efad5c-44cc-4062-95cd-6843314c1ed1",
+          "url": "https://mms.seloger.com/3/8/e/f/38efad5c-44cc-4062-95cd-6843314c1ed1.jpg?ci_seal=96303ff2e6a3141cb6be800398aad999dc67e8be",
+          "alt": "Appartement à louer 3 500 € 3 pièces 2 chambres 81,2 m² 1er étage Le Roucas Blanc Marseille 7ème 13007",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "12ec1749-8995-4e71-a56d-cf1ce11a9da8",
+          "url": "https://mms.seloger.com/1/2/e/c/12ec1749-8995-4e71-a56d-cf1ce11a9da8.jpg?ci_seal=dec6cb6b49f9e7b3d9ec52b92347981ac1277660",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "941a0415-d827-4969-8de4-ef6ab954b555",
+          "url": "https://mms.seloger.com/9/4/1/a/941a0415-d827-4969-8de4-ef6ab954b555.jpg?ci_seal=bc96ce233cf6395e314ad4c66ec43d0127179d8e",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d152e2be-242a-42a7-9078-613c12d6e888",
+          "url": "https://mms.seloger.com/d/1/5/2/d152e2be-242a-42a7-9078-613c12d6e888.jpg?ci_seal=498c0dc627d3a7bf428abc0bc3dd64c137b43686",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "07bf3253-2196-4b39-8635-b1b59f6d59cf",
+          "url": "https://mms.seloger.com/0/7/b/f/07bf3253-2196-4b39-8635-b1b59f6d59cf.jpg?ci_seal=4bf5518d29579923ca63f4bf259c1c39eff78bc1",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3e3a7f16-c0ae-48b7-a784-aed98e007538",
+          "url": "https://mms.seloger.com/3/e/3/a/3e3a7f16-c0ae-48b7-a784-aed98e007538.jpg?ci_seal=6cce44231769ae94dd7efdcf361ccd71b40d108e",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5713751a-7011-4f7d-9f0c-9b0da4c14c79",
+          "url": "https://mms.seloger.com/5/7/1/3/5713751a-7011-4f7d-9f0c-9b0da4c14c79.jpg?ci_seal=60397dd0ae41c99d1151bec51e6bc89d930b7654",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "be34a828-f12b-42ec-9c72-1d861fe58d4d",
+          "url": "https://mms.seloger.com/b/e/3/4/be34a828-f12b-42ec-9c72-1d861fe58d4d.jpg?ci_seal=6db58ade990b879e8ab3fcb7b5e32f7d980d93c8",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e6178d82-774a-45da-a6df-680cdbac9627",
+          "url": "https://mms.seloger.com/e/6/1/7/e6178d82-774a-45da-a6df-680cdbac9627.jpg?ci_seal=9d2c1d769a039805ec8b578ba2d306962cd93311",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "71e28430-c933-4e63-af34-ce044233f748",
+          "url": "https://mms.seloger.com/7/1/e/2/71e28430-c933-4e63-af34-ce044233f748.jpg?ci_seal=12a5bae3c46a4d68e1a66b7e34fa4e901481317d",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b0dc01b5-1fdb-4203-a7c4-234be0edcd35",
+          "url": "https://mms.seloger.com/b/0/d/c/b0dc01b5-1fdb-4203-a7c4-234be0edcd35.jpg?ci_seal=ebbf18f9ca71e589d19a0c5196e655609f7d0983",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "671e412c-07ac-4b2a-a46d-78abbf82ee6c",
+          "url": "https://mms.seloger.com/6/7/1/e/671e412c-07ac-4b2a-a46d-78abbf82ee6c.jpg?ci_seal=5b4d33d1e4d8efc42ccb45e5734292ad2ce95386",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256146621",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13007",
+      "city": "Marseille 7ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.28,
+        "accuracy": 1,
+        "high": "24,25",
+        "low": "12"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "43,08",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement",
+      "description": "T3 MEUBLE ROUCAS BLANC VUE MER + TERRASSE + PARKING - RARE à la location- Dans secteur recherché, au 1er étage d'une villa, T3 meublé de 81.24 m2 avec terrasses 31 m2 vue mer et parking. Appartement rénové par décoratrice d'intérieur, prestations luxe et entièrement équipé, ce T3 peut être loué pour une période entre 4 mois et un an. Loyer tout inclus ( eau, chauffage, climatisation, électricité). \n Loyer de 3 500,00 euros par mois charges comprises Les honoraires charge locataire sont de 1 056,00 euros ( soit 13,00 euros/m² ) dont 244,00 euros pour état des lieux ( soit 3,00 euros/m² ). \nDPE ANCIENNE VERSION. Montant estimé des dépenses annuelles d'énergie pour un usage standard : 1 105 euros.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "9 vues",
+      "saves": "1 favori"
+    }
+  },
+  "contactSections": {
+    "id": "25MKZ2F72TSR",
+    "legacyId": "256146621",
+    "brand": "seloger",
+    "agencyId": "RC-077642",
+    "static": {
+      "phoneNumbers": [
+        "0491255757"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0491255757"
+      ]
+    },
+    "contactCard": {
+      "title": "PRADO IMMOBILIER",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0491255757"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/0/b/e/6/0be6b057-7146-4cbf-abb2-59ca94bf4b90.jpg?ci_seal=ecd1e8cd81b8aefeacc1a47d83c296d73d2ff8d5",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "PRADO IMMOBILIER",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "0491255757"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/0/b/e/6/0be6b057-7146-4cbf-abb2-59ca94bf4b90.jpg?ci_seal=ecd1e8cd81b8aefeacc1a47d83c296d73d2ff8d5"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "PRADO IMMOBILIER",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0491255757"
+      ],
+      "logoUrl": "https://mms.seloger.com/0/b/e/6/0be6b057-7146-4cbf-abb2-59ca94bf4b90.jpg?ci_seal=ecd1e8cd81b8aefeacc1a47d83c296d73d2ff8d5",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "PRADO IMMOBILIER",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/0/b/e/6/0be6b057-7146-4cbf-abb2-59ca94bf4b90.jpg?ci_seal=ecd1e8cd81b8aefeacc1a47d83c296d73d2ff8d5",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-24188/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "website": "http://www.pradoimmobilier.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-24188/",
+      "imprintUrl": null,
+      "feeUrl": "http://www.prado-immobilier.com/i/redac/honoraires?honofor=1",
+      "agencyLegalInformations": [
+        "Société à responsabilité limitée à associé unique SARL au capital de 38 112 €",
+        "Carte professionnelle A06-866 délivrée par la Préfecture de BDR",
+        "Garantie financière GALIAN pour un montant de 120 000 €",
+        "<b>RCS:</b> 302182746",
+        "<b>SIRET:</b> 30218274600040"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "58 boulevard Edouard Herriot, 13008 Marseille",
+      "phoneNumbers": [
+        "0491255757"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13007",
+    "av_city": "Marseille 7ème",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25MKZ2F72TSR",
+        "price": 3500,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 7ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13007",
+        "legacy_id": "256146621",
+        "product_type": "standard",
+        "client_id": "RC-077642",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "54554",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "13007",
+        "estate_type": 1,
+        "id": "256146621",
+        "id_duo": 256146621,
+        "id_solo": 256146621,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 12,
+        "position": 0,
+        "price": 3500,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 81.24
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13007",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256146621",
+      "prix": 3500,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 81.24,
+      "etage": 0,
+      "commodites": [
+        "terrasse"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-7eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 7ème arrondissement 13007",
+          "hoverLabel": "Appartements à louer Marseille 7ème arrondissement 13007",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 81.24 m² 3500 € Le Roucas Blanc Marseille (13007)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 81.24 m² 3500 € Le Roucas Blanc Marseille (13007)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-7eme-13/bompard/256146621.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-7eme-13/bompard/256146621.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 81.24 m² 3500 € Le Roucas Blanc Marseille (13007)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 81.24 m² 3500 € Le Roucas Blanc Marseille (13007)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/3/8/e/f/38efad5c-44cc-4062-95cd-6843314c1ed1.jpg?ci_seal=96303ff2e6a3141cb6be800398aad999dc67e8be"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 81.24 m² 3500 € Le Roucas Blanc Marseille (13007)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-7eme-13/bompard/256146621.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 81.24 m² 3500 € Le Roucas Blanc Marseille (13007)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 81.24 m² 3500 € Le Roucas Blanc Marseille (13007)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/3/8/e/f/38efad5c-44cc-4062-95cd-6843314c1ed1.jpg?ci_seal=96303ff2e6a3141cb6be800398aad999dc67e8be"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 81.24 m² 3500 € Le Roucas Blanc Marseille (13007)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 81.24 m² 3500 € Le Roucas Blanc Marseille (13007)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-7eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 7ème arrondissement 13007",
+          "hoverLabel": "Appartements à louer Marseille 7ème arrondissement 13007",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-7eme-13/bompard/256146621.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#65B6EC",
+    "textColor": "dark",
+    "providerName": "PRADO IMMOBILIER",
+    "logo": {
+      "src": "https://mms.seloger.com/0/b/e/6/0be6b057-7146-4cbf-abb2-59ca94bf4b90.jpg?ci_seal=ecd1e8cd81b8aefeacc1a47d83c296d73d2ff8d5",
+      "alt": "logo-RC-077642",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/a/0/8/3/a083eeaa-5109-4f4e-91ee-984d0b751a4e.png?ci_eqs=&ci_seal=80d2e2fef6d73172e85872f57ec8e22069f3e3bd",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-24188/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/a/0/8/3/a083eeaa-5109-4f4e-91ee-984d0b751a4e.png?ci_eqs=&ci_seal=80d2e2fef6d73172e85872f57ec8e22069f3e3bd",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-24188/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/f/4/7/3/f473c2d9-32e7-475c-8b50-4b8443844b1b.png?ci_eqs=&ci_seal=c01b7d716c12852452ab4fd01c6f1a47fcaf49c2",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-24188/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1071&priceMax=4200&priceMin=2800",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1071",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR7",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25MKZ2F72TSR"
+}

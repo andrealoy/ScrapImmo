@@ -1,0 +1,1116 @@
+{
+  "brand": "seloger",
+  "id": "25DT3U4WCS4M",
+  "metadata": {
+    "legacyId": "255864149",
+    "creationDate": "2025-12-04T23:04:00Z",
+    "updateDate": "2025-12-08T09:40:20.455Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Lyon 1er",
+        "zipCode": "69001",
+        "district": "Pentes de la croix-rousse"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.834931,
+          45.768471
+        ]
+      }
+    },
+    "description": {
+      "description": "A SAISIR ! IDEALEMENT SITUE - APPARTEMENT EN BON ETAT,\r\nGrande entrée, séjour avec alcôve PARQUET, cuisine avec placards, chambre avec alcôve PARQUET, un 2ème chambre, salle de bains et wc. Interphone. Production eau chaude et chauff ind electrique.\r\n\r\nZone soumise à encadrement des loyers :\r\nLoyer de base (loyer hors charges) : 846.19 € /mois\r\nLoyer de référence majoré (loyer de base à ne pas dépasser) : 1012.66  € / mois\r\nComplément de loyer : 0 € / mois\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  georisques. gouv. fr",
+      "texts": [
+        {
+          "text": "A SAISIR ! IDEALEMENT SITUE - APPARTEMENT EN BON ETAT,\r\nGrande entrée, séjour avec alcôve PARQUET, cuisine avec placards, chambre avec alcôve PARQUET, un 2ème chambre, salle de bains et wc. Interphone. Production eau chaude et chauff ind electrique.\r\n\r\nZone soumise à encadrement des loyers :\r\nLoyer de base (loyer hors charges) : 846.19 € /mois\r\nLoyer de référence majoré (loyer de base à ne pas dépasser) : 1012.66  € / mois\r\nComplément de loyer : 0 € / mois\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  georisques. gouv. fr"
+        }
+      ],
+      "headline": "T3"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "1 chambre",
+        "69 m²",
+        "1er étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "69 m²",
+          "splitValue": "69",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1er étage",
+          "splitValue": "1er",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "950 €",
+        "formatted": "950 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "950 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "d777d157-ec32-4ce8-92eb-e6c47502b7de",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 980 et 1370 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 980 et 1370 € par an. Date d'indexation du prix des énergies non communiquée."
+            }
+          ],
+          "scales": [
+            {
+              "key": "e5e021db-31dd-4ed0-ab85-5aa1aa88bd3e",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "228 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "34620219-de56-49f4-8bdf-2da65e44be83",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255864149"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "6549"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "950 €/mois Loyer charges comprises",
+          "ariaLabel": "950 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "40 €/mois",
+            "ariaLabel": "40 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "13,77 €/mois/m²",
+            "ariaLabel": "13,77 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "910"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 05/01/2026"
+        },
+        {
+          "icon": "floors",
+          "value": "1er étage"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "barrier-free",
+          "value": "Non accessible aux personnes à mobilité réduite"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "availability",
+                "value": "disponible à partir du 05/01/2026"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "1er étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "df94e36a-eb2e-4f00-929d-ac2d46e76ad8",
+          "url": "https://mms.seloger.com/d/f/9/4/df94e36a-eb2e-4f00-929d-ac2d46e76ad8.jpg?ci_seal=2491d538c887c67fb61c2c267bf0ec41f4399cb2",
+          "alt": "Appartement à louer 950 € 3 pièces 1 chambre 69 m² 1er étage Pentes de la croix-rousse Lyon 1er 69001",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "baa40c48-a9c2-4892-b4c3-68336a97718f",
+          "url": "https://mms.seloger.com/b/a/a/4/baa40c48-a9c2-4892-b4c3-68336a97718f.jpg?ci_seal=436c6209e21afa0d7995df0a5976d9a56deba2c5",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "931765f2-63d6-42cc-a030-3be86ec9f732",
+          "url": "https://mms.seloger.com/9/3/1/7/931765f2-63d6-42cc-a030-3be86ec9f732.jpg?ci_seal=f8d3659ad0a420366552c0b0f883f5058b5b6067",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9d7c40ce-0049-4930-a2d3-4d6cb7ce23ed",
+          "url": "https://mms.seloger.com/9/d/7/c/9d7c40ce-0049-4930-a2d3-4d6cb7ce23ed.jpg?ci_seal=048233dc0cf5e266b43b1d38b097f2ded8c89c71",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "22d2272c-3ab1-4e6c-86b1-0f240e0f5bc6",
+          "url": "https://mms.seloger.com/2/2/d/2/22d2272c-3ab1-4e6c-86b1-0f240e0f5bc6.jpg?ci_seal=89fd67e7f1f8c03211ebfde5db9808d7765f4eaa",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3ab5ea0f-f59a-4241-b556-d4eacfd46f60",
+          "url": "https://mms.seloger.com/3/a/b/5/3ab5ea0f-f59a-4241-b556-d4eacfd46f60.jpg?ci_seal=aba580035b47a68e8e7fb8e3a1ed36d8c701966c",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "08cff794-d502-4c9d-b405-1740d741901f",
+          "url": "https://mms.seloger.com/0/8/c/f/08cff794-d502-4c9d-b405-1740d741901f.jpg?ci_seal=e2ebb150815ca2a177cd5ff055160c360d31bcd7",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3fb9ca8b-acf7-4f06-a0ca-f93c07498991",
+          "url": "https://mms.seloger.com/3/f/b/9/3fb9ca8b-acf7-4f06-a0ca-f93c07498991.jpg?ci_seal=9a4b645f4a0766783f34d5abdf834da2b476359a",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "be42ea49-c2a8-4e37-89ee-22f15c9ab3b1",
+          "url": "https://mms.seloger.com/b/e/4/2/be42ea49-c2a8-4e37-89ee-22f15c9ab3b1.jpg?ci_seal=8d7aea048d52464f142f072a8c893bc8d0e28380",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255864149",
+      "federalStateGeoId": "AD04FR31",
+      "zip": "69001",
+      "city": "Lyon 1er",
+      "country": "FRA",
+      "region": "Auvergne-Rhône-Alpes",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 17.24,
+        "accuracy": 4,
+        "high": "26,76",
+        "low": "12,73"
+      },
+      "markerPosition": 7,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "13,77",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "T3",
+      "description": "A SAISIR ! IDEALEMENT SITUE - APPARTEMENT EN BON ETAT,\r\nGrande entrée, séjour avec alcôve PARQUET, cuisine avec placards, chambre avec alcôve PARQUET, un 2ème chambre, salle de bains et wc. Interphone. Production eau chaude et chauff ind electrique.\r\n\r\nZone soumise à encadrement des loyers :\r\nLoyer de base (loyer hors charges) : 846.19 € /mois\r\nLoyer de référence majoré (loyer de base à ne pas dépasser) : 1012.66  € / mois\r\nComplément de loyer : 0 € / mois\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  georisques. gouv. fr",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "5 jours en ligne",
+      "views": "674 vues",
+      "saves": "44 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25DT3U4WCS4M",
+    "legacyId": "255864149",
+    "brand": "seloger",
+    "agencyId": "RC-075894",
+    "static": {
+      "phoneNumbers": [
+        "04 78 93 00 16"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "04 78 93 00 16"
+      ]
+    },
+    "contactCard": {
+      "title": "RÉGIE BARI",
+      "subtitle": "Bari",
+      "phoneNumbers": [
+        "04 78 93 00 16"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/c/e/d/3/ced39722-5ce0-45a8-9178-d08a3f0bcbef.jpg?ci_seal=39ec57f60af90b08561795184411264d80a70696",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "RÉGIE BARI",
+        "subtitle": "Bari",
+        "phoneNumbers": [
+          "04 78 93 00 16"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/c/e/d/3/ced39722-5ce0-45a8-9178-d08a3f0bcbef.jpg?ci_seal=39ec57f60af90b08561795184411264d80a70696"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Bari",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "RÉGIE BARI",
+      "subtitle": "RÉGIE BARI",
+      "phoneNumbers": [
+        "04 78 93 00 16"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "RÉGIE BARI",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/c/e/d/3/ced39722-5ce0-45a8-9178-d08a3f0bcbef.jpg?ci_seal=39ec57f60af90b08561795184411264d80a70696",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-6eme-arrondissement-69006/agence-259208/"
+      },
+      "contactCard": {
+        "title": "Bari",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.bari.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-6eme-arrondissement-69006/agence-259208/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 303847370",
+        "<b>SIRET:</b> 30384737000028"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "14 RUE TRONCHET, 69006 LYON",
+      "phoneNumbers": [
+        "04 78 93 00 16"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "69001",
+    "av_city": "Lyon",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25DT3U4WCS4M",
+        "price": 950,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Lyon",
+        "region": "Auvergne-Rhône-Alpes",
+        "province": "Rhône",
+        "zip_code": "69001",
+        "legacy_id": "255864149",
+        "product_type": "standard",
+        "client_id": "RC-075894",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "500645",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "69001",
+        "estate_type": 1,
+        "id": "255864149",
+        "id_duo": 255864149,
+        "id_solo": 255864149,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 9,
+        "position": 0,
+        "price": 950,
+        "product_geolocation": "localisation_district",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 69
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "69123",
+      "cp": "69001",
+      "geodp": "69",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255864149",
+      "prix": 1000,
+      "nb_pieces": 3,
+      "nb_chambres": 1,
+      "surface": 69,
+      "commodites": [
+        "parquet",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-1er-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 1er arrondissement 69001",
+          "hoverLabel": "Appartements à louer Lyon 1er arrondissement 69001",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 69 m² 950 € Terreaux Lyon (69001)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 69 m² 950 € Terreaux Lyon (69001)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/lyon-1er-69/terreaux/255864149.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-1er-69/terreaux/255864149.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 69 m² 950 € Terreaux Lyon (69001)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 69 m² 950 € Terreaux Lyon (69001)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/d/f/9/4/df94e36a-eb2e-4f00-929d-ac2d46e76ad8.jpg?ci_seal=2491d538c887c67fb61c2c267bf0ec41f4399cb2"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 69 m² 950 € Terreaux Lyon (69001)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-1er-69/terreaux/255864149.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 69 m² 950 € Terreaux Lyon (69001)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 69 m² 950 € Terreaux Lyon (69001)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/d/f/9/4/df94e36a-eb2e-4f00-929d-ac2d46e76ad8.jpg?ci_seal=2491d538c887c67fb61c2c267bf0ec41f4399cb2"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 69 m² 950 € Terreaux Lyon (69001)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 69 m² 950 € Terreaux Lyon (69001)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-1er-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 1er arrondissement 69001",
+          "hoverLabel": "Appartements à louer Lyon 1er arrondissement 69001",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/lyon-1er-69/terreaux/255864149.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR9339&priceMax=1140&priceMin=760",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR9339",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR17",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR28808",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR70",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR31",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25DT3U4WCS4M"
+}

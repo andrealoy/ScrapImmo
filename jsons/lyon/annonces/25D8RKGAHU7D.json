@@ -1,0 +1,1247 @@
+{
+  "brand": "seloger",
+  "id": "25D8RKGAHU7D",
+  "metadata": {
+    "legacyId": "250531787",
+    "creationDate": "2025-09-22T10:50:00Z",
+    "updateDate": "2025-12-04T12:11:07.806Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Lyon 7ème",
+        "zipCode": "69007",
+        "district": "Girondins"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.836890999999998,
+          45.735992999999915
+        ]
+      }
+    },
+    "description": {
+      "description": "LYON 7ème 61, rue Clément Marot - Métro Jean Jaurès, T3 Meublé en Rez De Jardin composé d’un séjour avec cuisine ouverte entièrement équipée, de 2 chambres de 10 et 14m², Salle de bains et WC séparés. Jardin de 38m² avec terrasse. Garage privatif en sous-sol. Eau froide, Eau chaude et Chauffage inclus dans les charges. Loyer + charges : 1350€ Caution : 2.440€ Honoraires : 824,20€ TTC Disponibilité : 5 janvier 2026 Encadrement des loyers de la métropole de LYON : Loyer de référence : 868,58€ Loyer de référence majoré : 1.039,76€ Complément de loyer de 180,24€ pour garage fermé et jardin privatif",
+      "texts": [
+        {
+          "text": "LYON 7ème 61, rue Clément Marot - Métro Jean Jaurès, T3 Meublé en Rez De Jardin composé d’un séjour avec cuisine ouverte entièrement équipée, de 2 chambres de 10 et 14m², Salle de bains et WC séparés. Jardin de 38m² avec terrasse. Garage privatif en sous-sol. Eau froide, Eau chaude et Chauffage inclus dans les charges. Loyer + charges : 1350€ Caution : 2.440€ Honoraires : 824,20€ TTC Disponibilité : 5 janvier 2026 Encadrement des loyers de la métropole de LYON : Loyer de référence : 868,58€ Loyer de référence majoré : 1.039,76€ Complément de loyer de 180,24€ pour garage fermé et jardin privatif"
+        }
+      ],
+      "headline": "Appartement 3 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "63 m²",
+        "RDC/6"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "63 m²",
+          "splitValue": "63",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "RDC/6",
+          "splitValue": "RDC/6",
+          "label": ""
+        }
+      ],
+      "price": {
+        "value": "1 350 €",
+        "formatted": "1 350 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "1350 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "2013"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Remis à neuf"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "8dab0878-9a5a-4383-b2db-4ea13d39ad08",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 670 et 940 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 670 et 940 € par an. Prix moyens des énergies indexés au 31/12/2022 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "962af464-a741-424b-aa1c-3a3bd99afc23",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "130 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "121 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "26 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est 121 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "b0f4a03a-0f5f-4551-a2c2-4c25cd0a95e2",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "26 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est 121 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "250531787"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "G62"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 039,76 €/mois Loyer de base",
+          "ariaLabel": "1039.76 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "130 €/mois",
+            "ariaLabel": "130 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 350 €/mois",
+            "ariaLabel": "1350 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "16,50 €/mois/m²",
+            "ariaLabel": "16,50 euros par mètre carré"
+          },
+          {
+            "label": "Prix du parking",
+            "value": "inclus dans le loyer"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2440"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Rez-de-chaussée/6 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Box de stationnement"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "garden",
+          "value": "Jardin"
+        },
+        {
+          "icon": "terrace",
+          "value": "Terrasse"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "Rez-de-chaussée/6 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "livingRoom",
+                "value": "Salon (total 32 m²)"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "terrace",
+                "value": "Terrasse"
+              },
+              {
+                "icon": "garden",
+                "value": "Jardin"
+              },
+              {
+                "value": "Sans vis-à-vis",
+                "icon": "with-view"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "Box de stationnement"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "3528d3b6-25db-4bd0-9520-93fae1e38430",
+          "url": "https://mms.seloger.com/3/5/2/8/3528d3b6-25db-4bd0-9520-93fae1e38430.jpg?ci_seal=195412f5b54c9f88d1829f30e3a429fc2c43a87d",
+          "alt": "Appartement à louer 1 350 € 3 pièces 2 chambres 63 m² RDC/6 Girondins Lyon 7ème 69007",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8e3d6f00-875f-4c22-a9f4-be4e8390472d",
+          "url": "https://mms.seloger.com/8/e/3/d/8e3d6f00-875f-4c22-a9f4-be4e8390472d.jpg?ci_seal=76877a97ebbf157933423d0f3a4d468df75ee86c",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "17b444a2-071a-4a9f-befa-a238cba3bb1f",
+          "url": "https://mms.seloger.com/1/7/b/4/17b444a2-071a-4a9f-befa-a238cba3bb1f.jpg?ci_seal=c59ca4f15e7f53cabee19002220cfc6d49e9d20b",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "98460c85-5c26-42c7-a2d3-d4222b7f47c5",
+          "url": "https://mms.seloger.com/9/8/4/6/98460c85-5c26-42c7-a2d3-d4222b7f47c5.jpg?ci_seal=3be9e94adaccd8ab443fd3b0c4aa6d15d8d795bb",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "935522ce-c8bf-458b-8329-9ca337541753",
+          "url": "https://mms.seloger.com/9/3/5/5/935522ce-c8bf-458b-8329-9ca337541753.jpg?ci_seal=bdcca4776c4276ed4065bb4dfbe830e74c123f74",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a7df369f-af77-4310-affd-5862dc635554",
+          "url": "https://mms.seloger.com/a/7/d/f/a7df369f-af77-4310-affd-5862dc635554.jpg?ci_seal=3f804166e909fc58797a793990c3ba84ad5905d8",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6ed6b527-dcc3-4983-8dd8-2075018d5c50",
+          "url": "https://mms.seloger.com/6/e/d/6/6ed6b527-dcc3-4983-8dd8-2075018d5c50.jpg?ci_seal=c8361d37cb4f3dfb689ca5fc43a4bb55b09a141a",
+          "classification": {
+            "name": "HOME_OFFICE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7cdd91d7-ca49-4406-983a-38e484a23a7b",
+          "url": "https://mms.seloger.com/7/c/d/d/7cdd91d7-ca49-4406-983a-38e484a23a7b.jpg?ci_seal=55b590a4a2a9a80e5f836d08adc2abba179796f8",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0f775df6-c2f2-4bf1-bd9f-4bb7600dd7f1",
+          "url": "https://mms.seloger.com/0/f/7/7/0f775df6-c2f2-4bf1-bd9f-4bb7600dd7f1.jpg?ci_seal=07bd519c8668e7164243615a8a19ab8599584b75",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "542242a2-3a31-48e6-976d-d7567a1cd7cc",
+          "url": "https://mms.seloger.com/5/4/2/2/542242a2-3a31-48e6-976d-d7567a1cd7cc.jpg?ci_seal=da9be00e1d882cf1e49fda5ab493f1b3f87c3c0e",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e5119898-c556-4ef7-a127-ed08ba2b41ff",
+          "url": "https://mms.seloger.com/e/5/1/1/e5119898-c556-4ef7-a127-ed08ba2b41ff.jpg?ci_seal=e347d1d16d3a11bc03f698070ab32241b7e6266c",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "dedcb935-f176-42f8-b4dd-81c473eec7fd",
+          "url": "https://mms.seloger.com/d/e/d/c/dedcb935-f176-42f8-b4dd-81c473eec7fd.jpg?ci_seal=4e9a79977ac83731d260b57ab858c94f1a388bb1",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "88808c66-327c-4915-9f14-11a156f579d0",
+          "url": "https://mms.seloger.com/8/8/8/0/88808c66-327c-4915-9f14-11a156f579d0.jpg?ci_seal=ed0645b8fe97f66857a389b328a677923cc45c29",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1d37610b-2357-484e-82db-3a66c712249b",
+          "url": "https://mms.seloger.com/1/d/3/7/1d37610b-2357-484e-82db-3a66c712249b.jpg?ci_seal=abf0d0081e2a4f3e476fccddbf0b9965b4cd69fe",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "833e6e1b-bee1-4edc-92a5-acd36e4893cd",
+          "url": "https://mms.seloger.com/8/3/3/e/833e6e1b-bee1-4edc-92a5-acd36e4893cd.jpg?ci_seal=ce63c73ed984fa078d66a871d3ef238551695f7b",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ],
+      "floorplans": [
+        {
+          "key": "bdbd038b-e019-4eaa-aa17-eb8b9f3a7d36",
+          "url": "https://mms.seloger.com/b/d/b/d/bdbd038b-e019-4eaa-aa17-eb8b9f3a7d36.jpg?ci_seal=b600473fa6c0ae86cd5593a14aecc327344ec87d",
+          "alt": "Appartement à louer 1 350 € 3 pièces 2 chambres 63 m² RDC/6 Girondins Lyon 7ème 69007",
+          "classification": {
+            "name": "FLOORPLAN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "250531787",
+      "federalStateGeoId": "AD04FR31",
+      "zip": "69007",
+      "city": "Lyon 7ème",
+      "country": "FRA",
+      "region": "Auvergne-Rhône-Alpes",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.99,
+        "accuracy": 3,
+        "high": "25,94",
+        "low": "12,60"
+      },
+      "markerPosition": 29,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "16,50",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 3 pièces",
+      "description": "LYON 7ème 61, rue Clément Marot - Métro Jean Jaurès, T3 Meublé en Rez De Jardin composé d’un séjour avec cuisine ouverte entièrement équipée, de 2 chambres de 10 et 14m², Salle de bains et WC séparés. Jardin de 38m² avec terrasse. Garage privatif en sous-sol. Eau froide, Eau chaude et Chauffage inclus dans les charges. Loyer + charges : 1350€ Caution : 2.440€ Honoraires : 824,20€ TTC Disponibilité : 5 janvier 2026 Encadrement des loyers de la métropole de LYON : Loyer de référence : 868,58€ Loyer de référence majoré : 1.039,76€ Complément de loyer de 180,24€ pour garage fermé et jardin privatif",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "5 jours en ligne",
+      "views": "75 vues",
+      "saves": "8 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25D8RKGAHU7D",
+    "legacyId": "250531787",
+    "brand": "seloger",
+    "agencyId": "RC-121560",
+    "static": {
+      "phoneNumbers": [
+        "0426173167"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0426173167"
+      ]
+    },
+    "contactCard": {
+      "title": "IMMOBILIERE DE L'AVENUE",
+      "subtitle": "Immobiliere de L'Avenue",
+      "phoneNumbers": [
+        "0426173167"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "IMMOBILIERE DE L'AVENUE",
+        "subtitle": "Immobiliere de L'Avenue",
+        "phoneNumbers": [
+          "0426173167"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Immobiliere de L'Avenue",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "IMMOBILIERE DE L'AVENUE",
+      "subtitle": "IMMOBILIERE DE L'AVENUE",
+      "phoneNumbers": [
+        "0426173167"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "IMMOBILIERE DE L'AVENUE",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-69007/agence-7226/"
+      },
+      "contactCard": {
+        "title": "Immobiliere de L'Avenue",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-69007/agence-7226/",
+      "imprintUrl": null,
+      "feeUrl": "http://vd.seloger.com/files/0/k/0/w/0k0wsl0h5a142tl8smskks8su48rg6mmcmqxzf280/FICHE+VITRINE+Hono.pdf",
+      "agencyLegalInformations": [
+        "IMMOBILIERE DE L'AVENUE",
+        "<b>Siège:</b> 6 RUE SAINT JEROME, 69007 LYON",
+        "<b>RCS:</b> 792491987",
+        "<b>SIRET:</b> 79249198700022"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "6 rue Saint Jérôme, 69007 Lyon",
+      "phoneNumbers": [
+        "0426173167"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "69007",
+    "av_city": "Lyon",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25D8RKGAHU7D",
+        "price": 1350,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Lyon",
+        "region": "Auvergne-Rhône-Alpes",
+        "province": "Rhône",
+        "zip_code": "69007",
+        "building_state": "REFURBISHED",
+        "legacy_id": "250531787",
+        "product_type": "standard",
+        "client_id": "RC-121560",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "100897",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "69007",
+        "estate_type": 1,
+        "id": "250531787",
+        "id_duo": 250531787,
+        "id_solo": 250531787,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 16,
+        "position": 0,
+        "price": 1350,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 63,
+        "year_of_construction": 2013
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "69123",
+      "cp": "69007",
+      "geodp": "69",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "250531787",
+      "prix": 1400,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 63,
+      "etage": 6,
+      "commodites": [
+        "ascenseur",
+        "box",
+        "Chauffage-central",
+        "Chauffage-gaz",
+        "Cuisine-américaine",
+        "Cuisine-équipée",
+        "jardin",
+        "parquet",
+        "rez-de-chaussee",
+        "SalleDeBain-baignoire",
+        "sansVisAVis",
+        "Sejour",
+        "terrasse",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-7eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 7ème arrondissement 69007",
+          "hoverLabel": "Appartements à louer Lyon 7ème arrondissement 69007",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 63 m² 1350 € Gerland Lyon (69007)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 63 m² 1350 € Gerland Lyon (69007)",
+      "canonical": "https://www.seloger.com/250531787/detail.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/250531787/detail.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 63 m² 1350 € Gerland Lyon (69007)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 63 m² 1350 € Gerland Lyon (69007)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/3/5/2/8/3528d3b6-25db-4bd0-9520-93fae1e38430.jpg?ci_seal=195412f5b54c9f88d1829f30e3a429fc2c43a87d"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 63 m² 1350 € Gerland Lyon (69007)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/250531787/detail.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 63 m² 1350 € Gerland Lyon (69007)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 63 m² 1350 € Gerland Lyon (69007)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/3/5/2/8/3528d3b6-25db-4bd0-9520-93fae1e38430.jpg?ci_seal=195412f5b54c9f88d1829f30e3a429fc2c43a87d"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 63 m² 1350 € Gerland Lyon (69007)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 63 m² 1350 € Gerland Lyon (69007)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-7eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 7ème arrondissement 69007",
+          "hoverLabel": "Appartements à louer Lyon 7ème arrondissement 69007",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/250531787/detail.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR9702&priceMax=1620&priceMin=1080",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR9702",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR23",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR28808",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR70",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR31",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25D8RKGAHU7D"
+}

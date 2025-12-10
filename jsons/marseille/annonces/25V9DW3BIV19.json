@@ -1,0 +1,1185 @@
+{
+  "brand": "seloger",
+  "id": "25V9DW3BIV19",
+  "metadata": {
+    "legacyId": "256128949",
+    "creationDate": "2025-12-09T09:05:00Z",
+    "updateDate": "2025-12-09T09:06:16.588Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 8ème",
+        "zipCode": "13008",
+        "district": "Le Rouet"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3885007,
+          43.2794189
+        ]
+      }
+    },
+    "description": {
+      "description": "A louer quartier Prado appartement années 70,  3 pièces 69.47m² avec terrasse  garage et cave situé rue de Cassis 13008. Au 4ème étage avec ascenseur, cet appartement se compose d'un hall, un séjour, une terrasse expo Sud, une cuisine, un dégagement avec des placards aménagés, deux chambres, une salle de bains, wc indépendant. Appartement lumineux, très calme, proche des accès routiers, des commerces et de toutes commodités CONTACT Grégory zéro-six//dix-sept//quatre-vingt-dix-neuf//vingt//quatre-vingt-six loyer 1036.87 UR / mois CC dont 162EUR de provision pour charges locatives (régularisation annuelle), dépôt de garantie 874.87 EUR, HCL  903.11 EURTTC  (soit 13EUR/m²) dont 208.41EUR pour l'état des lieux (soit 3 EUR/m²)",
+      "texts": [
+        {
+          "text": "A louer quartier Prado appartement années 70,  3 pièces 69.47m² avec terrasse  garage et cave situé rue de Cassis 13008. Au 4ème étage avec ascenseur, cet appartement se compose d'un hall, un séjour, une terrasse expo Sud, une cuisine, un dégagement avec des placards aménagés, deux chambres, une salle de bains, wc indépendant. Appartement lumineux, très calme, proche des accès routiers, des commerces et de toutes commodités CONTACT Grégory zéro-six//dix-sept//quatre-vingt-dix-neuf//vingt//quatre-vingt-six loyer 1036.87 UR / mois CC dont 162EUR de provision pour charges locatives (régularisation annuelle), dépôt de garantie 874.87 EUR, HCL  903.11 EURTTC  (soit 13EUR/m²) dont 208.41EUR pour l'état des lieux (soit 3 EUR/m²)"
+        }
+      ],
+      "headline": "T3 13008 - 3 pièce(s) - 69.47 m2"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "69 m²",
+        "4ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "69 m²",
+          "splitValue": "69",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4ème étage",
+          "splitValue": "4ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 037 €",
+        "formatted": "1 037 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "1036.87 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel: Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "eecc8e9c-cefb-421e-ab30-cb152e7caf8d",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 980 et 1380 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 980 et 1380 € par an. Date d'indexation du prix des énergies non communiquée."
+            }
+          ],
+          "scales": [
+            {
+              "key": "0a4a6bd0-dcc2-47c0-8aff-b2abf5646620",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "135 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "25 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est 0 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "0395ccfb-f289-48cf-bc7d-09699914e7a2",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "25 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est 0 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256128949"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "T3GALLION"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 036,87 €/mois Loyer charges comprises",
+          "ariaLabel": "1036.87 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "162 €/mois",
+            "ariaLabel": "162 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "15,03 €/mois/m²",
+            "ariaLabel": "15,03 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "874.87"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "4ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "value": "Cave",
+          "icon": "cellar"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Box de stationnement"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "terrace",
+          "value": "Terrasse"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "floors",
+                "value": "4ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "value": "Cave",
+                "icon": "cellar"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "terrace",
+                "value": "Terrasse"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "Box de stationnement"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "28bdcea7-e8d0-4267-a51b-96563fd2dae1",
+          "url": "https://mms.seloger.com/2/8/b/d/28bdcea7-e8d0-4267-a51b-96563fd2dae1.jpg?ci_seal=8b140941676c795c9c44694e40412183fbc5abef",
+          "alt": "Appartement à louer 1 037 € 3 pièces 2 chambres 69 m² 4ème étage Le Rouet Marseille 8ème 13008",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7c993b0c-f3d5-4122-a4ed-f3002ba05eeb",
+          "url": "https://mms.seloger.com/7/c/9/9/7c993b0c-f3d5-4122-a4ed-f3002ba05eeb.jpg?ci_seal=d3b4b6374cd38bb497940275c2d6aeb708b3f9ba",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "bf093ca6-22b9-41b8-a672-ee870085f54a",
+          "url": "https://mms.seloger.com/b/f/0/9/bf093ca6-22b9-41b8-a672-ee870085f54a.jpg?ci_seal=3f4a83290537349e3cffe83ad70de614ac3e27bc",
+          "classification": {
+            "name": "COURTYARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fd7b9133-51c9-42e3-b542-a06bcd9fd08d",
+          "url": "https://mms.seloger.com/f/d/7/b/fd7b9133-51c9-42e3-b542-a06bcd9fd08d.jpg?ci_seal=b2b22dc1909de4dd82da12fec8c261c31bdb6287",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a04a3d3e-7e17-48ff-a539-771c021e4fe1",
+          "url": "https://mms.seloger.com/a/0/4/a/a04a3d3e-7e17-48ff-a539-771c021e4fe1.jpg?ci_seal=c6a7c86c99a31ee568e80899519bb057ee96abd8",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ce521db6-4668-428c-8b3c-b88682d7dcc3",
+          "url": "https://mms.seloger.com/c/e/5/2/ce521db6-4668-428c-8b3c-b88682d7dcc3.jpg?ci_seal=b4d586a3742ef6a888b98084d21992d24347ccb0",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8f7cac45-c1f2-4ff2-b3a1-bf8eacf07001",
+          "url": "https://mms.seloger.com/8/f/7/c/8f7cac45-c1f2-4ff2-b3a1-bf8eacf07001.jpg?ci_seal=c20efa96ba747f5607e47c7c80ed591fc2b16d2c",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256128949",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13008",
+      "city": "Marseille 8ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.28,
+        "accuracy": 1,
+        "high": "24,25",
+        "low": "12"
+      },
+      "markerPosition": 25,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "15,03",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "T3 13008 - 3 pièce(s) - 69.47 m2",
+      "description": "A louer quartier Prado appartement années 70,  3 pièces 69.47m² avec terrasse  garage et cave situé rue de Cassis 13008. Au 4ème étage avec ascenseur, cet appartement se compose d'un hall, un séjour, une terrasse expo Sud, une cuisine, un dégagement avec des placards aménagés, deux chambres, une salle de bains, wc indépendant. Appartement lumineux, très calme, proche des accès routiers, des commerces et de toutes commodités CONTACT Grégory zéro-six//dix-sept//quatre-vingt-dix-neuf//vingt//quatre-vingt-six loyer 1036.87 UR / mois CC dont 162EUR de provision pour charges locatives (régularisation annuelle), dépôt de garantie 874.87 EUR, HCL  903.11 EURTTC  (soit 13EUR/m²) dont 208.41EUR pour l'état des lieux (soit 3 EUR/m²)",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "45 vues",
+      "saves": "2 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25V9DW3BIV19",
+    "legacyId": "256128949",
+    "brand": "seloger",
+    "agencyId": "RC-113353",
+    "static": {
+      "phoneNumbers": [
+        "04 96 11 66 66"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "04 96 11 66 66"
+      ]
+    },
+    "contactCard": {
+      "title": "IMMO DE FRANCE PROVENCE",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "04 96 11 66 66"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/e/9/c/e/e9ced1ee-a45c-453f-bab5-bce53b4a38fb.jpg?ci_seal=1ab45ca15d144fc97f2a7c625779c4a1733538a9",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "IMMO DE FRANCE PROVENCE",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "04 96 11 66 66"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/e/9/c/e/e9ced1ee-a45c-453f-bab5-bce53b4a38fb.jpg?ci_seal=1ab45ca15d144fc97f2a7c625779c4a1733538a9"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "IMMO DE FRANCE PROVENCE",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "04 96 11 66 66"
+      ],
+      "logoUrl": "https://mms.seloger.com/e/9/c/e/e9ced1ee-a45c-453f-bab5-bce53b4a38fb.jpg?ci_seal=1ab45ca15d144fc97f2a7c625779c4a1733538a9",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "IMMO DE FRANCE PROVENCE",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/e/9/c/e/e9ced1ee-a45c-453f-bab5-bce53b4a38fb.jpg?ci_seal=1ab45ca15d144fc97f2a7c625779c4a1733538a9",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-24443/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "website": "http://www.immodefrance-bouchesdurhone.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-24443/",
+      "imprintUrl": null,
+      "feeUrl": "https://media.immo-facile.com/segments/immo/catalog/images/manufacturers_bareme/231892.pdf",
+      "agencyLegalInformations": [
+        "SAS IMMO DE FRANCE PROVENCE",
+        "Carte professionnelle CPI13102015000002917 délivrée par la Préfecture de CCI",
+        "<b>Siège:</b> 180 182 avenue du Prado, 13008 Marseille 8ème",
+        "<b>RCS:</b> CCI 528359474",
+        "<b>SIRET:</b> 52835947400061"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "180 182 avenue du Prado, 13008 Marseille 8ème",
+      "phoneNumbers": [
+        "04 96 11 66 66"
+      ]
+    },
+    "plato": {
+      "available": true,
+      "eventType": "visit",
+      "settings": {
+        "agencyId": "RC-113353",
+        "source": "seloger.com",
+        "locale": "fr",
+        "reference": "T3GALLION"
+      }
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13008",
+    "av_city": "Marseille 8ème",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25V9DW3BIV19",
+        "price": 1036.87,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 8ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13008",
+        "legacy_id": "256128949",
+        "product_type": "standard",
+        "client_id": "RC-113353",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "99792",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "13008",
+        "estate_type": 1,
+        "id": "256128949",
+        "id_duo": 256128949,
+        "id_solo": 256128949,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 7,
+        "position": 0,
+        "price": 1036.87,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 69
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13008",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256128949",
+      "prix": 1100,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 69,
+      "commodites": [
+        "ascenseur",
+        "box",
+        "cave",
+        "Chauffage-individuel",
+        "Chauffage-gaz",
+        "Cuisine-équipée",
+        "SalleDeBain-baignoire",
+        "terrasse"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-8eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 8ème arrondissement 13008",
+          "hoverLabel": "Appartements à louer Marseille 8ème arrondissement 13008",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 69 m² 1036.87 € Le Rouet Marseille (13008)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 69 m² 1036.87 € Le Rouet Marseille (13008)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-8eme-13/le-rouet/256128949.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-8eme-13/le-rouet/256128949.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 69 m² 1036.87 € Le Rouet Marseille (13008)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 69 m² 1036.87 € Le Rouet Marseille (13008)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/2/8/b/d/28bdcea7-e8d0-4267-a51b-96563fd2dae1.jpg?ci_seal=8b140941676c795c9c44694e40412183fbc5abef"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 69 m² 1036.87 € Le Rouet Marseille (13008)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-8eme-13/le-rouet/256128949.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 69 m² 1036.87 € Le Rouet Marseille (13008)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 69 m² 1036.87 € Le Rouet Marseille (13008)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/2/8/b/d/28bdcea7-e8d0-4267-a51b-96563fd2dae1.jpg?ci_seal=8b140941676c795c9c44694e40412183fbc5abef"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 69 m² 1036.87 € Le Rouet Marseille (13008)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 69 m² 1036.87 € Le Rouet Marseille (13008)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-8eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 8ème arrondissement 13008",
+          "hoverLabel": "Appartements à louer Marseille 8ème arrondissement 13008",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-8eme-13/le-rouet/256128949.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#305090",
+    "textColor": "light",
+    "providerName": "IMMO DE FRANCE PROVENCE",
+    "logo": {
+      "src": "https://mms.seloger.com/e/9/c/e/e9ced1ee-a45c-453f-bab5-bce53b4a38fb.jpg?ci_seal=1ab45ca15d144fc97f2a7c625779c4a1733538a9",
+      "alt": "logo-RC-113353",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/e/7/3/0/e7301fa1-7a60-4ab8-b3d6-d119eaf8fe0c.png?ci_eqs=&ci_seal=928fffd1d0e06054c0e1a093ddc5685089620276",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-24443/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/e/7/3/0/e7301fa1-7a60-4ab8-b3d6-d119eaf8fe0c.png?ci_eqs=&ci_seal=928fffd1d0e06054c0e1a093ddc5685089620276",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-24443/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/7/a/9/6/7a961d0d-3d9d-43d0-851f-8ad5d08a9157.png?ci_eqs=&ci_seal=b8ccd06d9f43efbaba7d5d4b52cab6b81da9204a",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-24443/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1080&priceMax=1244.24&priceMin=829.5",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1080",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR8",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25V9DW3BIV19"
+}

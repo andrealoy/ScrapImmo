@@ -1,0 +1,1034 @@
+{
+  "brand": "seloger",
+  "id": "25SVY73S93G9",
+  "metadata": {
+    "legacyId": "254813179",
+    "creationDate": "2025-11-20T15:07:00Z",
+    "updateDate": "2025-11-21T01:17:05.451Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Lyon 3ème",
+        "zipCode": "69003",
+        "district": "Préfecture Liberté"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8451052,
+          45.7558556
+        ]
+      }
+    },
+    "description": {
+      "description": "A LOUER - LYON 3, rue Paul Bert entre métro Saxe et métro Guillotière dans immeuble ancien.\nAppartement F2 de 47m² au 5ème étage avec ascenseur comprenant : une cuisine, un séjour, une chambre, une salle de bains et WC. \nChauffage individuel gaz avec  entretien chaudière inclus dans les charges.\nNouveau DPE en commande\n Zone soumise à encadrement des loyers : Prix de référence : 16.40 €/m²  Prix  majoré : 19.70 €/m² \nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site géorisques :",
+      "texts": [
+        {
+          "text": "A LOUER - LYON 3, rue Paul Bert entre métro Saxe et métro Guillotière dans immeuble ancien.\nAppartement F2 de 47m² au 5ème étage avec ascenseur comprenant : une cuisine, un séjour, une chambre, une salle de bains et WC. \nChauffage individuel gaz avec  entretien chaudière inclus dans les charges.\nNouveau DPE en commande\n Zone soumise à encadrement des loyers : Prix de référence : 16.40 €/m²  Prix  majoré : 19.70 €/m² \nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site géorisques :"
+        }
+      ],
+      "headline": "F2 - 18 RUE PAUL BERT 69003 LYON"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "47 m²",
+        "5ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "47 m²",
+          "splitValue": "47",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5ème étage",
+          "splitValue": "5ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "770 €",
+        "formatted": "770 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "770.36 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel: Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "83354b29-72e9-4a09-9996-2909b40dfd12",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "77ada47f-081f-451a-a773-4cf51fe9c735",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "150 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "35 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est 0 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "b5fd2967-d8f1-42ea-a621-b06a976a9582",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "35 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est 0 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "254813179"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "2681-21"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "645,36 €/mois Loyer de base",
+          "ariaLabel": "645.36 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "125 €/mois",
+            "ariaLabel": "125 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "770,36 €/mois",
+            "ariaLabel": "770.36 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "13,73 €/mois/m²",
+            "ariaLabel": "13,73 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "645.00"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "5ème étage"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain"
+        },
+        {
+          "icon": "intercom",
+          "value": "Interphone"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "9c7a08b3-716a-467b-bfd0-fc4b707d94a9",
+          "url": "https://mms.seloger.com/9/c/7/a/9c7a08b3-716a-467b-bfd0-fc4b707d94a9.jpg?ci_seal=e8015b7f82214e7eb27c0e61e9615f05e652ef59",
+          "alt": "Appartement à louer 770 € 2 pièces 1 chambre 47 m² 5ème étage Préfecture Liberté Lyon 3ème 69003",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "63708c6a-07c1-41d0-b857-b1ce780fe7a1",
+          "url": "https://mms.seloger.com/6/3/7/0/63708c6a-07c1-41d0-b857-b1ce780fe7a1.jpg?ci_seal=edf41a9da52e82cb539fdf4e336cc79392da03f4",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "672a1561-8c30-46fa-acc6-8e5d382c4c42",
+          "url": "https://mms.seloger.com/6/7/2/a/672a1561-8c30-46fa-acc6-8e5d382c4c42.jpg?ci_seal=da0f440abff04fec89020b5be3d270bee20c0113",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0e072d38-7edb-42a4-badb-58998efa6d80",
+          "url": "https://mms.seloger.com/0/e/0/7/0e072d38-7edb-42a4-badb-58998efa6d80.jpg?ci_seal=20d71a814b1e44062e18656a9497aaac4fd51508",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "926ed36f-0de9-4802-9529-210727248ddb",
+          "url": "https://mms.seloger.com/9/2/6/e/926ed36f-0de9-4802-9529-210727248ddb.jpg?ci_seal=e6b446cf22bd8480877d683026ea9a3f3c519bfd",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0837e2f2-1ec0-4baf-894d-59769e2f43a9",
+          "url": "https://mms.seloger.com/0/8/3/7/0837e2f2-1ec0-4baf-894d-59769e2f43a9.jpg?ci_seal=72107ced8f1de5b241cfee67ec2022eed0784092",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7a4a4f55-b8d4-479a-ad25-b9679cdd0487",
+          "url": "https://mms.seloger.com/7/a/4/a/7a4a4f55-b8d4-479a-ad25-b9679cdd0487.jpg?ci_seal=4917c1c8fc83349c9d2ce4375d1b35f497f4fb7e",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "254813179",
+      "federalStateGeoId": "AD04FR31",
+      "zip": "69003",
+      "city": "Lyon 3ème",
+      "country": "FRA",
+      "region": "Auvergne-Rhône-Alpes",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.33,
+        "accuracy": 4,
+        "high": "25,37",
+        "low": "12,46"
+      },
+      "markerPosition": 10,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "13,73",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "F2 - 18 RUE PAUL BERT 69003 LYON",
+      "description": "A LOUER - LYON 3, rue Paul Bert entre métro Saxe et métro Guillotière dans immeuble ancien.\nAppartement F2 de 47m² au 5ème étage avec ascenseur comprenant : une cuisine, un séjour, une chambre, une salle de bains et WC. \nChauffage individuel gaz avec  entretien chaudière inclus dans les charges.\nNouveau DPE en commande\n Zone soumise à encadrement des loyers : Prix de référence : 16.40 €/m²  Prix  majoré : 19.70 €/m² \nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site géorisques :",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "19 jours en ligne",
+      "views": "304 vues",
+      "saves": "31 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25SVY73S93G9",
+    "legacyId": "254813179",
+    "brand": "seloger",
+    "agencyId": "RC-014950",
+    "static": {
+      "phoneNumbers": [
+        "0472773757"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0472773757"
+      ]
+    },
+    "contactCard": {
+      "title": "Régie LESCUYER & Associés",
+      "subtitle": " Agence Location Lyon",
+      "phoneNumbers": [
+        "0472773757"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/5/6/7/b/567bc0d8-7634-4898-b9df-f0e471290ae8.jpg?ci_seal=7cd347cbfcb3df62b071e69086fa4cbb398cf4c2",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Régie LESCUYER & Associés",
+        "subtitle": " Agence Location Lyon",
+        "phoneNumbers": [
+          "0472773757"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/5/6/7/b/567bc0d8-7634-4898-b9df-f0e471290ae8.jpg?ci_seal=7cd347cbfcb3df62b071e69086fa4cbb398cf4c2"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à  Agence Location Lyon",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Régie LESCUYER & Associés",
+      "subtitle": "Régie LESCUYER & Associés",
+      "phoneNumbers": [
+        "0472773757"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Régie LESCUYER & Associés",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/5/6/7/b/567bc0d8-7634-4898-b9df-f0e471290ae8.jpg?ci_seal=7cd347cbfcb3df62b071e69086fa4cbb398cf4c2",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-6eme-arrondissement-69006/agence-63253/"
+      },
+      "contactCard": {
+        "title": " Agence Location Lyon",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "https://www.regie-lescuyer.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-6eme-arrondissement-69006/agence-63253/",
+      "imprintUrl": null,
+      "feeUrl": "https://media.immo-facile.com/segments/immo/catalog/images/manufacturers_bareme/177279.pdf",
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 484706270"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "11 Place Maréchal Lyautey, 69006 Lyon",
+      "phoneNumbers": [
+        "0472773757"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "69003",
+    "av_city": "Lyon",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25SVY73S93G9",
+        "price": 770.36,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Lyon",
+        "region": "Auvergne-Rhône-Alpes",
+        "province": "Rhône",
+        "zip_code": "69003",
+        "legacy_id": "254813179",
+        "product_type": "standard",
+        "client_id": "RC-014950",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "64805",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "69003",
+        "estate_type": 1,
+        "id": "254813179",
+        "id_duo": 254813179,
+        "id_solo": 254813179,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 7,
+        "position": 0,
+        "price": 770.36,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 47
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "69123",
+      "cp": "69003",
+      "geodp": "69",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "254813179",
+      "prix": 800,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 47,
+      "commodites": [
+        "ascenseur",
+        "Chauffage-individuel",
+        "Chauffage-gaz",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-3eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 3ème arrondissement 69003",
+          "hoverLabel": "Appartements à louer Lyon 3ème arrondissement 69003",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 47 m² 770.36 € La Guillotière Nord Lyon (69003)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 47 m² 770.36 € La Guillotière Nord Lyon (69003)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/lyon-3eme-69/la-guillotiere-nord/254813179.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-3eme-69/la-guillotiere-nord/254813179.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 47 m² 770.36 € La Guillotière Nord Lyon (69003)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 47 m² 770.36 € La Guillotière Nord Lyon (69003)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/9/c/7/a/9c7a08b3-716a-467b-bfd0-fc4b707d94a9.jpg?ci_seal=e8015b7f82214e7eb27c0e61e9615f05e652ef59"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 47 m² 770.36 € La Guillotière Nord Lyon (69003)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-3eme-69/la-guillotiere-nord/254813179.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 47 m² 770.36 € La Guillotière Nord Lyon (69003)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 47 m² 770.36 € La Guillotière Nord Lyon (69003)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/9/c/7/a/9c7a08b3-716a-467b-bfd0-fc4b707d94a9.jpg?ci_seal=e8015b7f82214e7eb27c0e61e9615f05e652ef59"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 47 m² 770.36 € La Guillotière Nord Lyon (69003)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 47 m² 770.36 € La Guillotière Nord Lyon (69003)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-3eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 3ème arrondissement 69003",
+          "hoverLabel": "Appartements à louer Lyon 3ème arrondissement 69003",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/lyon-3eme-69/la-guillotiere-nord/254813179.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR9695&priceMax=924.43&priceMin=616.29",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR9695",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR19",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR28808",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR70",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR31",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25SVY73S93G9"
+}

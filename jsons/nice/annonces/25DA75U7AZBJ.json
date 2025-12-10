@@ -1,0 +1,1196 @@
+{
+  "brand": "seloger",
+  "id": "25DA75U7AZBJ",
+  "metadata": {
+    "legacyId": "256074699",
+    "creationDate": "2025-12-08T14:06:00Z",
+    "updateDate": "2025-12-10T01:20:09.925Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Nice",
+        "zipCode": "06000",
+        "district": "Libération"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.26195,
+          43.71017
+        ]
+      }
+    },
+    "description": {
+      "description": "Duplex de 2 Pièces atypique d'un immeuble récent composé d'un petit salon avec cuisine ouverte (machine à laver, plaque de cuisson, frigo) donnant sur un balcon avec vue dégagée. \r\nA l'étage, une chambre avec haut plafond, un placard et une salle de douche. \r\n\r\nUn emplacement de parking complète ce bien.",
+      "texts": [
+        {
+          "text": "Duplex de 2 Pièces atypique d'un immeuble récent composé d'un petit salon avec cuisine ouverte (machine à laver, plaque de cuisson, frigo) donnant sur un balcon avec vue dégagée. \r\nA l'étage, une chambre avec haut plafond, un placard et une salle de douche. \r\n\r\nUn emplacement de parking complète ce bien."
+        }
+      ],
+      "headline": "Duplex Atypique - Haut Cessole"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "37,9 m²",
+        "3ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37,9 m²",
+          "splitValue": "37,9",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3ème étage",
+          "splitValue": "3ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "963 €",
+        "formatted": "963 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "963 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "2015"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Entretenu"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central: Aérotherme"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "4db75e56-5453-4df9-bcd3-c483664e29a3",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 170 et 240 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 170 et 240 € par an. Prix moyens des énergies indexés au 01/01/2021 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "c8bcd432-8933-4951-927f-7b7f0ba8f126",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "70 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "60 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "12 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est 60 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "42d65ef0-3385-4aec-bdd3-c671e6f2b2f7",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "12 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est 60 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256074699"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "6643989"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "803 €/mois Loyer de base",
+          "ariaLabel": "803 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "160 €/mois",
+            "ariaLabel": "160 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "963 €/mois",
+            "ariaLabel": "963 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "21,16 €/mois/m²",
+            "ariaLabel": "21,16 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "803"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 26/12/2025"
+        },
+        {
+          "icon": "floors",
+          "value": "3ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Balcon"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: ouest"
+        },
+        {
+          "value": "Belle vue",
+          "icon": "with-view"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "availability",
+                "value": "disponible à partir du 26/12/2025"
+              },
+              {
+                "icon": "Orientation",
+                "value": "Exposition: ouest"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "3ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Balcon"
+              },
+              {
+                "value": "Belle vue",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "f8c8f298-d221-4989-8ca0-d4c67856eaf4",
+          "url": "https://mms.seloger.com/f/8/c/8/f8c8f298-d221-4989-8ca0-d4c67856eaf4.jpg?ci_seal=a49a18c88dffdfe71aee19f0e2237a1f892cfe8b",
+          "alt": "Appartement à louer 963 € 2 pièces 1 chambre 37,9 m² 3ème étage Libération Nice 06000",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e12d08bd-4b6b-4961-a54d-f3f905714c26",
+          "url": "https://mms.seloger.com/e/1/2/d/e12d08bd-4b6b-4961-a54d-f3f905714c26.jpg?ci_seal=151192aeb3b2ca88ed75cb1189658a2a846db53b",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "15fefb4d-d922-476e-b353-0dc3b79a5208",
+          "url": "https://mms.seloger.com/1/5/f/e/15fefb4d-d922-476e-b353-0dc3b79a5208.jpg?ci_seal=cb4ccfdd7d77c923336527b943010dd46b576268",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b04e0cf0-18b6-4e3e-a5b1-bbb3b6a0ae1b",
+          "url": "https://mms.seloger.com/b/0/4/e/b04e0cf0-18b6-4e3e-a5b1-bbb3b6a0ae1b.jpg?ci_seal=5429809432060a2c5041a822f95f00caf50d3dfe",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3a1e625c-650a-4bf9-add4-9ce8baf26d9e",
+          "url": "https://mms.seloger.com/3/a/1/e/3a1e625c-650a-4bf9-add4-9ce8baf26d9e.jpg?ci_seal=3916b275e7c4893e893c631377ff5b347c59fa2d",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8d9dce98-2631-4939-8577-a3f95908403a",
+          "url": "https://mms.seloger.com/8/d/9/d/8d9dce98-2631-4939-8577-a3f95908403a.jpg?ci_seal=17392c3a20e40640fea9ff3a79027fa8d81f4f00",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4ee58d01-3e11-4028-afb3-807b116262e3",
+          "url": "https://mms.seloger.com/4/e/e/5/4ee58d01-3e11-4028-afb3-807b116262e3.jpg?ci_seal=e177d649f0b3ece42b41400a0ebb8d4559ad01c3",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f5a6b5da-b3d2-4131-9bb5-7e10364f8f6e",
+          "url": "https://mms.seloger.com/f/5/a/6/f5a6b5da-b3d2-4131-9bb5-7e10364f8f6e.jpg?ci_seal=388b703cabb4b36dc3d97d3e535a20c837791180",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "50f3429b-a23e-4e72-aea7-2d9992a332a6",
+          "url": "https://mms.seloger.com/5/0/f/3/50f3429b-a23e-4e72-aea7-2d9992a332a6.jpg?ci_seal=76a7266e46ac6a566e28d1b9004732b20519e779",
+          "classification": {
+            "name": "GARAGE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "14c36352-1c7d-4910-96ac-83f116bd0d09",
+          "url": "https://mms.seloger.com/1/4/c/3/14c36352-1c7d-4910-96ac-83f116bd0d09.jpg?ci_seal=6cd2e282801ea2827698d192e5af00ae133a0413",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "cbd2196b-67ab-4711-99b3-14f04fb4d606",
+          "url": "https://mms.seloger.com/c/b/d/2/cbd2196b-67ab-4711-99b3-14f04fb4d606.jpg?ci_seal=e1e64fba6c8b9ee00a1b4c496416a79036198ae2",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": [
+        {
+          "urlType": "VIRTUAL_TOUR",
+          "url": "https://view.ricoh360.com/a4ccd21b-6c5c-4f7b-b731-f5ac5b8d3144?type=compact",
+          "key": "1283eabd-371d-456d-9108-262c4293473e",
+          "title": "Visite virtuelle",
+          "virtualTours": {},
+          "previewImage": {
+            "key": "f8c8f298-d221-4989-8ca0-d4c67856eaf4",
+            "url": "https://mms.seloger.com/f/8/c/8/f8c8f298-d221-4989-8ca0-d4c67856eaf4.jpg?ci_seal=a49a18c88dffdfe71aee19f0e2237a1f892cfe8b"
+          }
+        }
+      ]
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256074699",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "06000",
+      "city": "Nice",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 19.94,
+        "accuracy": 2,
+        "high": "28,86",
+        "low": "14,80"
+      },
+      "markerPosition": 45,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "21,16",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Duplex Atypique - Haut Cessole",
+      "description": "Duplex de 2 Pièces atypique d'un immeuble récent composé d'un petit salon avec cuisine ouverte (machine à laver, plaque de cuisson, frigo) donnant sur un balcon avec vue dégagée. \r\nA l'étage, une chambre avec haut plafond, un placard et une salle de douche. \r\n\r\nUn emplacement de parking complète ce bien.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "366 vues",
+      "saves": "39 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25DA75U7AZBJ",
+    "legacyId": "256074699",
+    "brand": "seloger",
+    "agencyId": "RC-102703",
+    "static": {
+      "phoneNumbers": [
+        "+33 6 69 93 02 71"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33 6 69 93 02 71"
+      ]
+    },
+    "contactCard": {
+      "title": "SAFI MEDITERRANEE",
+      "subtitle": "Sandra Mariangioli",
+      "phoneNumbers": [
+        "+33 6 69 93 02 71"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/9/1/0/3/9103df0d-21cb-4479-b3b4-3e24982bc298.jpg?ci_seal=60b89dc49f4fc98735984cb98965ab94d78fb3ec",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "SAFI MEDITERRANEE",
+        "subtitle": "Sandra Mariangioli",
+        "phoneNumbers": [
+          "+33 6 69 93 02 71"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/9/1/0/3/9103df0d-21cb-4479-b3b4-3e24982bc298.jpg?ci_seal=60b89dc49f4fc98735984cb98965ab94d78fb3ec"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Sandra Mariangioli",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "SAFI MEDITERRANEE",
+      "subtitle": "SAFI MEDITERRANEE",
+      "phoneNumbers": [
+        "+33 6 69 93 02 71"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "SAFI MEDITERRANEE",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/9/1/0/3/9103df0d-21cb-4479-b3b4-3e24982bc298.jpg?ci_seal=60b89dc49f4fc98735984cb98965ab94d78fb3ec",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/nice-06300/agence-347922/"
+      },
+      "contactCard": {
+        "title": "Sandra Mariangioli",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/nice-06300/agence-347922/",
+      "imprintUrl": null,
+      "feeUrl": "https://safimediterranee.fr:443/wp-content/uploads/bareme-honoraires_transaction-gestion.pdf",
+      "agencyLegalInformations": [
+        "Société à responsabilité limitée (sans autre indication) SAFI ACCUEIL IMMO",
+        "<b>Siège:</b> 44bis Avenue de la République, 06300 Nice",
+        "<b>RCS:</b> 491508792",
+        "<b>SIRET:</b> 49150879200026"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "44 B Avenue de la République, 06300 Nice",
+      "phoneNumbers": [
+        "+33 6 69 93 02 71"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "06000",
+    "av_city": "Nizza",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25DA75U7AZBJ",
+        "price": 963,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Nizza",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "province": "Maritime Alps",
+        "zip_code": "06000",
+        "building_state": "WELL_KEPT",
+        "legacy_id": "256074699",
+        "product_type": "standard",
+        "client_id": "RC-102703",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "21951",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "06000",
+        "estate_type": 1,
+        "id": "256074699",
+        "id_duo": 256074699,
+        "id_solo": 256074699,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 11,
+        "position": 0,
+        "price": 963,
+        "product_geolocation": "localisation_district",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 37.94,
+        "year_of_construction": 2015
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "06088",
+      "cp": "06000",
+      "geodp": "06",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256074699",
+      "prix": 1000,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 37.94,
+      "commodites": [
+        "ascenseur",
+        "balcon",
+        "belleVue",
+        "Chauffage-central",
+        "Chauffage-electrique",
+        "Cuisine-américaine",
+        "SalleDEau-douche"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/06/bien-appartement/",
+          "label": "Appartements à louer Alpes-Maritimes 06",
+          "hoverLabel": "Appartements à louer Alpes-Maritimes 06",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-nice-06/bien-appartement/",
+          "label": "Appartements à louer Nice 06000",
+          "hoverLabel": "Appartements à louer Nice 06000",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 37.94 m² 963 € Libération Nice (06000)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 37.94 m² 963 € Libération Nice (06000)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/nice-06/liberation/256074699.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/nice-06/liberation/256074699.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 37.94 m² 963 € Libération Nice (06000)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 37.94 m² 963 € Libération Nice (06000)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/f/8/c/8/f8c8f298-d221-4989-8ca0-d4c67856eaf4.jpg?ci_seal=a49a18c88dffdfe71aee19f0e2237a1f892cfe8b"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 37.94 m² 963 € Libération Nice (06000)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/nice-06/liberation/256074699.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 37.94 m² 963 € Libération Nice (06000)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 37.94 m² 963 € Libération Nice (06000)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/f/8/c/8/f8c8f298-d221-4989-8ca0-d4c67856eaf4.jpg?ci_seal=a49a18c88dffdfe71aee19f0e2237a1f892cfe8b"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 37.94 m² 963 € Libération Nice (06000)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 37.94 m² 963 € Libération Nice (06000)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/06/bien-appartement/",
+          "label": "Appartements à louer Alpes-Maritimes 06",
+          "hoverLabel": "Appartements à louer Alpes-Maritimes 06",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-nice-06/bien-appartement/",
+          "label": "Appartements à louer Nice 06000",
+          "hoverLabel": "Appartements à louer Nice 06000",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/nice-06/liberation/256074699.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR9828&priceMax=1155.6&priceMin=770.4",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": true,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR9828",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD08FR2038",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR6",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25DA75U7AZBJ"
+}

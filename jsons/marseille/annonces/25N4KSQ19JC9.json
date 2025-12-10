@@ -1,0 +1,1212 @@
+{
+  "brand": "seloger",
+  "id": "25N4KSQ19JC9",
+  "metadata": {
+    "legacyId": "255453279",
+    "creationDate": "2025-11-29T06:57:00Z",
+    "updateDate": "2025-12-02T01:06:33.196Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 2ème",
+        "zipCode": "13002",
+        "district": "La Joliette"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36627,
+          43.30609
+        ]
+      }
+    },
+    "description": {
+      "description": "Cœur Joliette dans immeuble récent standing \r\nAppartement en duplex de 97 m² composé de 4 pièces au 7 ème et dernier étage avec ascenseur. Au premier niveau un grand séjour, une cuisine sur terrasse, une salle de douches avec wc, au second niveau trois chambres, terrasse, une salle de douches, une salle de bains avec wc placards,\r\nTerrasse et un emplacement de parking double en sous-sol\r\nDPE  \r\nChauffage et eau chaude individuels électrique",
+      "texts": [
+        {
+          "text": "Cœur Joliette dans immeuble récent standing \r\nAppartement en duplex de 97 m² composé de 4 pièces au 7 ème et dernier étage avec ascenseur. Au premier niveau un grand séjour, une cuisine sur terrasse, une salle de douches avec wc, au second niveau trois chambres, terrasse, une salle de douches, une salle de bains avec wc placards,\r\nTerrasse et un emplacement de parking double en sous-sol\r\nDPE  \r\nChauffage et eau chaude individuels électrique"
+        }
+      ],
+      "headline": "4 PIECES 3 CHAMBRES TERRASSE PARKING DOUBLE"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "4 pièces",
+        "3 chambres",
+        "96,7 m²",
+        "7ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "4 pièces",
+          "splitValue": "4",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "3 chambres",
+          "splitValue": "3",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "96,7 m²",
+          "splitValue": "96,7",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "7ème étage",
+          "splitValue": "7ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 599 €",
+        "formatted": "1 599 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "1599 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Entretenu"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel: Aérotherme"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "74dfdf4c-a58d-4e97-bb27-c65add04b6cb",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "f462cfb5-bcad-4f09-9a59-f16072085523",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "150 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "60 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "79d59dc2-9181-4526-82f9-38076b829d01",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "60 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255453279"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "86207049"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 375 €/mois Loyer de base",
+          "ariaLabel": "1375 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "224 €/mois",
+            "ariaLabel": "224 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 599 €/mois",
+            "ariaLabel": "1599 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "14,21 €/mois/m²",
+            "ariaLabel": "14,21 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1375"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "7ème étage"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Parking"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "terrace",
+          "value": "Terrasse (Total 35 m²)"
+        },
+        {
+          "value": "Belle vue",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "3 chambres"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "7ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain; 2 salles de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "3 chambres"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              },
+              {
+                "icon": "terrace",
+                "value": "Terrasse (Total 35 m²)"
+              },
+              {
+                "value": "Belle vue",
+                "icon": "with-view"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "Parking"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "56d1c5cf-fb18-4850-ac51-311720ba045f",
+          "url": "https://mms.seloger.com/5/6/d/1/56d1c5cf-fb18-4850-ac51-311720ba045f.jpg?ci_seal=48bef3e241d05d8cde2e359a4222583259f4fd03",
+          "alt": "Appartement à louer 1 599 € 4 pièces 3 chambres 96,7 m² 7ème étage La Joliette Marseille 2ème 13002",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b1e518ec-633e-454e-84cc-fb2dd9eb467f",
+          "url": "https://mms.seloger.com/b/1/e/5/b1e518ec-633e-454e-84cc-fb2dd9eb467f.jpg?ci_seal=0a162836cab0363d261bc8d23674f6c3a4a32f41",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "438d362c-0d45-4e96-ad2b-1ece7f0c665b",
+          "url": "https://mms.seloger.com/4/3/8/d/438d362c-0d45-4e96-ad2b-1ece7f0c665b.jpg?ci_seal=1f7332cc0982251a0818ed0f2bb9a8bc2fc40db2",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "016c64a8-62c1-4ec3-9fba-52a169016f42",
+          "url": "https://mms.seloger.com/0/1/6/c/016c64a8-62c1-4ec3-9fba-52a169016f42.jpg?ci_seal=7d79d95ea70f995600d1ded7b289dc62c045390b",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2022b0f4-d455-4c6d-abc8-07c875bafc75",
+          "url": "https://mms.seloger.com/2/0/2/2/2022b0f4-d455-4c6d-abc8-07c875bafc75.jpg?ci_seal=2b9547704ff3378e4604bc91a8c992ddc752c6a1",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "abac4089-76b2-4067-8b49-f55df44db7ad",
+          "url": "https://mms.seloger.com/a/b/a/c/abac4089-76b2-4067-8b49-f55df44db7ad.jpg?ci_seal=105d56e12de3b3374c0d2f7a951d1d7b5d374e97",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "eb59d222-7409-461a-a766-5ba470434430",
+          "url": "https://mms.seloger.com/e/b/5/9/eb59d222-7409-461a-a766-5ba470434430.jpg?ci_seal=8cc40ce7b88dce907631ca14fc2cc2e7e423b248",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "03db5e36-90f6-4b81-a633-6846963fbe08",
+          "url": "https://mms.seloger.com/0/3/d/b/03db5e36-90f6-4b81-a633-6846963fbe08.jpg?ci_seal=54e425987c3e66561e467d319a6bf024d4dbd3ed",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "27ef0023-7ddb-4991-b77a-869ce9f3a3ad",
+          "url": "https://mms.seloger.com/2/7/e/f/27ef0023-7ddb-4991-b77a-869ce9f3a3ad.jpg?ci_seal=e7163f078845211d5a9a7c771252a734c196cf2f",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "79e5025f-11f6-4759-8e5f-52b206512fe1",
+          "url": "https://mms.seloger.com/7/9/e/5/79e5025f-11f6-4759-8e5f-52b206512fe1.jpg?ci_seal=22a7b608f6cf161161ffa8df30fdbdbe8a547a25",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b507d086-7eb9-4639-bc0b-6f0ba7b44c50",
+          "url": "https://mms.seloger.com/b/5/0/7/b507d086-7eb9-4639-bc0b-6f0ba7b44c50.jpg?ci_seal=13aa98a74cb7e197b6117e235177532f308c9416",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "35cec173-0150-4d17-bf1b-38503f6cd4d9",
+          "url": "https://mms.seloger.com/3/5/c/e/35cec173-0150-4d17-bf1b-38503f6cd4d9.jpg?ci_seal=96618c93306f43eb013f8fa54bce1353978004a8",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255453279",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13002",
+      "city": "Marseille 2ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.76,
+        "accuracy": 1,
+        "high": "23",
+        "low": "11,44"
+      },
+      "markerPosition": 24,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "14,21",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "4 PIECES 3 CHAMBRES TERRASSE PARKING DOUBLE",
+      "description": "Cœur Joliette dans immeuble récent standing \r\nAppartement en duplex de 97 m² composé de 4 pièces au 7 ème et dernier étage avec ascenseur. Au premier niveau un grand séjour, une cuisine sur terrasse, une salle de douches avec wc, au second niveau trois chambres, terrasse, une salle de douches, une salle de bains avec wc placards,\r\nTerrasse et un emplacement de parking double en sous-sol\r\nDPE  \r\nChauffage et eau chaude individuels électrique",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "10 jours en ligne",
+      "views": "217 vues",
+      "saves": "17 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25N4KSQ19JC9",
+    "legacyId": "255453279",
+    "brand": "seloger",
+    "agencyId": "RC-613709",
+    "static": {
+      "phoneNumbers": [
+        "0607979716"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0607979716"
+      ]
+    },
+    "contactCard": {
+      "title": "Allowa",
+      "subtitle": "Nadine Lory",
+      "phoneNumbers": [
+        "0607979716"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/b/a/1/8/ba18bff2-f103-42a4-ace5-6b9d1c41a3c9.jpg?ci_seal=583dfd7e75f588072ac3b46886d5951c7975fd85",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Allowa",
+        "subtitle": "Nadine Lory",
+        "phoneNumbers": [
+          "0607979716"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/b/a/1/8/ba18bff2-f103-42a4-ace5-6b9d1c41a3c9.jpg?ci_seal=583dfd7e75f588072ac3b46886d5951c7975fd85"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Nadine Lory",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Allowa",
+      "subtitle": "Allowa",
+      "phoneNumbers": [
+        "0607979716"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Allowa",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/b/a/1/8/ba18bff2-f103-42a4-ace5-6b9d1c41a3c9.jpg?ci_seal=583dfd7e75f588072ac3b46886d5951c7975fd85",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/courbevoie-92400/agence-65251/"
+      },
+      "contactCard": {
+        "title": "Nadine Lory",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "https://www.allowa.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/courbevoie-92400/agence-65251/",
+      "imprintUrl": null,
+      "feeUrl": "http://ap.immo/uploads/company/19594/fees_document.pdf?1706434293",
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 878727205",
+        "<b>SIRET:</b> 87872720500030"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "90 AVENUE DU GENERAL DE GAULLE, 92400 COURBEVOIE",
+      "phoneNumbers": [
+        "0607979716"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13002",
+    "av_city": "Marseille 2ème",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25N4KSQ19JC9",
+        "price": 1599,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 2ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13002",
+        "building_state": "WELL_KEPT",
+        "legacy_id": "255453279",
+        "product_type": "standard",
+        "client_id": "RC-613709",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "410210",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "13002",
+        "estate_type": 1,
+        "id": "255453279",
+        "id_duo": 255453279,
+        "id_solo": 255453279,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 3,
+        "nb_rooms": 4,
+        "parent_site": "SL",
+        "photos_nb": 12,
+        "position": 0,
+        "price": 1599,
+        "product_geolocation": "localisation_district",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 96.73
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13002",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255453279",
+      "prix": 1600,
+      "nb_pieces": 4,
+      "nb_chambres": 3,
+      "surface": 96.73,
+      "commodites": [
+        "belleVue",
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "parking%20ouvert",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire",
+        "terrasse"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-2eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 2ème arrondissement 13002",
+          "hoverLabel": "Appartements à louer Marseille 2ème arrondissement 13002",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T4/F4 96.73 m² 1599 € La Joliette Marseille (13002)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T4/F4 96.73 m² 1599 € La Joliette Marseille (13002)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-2eme-13/la-joliette/255453279.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-2eme-13/la-joliette/255453279.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T4/F4 96.73 m² 1599 € La Joliette Marseille (13002)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T4/F4 96.73 m² 1599 € La Joliette Marseille (13002)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/5/6/d/1/56d1c5cf-fb18-4850-ac51-311720ba045f.jpg?ci_seal=48bef3e241d05d8cde2e359a4222583259f4fd03"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T4/F4 96.73 m² 1599 € La Joliette Marseille (13002)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-2eme-13/la-joliette/255453279.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T4/F4 96.73 m² 1599 € La Joliette Marseille (13002)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T4/F4 96.73 m² 1599 € La Joliette Marseille (13002)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/5/6/d/1/56d1c5cf-fb18-4850-ac51-311720ba045f.jpg?ci_seal=48bef3e241d05d8cde2e359a4222583259f4fd03"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T4/F4 96.73 m² 1599 € La Joliette Marseille (13002)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T4/F4 96.73 m² 1599 € La Joliette Marseille (13002)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-2eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 2ème arrondissement 13002",
+          "hoverLabel": "Appartements à louer Marseille 2ème arrondissement 13002",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-2eme-13/la-joliette/255453279.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#5050b0",
+    "textColor": "light",
+    "providerName": "Allowa",
+    "logo": {
+      "src": "https://mms.seloger.com/b/a/1/8/ba18bff2-f103-42a4-ace5-6b9d1c41a3c9.jpg?ci_seal=583dfd7e75f588072ac3b46886d5951c7975fd85",
+      "alt": "logo-RC-613709",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/5/9/a/d/59ad1017-d631-43be-862e-dd6018cdad32.png?ci_eqs=&ci_seal=8cd2741566b4e236bcde69da9103c04e9a911d81",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/courbevoie-92400/agence-65251/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/5/9/a/d/59ad1017-d631-43be-862e-dd6018cdad32.png?ci_eqs=&ci_seal=8cd2741566b4e236bcde69da9103c04e9a911d81",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/courbevoie-92400/agence-65251/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/0/3/c/f/03cfea06-4d30-4ada-9eee-e9c5c146d89f.png?ci_eqs=&ci_seal=64b7869d504f67c10a0bb014ba7a6f8b1f38393a",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/courbevoie-92400/agence-65251/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1048&priceMax=1918.8&priceMin=1279.2",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1048",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR2",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25N4KSQ19JC9"
+}

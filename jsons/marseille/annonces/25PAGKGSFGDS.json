@@ -1,0 +1,1061 @@
+{
+  "brand": "seloger",
+  "id": "25PAGKGSFGDS",
+  "metadata": {
+    "legacyId": "255851659",
+    "creationDate": "2025-12-04T17:23:00Z",
+    "updateDate": "2025-12-08T12:41:24.696Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 11ème",
+        "zipCode": "13011",
+        "district": "Les Camoins"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.501616,
+          43.3000107
+        ]
+      }
+    },
+    "description": {
+      "description": "A Louer Marseille 13011 secteur la valentine les 4 saisons ,appartement de type 3 ,1er étage et dernier d'une maison de village, appartement rénové de 50 m².Séjour avec cuisine ouverte emménagée ,salle d'eau  avec wc , une grande chambre, une plus petite ,climatisation réversible, balcon.\nLoyer 840 Euros dont 40 Euros de provisions pour charges pour eau et Tom. Dépôt de garantie 800 Euros, honoraires de location à la charge des locataires 490 Euros dont 150 Euros pour  l'état des lieux.",
+      "texts": [
+        {
+          "text": "A Louer Marseille 13011 secteur la valentine les 4 saisons ,appartement de type 3 ,1er étage et dernier d'une maison de village, appartement rénové de 50 m².Séjour avec cuisine ouverte emménagée ,salle d'eau  avec wc , une grande chambre, une plus petite ,climatisation réversible, balcon.\nLoyer 840 Euros dont 40 Euros de provisions pour charges pour eau et Tom. Dépôt de garantie 800 Euros, honoraires de location à la charge des locataires 490 Euros dont 150 Euros pour  l'état des lieux."
+        }
+      ],
+      "headline": "A Louer Marseille 13011 Appartement de type 3"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "50 m²",
+        "1er étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "50 m²",
+          "splitValue": "50",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1er étage",
+          "splitValue": "1er",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "840 €",
+        "formatted": "840 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "840 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "d6047d7e-5f47-4082-8adb-67333a859dac",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "f6e494cf-1220-45e5-b999-e08965f26fc3",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "217 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "30 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est 0 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "9d1aa34c-8cf0-4a35-8d76-2e969ce1dbee",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "30 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est 0 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255851659"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "295"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "840 €/mois Loyer charges comprises",
+          "ariaLabel": "840 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "40 €/mois",
+            "ariaLabel": "40 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "16,80 €/mois/m²",
+            "ariaLabel": "16,80 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "800.00"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "1er étage"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "30e2505e-fb00-4b2f-a488-f4dd0d413c8d",
+          "url": "https://mms.seloger.com/3/0/e/2/30e2505e-fb00-4b2f-a488-f4dd0d413c8d.jpg?ci_seal=df41966d0567cac697358b6b4511b49a1a54815f",
+          "alt": "Appartement à louer 840 € 3 pièces 2 chambres 50 m² 1er étage Les Camoins Marseille 11ème 13011",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "885b6456-bb7d-4be8-9b8f-3a445c41dc44",
+          "url": "https://mms.seloger.com/8/8/5/b/885b6456-bb7d-4be8-9b8f-3a445c41dc44.jpg?ci_seal=5eaf4444b57b28ec7df1d6eaa8a031da73422bd4",
+          "classification": {
+            "name": "HOUSE_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ca6b2538-9837-4ad7-8712-8b448053d04b",
+          "url": "https://mms.seloger.com/c/a/6/b/ca6b2538-9837-4ad7-8712-8b448053d04b.jpg?ci_seal=9ebb03f3134d695212ed70632269a9148ed71047",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fc60e92c-97a4-49ea-a7d8-24543e64182d",
+          "url": "https://mms.seloger.com/f/c/6/0/fc60e92c-97a4-49ea-a7d8-24543e64182d.jpg?ci_seal=3b9c078bf81decdab1d15d4722dcc6872e939698",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "13fbf32b-37aa-48b2-ae91-e9e398c99646",
+          "url": "https://mms.seloger.com/1/3/f/b/13fbf32b-37aa-48b2-ae91-e9e398c99646.jpg?ci_seal=ed1c501c53a15250170fcfada45855638c4eb948",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2c28be0b-21c3-4025-ac5b-00847944938b",
+          "url": "https://mms.seloger.com/2/c/2/8/2c28be0b-21c3-4025-ac5b-00847944938b.jpg?ci_seal=ed05698aa212a28fb5001101889f5a9e31b1146e",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ca6b2538-9837-4ad7-8712-8b448053d04b",
+          "url": "https://mms.seloger.com/c/a/6/b/ca6b2538-9837-4ad7-8712-8b448053d04b.jpg?ci_seal=9ebb03f3134d695212ed70632269a9148ed71047",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fc60e92c-97a4-49ea-a7d8-24543e64182d",
+          "url": "https://mms.seloger.com/f/c/6/0/fc60e92c-97a4-49ea-a7d8-24543e64182d.jpg?ci_seal=3b9c078bf81decdab1d15d4722dcc6872e939698",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "13fbf32b-37aa-48b2-ae91-e9e398c99646",
+          "url": "https://mms.seloger.com/1/3/f/b/13fbf32b-37aa-48b2-ae91-e9e398c99646.jpg?ci_seal=ed1c501c53a15250170fcfada45855638c4eb948",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255851659",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13011",
+      "city": "Marseille 11ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 17.3,
+        "accuracy": 1,
+        "high": "24,20",
+        "low": "12,59"
+      },
+      "markerPosition": 36,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "16,80",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "A Louer Marseille 13011 Appartement de type 3",
+      "description": "A Louer Marseille 13011 secteur la valentine les 4 saisons ,appartement de type 3 ,1er étage et dernier d'une maison de village, appartement rénové de 50 m².Séjour avec cuisine ouverte emménagée ,salle d'eau  avec wc , une grande chambre, une plus petite ,climatisation réversible, balcon.\nLoyer 840 Euros dont 40 Euros de provisions pour charges pour eau et Tom. Dépôt de garantie 800 Euros, honoraires de location à la charge des locataires 490 Euros dont 150 Euros pour  l'état des lieux.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "5 jours en ligne",
+      "views": "269 vues",
+      "saves": "6 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25PAGKGSFGDS",
+    "legacyId": "255851659",
+    "brand": "seloger",
+    "agencyId": "RC-014866",
+    "static": {
+      "phoneNumbers": [
+        "04 91 43 90 43"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "04 91 43 90 43"
+      ]
+    },
+    "contactCard": {
+      "title": "ESPACE IMMOBILIER SERVICE",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "04 91 43 90 43"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/3/3/b/7/33b7f0d9-d243-4f25-a07e-9f2e25a4878d.jpg?ci_seal=31396e39baeaac5af180d8ed2cede0d44ea0d3b7",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "ESPACE IMMOBILIER SERVICE",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "04 91 43 90 43"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/3/3/b/7/33b7f0d9-d243-4f25-a07e-9f2e25a4878d.jpg?ci_seal=31396e39baeaac5af180d8ed2cede0d44ea0d3b7"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "ESPACE IMMOBILIER SERVICE",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "04 91 43 90 43"
+      ],
+      "logoUrl": "https://mms.seloger.com/3/3/b/7/33b7f0d9-d243-4f25-a07e-9f2e25a4878d.jpg?ci_seal=31396e39baeaac5af180d8ed2cede0d44ea0d3b7",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "ESPACE IMMOBILIER SERVICE",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/3/3/b/7/33b7f0d9-d243-4f25-a07e-9f2e25a4878d.jpg?ci_seal=31396e39baeaac5af180d8ed2cede0d44ea0d3b7",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-11eme-arrondissement-13011/agence-36409/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "website": "http://www.espaceimmobilier.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-11eme-arrondissement-13011/agence-36409/",
+      "imprintUrl": null,
+      "feeUrl": "http://www.espaceimmobilier.com/i/redac/honoraires",
+      "agencyLegalInformations": [
+        "SARL ESPACE IMMOBILIER SERVICE au capital de 7 622,45 €",
+        "Carte professionnelle A06-2905 délivrée par la Préfecture de BOUCHES DU RHONES",
+        "Garantie financière GALIAN pour un montant de 120 000 €",
+        "<b>Siège:</b> 138 bis route des Camoins, 13011 MARSEILLE",
+        "<b>RCS:</b> MARSEILLE 410158893",
+        "<b>SIRET:</b> 41015889300017"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "138b route des Camoins, 13011 Marseille",
+      "phoneNumbers": [
+        "04 91 43 90 43"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13011",
+    "av_city": "Marseille 11ème",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25PAGKGSFGDS",
+        "price": 840,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 11ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13011",
+        "legacy_id": "255851659",
+        "product_type": "standard",
+        "client_id": "RC-014866",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "55352",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "13011",
+        "estate_type": 1,
+        "id": "255851659",
+        "id_duo": 255851659,
+        "id_solo": 255851659,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 9,
+        "position": 0,
+        "price": 840,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 50
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13011",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255851659",
+      "prix": 900,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 50,
+      "commodites": [],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-11eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 11ème arrondissement 13011",
+          "hoverLabel": "Appartements à louer Marseille 11ème arrondissement 13011",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 50 m² 840 € Les Camoins Marseille (13011)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 50 m² 840 € Les Camoins Marseille (13011)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-11eme-13/les-camoins/255851659.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-11eme-13/les-camoins/255851659.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 50 m² 840 € Les Camoins Marseille (13011)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 50 m² 840 € Les Camoins Marseille (13011)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/3/0/e/2/30e2505e-fb00-4b2f-a488-f4dd0d413c8d.jpg?ci_seal=df41966d0567cac697358b6b4511b49a1a54815f"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 50 m² 840 € Les Camoins Marseille (13011)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-11eme-13/les-camoins/255851659.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 50 m² 840 € Les Camoins Marseille (13011)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 50 m² 840 € Les Camoins Marseille (13011)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/3/0/e/2/30e2505e-fb00-4b2f-a488-f4dd0d413c8d.jpg?ci_seal=df41966d0567cac697358b6b4511b49a1a54815f"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 50 m² 840 € Les Camoins Marseille (13011)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 50 m² 840 € Les Camoins Marseille (13011)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-11eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 11ème arrondissement 13011",
+          "hoverLabel": "Appartements à louer Marseille 11ème arrondissement 13011",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-11eme-13/les-camoins/255851659.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#909090",
+    "textColor": "dark",
+    "providerName": "ESPACE IMMOBILIER SERVICE",
+    "logo": {
+      "src": "https://mms.seloger.com/3/3/b/7/33b7f0d9-d243-4f25-a07e-9f2e25a4878d.jpg?ci_seal=31396e39baeaac5af180d8ed2cede0d44ea0d3b7",
+      "alt": "logo-RC-014866",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/c/1/b/3/c1b33f6d-fb5d-4da3-babd-79104c54620c.png?ci_eqs=&ci_seal=399e741efcf89ee4f6f43c9eb1ab3cd7cb213d23",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-11eme-arrondissement-13011/agence-36409/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/c/1/b/3/c1b33f6d-fb5d-4da3-babd-79104c54620c.png?ci_eqs=&ci_seal=399e741efcf89ee4f6f43c9eb1ab3cd7cb213d23",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-11eme-arrondissement-13011/agence-36409/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/a/9/b/6/a9b695fe-720e-4aa4-9d2b-49f203b82e48.png?ci_eqs=&ci_seal=0e368ffafdddcbb189189ae17743ff325da199b8",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-11eme-arrondissement-13011/agence-36409/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1101&priceMax=1008&priceMin=672",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1101",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR11",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25PAGKGSFGDS"
+}

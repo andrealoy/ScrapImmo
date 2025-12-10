@@ -1,0 +1,933 @@
+{
+  "brand": "seloger",
+  "id": "25ALL4UM9C3S",
+  "metadata": {
+    "legacyId": "253059297",
+    "creationDate": "2025-10-27T18:10:00Z",
+    "updateDate": "2025-12-06T01:17:03.344Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Lyon 2ème",
+        "zipCode": "69002",
+        "district": "Presqu'île - Centre ville - Cordeliers"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8328359,
+          45.7595445
+        ]
+      }
+    },
+    "description": {
+      "description": "RUE EMILE ZOLA\r\nRésidence située à deux pas de la Place Bellecour, proche de toutes commodités : transports, commerces, restaurants, etc..\r\n\r\nT2 BIS DUPLEX de haut standing entièrement meublé de 72 m². Il se compose d'une entrée, d'une pièce de vie spacieuse et lumineuse avec parquet au sol, cheminée, ouverte sur une cuisine équipée (évier, plaque de cuisson, hotte, four, réfrigérateur, lave vaisselle, meubles de rangement, plan de travail) et WC séparés. A l'étage, vous profiterez également d'une chambre avec placard, d'une salle de bains (baignoire, meuble vasque, miroir, lave linge) et d'un espace bureau ou chambre enfant. Chauffage individuel électrique.\r\n\r\nComplément de loyer : Logement entièrement rénové comprenant de très beaux volumes, avec parquet massif et pierres de taille Mobilier, équipements et éléments décoratifs de haut standing.\r\n\r\nVALORITY ADB.\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :",
+      "texts": [
+        {
+          "text": "RUE EMILE ZOLA\r\nRésidence située à deux pas de la Place Bellecour, proche de toutes commodités : transports, commerces, restaurants, etc..\r\n\r\nT2 BIS DUPLEX de haut standing entièrement meublé de 72 m². Il se compose d'une entrée, d'une pièce de vie spacieuse et lumineuse avec parquet au sol, cheminée, ouverte sur une cuisine équipée (évier, plaque de cuisson, hotte, four, réfrigérateur, lave vaisselle, meubles de rangement, plan de travail) et WC séparés. A l'étage, vous profiterez également d'une chambre avec placard, d'une salle de bains (baignoire, meuble vasque, miroir, lave linge) et d'un espace bureau ou chambre enfant. Chauffage individuel électrique.\r\n\r\nComplément de loyer : Logement entièrement rénové comprenant de très beaux volumes, avec parquet massif et pierres de taille Mobilier, équipements et éléments décoratifs de haut standing.\r\n\r\nVALORITY ADB.\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :"
+        }
+      ],
+      "headline": "T2 BIS DUPLEX MEUBLE à LYON 2"
+    },
+    "hardFacts": {
+      "title": "Duplex à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "72 m²",
+        "2ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "72 m²",
+          "splitValue": "72",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2ème étage",
+          "splitValue": "2ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 600 €",
+        "formatted": "1 600 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1600 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1948"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Entretenu"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "872fe355-0f78-45c0-94f3-e79633ec1c79",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 246 et 474 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 246 et 474 € par an. Prix moyens des énergies indexés au 26/09/2024 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "be367ad7-842b-43ec-b601-cc80daacd570",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "181 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "6 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "ee3dec6b-7076-4707-80a3-d138bed2406f",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "6 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "253059297"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "24339"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 600 €/mois Loyer charges comprises",
+          "ariaLabel": "1600 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "50 €/mois",
+            "ariaLabel": "50 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "22,22 €/mois/m²",
+            "ariaLabel": "22,22 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "3100"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain"
+        },
+        {
+          "icon": "floor-covering",
+          "value": "Revêtement du sol: Parquet"
+        },
+        {
+          "value": "Cheminée",
+          "icon": "chimney"
+        },
+        {
+          "icon": "separateEntrance",
+          "value": "Entrée séparée"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "14fe0d86-2336-42e6-8426-9f023f77b8b7",
+          "url": "https://mms.seloger.com/1/4/f/e/14fe0d86-2336-42e6-8426-9f023f77b8b7.jpg?ci_seal=288c8967f95105af74b08e5aa4260bda352767cd",
+          "alt": "Duplex à louer 1 600 € 2 pièces 1 chambre 72 m² 2ème étage Presqu'île - Centre ville - Cordeliers Lyon 2ème 69002",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "955e33c8-ad7a-4ab7-97c5-45bdbb108321",
+          "url": "https://mms.seloger.com/9/5/5/e/955e33c8-ad7a-4ab7-97c5-45bdbb108321.jpg?ci_seal=f10a3cf093ef0781bf96d8e8c33f7bbf11fb76c9",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9a20c21c-1e71-485e-bc5b-2ec47503d41c",
+          "url": "https://mms.seloger.com/9/a/2/0/9a20c21c-1e71-485e-bc5b-2ec47503d41c.jpg?ci_seal=30847ab36c189d8153cfb444f1df0cfce31a5799",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c1ae612e-fbdf-4721-98d0-7c13b186b779",
+          "url": "https://mms.seloger.com/c/1/a/e/c1ae612e-fbdf-4721-98d0-7c13b186b779.jpg?ci_seal=fbb575d0e6cfb74d8516c5fe0e4b502512f9e034",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fd67e6a7-5b6d-4e6f-bff9-76e301ca9a59",
+          "url": "https://mms.seloger.com/f/d/6/7/fd67e6a7-5b6d-4e6f-bff9-76e301ca9a59.jpg?ci_seal=4776d80b83e239fd1c62194fafcf53547fb5b755",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3676d22b-c6b1-42fb-add5-e12674d54b48",
+          "url": "https://mms.seloger.com/3/6/7/6/3676d22b-c6b1-42fb-add5-e12674d54b48.jpg?ci_seal=a8edc10c2954f04819ebf421e1940489df65cdc2",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5911c259-9ec8-46fa-b015-27677af51dde",
+          "url": "https://mms.seloger.com/5/9/1/1/5911c259-9ec8-46fa-b015-27677af51dde.jpg?ci_seal=91ec5aaa89479549193e085c2bd2041ae67befe1",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9248e112-c86d-42a6-9909-201c459ad1f5",
+          "url": "https://mms.seloger.com/9/2/4/8/9248e112-c86d-42a6-9909-201c459ad1f5.jpg?ci_seal=3cf196e9e3398731a89d3b08963a3d43d2571860",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e82f267d-569d-453a-a368-bef966bd4f93",
+          "url": "https://mms.seloger.com/e/8/2/f/e82f267d-569d-453a-a368-bef966bd4f93.jpg?ci_seal=13b7401e4b227539c1501f630e10b5093dcdd3e3",
+          "classification": {
+            "name": "HOME_OFFICE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "071f7071-d7d8-4814-a963-d615f79a557d",
+          "url": "https://mms.seloger.com/0/7/1/f/071f7071-d7d8-4814-a963-d615f79a557d.jpg?ci_seal=66dc6ec6b1e3c14e9cac8556b54db36a60a61195",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1f0cac2f-3bdd-4989-992f-b320b7e8d15f",
+          "url": "https://mms.seloger.com/1/f/0/c/1f0cac2f-3bdd-4989-992f-b320b7e8d15f.jpg?ci_seal=85471d1dedf4db4eb705145fdd01ae8539a93a65",
+          "classification": {
+            "name": "COURTYARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "253059297",
+      "federalStateGeoId": "AD04FR31",
+      "zip": "69002",
+      "city": "Lyon 2ème",
+      "country": "FRA",
+      "region": "Auvergne-Rhône-Alpes",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 17.24,
+        "accuracy": 4,
+        "high": "26,76",
+        "low": "12,73"
+      },
+      "markerPosition": 68,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "22,22",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "T2 BIS DUPLEX MEUBLE à LYON 2",
+      "description": "RUE EMILE ZOLA\r\nRésidence située à deux pas de la Place Bellecour, proche de toutes commodités : transports, commerces, restaurants, etc..\r\n\r\nT2 BIS DUPLEX de haut standing entièrement meublé de 72 m². Il se compose d'une entrée, d'une pièce de vie spacieuse et lumineuse avec parquet au sol, cheminée, ouverte sur une cuisine équipée (évier, plaque de cuisson, hotte, four, réfrigérateur, lave vaisselle, meubles de rangement, plan de travail) et WC séparés. A l'étage, vous profiterez également d'une chambre avec placard, d'une salle de bains (baignoire, meuble vasque, miroir, lave linge) et d'un espace bureau ou chambre enfant. Chauffage individuel électrique.\r\n\r\nComplément de loyer : Logement entièrement rénové comprenant de très beaux volumes, avec parquet massif et pierres de taille Mobilier, équipements et éléments décoratifs de haut standing.\r\n\r\nVALORITY ADB.\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 mois en ligne",
+      "views": "159 vues",
+      "saves": "8 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25ALL4UM9C3S",
+    "legacyId": "253059297",
+    "brand": "seloger",
+    "agencyId": "RC-092978",
+    "static": {
+      "phoneNumbers": [
+        "04 78 17 14 17"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "04 78 17 14 17"
+      ]
+    },
+    "contactCard": {
+      "title": "Valority Administration de Biens",
+      "subtitle": "Valority Administration de Biens",
+      "phoneNumbers": [
+        "04 78 17 14 17"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/d/a/7/b/da7b2202-f1fd-4682-a6f0-5a6ca348684b.jpg?ci_seal=8658ac49107a38d21cb137e14487d3b1ad7940e6",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Valority Administration de Biens",
+        "subtitle": "Valority Administration de Biens",
+        "phoneNumbers": [
+          "04 78 17 14 17"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/d/a/7/b/da7b2202-f1fd-4682-a6f0-5a6ca348684b.jpg?ci_seal=8658ac49107a38d21cb137e14487d3b1ad7940e6"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Valority Administration de Biens",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Valority Administration de Biens",
+      "subtitle": "Valority Administration de Biens",
+      "phoneNumbers": [
+        "04 78 17 14 17"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Valority Administration de Biens",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/d/a/7/b/da7b2202-f1fd-4682-a6f0-5a6ca348684b.jpg?ci_seal=8658ac49107a38d21cb137e14487d3b1ad7940e6",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-6eme-arrondissement-69006/agence-13217/"
+      },
+      "contactCard": {
+        "title": "Valority Administration de Biens",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "https://www.valority.com/location-immobiliere/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-6eme-arrondissement-69006/agence-13217/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "PURE GESTION",
+        "<b>Siège:</b> 94 QUAI CHARLES DE GAULLE, 69463 LYON CEDEX 06",
+        "<b>RCS:</b> 410463947",
+        "<b>SIRET:</b> 41046394700078"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "94 quai Charles de Gaulle, 69006 Lyon 6ème",
+      "phoneNumbers": [
+        "04 78 17 14 17"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "69002",
+    "av_city": "Lyon",
+    "av_energy_certificate": "B",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25ALL4UM9C3S",
+        "price": 1600,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Lyon",
+        "region": "Auvergne-Rhône-Alpes",
+        "province": "Rhône",
+        "zip_code": "69002",
+        "building_state": "WELL_KEPT",
+        "legacy_id": "253059297",
+        "product_type": "standard",
+        "client_id": "RC-092978",
+        "energy_certificate": "B"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "80002",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "B",
+        "estate_postalcode": "69002",
+        "estate_type": 9,
+        "id": "253059297",
+        "id_duo": 253059297,
+        "id_solo": 253059297,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 11,
+        "position": 0,
+        "price": 1600,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 72,
+        "year_of_construction": 1948
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "69123",
+      "cp": "69002",
+      "geodp": "69",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "253059297",
+      "prix": 1600,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 72,
+      "commodites": [
+        "Chauffage-electrique",
+        "cheminee",
+        "Cuisine-équipée",
+        "parquet",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "B"
+    }
+  },
+  "seo": {
+    "breadcrumb": {},
+    "headInfo": {
+      "title": "",
+      "titleWithCount": "",
+      "description": "",
+      "canonical": "",
+      "robots": "",
+      "breadcrumb": [],
+      "redirectUrl": ""
+    }
+  },
+  "farbwelt": {
+    "color": "#103050",
+    "textColor": "light",
+    "providerName": "Valority Administration de Biens",
+    "logo": {
+      "src": "https://mms.seloger.com/d/a/7/b/da7b2202-f1fd-4682-a6f0-5a6ca348684b.jpg?ci_seal=8658ac49107a38d21cb137e14487d3b1ad7940e6",
+      "alt": "logo-RC-092978",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/9/2/a/4/92a47d6f-eafb-413d-bc77-2d7edc2d4155.png?ci_eqs=&ci_seal=240b55e8c8c1e0342874bc6afad4ef213189240c",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-6eme-arrondissement-69006/agence-13217/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/9/2/a/4/92a47d6f-eafb-413d-bc77-2d7edc2d4155.png?ci_eqs=&ci_seal=240b55e8c8c1e0342874bc6afad4ef213189240c",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-6eme-arrondissement-69006/agence-13217/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/1/9/2/b/192b198f-5fc2-44ba-b1d0-9352cc3aa7f9.png?ci_eqs=&ci_seal=665a7434f6079530ebf8334cbd6863ce581cea77",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-6eme-arrondissement-69006/agence-13217/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR9343&priceMax=1920&priceMin=1280",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR9343",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR18",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR28808",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR70",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR31",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "propertySubType": "MULTI_STOREY",
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25ALL4UM9C3S"
+}

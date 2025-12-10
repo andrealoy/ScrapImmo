@@ -1,0 +1,1068 @@
+{
+  "brand": "seloger",
+  "id": "25GQW2HWZVS7",
+  "metadata": {
+    "legacyId": "255943853",
+    "creationDate": "2025-12-05T22:36:00Z",
+    "updateDate": "2025-12-06T22:46:15.211Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 8ème",
+        "zipCode": "13008",
+        "district": "Saint Giniez"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38488,
+          43.27379
+        ]
+      }
+    },
+    "description": {
+      "description": "Joli studio d'une superficie de 30m² au rez-de-chaussée d'un petit immeuble. Le bien se compose d'une cuisine équipée donnant sur le séjour, d'une salle de bain avec WC et d'un petit balcon.\r\n\r\nIl se situe proche de toutes commodités, commerces, transports et ligne de métro.",
+      "texts": [
+        {
+          "text": "Joli studio d'une superficie de 30m² au rez-de-chaussée d'un petit immeuble. Le bien se compose d'une cuisine équipée donnant sur le séjour, d'une salle de bain avec WC et d'un petit balcon.\r\n\r\nIl se situe proche de toutes commodités, commerces, transports et ligne de métro."
+        }
+      ],
+      "headline": "Studio Rivet / Square Monticelli"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "30 m²",
+        "RDC"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "30 m²",
+          "splitValue": "30",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "RDC",
+          "splitValue": "RDC",
+          "label": ""
+        }
+      ],
+      "price": {
+        "value": "620 €",
+        "formatted": "620 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "620 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1989"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "de1553a1-32d6-488f-a834-243f8adc77a9",
+          "scales": [
+            {
+              "key": "125c3d58-fca9-42e5-b607-51b3e0c721c2",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "220 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "5dc93afd-6115-459a-bdef-6050a1a44077",
+              "efficiencyClass": {},
+              "values": [],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255943853"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "597"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "620 €/mois Loyer charges comprises",
+          "ariaLabel": "620 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "30 €/mois",
+            "ariaLabel": "30 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "20,67 €/mois/m²",
+            "ariaLabel": "20,67 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "590"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Rez-de-chaussée"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "Rez-de-chaussée"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Balcon"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "c3d425e4-aa5c-412f-ae3c-961be1da1d1c",
+          "url": "https://mms.seloger.com/c/3/d/4/c3d425e4-aa5c-412f-ae3c-961be1da1d1c.jpg?ci_seal=9edb3b3dae2f84031af5ac9dcfac74beb7fbeef3",
+          "alt": "Appartement à louer 620 € 1 pièce 30 m² RDC Saint Giniez Marseille 8ème 13008",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "006b54be-282f-4c27-810c-feadfce33513",
+          "url": "https://mms.seloger.com/0/0/6/b/006b54be-282f-4c27-810c-feadfce33513.jpg?ci_seal=ae487953254c8f54b04ffdb1cfb883a73a4c220e",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8ba0169a-7cd9-4484-a503-e7cf72770a57",
+          "url": "https://mms.seloger.com/8/b/a/0/8ba0169a-7cd9-4484-a503-e7cf72770a57.jpg?ci_seal=08c57f6f20645e631c0fcb33ae62bcf70199109e",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f0f8ad71-5bf3-4c0d-87cb-22a9ff7efa88",
+          "url": "https://mms.seloger.com/f/0/f/8/f0f8ad71-5bf3-4c0d-87cb-22a9ff7efa88.jpg?ci_seal=229b743acbdb7f0d5e9defc55796e934c3538d9c",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "347ce60a-9495-41a4-bc64-32b086f10d6b",
+          "url": "https://mms.seloger.com/3/4/7/c/347ce60a-9495-41a4-bc64-32b086f10d6b.jpg?ci_seal=69de67f429c0532eb218f1ffd63c75da221ee481",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "44c1f7a5-5df7-4a7b-9f9d-465e1442cd25",
+          "url": "https://mms.seloger.com/4/4/c/1/44c1f7a5-5df7-4a7b-9f9d-465e1442cd25.jpg?ci_seal=5d962bcf9aacddfbf6b756dd1fac5857d3a12b9d",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255943853",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13008",
+      "city": "Marseille 8ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 18.47,
+        "accuracy": 2,
+        "high": "27,84",
+        "low": "13,44"
+      },
+      "markerPosition": 50,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "20,67",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Studio Rivet / Square Monticelli",
+      "description": "Joli studio d'une superficie de 30m² au rez-de-chaussée d'un petit immeuble. Le bien se compose d'une cuisine équipée donnant sur le séjour, d'une salle de bain avec WC et d'un petit balcon.\r\n\r\nIl se situe proche de toutes commodités, commerces, transports et ligne de métro.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "4 jours en ligne",
+      "views": "162 vues",
+      "saves": "14 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25GQW2HWZVS7",
+    "legacyId": "255943853",
+    "brand": "seloger",
+    "agencyId": "RC-067747",
+    "static": {
+      "phoneNumbers": [
+        "0491323030"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0491323030"
+      ]
+    },
+    "contactCard": {
+      "title": "CABINET ISTRIA",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0491323030"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/c/9/6/7/c9678108-41d4-42c2-8e25-a2bd0f1b18b4.jpg?ci_seal=d1d238c5d00d0426b8fdd26997bcb547b4cae80f",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "CABINET ISTRIA",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "0491323030"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/c/9/6/7/c9678108-41d4-42c2-8e25-a2bd0f1b18b4.jpg?ci_seal=d1d238c5d00d0426b8fdd26997bcb547b4cae80f"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "CABINET ISTRIA",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0491323030"
+      ],
+      "logoUrl": "https://mms.seloger.com/c/9/6/7/c9678108-41d4-42c2-8e25-a2bd0f1b18b4.jpg?ci_seal=d1d238c5d00d0426b8fdd26997bcb547b4cae80f",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "CABINET ISTRIA",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/c/9/6/7/c9678108-41d4-42c2-8e25-a2bd0f1b18b4.jpg?ci_seal=d1d238c5d00d0426b8fdd26997bcb547b4cae80f",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-68067/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "website": "http://www.cabinetistria.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-68067/",
+      "imprintUrl": null,
+      "feeUrl": "http://istria.lesty.immo//bexterimmo/pdf/printHono-noauth.php?agence=1",
+      "agencyLegalInformations": [
+        "Carte professionnelle B06-3356 délivrée par la Préfecture de BOUCHES DU RHONE",
+        "Garantie financière FNAIM pour un montant de 120 000 €",
+        "<b>Siège:</b> 13008 MARSEILLE",
+        "<b>RCS:</b> 432512127",
+        "<b>SIRET:</b> 43251212700031"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "24 rue du Commandant Rolland, 13008 Marseille",
+      "phoneNumbers": [
+        "0491323030"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13008",
+    "av_city": "Marseille 8ème",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25GQW2HWZVS7",
+        "price": 620,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 8ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13008",
+        "legacy_id": "255943853",
+        "product_type": "standard",
+        "client_id": "RC-067747",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "65806",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "13008",
+        "estate_type": 1,
+        "id": "255943853",
+        "id_duo": 255943853,
+        "id_solo": 255943853,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 6,
+        "position": 0,
+        "price": 620,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 30,
+        "year_of_construction": 1989
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13008",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255943853",
+      "prix": 700,
+      "nb_pieces": 1,
+      "surface": 30,
+      "etage": 0,
+      "commodites": [
+        "balcon",
+        "Cuisine-équipée",
+        "rez-de-chaussee",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-8eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 8ème arrondissement 13008",
+          "hoverLabel": "Appartements à louer Marseille 8ème arrondissement 13008",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 30 m² 620 € Saint Giniez Marseille (13008)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 30 m² 620 € Saint Giniez Marseille (13008)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-8eme-13/saint-giniez/255943853.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-8eme-13/saint-giniez/255943853.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 30 m² 620 € Saint Giniez Marseille (13008)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 30 m² 620 € Saint Giniez Marseille (13008)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/c/3/d/4/c3d425e4-aa5c-412f-ae3c-961be1da1d1c.jpg?ci_seal=9edb3b3dae2f84031af5ac9dcfac74beb7fbeef3"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 30 m² 620 € Saint Giniez Marseille (13008)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-8eme-13/saint-giniez/255943853.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 30 m² 620 € Saint Giniez Marseille (13008)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 30 m² 620 € Saint Giniez Marseille (13008)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/c/3/d/4/c3d425e4-aa5c-412f-ae3c-961be1da1d1c.jpg?ci_seal=9edb3b3dae2f84031af5ac9dcfac74beb7fbeef3"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 30 m² 620 € Saint Giniez Marseille (13008)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 30 m² 620 € Saint Giniez Marseille (13008)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-8eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 8ème arrondissement 13008",
+          "hoverLabel": "Appartements à louer Marseille 8ème arrondissement 13008",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-8eme-13/saint-giniez/255943853.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1081&priceMax=744&priceMin=496",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1081",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR8",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25GQW2HWZVS7"
+}

@@ -1,0 +1,872 @@
+{
+  "brand": "seloger",
+  "id": "25VS3Y28TI9U",
+  "metadata": {
+    "legacyId": "251058919",
+    "creationDate": "2025-09-29T18:03:00Z",
+    "updateDate": "2025-12-09T01:16:54.765Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 2ème",
+        "zipCode": "13002",
+        "district": "Les Grandes Carmes"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3708353,
+          43.299944
+        ]
+      }
+    },
+    "description": {
+      "description": "Visite Virtuelle de l'environnement et du duplex :\r\n\r\n?feature=shared\r\n\r\nTrès bel appartement Haussmannien , refait à neuf avec des matériaux de qualité et entièrement meublé. Idéalement situé, dans un immeuble Haussmannien quai de la Joliette, à proximité du quartier du panier, du Mucem, des terrasses du port et du vieux port. Duplex de 45m², au 5eme étage avec ascenseur rénové, grand séjour, 1 chambre à l'étage et un espace travail, 1 salle d'eau, Wc, cuisine équipée.\r\n\r\nCharges comprises : 240€ comprenant Žl'électricité plafonnée à 125€/mois, forfait internet 39€/mois, charges de copropriété (gardien, entretien immeuble, etc.).\r\n\r\nCet appartement est l'éligible uniquement au bail mobilité sur présentation de justificatif.\r\n\r\nPlus de renseignements sur : #:~:text=Le%20bail%20mobilit%C3%A9%20est%20conclu,non%20renouvelable%20et%20non%20reconductible.",
+      "texts": [
+        {
+          "text": "Visite Virtuelle de l'environnement et du duplex :\r\n\r\n?feature=shared\r\n\r\nTrès bel appartement Haussmannien , refait à neuf avec des matériaux de qualité et entièrement meublé. Idéalement situé, dans un immeuble Haussmannien quai de la Joliette, à proximité du quartier du panier, du Mucem, des terrasses du port et du vieux port. Duplex de 45m², au 5eme étage avec ascenseur rénové, grand séjour, 1 chambre à l'étage et un espace travail, 1 salle d'eau, Wc, cuisine équipée.\r\n\r\nCharges comprises : 240€ comprenant Žl'électricité plafonnée à 125€/mois, forfait internet 39€/mois, charges de copropriété (gardien, entretien immeuble, etc.).\r\n\r\nCet appartement est l'éligible uniquement au bail mobilité sur présentation de justificatif.\r\n\r\nPlus de renseignements sur : #:~:text=Le%20bail%20mobilit%C3%A9%20est%20conclu,non%20renouvelable%20et%20non%20reconductible."
+        }
+      ],
+      "headline": "Duplex Haussmannien proche Joliette"
+    },
+    "hardFacts": {
+      "title": "Duplex à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "45 m²",
+        "5ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "45 m²",
+          "splitValue": "45",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5ème étage",
+          "splitValue": "5ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 790 €",
+        "formatted": "1 790 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "1790 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "31d5fbf6-b57e-4e39-a0f9-f302f714481c",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "4018a3bf-3ba5-467a-b80b-bbbdddda1c98",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "142 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "4 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "4415acea-1a01-43d9-919e-5631c172851b",
+              "efficiencyClass": {
+                "index": 0,
+                "rating": "A"
+              },
+              "values": [
+                {
+                  "value": "4 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : A avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "251058919"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "MC-37483"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 790 €/mois Loyer charges comprises",
+          "ariaLabel": "1790 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "240 €/mois",
+            "ariaLabel": "240 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "39,78 €/mois/m²",
+            "ariaLabel": "39,78 euros par mètre carré"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "5ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain; 1 salle de douches"
+        },
+        {
+          "value": "Gardien",
+          "icon": "custodian"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "3a6e2f5a-fabf-4167-b13f-0f86c357cd58",
+          "url": "https://mms.seloger.com/3/a/6/e/3a6e2f5a-fabf-4167-b13f-0f86c357cd58.jpg?ci_seal=7a2b8bda77d1a371caed1864107b5d588f4262e3",
+          "alt": "Duplex à louer 1 790 € 2 pièces 1 chambre 45 m² 5ème étage Les Grandes Carmes Marseille 2ème 13002",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b826c9ba-86e3-48ab-82a0-e693bc6d4755",
+          "url": "https://mms.seloger.com/b/8/2/6/b826c9ba-86e3-48ab-82a0-e693bc6d4755.jpg?ci_seal=99cb91a401b9637745693e25b8b989374133e862",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e5021179-29f0-4f18-b72c-3c3672eef3b2",
+          "url": "https://mms.seloger.com/e/5/0/2/e5021179-29f0-4f18-b72c-3c3672eef3b2.jpg?ci_seal=19053009b6e54d8bad7cc701bdc162732ebe93b4",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "613d2677-702c-4595-acaa-a8d79ab9cca8",
+          "url": "https://mms.seloger.com/6/1/3/d/613d2677-702c-4595-acaa-a8d79ab9cca8.jpg?ci_seal=7a8ed544da5d9817a1d55fcda37ee039f33ae950",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7fb2bf46-8ef1-4903-86e0-916e75b4aa5c",
+          "url": "https://mms.seloger.com/7/f/b/2/7fb2bf46-8ef1-4903-86e0-916e75b4aa5c.jpg?ci_seal=cd88901dcf8ea04279f5c758ba9d79707658cc3e",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9a211e67-d81e-4865-b09d-945011f2b8a9",
+          "url": "https://mms.seloger.com/9/a/2/1/9a211e67-d81e-4865-b09d-945011f2b8a9.jpg?ci_seal=e74b7cadd8a8822303779ca775af1b0443e34b92",
+          "classification": {
+            "name": "SWIMMING_POOL",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "973256d7-af18-43bb-907b-49f443971d19",
+          "url": "https://mms.seloger.com/9/7/3/2/973256d7-af18-43bb-907b-49f443971d19.jpg?ci_seal=4ff54abe81ac40203151204c44c316b0c9453bd2",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4c9c208a-318f-461b-aec4-0c82fbe5d894",
+          "url": "https://mms.seloger.com/4/c/9/c/4c9c208a-318f-461b-aec4-0c82fbe5d894.jpg?ci_seal=905dbfb877deeb0eb618a02c953559391484d470",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d9c31bbb-9c7e-4d6c-b482-b7622e9552c3",
+          "url": "https://mms.seloger.com/d/9/c/3/d9c31bbb-9c7e-4d6c-b482-b7622e9552c3.jpg?ci_seal=337b24b94b113f5fdee2e2566c51c46ab4e14243",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7914fe6b-0383-4e69-a04e-223e95b0a1f9",
+          "url": "https://mms.seloger.com/7/9/1/4/7914fe6b-0383-4e69-a04e-223e95b0a1f9.jpg?ci_seal=3e00e349ef4f6b502cb893d2449288e89ec44135",
+          "classification": {
+            "name": "HOME_OFFICE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e7241886-d4e1-4e5e-8642-f44a7589e510",
+          "url": "https://mms.seloger.com/e/7/2/4/e7241886-d4e1-4e5e-8642-f44a7589e510.jpg?ci_seal=3dde3777757eb8f3f0fae0e5568572bccebf4ddd",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "956b2ca7-e6fd-4f65-a466-14431b06c247",
+          "url": "https://mms.seloger.com/9/5/6/b/956b2ca7-e6fd-4f65-a466-14431b06c247.jpg?ci_seal=c1f89c3680f3cbda783b98c3fe8dc3fe42f291ac",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5a416065-89fb-43ba-a171-e7136492694c",
+          "url": "https://mms.seloger.com/5/a/4/1/5a416065-89fb-43ba-a171-e7136492694c.jpg?ci_seal=13005722ee9f413980be078f7ac23e1866f1b168",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "251058919",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13002",
+      "city": "Marseille 2ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.62,
+        "accuracy": 1,
+        "high": "22,71",
+        "low": "11,03"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "39,78",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Duplex Haussmannien proche Joliette",
+      "description": "Visite Virtuelle de l'environnement et du duplex :\r\n\r\n?feature=shared\r\n\r\nTrès bel appartement Haussmannien , refait à neuf avec des matériaux de qualité et entièrement meublé. Idéalement situé, dans un immeuble Haussmannien quai de la Joliette, à proximité du quartier du panier, du Mucem, des terrasses du port et du vieux port. Duplex de 45m², au 5eme étage avec ascenseur rénové, grand séjour, 1 chambre à l'étage et un espace travail, 1 salle d'eau, Wc, cuisine équipée.\r\n\r\nCharges comprises : 240€ comprenant Žl'électricité plafonnée à 125€/mois, forfait internet 39€/mois, charges de copropriété (gardien, entretien immeuble, etc.).\r\n\r\nCet appartement est l'éligible uniquement au bail mobilité sur présentation de justificatif.\r\n\r\nPlus de renseignements sur : #:~:text=Le%20bail%20mobilit%C3%A9%20est%20conclu,non%20renouvelable%20et%20non%20reconductible.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "2 mois en ligne",
+      "views": "56 vues",
+      "saves": "2 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25VS3Y28TI9U",
+    "legacyId": "251058919",
+    "brand": "seloger",
+    "agencyId": "RC-057364",
+    "static": {
+      "phoneNumbers": [
+        "01 76 44 06 66"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "01 76 44 06 66"
+      ]
+    },
+    "contactCard": {
+      "title": "WIZI",
+      "subtitle": "Agence Tyrell",
+      "phoneNumbers": [
+        "01 76 44 06 66"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/e/f/7/4/ef74585f-baa5-4ea1-856e-8f9d4b090f11.jpg?ci_seal=c4e14766c37b37f0336b65afde46fa2eff7e567e",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "WIZI",
+        "subtitle": "Agence Tyrell",
+        "phoneNumbers": [
+          "01 76 44 06 66"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/e/f/7/4/ef74585f-baa5-4ea1-856e-8f9d4b090f11.jpg?ci_seal=c4e14766c37b37f0336b65afde46fa2eff7e567e"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Agence Tyrell",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "WIZI",
+      "subtitle": "WIZI",
+      "phoneNumbers": [
+        "01 76 44 06 66"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "WIZI",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/e/f/7/4/ef74585f-baa5-4ea1-856e-8f9d4b090f11.jpg?ci_seal=c4e14766c37b37f0336b65afde46fa2eff7e567e",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/bagneux-92220/agence-7047/"
+      },
+      "contactCard": {
+        "title": "Agence Tyrell",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://wizi.io/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/bagneux-92220/agence-7047/",
+      "imprintUrl": null,
+      "feeUrl": "http://vd.seloger.com/files/2/8/0/q/280qp3db8ymodobj0gqwm14avaejhks5n3cjgo934/Capture+d_ecran+2023-06-09+a+09.51.25.png",
+      "agencyLegalInformations": [
+        "SAS TYRELL au capital de 903 809 €",
+        "Carte professionnelle CPI92012017000018448 délivrée par la Préfecture de PARIS",
+        "Garantie financière GALIAN pour un montant de 200 000 €",
+        "<b>Siège:</b> 23 avenue de la Motte-Picquet, 75007 PARIS",
+        "<b>RCS:</b> PARIS 819520222",
+        "<b>SIRET:</b> 81952022200012"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "55 rue Alphonse Pluchet, 92220 Bagneux",
+      "phoneNumbers": [
+        "01 76 44 06 66"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13002",
+    "av_city": "Marseille 2ème",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25VS3Y28TI9U",
+        "price": 1790,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 2ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13002",
+        "legacy_id": "251058919",
+        "product_type": "standard",
+        "client_id": "RC-057364",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "200554",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "13002",
+        "estate_type": 9,
+        "id": "251058919",
+        "id_duo": 251058919,
+        "id_solo": 251058919,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 13,
+        "position": 0,
+        "price": 1790,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 45
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13002",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "251058919",
+      "prix": 1800,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 45,
+      "commodites": [
+        "ascenseur",
+        "Cuisine-équipée",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {},
+    "headInfo": {
+      "title": "",
+      "titleWithCount": "",
+      "description": "",
+      "canonical": "",
+      "robots": "",
+      "breadcrumb": [],
+      "redirectUrl": ""
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1046&priceMax=2148&priceMin=1432",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1046",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR2",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "propertySubType": "MULTI_STOREY",
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25VS3Y28TI9U"
+}

@@ -208,37 +208,61 @@ class SeLogerDataProcessor:
         df.to_csv(output_path, index=False)
 
         return df
+    def _process_and_save(self, json_files, output_path):
+        df_raw = self._merge_jsons(json_files)
+        print(f"🔢 DataFrame brut : {df_raw.shape}")
+
+        df_clean = self._clean_dataframe(df_raw, output_path)
+        print(f"✨ DataFrame nettoyé : {df_clean.shape}")
+        print(f"💾 Sauvegardé -> {output_path}")
+
+        return df_clean
 
     # ------------------------------------------------------------------
     # PIPELINE FINAL
     # ------------------------------------------------------------------
     def run(self, city_name=None, output_path="data/cleaned.csv"):
         """
-        Exécute tout le pipeline :
-        - collecter JSONs
-        - fusionner
-        - nettoyer
-        - exporter
+        Ne nettoie que si nécessaire :
+        - CSV non existant
+        - un JSON plus récent que le CSV
+        Sinon, charge directement le CSV.
         """
 
-        print(f"📂 Traitement de : {city_name or 'toutes les villes'}")
+        print(f"📂 Vérification de : {city_name}")
 
         json_files = self._list_jsons(city_name)
         if not json_files:
             print("⚠️ Aucun fichier JSON trouvé.")
             return pd.DataFrame()
 
-        print(f"📄 {len(json_files)} fichiers trouvés\n")
+        json_files = list(json_files)
+        last_json_time = max(f.stat().st_mtime for f in json_files)
 
-        df_raw = self._merge_jsons(json_files)
-        print(f"🔢 DataFrame brut : {df_raw.shape}")
+        csv_path = Path(output_path)
 
-        df_clean = self._clean_dataframe(df_raw, output_path)
+        # ------------------------------
+        # 1. CSV inexistant → nettoyer
+        # ------------------------------
+        if not csv_path.exists():
+            print("📄 Aucun CSV existant → nettoyage obligatoire.")
+            return self._process_and_save(json_files, output_path)
 
-        print(f"✨ DataFrame nettoyé : {df_clean.shape}")
-        print(f"💾 Sauvegardé -> {output_path}")
+        # ------------------------------
+        # 2. Vérifier si un JSON est plus récent que le CSV
+        # ------------------------------
+        csv_time = csv_path.stat().st_mtime
 
-        return df_clean
+        if last_json_time > csv_time:
+            print("🔄 JSON plus récents détectés → re-clean nécessaire.")
+            return self._process_and_save(json_files, output_path)
+
+        # ------------------------------
+        # 3. Sinon, on charge le CSV directement
+        # ------------------------------
+        print("✅ CSV déjà propre et à jour → chargement direct.")
+        return pd.read_csv(output_path)
+
 
 
 # ----------------------------------------------------------------------

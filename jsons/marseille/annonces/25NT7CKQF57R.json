@@ -1,0 +1,985 @@
+{
+  "brand": "seloger",
+  "id": "25NT7CKQF57R",
+  "metadata": {
+    "legacyId": "250805919",
+    "creationDate": "2025-09-25T15:25:00Z",
+    "updateDate": "2025-11-06T15:31:14.073Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 8ème",
+        "zipCode": "13008",
+        "district": "La Plage"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.376993871593556,
+          43.26179189989257
+        ]
+      }
+    },
+    "description": {
+      "description": "À deux pas de la plage, dans une résidence récente, sécurisée et dotée d'un jardin commun, découvrez ce magnifique duplex T3 traversant de 84 mètres carrés situé au dernier étage.\r\n\r\nCe bien se compose, au rez-de-chaussée, d'une entrée avec rangements, de deux chambres dont une avec dressing et accès à une première terrasse, d'une salle de bains équipée à la fois d'une douche et d'une baignoire, ainsi que de WC séparés avec lave-mains.\r\n\r\nÀ l'étage, vous trouverez une cuisine entièrement équipée avec îlot central, ouverte sur un séjour lumineux bénéficiant d'une belle hauteur sous plafond, prolongé par une mezzanine faisant office de salon d'appoint ou d'espace détente. Le tout s'ouvre sur une grande terrasse aménagée avec vue mer.\r\n\r\nLes atouts de ce bien :\r\n\r\nBox fermé permettant de stationner deux véhicules en enfilade\r\nDouble vitrage\r\nVolets roulants électriques\r\nClimatisation réversible\r\nSituation idéale : à quelques mètres de la mer, des transports en commun et des commerces de proximité.",
+      "texts": [
+        {
+          "text": "À deux pas de la plage, dans une résidence récente, sécurisée et dotée d'un jardin commun, découvrez ce magnifique duplex T3 traversant de 84 mètres carrés situé au dernier étage.\r\n\r\nCe bien se compose, au rez-de-chaussée, d'une entrée avec rangements, de deux chambres dont une avec dressing et accès à une première terrasse, d'une salle de bains équipée à la fois d'une douche et d'une baignoire, ainsi que de WC séparés avec lave-mains.\r\n\r\nÀ l'étage, vous trouverez une cuisine entièrement équipée avec îlot central, ouverte sur un séjour lumineux bénéficiant d'une belle hauteur sous plafond, prolongé par une mezzanine faisant office de salon d'appoint ou d'espace détente. Le tout s'ouvre sur une grande terrasse aménagée avec vue mer.\r\n\r\nLes atouts de ce bien :\r\n\r\nBox fermé permettant de stationner deux véhicules en enfilade\r\nDouble vitrage\r\nVolets roulants électriques\r\nClimatisation réversible\r\nSituation idéale : à quelques mètres de la mer, des transports en commun et des commerces de proximité."
+        }
+      ],
+      "headline": "Duplex Borely"
+    },
+    "hardFacts": {
+      "title": "Duplex à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "84 m²",
+        "Étage 4/4"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "84 m²",
+          "splitValue": "84",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 4/4",
+          "splitValue": "Étage",
+          "label": "4/4"
+        }
+      ],
+      "price": {
+        "value": "2 700 €",
+        "formatted": "2 700 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "2700 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel: Mixte"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "fd2e8c9c-8b43-497f-ac03-a651ca88e298",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "e207810c-1b2f-423c-b067-069e22c49a40",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "122 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "22 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "1cbb4d6d-b848-4e75-a8c1-273dc988402c",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "22 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "250805919"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "Duplex Borely"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "2 700 €/mois Loyer charges comprises",
+          "ariaLabel": "2700 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "272 €/mois",
+            "ariaLabel": "272 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "32,14 €/mois/m²",
+            "ariaLabel": "32,14 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "4856"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Dernier étage, 4ème étage/4 étages"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "2 boxs de stationnement"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "terrace",
+          "value": "2 terrasses"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "Dernier étage, 4ème étage/4 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "terrace",
+                "value": "2 terrasses"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "2 boxs de stationnement"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "2a1068cf-daa1-4cf9-a0dd-bb8a2a849525",
+          "url": "https://mms.seloger.com/2/a/1/0/2a1068cf-daa1-4cf9-a0dd-bb8a2a849525.jpg?ci_seal=09ad22ed7dc3012b44c57ac7bb101846f675f335",
+          "alt": "Duplex à louer 2 700 € 3 pièces 2 chambres 84 m² Étage 4/4 La Plage Marseille 8ème 13008",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ed8054d9-d225-4787-952b-edddc091c678",
+          "url": "https://mms.seloger.com/e/d/8/0/ed8054d9-d225-4787-952b-edddc091c678.jpg?ci_seal=16375e999004e461079d4cb4d266e27833e8f4cf",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3736e4b5-8084-432d-9a74-08e1dc84a1d3",
+          "url": "https://mms.seloger.com/3/7/3/6/3736e4b5-8084-432d-9a74-08e1dc84a1d3.jpg?ci_seal=df42b07acc69ef3323edefd0a5564c85f5450909",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b4f32f07-5042-45e2-92ca-8cf4fee60348",
+          "url": "https://mms.seloger.com/b/4/f/3/b4f32f07-5042-45e2-92ca-8cf4fee60348.jpg?ci_seal=77734425fc001cf98d7e77cb29a3ce8c04c04822",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "976634f4-cf2d-47e0-9c48-b6dce5cc76d7",
+          "url": "https://mms.seloger.com/9/7/6/6/976634f4-cf2d-47e0-9c48-b6dce5cc76d7.jpg?ci_seal=b24fb618f796fd1b00f964c05a1e214238c7aa69",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b63c44ac-8816-4af7-a0d2-68a1c0908341",
+          "url": "https://mms.seloger.com/b/6/3/c/b63c44ac-8816-4af7-a0d2-68a1c0908341.jpg?ci_seal=df9f8722b232dccadc5afacbb15ca36bfd87d4bd",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6a8c744e-b791-4ba6-b7ae-8e474a183b29",
+          "url": "https://mms.seloger.com/6/a/8/c/6a8c744e-b791-4ba6-b7ae-8e474a183b29.jpg?ci_seal=4db5566abbec807de6adb8a2c67ae09c83473151",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "de01402f-b63f-4988-88f7-eba9be8dc836",
+          "url": "https://mms.seloger.com/d/e/0/1/de01402f-b63f-4988-88f7-eba9be8dc836.jpg?ci_seal=12fdcf0669ed87c81d113c8461fc79aeb247778f",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "309eca9e-5c31-4eec-b26d-49f52042d299",
+          "url": "https://mms.seloger.com/3/0/9/e/309eca9e-5c31-4eec-b26d-49f52042d299.jpg?ci_seal=f03e4eca013e4d0460e130e512508487555746b1",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "24275cf8-1bbc-4642-bb34-9a24c0e7e533",
+          "url": "https://mms.seloger.com/2/4/2/7/24275cf8-1bbc-4642-bb34-9a24c0e7e533.jpg?ci_seal=ec7768ccef8d92dfe12367b86b8eaa9844daf925",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "80dfa428-7586-4476-b14d-fecb1fc16bf0",
+          "url": "https://mms.seloger.com/8/0/d/f/80dfa428-7586-4476-b14d-fecb1fc16bf0.jpg?ci_seal=f18f7ef12a429cfbe6eb592114b9b5da07fa9036",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4fc6d3b9-588b-4c52-b977-d61213c9891f",
+          "url": "https://mms.seloger.com/4/f/c/6/4fc6d3b9-588b-4c52-b977-d61213c9891f.jpg?ci_seal=453447471af33ac53ba024615f6594246bd9e945",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e0112844-421a-4ecf-945e-7b1b3043f9e6",
+          "url": "https://mms.seloger.com/e/0/1/1/e0112844-421a-4ecf-945e-7b1b3043f9e6.jpg?ci_seal=8e179add83c5af74165656121519316ca28d675a",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f670398e-0c4b-471b-859b-317dbf8ccf62",
+          "url": "https://mms.seloger.com/f/6/7/0/f670398e-0c4b-471b-859b-317dbf8ccf62.jpg?ci_seal=b4e84677661e1eba2ccc30f55762667226e254cb",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "94fb208f-6988-48ac-a0aa-64815a7cf509",
+          "url": "https://mms.seloger.com/9/4/f/b/94fb208f-6988-48ac-a0aa-64815a7cf509.jpg?ci_seal=8c1e90c2a9a421506270f1c0e5234f53a82acb31",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "27db07ab-ea78-4cf2-abe6-a9ac791272c8",
+          "url": "https://mms.seloger.com/2/7/d/b/27db07ab-ea78-4cf2-abe6-a9ac791272c8.jpg?ci_seal=53d614bc28156289314d818ead93f8ff80bc21f6",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "250805919",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13008",
+      "city": "Marseille 8ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.28,
+        "accuracy": 1,
+        "high": "24,25",
+        "low": "12"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "32,14",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Duplex Borely",
+      "description": "À deux pas de la plage, dans une résidence récente, sécurisée et dotée d'un jardin commun, découvrez ce magnifique duplex T3 traversant de 84 mètres carrés situé au dernier étage.\r\n\r\nCe bien se compose, au rez-de-chaussée, d'une entrée avec rangements, de deux chambres dont une avec dressing et accès à une première terrasse, d'une salle de bains équipée à la fois d'une douche et d'une baignoire, ainsi que de WC séparés avec lave-mains.\r\n\r\nÀ l'étage, vous trouverez une cuisine entièrement équipée avec îlot central, ouverte sur un séjour lumineux bénéficiant d'une belle hauteur sous plafond, prolongé par une mezzanine faisant office de salon d'appoint ou d'espace détente. Le tout s'ouvre sur une grande terrasse aménagée avec vue mer.\r\n\r\nLes atouts de ce bien :\r\n\r\nBox fermé permettant de stationner deux véhicules en enfilade\r\nDouble vitrage\r\nVolets roulants électriques\r\nClimatisation réversible\r\nSituation idéale : à quelques mètres de la mer, des transports en commun et des commerces de proximité.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "2 mois en ligne",
+      "views": "465 vues",
+      "saves": "12 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25NT7CKQF57R",
+    "legacyId": "250805919",
+    "brand": "seloger",
+    "agencyId": "RC-115927",
+    "static": {
+      "phoneNumbers": [
+        "0413944305"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0413944305"
+      ]
+    },
+    "contactCard": {
+      "title": "LOUER A MARSEILLE",
+      "subtitle": "Louer À Marseille",
+      "phoneNumbers": [
+        "0413944305"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "LOUER A MARSEILLE",
+        "subtitle": "Louer À Marseille",
+        "phoneNumbers": [
+          "0413944305"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Louer À Marseille",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "LOUER A MARSEILLE",
+      "subtitle": "LOUER A MARSEILLE",
+      "phoneNumbers": [
+        "0413944305"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "LOUER A MARSEILLE",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-404759/"
+      },
+      "contactCard": {
+        "title": "Louer À Marseille",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-404759/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 520648163",
+        "<b>SIRET:</b> 52064816300035"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "98 Avenue du Prado, 13008 Marseille",
+      "phoneNumbers": [
+        "0413944305"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13008",
+    "av_city": "Marseille 8ème",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25NT7CKQF57R",
+        "price": 2700,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 8ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13008",
+        "legacy_id": "250805919",
+        "product_type": "standard",
+        "client_id": "RC-115927",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "539983",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "13008",
+        "estate_type": 9,
+        "id": "250805919",
+        "id_duo": 250805919,
+        "id_solo": 250805919,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 16,
+        "position": 0,
+        "price": 2700,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 84
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13008",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "250805919",
+      "prix": 2700,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 84,
+      "etage": 4,
+      "commodites": [
+        "ascenseur",
+        "box",
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "dernier%20etage",
+        "SalleDeBain-baignoire",
+        "terrasse",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {},
+    "headInfo": {
+      "title": "",
+      "titleWithCount": "",
+      "description": "",
+      "canonical": "",
+      "robots": "",
+      "breadcrumb": [],
+      "redirectUrl": ""
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1078&priceMax=3240&priceMin=2160",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1078",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR8",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "propertySubType": "MULTI_STOREY",
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25NT7CKQF57R"
+}

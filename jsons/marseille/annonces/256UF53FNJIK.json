@@ -1,0 +1,1120 @@
+{
+  "brand": "seloger",
+  "id": "256UF53FNJIK",
+  "metadata": {
+    "legacyId": "255336507",
+    "creationDate": "2025-11-27T16:39:00Z",
+    "updateDate": "2025-11-28T01:16:51.592Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 4ème",
+        "zipCode": "13004",
+        "district": "La Blancarde"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4007364,
+          43.3029394
+        ]
+      }
+    },
+    "description": {
+      "description": "Dans un bel immeuble semi-récent, cet appartement de 40M2 est situé au 3ième étage avec ascenseur. Il donne sur l'arrière de la rue, sans vis à vis, très calme. Il se compose d'un hall avec placard de rangements, d'une cuisine ouverte aménagée et semi-équipée (plaques de cuisson, hotte aspirante) , d'un séjour donnant sur un balcon, d'une chambre avec un placard de rangements, d'une salle de bains et wc indépendant. Double vitrage. Place de parking en sous-sol.\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  georisques. gouv. fr",
+      "texts": [
+        {
+          "text": "Dans un bel immeuble semi-récent, cet appartement de 40M2 est situé au 3ième étage avec ascenseur. Il donne sur l'arrière de la rue, sans vis à vis, très calme. Il se compose d'un hall avec placard de rangements, d'une cuisine ouverte aménagée et semi-équipée (plaques de cuisson, hotte aspirante) , d'un séjour donnant sur un balcon, d'une chambre avec un placard de rangements, d'une salle de bains et wc indépendant. Double vitrage. Place de parking en sous-sol.\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  georisques. gouv. fr"
+        }
+      ],
+      "headline": "APPARTEMENT T2 (40M2) - BLANCARDE - 13004 MARSEILLE"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "40 m²",
+        "3ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3ème étage",
+          "splitValue": "3ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "775 €",
+        "formatted": "775 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "775 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "2005"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "b5e56970-bcf1-4b82-8037-a2477d1878b7",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "91aeebcd-d023-48d2-8623-19c0241538a1",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "162 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "4 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "a564cfbb-85a9-4153-9d9a-fabf033502a2",
+              "efficiencyClass": {
+                "index": 0,
+                "rating": "A"
+              },
+              "values": [
+                {
+                  "value": "4 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : A avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255336507"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "1431"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "775 €/mois Loyer charges comprises",
+          "ariaLabel": "775 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "68 €/mois",
+            "ariaLabel": "68 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "19,38 €/mois/m²",
+            "ariaLabel": "19,38 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "707"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "3ème étage"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "WC dans la salle de bains"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "terrace",
+          "value": "Terrasse"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "value": "Sans vis-à-vis",
+          "icon": "with-view"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "3ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "WC dans la salle de bains"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              },
+              {
+                "icon": "terrace",
+                "value": "Terrasse"
+              },
+              {
+                "value": "Sans vis-à-vis",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "66aef172-bdb7-4fbb-a120-8ef9922ee9d2",
+          "url": "https://mms.seloger.com/6/6/a/e/66aef172-bdb7-4fbb-a120-8ef9922ee9d2.jpg?ci_seal=58da6773778b8749f6dff7c52f79c2f51ee45bf6",
+          "alt": "Appartement à louer 775 € 2 pièces 1 chambre 40 m² 3ème étage La Blancarde Marseille 4ème 13004",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3acc4e07-5cd8-4a14-a379-0e5e0566cb23",
+          "url": "https://mms.seloger.com/3/a/c/c/3acc4e07-5cd8-4a14-a379-0e5e0566cb23.jpg?ci_seal=980f63a42362c0b2e486ded6f965c96573c527dc",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c9d2953b-f813-4d70-b9c4-49ac0d2d62a0",
+          "url": "https://mms.seloger.com/c/9/d/2/c9d2953b-f813-4d70-b9c4-49ac0d2d62a0.jpg?ci_seal=0c44bbf85b46ebcc0425ab9a47c7028f4d5cb6fc",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9e502986-c8ae-4c90-8538-9e1d10692a47",
+          "url": "https://mms.seloger.com/9/e/5/0/9e502986-c8ae-4c90-8538-9e1d10692a47.jpg?ci_seal=dd8ad0df94a92f30bde12eae66afa4ddaa9b104c",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c6cb2f52-6d80-4caf-a052-39bfb1694b94",
+          "url": "https://mms.seloger.com/c/6/c/b/c6cb2f52-6d80-4caf-a052-39bfb1694b94.jpg?ci_seal=d741bedf03d0ade350a609228b134aa974fd4ca4",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ad3d614d-8c6c-4310-bc30-1780927f5978",
+          "url": "https://mms.seloger.com/a/d/3/d/ad3d614d-8c6c-4310-bc30-1780927f5978.jpg?ci_seal=a364bfa77c24e133dd1a590398314183aeffd96f",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f3c06f13-8ad5-40e9-9502-e0fe07fd2bd3",
+          "url": "https://mms.seloger.com/f/3/c/0/f3c06f13-8ad5-40e9-9502-e0fe07fd2bd3.jpg?ci_seal=9f198e7ed056b6562da7feda59c058814397461f",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255336507",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13004",
+      "city": "Marseille 4ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.28,
+        "accuracy": 1,
+        "high": "24,25",
+        "low": "12"
+      },
+      "markerPosition": 60,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "19,38",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "APPARTEMENT T2 (40M2) - BLANCARDE - 13004 MARSEILLE",
+      "description": "Dans un bel immeuble semi-récent, cet appartement de 40M2 est situé au 3ième étage avec ascenseur. Il donne sur l'arrière de la rue, sans vis à vis, très calme. Il se compose d'un hall avec placard de rangements, d'une cuisine ouverte aménagée et semi-équipée (plaques de cuisson, hotte aspirante) , d'un séjour donnant sur un balcon, d'une chambre avec un placard de rangements, d'une salle de bains et wc indépendant. Double vitrage. Place de parking en sous-sol.\r\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  georisques. gouv. fr",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "12 jours en ligne",
+      "views": "423 vues",
+      "saves": "47 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "256UF53FNJIK",
+    "legacyId": "255336507",
+    "brand": "seloger",
+    "agencyId": "RC-032127",
+    "static": {
+      "phoneNumbers": [
+        "04 91 15 58 14"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "04 91 15 58 14"
+      ]
+    },
+    "contactCard": {
+      "title": "SIAB IMMO",
+      "subtitle": "Siab Immo",
+      "phoneNumbers": [
+        "04 91 15 58 14"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/3/9/d/c/39dc4f92-bbfe-4161-93e8-3ebf987f435e.jpg?ci_seal=1bff75e86ab3a6f3b30968fb7b57de220f9e4e2b",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "SIAB IMMO",
+        "subtitle": "Siab Immo",
+        "phoneNumbers": [
+          "04 91 15 58 14"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/3/9/d/c/39dc4f92-bbfe-4161-93e8-3ebf987f435e.jpg?ci_seal=1bff75e86ab3a6f3b30968fb7b57de220f9e4e2b"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Siab Immo",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "SIAB IMMO",
+      "subtitle": "SIAB IMMO",
+      "phoneNumbers": [
+        "04 91 15 58 14"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "SIAB IMMO",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/3/9/d/c/39dc4f92-bbfe-4161-93e8-3ebf987f435e.jpg?ci_seal=1bff75e86ab3a6f3b30968fb7b57de220f9e4e2b",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-6eme-arrondissement-13006/agence-50487/"
+      },
+      "contactCard": {
+        "title": "Siab Immo",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.siab-immo.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-6eme-arrondissement-13006/agence-50487/",
+      "imprintUrl": null,
+      "feeUrl": "http://www.siab-immo.fr/i/redac/honoraires?honofor=1",
+      "agencyLegalInformations": [
+        "Société par Actions simplifiées SIAB SAS au capital de 50 000 €",
+        "Carte professionnelle A06-1758 délivrée par la Préfecture de Bouches du Rhône",
+        "Garantie financière Socamab Assurances pour un montant de 1 650 000 €",
+        "<b>Siège:</b> 18, rue Armény, 13006 Marseille",
+        "<b>RCS:</b> 337755276",
+        "<b>SIRET:</b> 33775527600017"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "10 COURS PIERRE PUGET, 13006 Marseille",
+      "phoneNumbers": [
+        "04 91 15 58 14"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13004",
+    "av_city": "Marseille 4ème",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "256UF53FNJIK",
+        "price": 775,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 4ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13004",
+        "legacy_id": "255336507",
+        "product_type": "standard",
+        "client_id": "RC-032127",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "40614",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "13004",
+        "estate_type": 1,
+        "id": "255336507",
+        "id_duo": 255336507,
+        "id_solo": 255336507,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 7,
+        "position": 0,
+        "price": 775,
+        "product_geolocation": "localisation_district",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 40,
+        "year_of_construction": 2005
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13004",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255336507",
+      "prix": 800,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 40,
+      "commodites": [
+        "ascenseur",
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "SalleDeBain-baignoire",
+        "sansVisAVis",
+        "terrasse"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-4eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 4ème arrondissement 13004",
+          "hoverLabel": "Appartements à louer Marseille 4ème arrondissement 13004",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 40 m² 775 € La Blancarde Marseille (13004)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 40 m² 775 € La Blancarde Marseille (13004)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-4eme-13/la-blancarde/255336507.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-4eme-13/la-blancarde/255336507.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 40 m² 775 € La Blancarde Marseille (13004)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 40 m² 775 € La Blancarde Marseille (13004)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/6/6/a/e/66aef172-bdb7-4fbb-a120-8ef9922ee9d2.jpg?ci_seal=58da6773778b8749f6dff7c52f79c2f51ee45bf6"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 40 m² 775 € La Blancarde Marseille (13004)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-4eme-13/la-blancarde/255336507.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 40 m² 775 € La Blancarde Marseille (13004)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 40 m² 775 € La Blancarde Marseille (13004)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/6/6/a/e/66aef172-bdb7-4fbb-a120-8ef9922ee9d2.jpg?ci_seal=58da6773778b8749f6dff7c52f79c2f51ee45bf6"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 40 m² 775 € La Blancarde Marseille (13004)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 40 m² 775 € La Blancarde Marseille (13004)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-4eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 4ème arrondissement 13004",
+          "hoverLabel": "Appartements à louer Marseille 4ème arrondissement 13004",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-4eme-13/la-blancarde/255336507.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1053&priceMax=930&priceMin=620",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1053",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR4",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "256UF53FNJIK"
+}

@@ -1,0 +1,1143 @@
+{
+  "brand": "seloger",
+  "id": "25LGAUDNS4EL",
+  "metadata": {
+    "legacyId": "256057203",
+    "creationDate": "2025-12-08T10:31:00Z",
+    "updateDate": "2025-12-09T21:31:20.219Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 6ème",
+        "zipCode": "13006",
+        "district": "Lodi"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.39043808,
+          43.2852211
+        ]
+      }
+    },
+    "description": {
+      "description": "Charmant T2 de 46m² au 1er étage d'un immeuble situé au 82 cours Gouffé 13006 Marseille. Fraichement rénové, il se compose d'un double séjour avec cheminée, d'une salle d'eau avec WC, d'une chambre avec dressing donnant sur une vérandat avec rangement ainsi que d'une cuisine américaine. Le bien se situe à proximité de Castellane.\n Part des frais à la charge du locataire : - Frais de visites, constitution du dossier : 460 € - Frais d'état des lieux : 138 € Total : 598 €",
+      "texts": [
+        {
+          "text": "Charmant T2 de 46m² au 1er étage d'un immeuble situé au 82 cours Gouffé 13006 Marseille. Fraichement rénové, il se compose d'un double séjour avec cheminée, d'une salle d'eau avec WC, d'une chambre avec dressing donnant sur une vérandat avec rangement ainsi que d'une cuisine américaine. Le bien se situe à proximité de Castellane.\n Part des frais à la charge du locataire : - Frais de visites, constitution du dossier : 460 € - Frais d'état des lieux : 138 € Total : 598 €"
+        }
+      ],
+      "headline": "Très beau deux pièces, refait à neuf"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "46 m²",
+        "Étage 1/3"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 1/3",
+          "splitValue": "Étage",
+          "label": "1/3"
+        }
+      ],
+      "price": {
+        "value": "780 €",
+        "formatted": "780 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "780 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "ec496058-f415-4450-a257-1b94c1428b6d",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 760 et 1080 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 760 et 1080 € par an. Prix moyens des énergies indexés au 09/12/2025 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "5e049a5f-d8e5-418a-9fa5-439ac5738ace",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "202 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "88 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "6 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est 88 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "be59ed52-3c98-44b4-baff-329b741a97af",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "6 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est 88 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256057203"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "GOUFFE"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "780 €/mois Loyer charges comprises",
+          "ariaLabel": "780 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "50 €/mois",
+            "ariaLabel": "50 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "16,96 €/mois/m²",
+            "ariaLabel": "16,96 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "683"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "1er étage/3 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "1er étage/3 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "89ce0a9b-05a6-4318-9edc-129c5a97f6ac",
+          "url": "https://mms.seloger.com/8/9/c/e/89ce0a9b-05a6-4318-9edc-129c5a97f6ac.jpg?ci_seal=e8a6022a2d082e89f6cc0c12e09431c8b30c30fe",
+          "alt": "Appartement à louer 780 € 2 pièces 1 chambre 46 m² Étage 1/3 Lodi Marseille 6ème 13006",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2c9fa36f-38ff-46d9-908b-7a23cb90ed81",
+          "url": "https://mms.seloger.com/2/c/9/f/2c9fa36f-38ff-46d9-908b-7a23cb90ed81.jpg?ci_seal=d2e0f0fcc9d8be3660e81fa8f95dc5cc5e233145",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f8bbed09-511b-4ad9-a475-985baa377215",
+          "url": "https://mms.seloger.com/f/8/b/b/f8bbed09-511b-4ad9-a475-985baa377215.jpg?ci_seal=d203c8e52250f6bd3daa17b0afa1383ae7aed14b",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "951efa77-4e29-4fc9-8745-59347df1e036",
+          "url": "https://mms.seloger.com/9/5/1/e/951efa77-4e29-4fc9-8745-59347df1e036.jpg?ci_seal=1a5897f4ba2434edd8f341bba6fb7b5a20e05a42",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fe34c93c-0357-42d0-b50e-8aada0d33410",
+          "url": "https://mms.seloger.com/f/e/3/4/fe34c93c-0357-42d0-b50e-8aada0d33410.jpg?ci_seal=85018a39617d745037f459e0efc680c5b5375757",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e7f383fd-7c3c-4d6d-92df-8852d62e1f98",
+          "url": "https://mms.seloger.com/e/7/f/3/e7f383fd-7c3c-4d6d-92df-8852d62e1f98.jpg?ci_seal=8f9af3483a2de100a0e9eabf66338160b25cfe0b",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "dce985a2-32ea-4934-b9fb-6c9c527bccc7",
+          "url": "https://mms.seloger.com/d/c/e/9/dce985a2-32ea-4934-b9fb-6c9c527bccc7.jpg?ci_seal=5542192a8d587bec75ed68119bfc306c76da19ae",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2dc75840-6ef2-416b-87cd-c08c447f0664",
+          "url": "https://mms.seloger.com/2/d/c/7/2dc75840-6ef2-416b-87cd-c08c447f0664.jpg?ci_seal=28996ee69ee4e2caca7923ff1769525978e42dde",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "06a3dc9c-6982-45fe-83ef-c0e9131ebd1a",
+          "url": "https://mms.seloger.com/0/6/a/3/06a3dc9c-6982-45fe-83ef-c0e9131ebd1a.jpg?ci_seal=8f533ab10752d1381bf95582991723a10eee78a7",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0ef90769-cfc8-484e-ab19-21be1f609f08",
+          "url": "https://mms.seloger.com/0/e/f/9/0ef90769-cfc8-484e-ab19-21be1f609f08.jpg?ci_seal=04ede6ef0610e53200eaa0b0aaf2718227ed803e",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "97ff3756-a9ea-4a5a-8fc9-2dfbebb271f7",
+          "url": "https://mms.seloger.com/9/7/f/f/97ff3756-a9ea-4a5a-8fc9-2dfbebb271f7.jpg?ci_seal=136f2a699cab648b95fcc220220542294ecc5f64",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256057203",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13006",
+      "city": "Marseille 6ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.46,
+        "accuracy": 3,
+        "high": "25,34",
+        "low": "10,97"
+      },
+      "markerPosition": 42,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "16,96",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Très beau deux pièces, refait à neuf",
+      "description": "Charmant T2 de 46m² au 1er étage d'un immeuble situé au 82 cours Gouffé 13006 Marseille. Fraichement rénové, il se compose d'un double séjour avec cheminée, d'une salle d'eau avec WC, d'une chambre avec dressing donnant sur une vérandat avec rangement ainsi que d'une cuisine américaine. Le bien se situe à proximité de Castellane.\n Part des frais à la charge du locataire : - Frais de visites, constitution du dossier : 460 € - Frais d'état des lieux : 138 € Total : 598 €",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "214 vues",
+      "saves": "25 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25LGAUDNS4EL",
+    "legacyId": "256057203",
+    "brand": "seloger",
+    "agencyId": "RC-051368",
+    "static": {
+      "phoneNumbers": [
+        "04 91 54 84 30"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "04 91 54 84 30"
+      ]
+    },
+    "contactCard": {
+      "title": "IMMOBILIÈRE BERTHOZ",
+      "subtitle": "Mme. Lea Pertusier",
+      "phoneNumbers": [
+        "04 91 54 84 30"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/3/3/c/e/33ce4cd7-93cb-40e6-b6c6-633bb689bd97.jpg?ci_seal=78bede04108c8668dc7359040dd37d49882fe2e0",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "IMMOBILIÈRE BERTHOZ",
+        "subtitle": "Mme. Lea Pertusier",
+        "phoneNumbers": [
+          "04 91 54 84 30"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/3/3/c/e/33ce4cd7-93cb-40e6-b6c6-633bb689bd97.jpg?ci_seal=78bede04108c8668dc7359040dd37d49882fe2e0"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Mme. Lea Pertusier",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "IMMOBILIÈRE BERTHOZ",
+      "subtitle": "IMMOBILIÈRE BERTHOZ",
+      "phoneNumbers": [
+        "04 91 54 84 30"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "IMMOBILIÈRE BERTHOZ",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/3/3/c/e/33ce4cd7-93cb-40e6-b6c6-633bb689bd97.jpg?ci_seal=78bede04108c8668dc7359040dd37d49882fe2e0",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-1er-arrondissement-13001/agence-66618/"
+      },
+      "contactCard": {
+        "title": "Mme. Lea Pertusier",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "https://www.cabinet-berthoz.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-1er-arrondissement-13001/agence-66618/",
+      "imprintUrl": null,
+      "feeUrl": "http://immo-berthoz.la-boite-immo.com/i/redac/honoraires?honofor=1",
+      "agencyLegalInformations": [
+        "SARL Immobiliere Berthoz au capital de 15 500 €",
+        "Carte professionnelle CPI 1310 2017 000 018 568 délivrée par la Préfecture de Bouche du Rhone",
+        "Garantie financière Galian pour un montant de 120 000 €",
+        "<b>Siège:</b> 9 A Bd National, 13001 Marseille",
+        "<b>RCS:</b> Marseille 433091824",
+        "<b>SIRET:</b> 43309182400022"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "9a bd National, 13001 Marseille",
+      "phoneNumbers": [
+        "04 91 54 84 30"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13006",
+    "av_city": "Marseille 6ème",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25LGAUDNS4EL",
+        "price": 780,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 6ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13006",
+        "legacy_id": "256057203",
+        "product_type": "standard",
+        "client_id": "RC-051368",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "44387",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "13006",
+        "estate_type": 1,
+        "id": "256057203",
+        "id_duo": 256057203,
+        "id_solo": 256057203,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 11,
+        "position": 0,
+        "price": 780,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 46
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13006",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256057203",
+      "prix": 800,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 46,
+      "etage": 3,
+      "commodites": [
+        "Chauffage-individuel",
+        "Cuisine-américaine",
+        "Cuisine-équipée",
+        "SalleDEau-douche",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-6eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 6ème arrondissement 13006",
+          "hoverLabel": "Appartements à louer Marseille 6ème arrondissement 13006",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 46 m² 780 € Lodi Marseille (13006)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 46 m² 780 € Lodi Marseille (13006)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-6eme-13/lodi/256057203.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-6eme-13/lodi/256057203.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 46 m² 780 € Lodi Marseille (13006)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 46 m² 780 € Lodi Marseille (13006)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/8/9/c/e/89ce0a9b-05a6-4318-9edc-129c5a97f6ac.jpg?ci_seal=e8a6022a2d082e89f6cc0c12e09431c8b30c30fe"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 46 m² 780 € Lodi Marseille (13006)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-6eme-13/lodi/256057203.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 46 m² 780 € Lodi Marseille (13006)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 46 m² 780 € Lodi Marseille (13006)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/8/9/c/e/89ce0a9b-05a6-4318-9edc-129c5a97f6ac.jpg?ci_seal=e8a6022a2d082e89f6cc0c12e09431c8b30c30fe"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 46 m² 780 € Lodi Marseille (13006)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 46 m² 780 € Lodi Marseille (13006)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-6eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 6ème arrondissement 13006",
+          "hoverLabel": "Appartements à louer Marseille 6ème arrondissement 13006",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-6eme-13/lodi/256057203.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1062&priceMax=936&priceMin=624",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1062",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR6",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25LGAUDNS4EL"
+}

@@ -1,0 +1,1096 @@
+{
+  "brand": "seloger",
+  "id": "25C2A9H3HIHE",
+  "metadata": {
+    "legacyId": "255987495",
+    "creationDate": "2025-12-06T21:30:00Z",
+    "updateDate": "2025-12-08T01:17:02.803Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 3ème",
+        "zipCode": "13003",
+        "district": "Saint Lazare"
+      },
+      "isAddressPublished": false,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                5.37281,
+                43.30526
+              ],
+              [
+                5.3723,
+                43.3062
+              ],
+              [
+                5.37348,
+                43.30645
+              ],
+              [
+                5.37414,
+                43.30899
+              ],
+              [
+                5.37449,
+                43.30893
+              ],
+              [
+                5.37545,
+                43.31008
+              ],
+              [
+                5.37631,
+                43.31054
+              ],
+              [
+                5.37583,
+                43.30753
+              ],
+              [
+                5.37454,
+                43.30662
+              ],
+              [
+                5.3756,
+                43.30629
+              ],
+              [
+                5.37542,
+                43.30466
+              ],
+              [
+                5.375,
+                43.30473
+              ],
+              [
+                5.37445,
+                43.30245
+              ],
+              [
+                5.37281,
+                43.30526
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "description": {
+      "description": "Nous vous proposons à la location un appartement de 1 pièce de 22,28 m², situé au 26 rue Hoche, 13003 Marseille, dans un secteur calme et bien desservi.\r\nL'emplacement permet un accès rapide aux transports en commun, notamment à la station de métro Désirée Clary ainsi qu'aux lignes de bus proches.\r\n\r\nL'appartement se compose d'une pièce principale, d'une salle de bain et d'un WC.\r\nIl dispose également d'un coin cuisine équipé et d'un chauffage individuel électrique..",
+      "texts": [
+        {
+          "text": "Nous vous proposons à la location un appartement de 1 pièce de 22,28 m², situé au 26 rue Hoche, 13003 Marseille, dans un secteur calme et bien desservi.\r\nL'emplacement permet un accès rapide aux transports en commun, notamment à la station de métro Désirée Clary ainsi qu'aux lignes de bus proches.\r\n\r\nL'appartement se compose d'une pièce principale, d'une salle de bain et d'un WC.\r\nIl dispose également d'un coin cuisine équipé et d'un chauffage individuel électrique.."
+        }
+      ],
+      "headline": "Studio"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "22,3 m²",
+        "2ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "22,3 m²",
+          "splitValue": "22,3",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2ème étage",
+          "splitValue": "2ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "470 €",
+        "formatted": "470 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "469.69 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1948"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "a01d65c6-ce60-4042-979d-bb2e0c14db7c",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 300 et 440 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 300 et 440 € par an. Prix moyens des énergies indexés au 12/02/2025 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "5726b157-9fa1-4c31-bae0-1daab2ebea3e",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "161 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "4 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "a6acdcab-9cb2-45c2-96c7-5a8b0bc649c2",
+              "efficiencyClass": {
+                "index": 0,
+                "rating": "A"
+              },
+              "values": [
+                {
+                  "value": "4 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : A avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255987495"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "LO250063"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "469,69 €/mois Loyer charges comprises",
+          "ariaLabel": "469.69 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "25 €/mois",
+            "ariaLabel": "25 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "21,08 €/mois/m²",
+            "ariaLabel": "21,08 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "444.69"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Kitchenette, Cuisine intégrée"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain; 1 salle de douches"
+        },
+        {
+          "icon": "separateEntrance",
+          "value": "Entrée séparée"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "971c8628-2439-468e-ae66-8dc5a9b62014",
+          "url": "https://mms.seloger.com/9/7/1/c/971c8628-2439-468e-ae66-8dc5a9b62014.jpg?ci_seal=7e0aa25272411eeca190b8a015459654c88df90b",
+          "alt": "Appartement à louer 470 € 1 pièce 22,3 m² 2ème étage Saint Lazare Marseille 3ème 13003",
+          "classification": {
+            "name": "HOME_OFFICE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6a6c64f8-a0a1-425e-b936-856e21a4ae82",
+          "url": "https://mms.seloger.com/6/a/6/c/6a6c64f8-a0a1-425e-b936-856e21a4ae82.jpg?ci_seal=7610a06c6da21bd198342d329dd51236e7124112",
+          "classification": {
+            "name": "HOME_OFFICE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "144df5de-39c0-45e5-8ebf-057666df0111",
+          "url": "https://mms.seloger.com/1/4/4/d/144df5de-39c0-45e5-8ebf-057666df0111.jpg?ci_seal=b0c3a41e01daecac356f4eeaa31bc898cd590ba4",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b14d1952-01bf-4667-8c5a-9e9517060176",
+          "url": "https://mms.seloger.com/b/1/4/d/b14d1952-01bf-4667-8c5a-9e9517060176.jpg?ci_seal=6b170301240b20ff0cf0f7a08156e12bed1e3c6b",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "30869096-25c9-4586-8ed2-d1ef1490b26d",
+          "url": "https://mms.seloger.com/3/0/8/6/30869096-25c9-4586-8ed2-d1ef1490b26d.jpg?ci_seal=3ea64d0fab390649d93349d6e9d027bd0b6332ca",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c3371806-8652-4c77-bffe-2536255e8ec8",
+          "url": "https://mms.seloger.com/c/3/3/7/c3371806-8652-4c77-bffe-2536255e8ec8.jpg?ci_seal=382e0c307fe57e3cc5a18a3bb97c38100826fe44",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255987495",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13003",
+      "city": "Marseille 3ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 15.91,
+        "accuracy": 1,
+        "high": "21,01",
+        "low": "11,55"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "21,08",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Studio",
+      "description": "Nous vous proposons à la location un appartement de 1 pièce de 22,28 m², situé au 26 rue Hoche, 13003 Marseille, dans un secteur calme et bien desservi.\r\nL'emplacement permet un accès rapide aux transports en commun, notamment à la station de métro Désirée Clary ainsi qu'aux lignes de bus proches.\r\n\r\nL'appartement se compose d'une pièce principale, d'une salle de bain et d'un WC.\r\nIl dispose également d'un coin cuisine équipé et d'un chauffage individuel électrique..",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "3 jours en ligne",
+      "views": "172 vues",
+      "saves": "15 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25C2A9H3HIHE",
+    "legacyId": "255987495",
+    "brand": "seloger",
+    "agencyId": "RC-116523",
+    "static": {
+      "phoneNumbers": [
+        "0491543216"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0491543216"
+      ]
+    },
+    "contactCard": {
+      "title": "IMMOBILIERE DE LA PAIX",
+      "subtitle": "Immobilière de La Paix",
+      "phoneNumbers": [
+        "0491543216"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "IMMOBILIERE DE LA PAIX",
+        "subtitle": "Immobilière de La Paix",
+        "phoneNumbers": [
+          "0491543216"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Immobilière de La Paix",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "IMMOBILIERE DE LA PAIX",
+      "subtitle": "IMMOBILIERE DE LA PAIX",
+      "phoneNumbers": [
+        "0491543216"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "IMMOBILIERE DE LA PAIX",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-1er-arrondissement-13001/agence-42526/"
+      },
+      "contactCard": {
+        "title": "Immobilière de La Paix",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-1er-arrondissement-13001/agence-42526/",
+      "imprintUrl": null,
+      "feeUrl": "https://immobilieredelapaix.fr/tarif.pdf",
+      "agencyLegalInformations": [
+        "EURL IMMOBILIERE DE LA PAIX au capital de 20 000 €",
+        "Carte professionnelle A12 - 5390 délivrée par la Préfecture de BOUCHES-DU-RHONE",
+        "<b>Siège:</b> 28 rue Fortia, 13001 MARSEILLE",
+        "<b>RCS:</b> MARSEILLE 752526053",
+        "<b>SIRET:</b> 75252605300018"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "28 rue Fortia, 13001 Marseille 1er",
+      "phoneNumbers": [
+        "0491543216"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13003",
+    "av_city": "Marseille 3ème",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25C2A9H3HIHE",
+        "price": 469.69,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 3ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13003",
+        "legacy_id": "255987495",
+        "product_type": "standard",
+        "client_id": "RC-116523",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "90264",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "13003",
+        "estate_type": 1,
+        "id": "255987495",
+        "id_duo": 255987495,
+        "id_solo": 255987495,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 6,
+        "position": 0,
+        "price": 469.69,
+        "product_geolocation": "localisation_city",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 22.28,
+        "year_of_construction": 1948
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13003",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255987495",
+      "prix": 500,
+      "nb_pieces": 1,
+      "surface": 22.28,
+      "commodites": [
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "Cuisine-équipée",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-3eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 3ème arrondissement 13003",
+          "hoverLabel": "Appartements à louer Marseille 3ème arrondissement 13003",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 22.28 m² 469.69 € Saint Lazare Marseille (13003)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 22.28 m² 469.69 € Saint Lazare Marseille (13003)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-3eme-13/saint-lazare/255987495.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-3eme-13/saint-lazare/255987495.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 22.28 m² 469.69 € Saint Lazare Marseille (13003)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 22.28 m² 469.69 € Saint Lazare Marseille (13003)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/9/7/1/c/971c8628-2439-468e-ae66-8dc5a9b62014.jpg?ci_seal=7e0aa25272411eeca190b8a015459654c88df90b"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 22.28 m² 469.69 € Saint Lazare Marseille (13003)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-3eme-13/saint-lazare/255987495.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 22.28 m² 469.69 € Saint Lazare Marseille (13003)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 22.28 m² 469.69 € Saint Lazare Marseille (13003)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/9/7/1/c/971c8628-2439-468e-ae66-8dc5a9b62014.jpg?ci_seal=7e0aa25272411eeca190b8a015459654c88df90b"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 22.28 m² 469.69 € Saint Lazare Marseille (13003)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 22.28 m² 469.69 € Saint Lazare Marseille (13003)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-3eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 3ème arrondissement 13003",
+          "hoverLabel": "Appartements à louer Marseille 3ème arrondissement 13003",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-3eme-13/saint-lazare/255987495.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1050&priceMax=563.63&priceMin=375.75",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1050",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR3",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25C2A9H3HIHE"
+}

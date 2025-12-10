@@ -1,0 +1,1033 @@
+{
+  "brand": "seloger",
+  "id": "256S4BGLL6QJ",
+  "metadata": {
+    "legacyId": "255709199",
+    "creationDate": "2025-12-03T02:41:00Z",
+    "updateDate": "2025-12-09T16:01:19.2Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Lyon 7ème",
+        "zipCode": "69007",
+        "district": "Guillotière"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.843854,
+          45.749662
+        ]
+      }
+    },
+    "description": {
+      "description": "studio jean macé - JEAN MACE - Studio d'environ 15m², idéalement situé, à proximité des écoles, des commerces et du métro. Il se compose d'une entrée avec placard, une pièce de vie avec un coin cuisine équipé (plaque de cuisson et frigo TOP), une salle d'eau fonctionnelle avec WC. Eau froide comprise dans les charges. Idéal étudiant ou jeune actif. Fibre optique disponible. Disponible le 24 décembre !. \n Loyer de 340,00 euros par mois charges comprises dont 40,00 euros par mois de provision pour charges (soumis à la régularisation annuelle). \n Les honoraires charge locataire sont de 203,19 euros ( soit 13,00 euros/m² ) dont 46,89 euros pour état des lieux ( soit 3,00 euros/m² ). \nMontant estimé des dépenses annuelles d'énergie pour un usage standard : entre 360 et 530 euros. Prix moyens des énergies indexés en 2021.",
+      "texts": [
+        {
+          "text": "studio jean macé - JEAN MACE - Studio d'environ 15m², idéalement situé, à proximité des écoles, des commerces et du métro. Il se compose d'une entrée avec placard, une pièce de vie avec un coin cuisine équipé (plaque de cuisson et frigo TOP), une salle d'eau fonctionnelle avec WC. Eau froide comprise dans les charges. Idéal étudiant ou jeune actif. Fibre optique disponible. Disponible le 24 décembre !. \n Loyer de 340,00 euros par mois charges comprises dont 40,00 euros par mois de provision pour charges (soumis à la régularisation annuelle). \n Les honoraires charge locataire sont de 203,19 euros ( soit 13,00 euros/m² ) dont 46,89 euros pour état des lieux ( soit 3,00 euros/m² ). \nMontant estimé des dépenses annuelles d'énergie pour un usage standard : entre 360 et 530 euros. Prix moyens des énergies indexés en 2021."
+        }
+      ],
+      "headline": "Appartement"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer - logement étudiant",
+      "keyfacts": [
+        "1 pièce",
+        "15,6 m²",
+        "1er étage",
+        "dès le 25/12/2025"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "15,6 m²",
+          "splitValue": "15,6",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1er étage",
+          "splitValue": "1er",
+          "label": "étage"
+        },
+        {
+          "type": "availability",
+          "value": "dès le 25/12/2025",
+          "splitValue": "dès",
+          "label": "le 25/12/2025"
+        }
+      ],
+      "price": {
+        "value": "340 €",
+        "formatted": "340 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "340 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel: Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "a4c0f79c-f807-49e1-a185-f70880fea5c2",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 360 et 530 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 360 et 530 € par an. Date d'indexation du prix des énergies non communiquée."
+            }
+          ],
+          "scales": [
+            {
+              "key": "7accade4-df39-41eb-b4ec-55b08648c0b0",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "312 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "9 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "83474fc9-5cd1-4753-8802-976f1e8b580e",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "9 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255709199"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "GES13001013-144"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "340 €/mois Loyer charges comprises",
+          "ariaLabel": "340 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "40 €/mois",
+            "ariaLabel": "40 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "21,75 €/mois/m²",
+            "ariaLabel": "21,75 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "300.0"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 25/12/2025"
+        },
+        {
+          "icon": "floors",
+          "value": "1er étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Kitchenette"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "barrier-free",
+          "value": "Non accessible aux personnes à mobilité réduite"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de douches"
+        },
+        {
+          "icon": "separateEntrance",
+          "value": "Entrée séparée"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "a2bb8357-b606-4fd9-8ad7-534ba968f078",
+          "url": "https://mms.seloger.com/a/2/b/b/a2bb8357-b606-4fd9-8ad7-534ba968f078.jpg?ci_seal=5bafa8953d9fdefb7eb13a60f42e7b0699ecdb60",
+          "alt": "Appartement à louer - logement étudiant 340 € 1 pièce 15,6 m² 1er étage dès le 25/12/2025 Guillotière Lyon 7ème 69007",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "45787658-e55b-41a7-91dc-5a4febee1789",
+          "url": "https://mms.seloger.com/4/5/7/8/45787658-e55b-41a7-91dc-5a4febee1789.jpg?ci_seal=9890dd5a7c9134ff5a1d469a892b2a1bb0a5f489",
+          "classification": {
+            "name": "HOME_OFFICE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d9f53001-eb33-4235-bdc2-27acdaf7a01e",
+          "url": "https://mms.seloger.com/d/9/f/5/d9f53001-eb33-4235-bdc2-27acdaf7a01e.jpg?ci_seal=780f9703b67d7cdb5f0718d2f0dcc57817080759",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c75bcb13-7598-4f1a-8d33-74cbc7e25610",
+          "url": "https://mms.seloger.com/c/7/5/b/c75bcb13-7598-4f1a-8d33-74cbc7e25610.jpg?ci_seal=ad13c01a96c2748022831b2daef54416b80c66a7",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6bb72e38-0cb4-444c-b34f-539696f62f2a",
+          "url": "https://mms.seloger.com/6/b/b/7/6bb72e38-0cb4-444c-b34f-539696f62f2a.jpg?ci_seal=36469c7469497224a3b1f0bfff46fdbc5fce6250",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255709199",
+      "federalStateGeoId": "AD04FR31",
+      "zip": "69007",
+      "city": "Lyon 7ème",
+      "country": "FRA",
+      "region": "Auvergne-Rhône-Alpes",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.43,
+        "accuracy": 4,
+        "high": "25,12",
+        "low": "12,56"
+      },
+      "markerPosition": 73,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "21,75",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement",
+      "description": "studio jean macé - JEAN MACE - Studio d'environ 15m², idéalement situé, à proximité des écoles, des commerces et du métro. Il se compose d'une entrée avec placard, une pièce de vie avec un coin cuisine équipé (plaque de cuisson et frigo TOP), une salle d'eau fonctionnelle avec WC. Eau froide comprise dans les charges. Idéal étudiant ou jeune actif. Fibre optique disponible. Disponible le 24 décembre !. \n Loyer de 340,00 euros par mois charges comprises dont 40,00 euros par mois de provision pour charges (soumis à la régularisation annuelle). \n Les honoraires charge locataire sont de 203,19 euros ( soit 13,00 euros/m² ) dont 46,89 euros pour état des lieux ( soit 3,00 euros/m² ). \nMontant estimé des dépenses annuelles d'énergie pour un usage standard : entre 360 et 530 euros. Prix moyens des énergies indexés en 2021.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "7 jours en ligne",
+      "views": "375 vues",
+      "saves": "39 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "256S4BGLL6QJ",
+    "legacyId": "255709199",
+    "brand": "seloger",
+    "agencyId": "RC-106756",
+    "static": {
+      "phoneNumbers": [
+        "04 78 79 13 15"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "04 78 79 13 15"
+      ]
+    },
+    "contactCard": {
+      "title": "SAGI-TER",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "04 78 79 13 15"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/c/6/9/1/c691c033-9d4c-4df2-9f52-ad8a6c6cd5d5.jpg?ci_seal=b100d820a7cc7d782f928d8042a37216dfaace14",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "SAGI-TER",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "04 78 79 13 15"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/c/6/9/1/c691c033-9d4c-4df2-9f52-ad8a6c6cd5d5.jpg?ci_seal=b100d820a7cc7d782f928d8042a37216dfaace14"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "SAGI-TER",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "04 78 79 13 15"
+      ],
+      "logoUrl": "https://mms.seloger.com/c/6/9/1/c691c033-9d4c-4df2-9f52-ad8a6c6cd5d5.jpg?ci_seal=b100d820a7cc7d782f928d8042a37216dfaace14",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "SAGI-TER",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/c/6/9/1/c691c033-9d4c-4df2-9f52-ad8a6c6cd5d5.jpg?ci_seal=b100d820a7cc7d782f928d8042a37216dfaace14",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-2eme-arrondissement-69002/agence-46997/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "website": "http://www.sagi-ter.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-2eme-arrondissement-69002/agence-46997/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "SAS SAGI-TER au capital de 250 000 €",
+        "Carte professionnelle CPI69012017000019392 délivrée par la Préfecture de Lyon",
+        "Garantie financière GALIAN pour un montant de 120 000 €",
+        "<b>Siège:</b> 68 rue Mercière, 69002 LYON 2EME",
+        "<b>RCS:</b> Lyon 482755782",
+        "<b>SIRET:</b> 48275578200034"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "68 RUE MERCIERE, 69002 Lyon 2ème",
+      "phoneNumbers": [
+        "04 78 79 13 15"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "69007",
+    "av_city": "Lyon",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "256S4BGLL6QJ",
+        "price": 340,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Lyon",
+        "region": "Auvergne-Rhône-Alpes",
+        "province": "Rhône",
+        "zip_code": "69007",
+        "legacy_id": "255709199",
+        "product_type": "standard",
+        "client_id": "RC-106756",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "86185",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "69007",
+        "estate_type": 1,
+        "id": "255709199",
+        "id_duo": 255709199,
+        "id_solo": 255709199,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 5,
+        "position": 0,
+        "price": 340,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 15.63
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "69123",
+      "cp": "69007",
+      "geodp": "69",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255709199",
+      "prix": 400,
+      "nb_pieces": 1,
+      "surface": 15.63,
+      "etage": 0,
+      "commodites": [
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "SalleDEau-douche"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-7eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 7ème arrondissement 69007",
+          "hoverLabel": "Appartements à louer Lyon 7ème arrondissement 69007",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 15.63 m² 340 € Guillotière Lyon (69007)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 15.63 m² 340 € Guillotière Lyon (69007)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/lyon-7eme-69/jean-mace/255709199.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-7eme-69/jean-mace/255709199.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 15.63 m² 340 € Guillotière Lyon (69007)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 15.63 m² 340 € Guillotière Lyon (69007)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/a/2/b/b/a2bb8357-b606-4fd9-8ad7-534ba968f078.jpg?ci_seal=5bafa8953d9fdefb7eb13a60f42e7b0699ecdb60"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 15.63 m² 340 € Guillotière Lyon (69007)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-7eme-69/jean-mace/255709199.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 15.63 m² 340 € Guillotière Lyon (69007)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 15.63 m² 340 € Guillotière Lyon (69007)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/a/2/b/b/a2bb8357-b606-4fd9-8ad7-534ba968f078.jpg?ci_seal=5bafa8953d9fdefb7eb13a60f42e7b0699ecdb60"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 15.63 m² 340 € Guillotière Lyon (69007)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 15.63 m² 340 € Guillotière Lyon (69007)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-7eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 7ème arrondissement 69007",
+          "hoverLabel": "Appartements à louer Lyon 7ème arrondissement 69007",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/lyon-7eme-69/jean-mace/255709199.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR9700&priceMax=408&priceMin=272",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR9700",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR23",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR28808",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR70",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR31",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "256S4BGLL6QJ"
+}

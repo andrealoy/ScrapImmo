@@ -1,0 +1,1031 @@
+{
+  "brand": "seloger",
+  "id": "2539PT2HHRXN",
+  "metadata": {
+    "legacyId": "255749507",
+    "creationDate": "2025-12-03T14:32:00Z",
+    "updateDate": "2025-12-03T14:36:07.661Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 8ème",
+        "zipCode": "13008",
+        "district": "Vieille Chapelle"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38209,
+          43.24806
+        ]
+      }
+    },
+    "description": {
+      "description": "A louer, bel appartement studio avec terrasse de 90 m2 vue mer - 13008 Marseille\r\nSitué dans une résidence fermée et sécurisée avec piscine.\r\nCet appartement de 28 m² est au 4ème et dernier étage de l'immeuble.\r\nIl est agrémenté d'une terrasse de 90 m² avec vue mer.\r\nMeublé et équipé.\r\nQuartier : Vielle Chapelle/Pointe rouge, proche de la mer et des commerces.",
+      "texts": [
+        {
+          "text": "A louer, bel appartement studio avec terrasse de 90 m2 vue mer - 13008 Marseille\r\nSitué dans une résidence fermée et sécurisée avec piscine.\r\nCet appartement de 28 m² est au 4ème et dernier étage de l'immeuble.\r\nIl est agrémenté d'une terrasse de 90 m² avec vue mer.\r\nMeublé et équipé.\r\nQuartier : Vielle Chapelle/Pointe rouge, proche de la mer et des commerces."
+        }
+      ],
+      "headline": "A LOUER studio meublé et équipé avec terrasse - 13008 MARSEILLE"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "29,5 m²",
+        "Étage 4/4"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "29,5 m²",
+          "splitValue": "29,5",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 4/4",
+          "splitValue": "Étage",
+          "label": "4/4"
+        }
+      ],
+      "price": {
+        "value": "746 €",
+        "formatted": "746 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "746.07 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "72433a57-2964-4c26-a79b-f2c29bd564c9",
+          "features": [
+            {
+              "type": "excessiveConsumption",
+              "label": "Consommation d'énergie",
+              "value": "Logement à consommation énergétique excessive: classe F"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "bc441a04-303a-4788-b196-e637f918f02b",
+              "efficiencyClass": {
+                "index": 5,
+                "rating": "F"
+              },
+              "values": [
+                {
+                  "value": "395 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "12 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : F avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": true
+            },
+            {
+              "key": "70c63033-8d47-430b-a4d4-b036e75a8ae9",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "12 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255749507"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "6082482"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "686,07 €/mois Loyer de base",
+          "ariaLabel": "686.07 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "60 €/mois",
+            "ariaLabel": "60 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "746,07 €/mois",
+            "ariaLabel": "746.07 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "23,28 €/mois/m²",
+            "ariaLabel": "23,28 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "686.07"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Dernier étage, 4ème étage/4 étages"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "terrace",
+          "value": "Terrasse"
+        },
+        {
+          "value": "Sans vis-à-vis",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "barrier-free",
+          "value": "Non accessible aux personnes à mobilité réduite"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de douches"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "fe0e2c03-a15c-4f00-b4f8-4b9fd1d20b7c",
+          "url": "https://mms.seloger.com/f/e/0/e/fe0e2c03-a15c-4f00-b4f8-4b9fd1d20b7c.jpg?ci_seal=1c228bb6ae2f9ffd5e32edb176c39f8b0572f37d",
+          "alt": "Appartement à louer 746 € 1 pièce 29,5 m² Étage 4/4 Vieille Chapelle Marseille 8ème 13008",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0f20c3b9-0c93-4c2b-9e5b-0d8851f02882",
+          "url": "https://mms.seloger.com/0/f/2/0/0f20c3b9-0c93-4c2b-9e5b-0d8851f02882.jpg?ci_seal=5883b6d1197e7e46455e81cd6ec952b2a3f28f33",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "dfe624b9-e33e-495b-ae67-8b55f95a3238",
+          "url": "https://mms.seloger.com/d/f/e/6/dfe624b9-e33e-495b-ae67-8b55f95a3238.jpg?ci_seal=66002f58de81d8a0c5672738349d10103f167e1f",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d192d309-999b-4e54-a1aa-3cde585fb490",
+          "url": "https://mms.seloger.com/d/1/9/2/d192d309-999b-4e54-a1aa-3cde585fb490.jpg?ci_seal=30c22150264845d526afa0d6ead66faa427cc47b",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e9a9d0cf-df33-4d55-a12b-8f8cba0cdbd9",
+          "url": "https://mms.seloger.com/e/9/a/9/e9a9d0cf-df33-4d55-a12b-8f8cba0cdbd9.jpg?ci_seal=9987c9326840640afc7522793dc1e61c8cfd8de8",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "cc33d997-ae69-4654-8a00-2f96d937686a",
+          "url": "https://mms.seloger.com/c/c/3/3/cc33d997-ae69-4654-8a00-2f96d937686a.jpg?ci_seal=95461d6e22df6eda2336b8e4b390c2a5bcf052fb",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "195b7d6c-f7ce-48e8-9a73-f71f286dfcf1",
+          "url": "https://mms.seloger.com/1/9/5/b/195b7d6c-f7ce-48e8-9a73-f71f286dfcf1.jpg?ci_seal=cf80ef3512d0602a5dba30bf6ecd9bd8b3b90e75",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255749507",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13008",
+      "city": "Marseille 8ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 18.36,
+        "accuracy": 1,
+        "high": "28,02",
+        "low": "13,80"
+      },
+      "markerPosition": 67,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "23,28",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "A LOUER studio meublé et équipé avec terrasse - 13008 MARSEILLE",
+      "description": "A louer, bel appartement studio avec terrasse de 90 m2 vue mer - 13008 Marseille\r\nSitué dans une résidence fermée et sécurisée avec piscine.\r\nCet appartement de 28 m² est au 4ème et dernier étage de l'immeuble.\r\nIl est agrémenté d'une terrasse de 90 m² avec vue mer.\r\nMeublé et équipé.\r\nQuartier : Vielle Chapelle/Pointe rouge, proche de la mer et des commerces.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "6 jours en ligne",
+      "views": "223 vues",
+      "saves": "20 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "2539PT2HHRXN",
+    "legacyId": "255749507",
+    "brand": "seloger",
+    "agencyId": "RC-005311",
+    "static": {
+      "phoneNumbers": [
+        "+33 4 84 84 61 88"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33 4 84 84 61 88"
+      ]
+    },
+    "contactCard": {
+      "title": "Régie Immobilière ICIMA",
+      "subtitle": "Icima Agence",
+      "phoneNumbers": [
+        "+33 4 84 84 61 88"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Régie Immobilière ICIMA",
+        "subtitle": "Icima Agence",
+        "phoneNumbers": [
+          "+33 4 84 84 61 88"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Icima Agence",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Régie Immobilière ICIMA",
+      "subtitle": "Régie Immobilière ICIMA",
+      "phoneNumbers": [
+        "+33 4 84 84 61 88"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Régie Immobilière ICIMA",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-387153/"
+      },
+      "contactCard": {
+        "title": "Icima Agence",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-387153/",
+      "imprintUrl": null,
+      "feeUrl": "https://icima-immobilier.fr:443/tarif-gestion-locative/",
+      "agencyLegalInformations": [
+        "SAS, société par actions simplifiée REGIE IMMOBILIERE ICIMA",
+        "<b>Siège:</b> 9 Rue daumier, 13008 Marseille",
+        "<b>RCS:</b> 800447104",
+        "<b>SIRET:</b> 80044710400038"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "9 rue daumier, 13008 Marseille 8ème arrondissement",
+      "phoneNumbers": [
+        "+33 4 84 84 61 88"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13008",
+    "av_city": "Marseille 8ème",
+    "av_energy_certificate": "F",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "2539PT2HHRXN",
+        "price": 746.07,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 8ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13008",
+        "legacy_id": "255749507",
+        "product_type": "standard",
+        "client_id": "RC-005311",
+        "energy_certificate": "F"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "89650",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "F",
+        "estate_postalcode": "13008",
+        "estate_type": 1,
+        "id": "255749507",
+        "id_duo": 255749507,
+        "id_solo": 255749507,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 7,
+        "position": 0,
+        "price": 746.07,
+        "product_geolocation": "localisation_district",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 29.47
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13008",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255749507",
+      "prix": 800,
+      "nb_pieces": 1,
+      "surface": 29.47,
+      "etage": 4,
+      "commodites": [
+        "Chauffage-individuel",
+        "dernier%20etage",
+        "SalleDEau-douche",
+        "sansVisAVis",
+        "terrasse"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "F"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-8eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 8ème arrondissement 13008",
+          "hoverLabel": "Appartements à louer Marseille 8ème arrondissement 13008",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 29.47 m² 746.07 € Vieille Chapelle Marseille (13008)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 29.47 m² 746.07 € Vieille Chapelle Marseille (13008)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-8eme-13/montredon/255749507.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-8eme-13/montredon/255749507.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 29.47 m² 746.07 € Vieille Chapelle Marseille (13008)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 29.47 m² 746.07 € Vieille Chapelle Marseille (13008)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/f/e/0/e/fe0e2c03-a15c-4f00-b4f8-4b9fd1d20b7c.jpg?ci_seal=1c228bb6ae2f9ffd5e32edb176c39f8b0572f37d"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 29.47 m² 746.07 € Vieille Chapelle Marseille (13008)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-8eme-13/montredon/255749507.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 29.47 m² 746.07 € Vieille Chapelle Marseille (13008)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 29.47 m² 746.07 € Vieille Chapelle Marseille (13008)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/f/e/0/e/fe0e2c03-a15c-4f00-b4f8-4b9fd1d20b7c.jpg?ci_seal=1c228bb6ae2f9ffd5e32edb176c39f8b0572f37d"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 29.47 m² 746.07 € Vieille Chapelle Marseille (13008)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 29.47 m² 746.07 € Vieille Chapelle Marseille (13008)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-8eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 8ème arrondissement 13008",
+          "hoverLabel": "Appartements à louer Marseille 8ème arrondissement 13008",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-8eme-13/montredon/255749507.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1083&priceMax=895.28&priceMin=596.86",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1083",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR8",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "2539PT2HHRXN"
+}

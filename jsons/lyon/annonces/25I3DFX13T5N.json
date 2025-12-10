@@ -1,0 +1,1098 @@
+{
+  "brand": "seloger",
+  "id": "25I3DFX13T5N",
+  "metadata": {
+    "legacyId": "256173487",
+    "creationDate": "2025-12-09T19:09:00Z",
+    "updateDate": "2025-12-09T19:11:09.115Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Lyon 3ème",
+        "zipCode": "69003",
+        "district": "La Villette"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86844,
+          45.75922
+        ]
+      }
+    },
+    "description": {
+      "description": "Découvrez cet agréable appartement de type 3 d'environ 68m², idéalement situé au sein d'une belle copropriété construite dans les années 1980.\r\nCe bien s'ouvre sur un hall d'entrée qui dessert un dégagement menant à un séjour lumineux. Vous trouverez également une cuisine entièrement équipée, ainsi que deux chambres. L'appartement dispose d'une salle de bain équipée et d'un WC indépendant. De nombreux placards intégrés optimisent le rangement, et vous pourrez profiter d'un agréable balcon pour vos moments de détente en extérieur.\r\n\r\nLoyer HC : 1143.33 euros\r\nComplément de loyer : 223.43 euros (Garage, balcon, cave).\r\nLoyer CC : 1283.33 euros\r\n\r\nLoyer majoré : 943.33 euros\r\n\r\nLogement disponible de suite.\r\nVisite accompagnée sur RDV, contacter le service location",
+      "texts": [
+        {
+          "text": "Découvrez cet agréable appartement de type 3 d'environ 68m², idéalement situé au sein d'une belle copropriété construite dans les années 1980.\r\nCe bien s'ouvre sur un hall d'entrée qui dessert un dégagement menant à un séjour lumineux. Vous trouverez également une cuisine entièrement équipée, ainsi que deux chambres. L'appartement dispose d'une salle de bain équipée et d'un WC indépendant. De nombreux placards intégrés optimisent le rangement, et vous pourrez profiter d'un agréable balcon pour vos moments de détente en extérieur.\r\n\r\nLoyer HC : 1143.33 euros\r\nComplément de loyer : 223.43 euros (Garage, balcon, cave).\r\nLoyer CC : 1283.33 euros\r\n\r\nLoyer majoré : 943.33 euros\r\n\r\nLogement disponible de suite.\r\nVisite accompagnée sur RDV, contacter le service location"
+        }
+      ],
+      "headline": "Appartement T3 de 67.64 m² à 1283.33 euros CC"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "67,6 m²",
+        "4ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "67,6 m²",
+          "splitValue": "67,6",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4ème étage",
+          "splitValue": "4ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 283 €",
+        "formatted": "1 283 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1283.33 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "2a581db9-92e7-44d9-a527-cd78a94e52f4",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 970 et 1360 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 970 et 1360 € par an. Prix moyens des énergies indexés au 31/12/2020 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "53c04eae-db1c-4d1f-98b6-321abc225427",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "179 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "17 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "8caaed6e-3f1c-45c4-af30-aa673c3c6a34",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "17 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256173487"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "VP71-UIL-WBC"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 283,33 €/mois Loyer charges comprises",
+          "ariaLabel": "1283.33 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "140 €/mois",
+            "ariaLabel": "140 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "15,67 €/mois/m²",
+            "ariaLabel": "15,67 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1143.33"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "4ème étage"
+        },
+        {
+          "value": "Cave",
+          "icon": "cellar"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Parking"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "4ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "value": "Cave",
+                "icon": "cellar"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Balcon"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "Parking"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "46b241d7-4978-49a3-84b3-8f29872f1c41",
+          "url": "https://mms.seloger.com/4/6/b/2/46b241d7-4978-49a3-84b3-8f29872f1c41.jpg?ci_seal=b5484da23dcddb628855b2b7a8fa3fd5c0365813",
+          "alt": "Appartement à louer 1 283 € 2 pièces 1 chambre 67,6 m² 4ème étage La Villette Lyon 3ème 69003",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "045bb675-66f0-431c-ba80-b7d0ba41ceec",
+          "url": "https://mms.seloger.com/0/4/5/b/045bb675-66f0-431c-ba80-b7d0ba41ceec.jpg?ci_seal=bc5d6405068afb49f03d9484572cbfda9438e034",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "14e259ff-5da2-418f-ae59-b532cb52687d",
+          "url": "https://mms.seloger.com/1/4/e/2/14e259ff-5da2-418f-ae59-b532cb52687d.jpg?ci_seal=9e10b91b4d4e8f1cb3aab901c4e605d5bc59e797",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fabf13e5-25e7-466d-83a9-475b054f14ae",
+          "url": "https://mms.seloger.com/f/a/b/f/fabf13e5-25e7-466d-83a9-475b054f14ae.jpg?ci_seal=e1155a2cba51c22dcb4509d12497b020f2f305fc",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "01433343-3b5b-445b-9f2f-eeb3fe4f34ed",
+          "url": "https://mms.seloger.com/0/1/4/3/01433343-3b5b-445b-9f2f-eeb3fe4f34ed.jpg?ci_seal=0240f2e1611961fd53cd78678c87a38fc1ee904c",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8172b195-aa51-4631-9a01-2e318ab34892",
+          "url": "https://mms.seloger.com/8/1/7/2/8172b195-aa51-4631-9a01-2e318ab34892.jpg?ci_seal=4e06539bab297aff72f9ff98f9a65bdf007bd2d6",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256173487",
+      "federalStateGeoId": "AD04FR31",
+      "zip": "69003",
+      "city": "Lyon 3ème",
+      "country": "FRA",
+      "region": "Auvergne-Rhône-Alpes",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.72,
+        "accuracy": 3,
+        "high": "25,48",
+        "low": "12,87"
+      },
+      "markerPosition": 22,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "15,67",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement T3 de 67.64 m² à 1283.33 euros CC",
+      "description": "Découvrez cet agréable appartement de type 3 d'environ 68m², idéalement situé au sein d'une belle copropriété construite dans les années 1980.\r\nCe bien s'ouvre sur un hall d'entrée qui dessert un dégagement menant à un séjour lumineux. Vous trouverez également une cuisine entièrement équipée, ainsi que deux chambres. L'appartement dispose d'une salle de bain équipée et d'un WC indépendant. De nombreux placards intégrés optimisent le rangement, et vous pourrez profiter d'un agréable balcon pour vos moments de détente en extérieur.\r\n\r\nLoyer HC : 1143.33 euros\r\nComplément de loyer : 223.43 euros (Garage, balcon, cave).\r\nLoyer CC : 1283.33 euros\r\n\r\nLoyer majoré : 943.33 euros\r\n\r\nLogement disponible de suite.\r\nVisite accompagnée sur RDV, contacter le service location",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "22 vues",
+      "saves": "0 favori"
+    }
+  },
+  "contactSections": {
+    "id": "25I3DFX13T5N",
+    "legacyId": "256173487",
+    "brand": "seloger",
+    "agencyId": "RC-070908",
+    "static": {
+      "phoneNumbers": [
+        "0487743894 / 0472330081"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0487743894 / 0472330081"
+      ]
+    },
+    "contactCard": {
+      "title": "ORPI PART DIEU IMMOBILIER CONSEIL",
+      "subtitle": "Part Dieu Immobilier Conseil",
+      "phoneNumbers": [
+        "0487743894 / 0472330081"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/a/3/1/1/a3115f5e-a37e-4fb3-a2c2-a26817327f33.jpg?ci_seal=baa4b59df56a9fd7af44608100f26b3179a7aea8",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "ORPI PART DIEU IMMOBILIER CONSEIL",
+        "subtitle": "Part Dieu Immobilier Conseil",
+        "phoneNumbers": [
+          "0487743894 / 0472330081"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/a/3/1/1/a3115f5e-a37e-4fb3-a2c2-a26817327f33.jpg?ci_seal=baa4b59df56a9fd7af44608100f26b3179a7aea8"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Part Dieu Immobilier Conseil",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "ORPI PART DIEU IMMOBILIER CONSEIL",
+      "subtitle": "ORPI PART DIEU IMMOBILIER CONSEIL",
+      "phoneNumbers": [
+        "0487743894 / 0472330081"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "ORPI PART DIEU IMMOBILIER CONSEIL",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/a/3/1/1/a3115f5e-a37e-4fb3-a2c2-a26817327f33.jpg?ci_seal=baa4b59df56a9fd7af44608100f26b3179a7aea8",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-3eme-arrondissement-69003/agence-97942/"
+      },
+      "contactCard": {
+        "title": "Part Dieu Immobilier Conseil",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.orpi.com/agence-part-dieu",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-3eme-arrondissement-69003/agence-97942/",
+      "imprintUrl": null,
+      "feeUrl": "http://media6.ac3-distribution.com:80/segments/immo/catalog/images/manufacturers_bareme/73590.pdf",
+      "agencyLegalInformations": [
+        "Société à responsabilité limitée (sans autre indication) PART DIEU IMMOBILIER",
+        "<b>Siège:</b> 157 Rue Paul Bert, 69003 Lyon",
+        "<b>RCS:</b> 491699203",
+        "<b>SIRET:</b> 49169920300015"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "157 rue Paul Bert, 69003 Lyon 3ème arrondissement",
+      "phoneNumbers": [
+        "0487743894 / 0472330081"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "69003",
+    "av_city": "Lyon",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25I3DFX13T5N",
+        "price": 1283.3300000000002,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Lyon",
+        "region": "Auvergne-Rhône-Alpes",
+        "province": "Rhône",
+        "zip_code": "69003",
+        "legacy_id": "256173487",
+        "product_type": "standard",
+        "client_id": "RC-070908",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "36946",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "69003",
+        "estate_type": 1,
+        "id": "256173487",
+        "id_duo": 256173487,
+        "id_solo": 256173487,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 6,
+        "position": 0,
+        "price": 1283.3300000000002,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 67.64
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "69123",
+      "cp": "69003",
+      "geodp": "69",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256173487",
+      "prix": 1300,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 67.64,
+      "commodites": [
+        "balcon",
+        "cave",
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "parking%20ouvert",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-3eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 3ème arrondissement 69003",
+          "hoverLabel": "Appartements à louer Lyon 3ème arrondissement 69003",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 67.64 m² 1283.3300000000002 € La Villette Lyon (69003)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 67.64 m² 1283.3300000000002 € La Villette Lyon (69003)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/lyon-3eme-69/villette/256173487.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-3eme-69/villette/256173487.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 67.64 m² 1283.3300000000002 € La Villette Lyon (69003)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 67.64 m² 1283.3300000000002 € La Villette Lyon (69003)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/4/6/b/2/46b241d7-4978-49a3-84b3-8f29872f1c41.jpg?ci_seal=b5484da23dcddb628855b2b7a8fa3fd5c0365813"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 67.64 m² 1283.3300000000002 € La Villette Lyon (69003)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-3eme-69/villette/256173487.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 67.64 m² 1283.3300000000002 € La Villette Lyon (69003)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 67.64 m² 1283.3300000000002 € La Villette Lyon (69003)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/4/6/b/2/46b241d7-4978-49a3-84b3-8f29872f1c41.jpg?ci_seal=b5484da23dcddb628855b2b7a8fa3fd5c0365813"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 67.64 m² 1283.3300000000002 € La Villette Lyon (69003)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 67.64 m² 1283.3300000000002 € La Villette Lyon (69003)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-3eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 3ème arrondissement 69003",
+          "hoverLabel": "Appartements à louer Lyon 3ème arrondissement 69003",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/lyon-3eme-69/villette/256173487.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR9346&priceMax=1540&priceMin=1026.66",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR9346",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR19",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR28808",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR70",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR31",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25I3DFX13T5N"
+}

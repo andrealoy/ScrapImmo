@@ -1,0 +1,976 @@
+{
+  "brand": "seloger",
+  "id": "2583WHQ1JLAB",
+  "metadata": {
+    "legacyId": "255737311",
+    "creationDate": "2025-12-03T11:27:00Z",
+    "updateDate": "2025-12-03T11:31:17.076Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 6ème",
+        "zipCode": "13006"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                5.3784,
+                43.28095
+              ],
+              [
+                5.37648,
+                43.27919
+              ],
+              [
+                5.37311,
+                43.27943
+              ],
+              [
+                5.37033,
+                43.28386
+              ],
+              [
+                5.3701,
+                43.28776
+              ],
+              [
+                5.37214,
+                43.29097
+              ],
+              [
+                5.38232,
+                43.29348
+              ],
+              [
+                5.38149,
+                43.29609
+              ],
+              [
+                5.38905,
+                43.29318
+              ],
+              [
+                5.38915,
+                43.28813
+              ],
+              [
+                5.39274,
+                43.28312
+              ],
+              [
+                5.38692,
+                43.28327
+              ],
+              [
+                5.38826,
+                43.28237
+              ],
+              [
+                5.3784,
+                43.28095
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "description": {
+      "description": "13006 Marseille- Cours Mirabeau\n Quartier piéton en plein coeur du centre ville, dans un immeuble ancien au dernier étage sans ascenseur\n T1 de 25,91m² composé d'une pièce de vie, une cuisine séparée, une salle d'eau et wc indépendant.\n Balcon filant.\n Loyer charges comprises: 610€ dont 30€ de provisions de charges ( régularisation annuelle)\n Dépôt de garantie: 580€ \n Honoraires TTC à la charge du locataire: 336€ dont 77€ de frais d'état des lieux.\n Contact L'immobilière CEPAC: \n « Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  »",
+      "texts": [
+        {
+          "text": "13006 Marseille- Cours Mirabeau\n Quartier piéton en plein coeur du centre ville, dans un immeuble ancien au dernier étage sans ascenseur\n T1 de 25,91m² composé d'une pièce de vie, une cuisine séparée, une salle d'eau et wc indépendant.\n Balcon filant.\n Loyer charges comprises: 610€ dont 30€ de provisions de charges ( régularisation annuelle)\n Dépôt de garantie: 580€ \n Honoraires TTC à la charge du locataire: 336€ dont 77€ de frais d'état des lieux.\n Contact L'immobilière CEPAC: \n « Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  »"
+        }
+      ],
+      "headline": "Studio dernier étage Cours Julien"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "25 m²",
+        "Étage 3/3"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "25 m²",
+          "splitValue": "25",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 3/3",
+          "splitValue": "Étage",
+          "label": "3/3"
+        }
+      ],
+      "price": {
+        "value": "610 €",
+        "formatted": "610 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "610 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "0e84481f-d5f9-42d1-93ee-5c41c77acbf5",
+          "scales": [
+            {
+              "key": "1a451240-7556-4772-8832-b7308190f304",
+              "name": "Diagnostic de Performance Énergétique (DPE)",
+              "alternateText": "Un certificat énergétique n'est pas nécessaire pour ce bien.",
+              "ariaLabel": "Un certificat énergétique n'est pas nécessaire pour ce bien."
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255737311"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "Studio Cours Julien"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "610 €/mois Loyer charges comprises",
+          "ariaLabel": "610 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "30 €/mois",
+            "ariaLabel": "30 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "24,40 €/mois/m²",
+            "ariaLabel": "24,40 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "580"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Dernier étage, 3ème étage/3 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: est"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de douches"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "b842ed1e-0be1-4c65-b55d-284b9b8e6d81",
+          "url": "https://mms.seloger.com/b/8/4/2/b842ed1e-0be1-4c65-b55d-284b9b8e6d81.jpg?ci_seal=1a75467e5b696b352a9ac3693590664521113f31",
+          "alt": "Appartement à louer 610 € 1 pièce 25 m² Étage 3/3 Marseille 6ème 13006",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c8322e1e-db2e-4c2a-9d6a-0332bc4abb5e",
+          "url": "https://mms.seloger.com/c/8/3/2/c8322e1e-db2e-4c2a-9d6a-0332bc4abb5e.jpg?ci_seal=746c46c16f1bfcd6476896c31abd3ca82b06e439",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "129840c2-1b7c-43ea-b943-b91f3c7e92a4",
+          "url": "https://mms.seloger.com/1/2/9/8/129840c2-1b7c-43ea-b943-b91f3c7e92a4.jpg?ci_seal=17b28866b3b7069bf6a5df306d508ba0a30db229",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "cd02fc6a-3ec0-4dd8-b907-287d10c33858",
+          "url": "https://mms.seloger.com/c/d/0/2/cd02fc6a-3ec0-4dd8-b907-287d10c33858.jpg?ci_seal=36d2596b94a2fb2e5d181e72131406378beec391",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "20bc83f8-1622-45fb-a7ec-49052b7490e7",
+          "url": "https://mms.seloger.com/2/0/b/c/20bc83f8-1622-45fb-a7ec-49052b7490e7.jpg?ci_seal=73675b321dd6d7838246dad94af3c06b89f5c890",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3614c47b-988c-4ba6-8fc4-6717a9df9c55",
+          "url": "https://mms.seloger.com/3/6/1/4/3614c47b-988c-4ba6-8fc4-6717a9df9c55.jpg?ci_seal=7c98c4e5340d90bcf766fe7e9757863d27f12215",
+          "classification": {
+            "name": "STAIRCASE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255737311",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13006",
+      "city": "Marseille 6ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.28,
+        "accuracy": 2,
+        "high": "24,25",
+        "low": "12"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "24,40",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Studio dernier étage Cours Julien",
+      "description": "13006 Marseille- Cours Mirabeau\n Quartier piéton en plein coeur du centre ville, dans un immeuble ancien au dernier étage sans ascenseur\n T1 de 25,91m² composé d'une pièce de vie, une cuisine séparée, une salle d'eau et wc indépendant.\n Balcon filant.\n Loyer charges comprises: 610€ dont 30€ de provisions de charges ( régularisation annuelle)\n Dépôt de garantie: 580€ \n Honoraires TTC à la charge du locataire: 336€ dont 77€ de frais d'état des lieux.\n Contact L'immobilière CEPAC: \n « Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques :  »",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "6 jours en ligne",
+      "views": "123 vues",
+      "saves": "11 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "2583WHQ1JLAB",
+    "legacyId": "255737311",
+    "brand": "seloger",
+    "agencyId": "RC-118243",
+    "static": {
+      "phoneNumbers": [
+        "0491134252 / 0672153032"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0491134252 / 0672153032"
+      ]
+    },
+    "contactCard": {
+      "title": "L'IMMOBILIERE CEPAC",
+      "subtitle": "L'Immobilière Cepac",
+      "phoneNumbers": [
+        "0491134252 / 0672153032"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/7/8/b/8/78b8a4cd-67f5-48e0-af22-e600a7d8967e.jpg?ci_seal=d56ba72d06e1533d7a689e6c9a61bfe4e3fbc05a",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "L'IMMOBILIERE CEPAC",
+        "subtitle": "L'Immobilière Cepac",
+        "phoneNumbers": [
+          "0491134252 / 0672153032"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/7/8/b/8/78b8a4cd-67f5-48e0-af22-e600a7d8967e.jpg?ci_seal=d56ba72d06e1533d7a689e6c9a61bfe4e3fbc05a"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à L'Immobilière Cepac",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "L'IMMOBILIERE CEPAC",
+      "subtitle": "L'IMMOBILIERE CEPAC",
+      "phoneNumbers": [
+        "0491134252 / 0672153032"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "L'IMMOBILIERE CEPAC",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/7/8/b/8/78b8a4cd-67f5-48e0-af22-e600a7d8967e.jpg?ci_seal=d56ba72d06e1533d7a689e6c9a61bfe4e3fbc05a",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-2eme-arrondissement-13002/agence-59848/"
+      },
+      "contactCard": {
+        "title": "L'Immobilière Cepac",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "https://www.immobiliere-cepac.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-2eme-arrondissement-13002/agence-59848/",
+      "imprintUrl": null,
+      "feeUrl": "https://corner-immo.la-boite-immo.com/i/redac/honoraires?honofor=1",
+      "agencyLegalInformations": [
+        "CORNER IMMOBILIER",
+        "<b>Siège:</b> 3 AVENUE JULES CANTINI, 13006 MARSEILLE 6EME",
+        "<b>RCS:</b> 309645786",
+        "<b>SIRET:</b> 30964578600117"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "9 boulevard Dunkerque, 13002 Marseille 2ème",
+      "phoneNumbers": [
+        "0491134252 / 0672153032"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13006",
+    "av_city": "Marseille 6ème",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "2583WHQ1JLAB",
+        "price": 610,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 6ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13006",
+        "legacy_id": "255737311",
+        "product_type": "standard",
+        "client_id": "RC-118243"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "101115",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "estate_postalcode": "13006",
+        "estate_type": 1,
+        "id": "255737311",
+        "id_duo": 255737311,
+        "id_solo": 255737311,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 6,
+        "position": 0,
+        "price": 610,
+        "product_geolocation": "localisation_city",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 25
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13006",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255737311",
+      "prix": 700,
+      "nb_pieces": 1,
+      "surface": 25,
+      "etage": 3,
+      "commodites": [
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "Cuisine-équipée",
+        "Cuisine-séparée",
+        "dernier%20etage",
+        "SalleDEau-douche",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-6eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 6ème arrondissement 13006",
+          "hoverLabel": "Appartements à louer Marseille 6ème arrondissement 13006",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 25 m² 610 € Marseille (13006)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 25 m² 610 € Marseille (13006)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-6eme-13/255737311.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-6eme-13/255737311.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 25 m² 610 € Marseille (13006)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 25 m² 610 € Marseille (13006)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/b/8/4/2/b842ed1e-0be1-4c65-b55d-284b9b8e6d81.jpg?ci_seal=1a75467e5b696b352a9ac3693590664521113f31"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 25 m² 610 € Marseille (13006)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-6eme-13/255737311.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 25 m² 610 € Marseille (13006)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 25 m² 610 € Marseille (13006)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/b/8/4/2/b842ed1e-0be1-4c65-b55d-284b9b8e6d81.jpg?ci_seal=1a75467e5b696b352a9ac3693590664521113f31"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 25 m² 610 € Marseille (13006)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 25 m² 610 € Marseille (13006)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-6eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 6ème arrondissement 13006",
+          "hoverLabel": "Appartements à louer Marseille 6ème arrondissement 13006",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-6eme-13/255737311.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=AD09FR6&priceMax=732&priceMin=488",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "AD09FR6",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "2583WHQ1JLAB"
+}

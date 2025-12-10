@@ -1,0 +1,1116 @@
+{
+  "brand": "seloger",
+  "id": "25NG37TTRI8V",
+  "metadata": {
+    "legacyId": "256166471",
+    "creationDate": "2025-12-09T16:53:00Z",
+    "updateDate": "2025-12-09T16:56:17.165Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 5ème",
+        "zipCode": "13005",
+        "district": "La Conception"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.39808,
+          43.29405
+        ]
+      }
+    },
+    "description": {
+      "description": "T3 non meublé - Camas\r\nÀ louer, joli T3 non meublé dans le quartier du Camas , spacieux et lumineux. L’appartement se compose de deux chambres, d’une cuisine équipée, d’une salle de bains avec toilettes séparées et d’un espace de vie agréable avec balcons.\r\n\r\n\r\nLoyer : 990 € charges comprises.\r\nhonoraires : 959,68€\r\ncaution : 990€\r\n\r\nPremier contact par mail.",
+      "texts": [
+        {
+          "text": "T3 non meublé - Camas\r\nÀ louer, joli T3 non meublé dans le quartier du Camas , spacieux et lumineux. L’appartement se compose de deux chambres, d’une cuisine équipée, d’une salle de bains avec toilettes séparées et d’un espace de vie agréable avec balcons.\r\n\r\n\r\nLoyer : 990 € charges comprises.\r\nhonoraires : 959,68€\r\ncaution : 990€\r\n\r\nPremier contact par mail."
+        }
+      ],
+      "headline": "A LOUER T3 NON MEUBLE ***CAMAS***"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "73,8 m²",
+        "2ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "73,8 m²",
+          "splitValue": "73,8",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2ème étage",
+          "splitValue": "2ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "990 €",
+        "formatted": "990 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "990 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel: Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "a2078c40-4efb-413b-aec8-44e7e84e5415",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "d866d94b-7e49-4e6e-a532-8cec84579f6f",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "147 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "31 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "50c7a4ac-c563-4a55-a04f-337afe70c14e",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "31 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256166471"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "86494376"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "990 €/mois Loyer charges comprises",
+          "ariaLabel": "990 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Prix ​​au m²",
+            "value": "13,41 €/mois/m²",
+            "ariaLabel": "13,41 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "0"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "2 balcons (Total 12,4 m²)"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: nord"
+        },
+        {
+          "value": "Sans vis-à-vis",
+          "icon": "with-view"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "Orientation",
+                "value": "Exposition: nord"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "2ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Non accessible aux personnes à mobilité réduite"
+              },
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "livingRoom",
+                "value": "Salon (total 28,7 m²)"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "2 balcons (Total 12,4 m²)"
+              },
+              {
+                "value": "Sans vis-à-vis",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "623346af-5507-40b6-ab6b-147f9fa534ee",
+          "url": "https://mms.seloger.com/6/2/3/3/623346af-5507-40b6-ab6b-147f9fa534ee.jpg?ci_seal=352bfb71c1b445ae109ceebc35af405363e3fa7e",
+          "alt": "Appartement à louer 990 € 3 pièces 2 chambres 73,8 m² 2ème étage La Conception Marseille 5ème 13005",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5c1db4a5-6b98-4ad3-8c50-ab9a6aacd57a",
+          "url": "https://mms.seloger.com/5/c/1/d/5c1db4a5-6b98-4ad3-8c50-ab9a6aacd57a.jpg?ci_seal=025ad6880441602a8b20de069055fa54a4f804d0",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7d9c5e37-ae2f-475a-9f9d-27ede4b0590d",
+          "url": "https://mms.seloger.com/7/d/9/c/7d9c5e37-ae2f-475a-9f9d-27ede4b0590d.jpg?ci_seal=abbdad42fe6537c3da9b6b147cca5456368e4d02",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "dbfa4d7f-bd9d-4550-bc48-34407cbf6f77",
+          "url": "https://mms.seloger.com/d/b/f/a/dbfa4d7f-bd9d-4550-bc48-34407cbf6f77.jpg?ci_seal=c8763ce9b45ddcacb0300f87606bd4fa313a6b7a",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1a52e1d9-022f-4b83-833d-f830c2a30cda",
+          "url": "https://mms.seloger.com/1/a/5/2/1a52e1d9-022f-4b83-833d-f830c2a30cda.jpg?ci_seal=1968f4f5c10913b8d088252e6d7c4bded4c3cc94",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "cb64b9a3-6871-4724-bc13-f533d3dcf26c",
+          "url": "https://mms.seloger.com/c/b/6/4/cb64b9a3-6871-4724-bc13-f533d3dcf26c.jpg?ci_seal=d67151e2b65909769490466c660f6eddafee5a93",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "09ddd6ae-a3eb-4c10-ad50-cd937dd81326",
+          "url": "https://mms.seloger.com/0/9/d/d/09ddd6ae-a3eb-4c10-ad50-cd937dd81326.jpg?ci_seal=07c8cc926bcd6c407e3ae61792b85197d3c0a3e8",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5dd6436c-422f-4fc5-9377-3e317222880c",
+          "url": "https://mms.seloger.com/5/d/d/6/5dd6436c-422f-4fc5-9377-3e317222880c.jpg?ci_seal=b58516dc5d042341b98ce19c24094b277aaf15ca",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256166471",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13005",
+      "city": "Marseille 5ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.41,
+        "accuracy": 1,
+        "high": "25,94",
+        "low": "11,93"
+      },
+      "markerPosition": 11,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "13,41",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "A LOUER T3 NON MEUBLE ***CAMAS***",
+      "description": "T3 non meublé - Camas\r\nÀ louer, joli T3 non meublé dans le quartier du Camas , spacieux et lumineux. L’appartement se compose de deux chambres, d’une cuisine équipée, d’une salle de bains avec toilettes séparées et d’un espace de vie agréable avec balcons.\r\n\r\n\r\nLoyer : 990 € charges comprises.\r\nhonoraires : 959,68€\r\ncaution : 990€\r\n\r\nPremier contact par mail.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "103 vues",
+      "saves": "8 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25NG37TTRI8V",
+    "legacyId": "256166471",
+    "brand": "seloger",
+    "agencyId": "RC-079396",
+    "static": {
+      "phoneNumbers": [
+        "0423474831"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0423474831"
+      ]
+    },
+    "contactCard": {
+      "title": "Buddy’s Immobilier 5 avenues",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0423474831"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/5/f/1/9/5f19ef5b-161b-4d92-9fcd-6d54a9bbf7f6.jpg?ci_seal=5ea2810ef1f86f172fdb6d32251b44934c60d890",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Buddy’s Immobilier 5 avenues",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "0423474831"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/5/f/1/9/5f19ef5b-161b-4d92-9fcd-6d54a9bbf7f6.jpg?ci_seal=5ea2810ef1f86f172fdb6d32251b44934c60d890"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Buddy’s Immobilier 5 avenues",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0423474831"
+      ],
+      "logoUrl": "https://mms.seloger.com/5/f/1/9/5f19ef5b-161b-4d92-9fcd-6d54a9bbf7f6.jpg?ci_seal=5ea2810ef1f86f172fdb6d32251b44934c60d890",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Buddy’s Immobilier 5 avenues",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/5/f/1/9/5f19ef5b-161b-4d92-9fcd-6d54a9bbf7f6.jpg?ci_seal=5ea2810ef1f86f172fdb6d32251b44934c60d890",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-4eme-arrondissement-13004/agence-275838/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "website": "https://buddys-immobilier.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-4eme-arrondissement-13004/agence-275838/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "Société à responsabilité limitée (sans autre indication) BUDDY'S IMMOBILIER 5 AVENUES",
+        "<b>Siège:</b> 31 Rue Docteur Acquaviva, 13004 Marseille",
+        "<b>RCS:</b> 518790209",
+        "<b>SIRET:</b> 51879020900028"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "31 rue Docteur Acquaviva, 13004 Marseille 4ème arrondissement",
+      "phoneNumbers": [
+        "0423474831"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13005",
+    "av_city": "Marseille 5ème",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25NG37TTRI8V",
+        "price": 990,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 5ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13005",
+        "legacy_id": "256166471",
+        "product_type": "standard",
+        "client_id": "RC-079396",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "39268",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "13005",
+        "estate_type": 1,
+        "id": "256166471",
+        "id_duo": 256166471,
+        "id_solo": 256166471,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 8,
+        "position": 0,
+        "price": 990,
+        "product_geolocation": "localisation_district",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 73.82
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13005",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256166471",
+      "prix": 1000,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 73.82,
+      "commodites": [
+        "ascenseur",
+        "balcon",
+        "Chauffage-individuel",
+        "Chauffage-gaz",
+        "Cuisine-équipée",
+        "SalleDeBain-baignoire",
+        "sansVisAVis",
+        "Sejour"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-5eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 5ème arrondissement 13005",
+          "hoverLabel": "Appartements à louer Marseille 5ème arrondissement 13005",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 73.82 m² 990 € La Conception Marseille (13005)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 73.82 m² 990 € La Conception Marseille (13005)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-5eme-13/le-camas/256166471.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-5eme-13/le-camas/256166471.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 73.82 m² 990 € La Conception Marseille (13005)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 73.82 m² 990 € La Conception Marseille (13005)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/6/2/3/3/623346af-5507-40b6-ab6b-147f9fa534ee.jpg?ci_seal=352bfb71c1b445ae109ceebc35af405363e3fa7e"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 73.82 m² 990 € La Conception Marseille (13005)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-5eme-13/le-camas/256166471.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 73.82 m² 990 € La Conception Marseille (13005)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 73.82 m² 990 € La Conception Marseille (13005)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/6/2/3/3/623346af-5507-40b6-ab6b-147f9fa534ee.jpg?ci_seal=352bfb71c1b445ae109ceebc35af405363e3fa7e"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 73.82 m² 990 € La Conception Marseille (13005)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 73.82 m² 990 € La Conception Marseille (13005)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-5eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 5ème arrondissement 13005",
+          "hoverLabel": "Appartements à louer Marseille 5ème arrondissement 13005",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-5eme-13/le-camas/256166471.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1059&priceMax=1188&priceMin=792",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1059",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR5",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25NG37TTRI8V"
+}

@@ -1,0 +1,1106 @@
+{
+  "brand": "seloger",
+  "id": "25UC51VGN3KA",
+  "metadata": {
+    "legacyId": "252395555",
+    "creationDate": "2025-10-17T21:58:00Z",
+    "updateDate": "2025-11-12T14:36:06.303Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 9ème",
+        "zipCode": "13009",
+        "district": "Mazargues"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.39724,
+          43.254
+        ]
+      }
+    },
+    "description": {
+      "description": "St Anne - 46 Boulevard de la fabrique\r\n\r\nDans une résidence fermée et sécurisée, joli type 2 de 41m².\r\nIl se compose d'un hall d'entrée, d'une cuisine américaine entièrement équipée, d'un séjour donnant sur une terrasse, d'une chambre et d'une salle de bain avec WC séparés.\r\nUn garage vient compléter le bien au sous-sol de l'immeuble.\r\nClimatisation réversible.\r\nProche de toute commodités.\r\n\r\n13009 Marseille",
+      "texts": [
+        {
+          "text": "St Anne - 46 Boulevard de la fabrique\r\n\r\nDans une résidence fermée et sécurisée, joli type 2 de 41m².\r\nIl se compose d'un hall d'entrée, d'une cuisine américaine entièrement équipée, d'un séjour donnant sur une terrasse, d'une chambre et d'une salle de bain avec WC séparés.\r\nUn garage vient compléter le bien au sous-sol de l'immeuble.\r\nClimatisation réversible.\r\nProche de toute commodités.\r\n\r\n13009 Marseille"
+        }
+      ],
+      "headline": "Appartement T2 Résidence Parc St Anne 13009"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "41,8 m²",
+        "3ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "41,8 m²",
+          "splitValue": "41,8",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3ème étage",
+          "splitValue": "3ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 090 €",
+        "formatted": "1 090 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "1090 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "2008"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "26002685-7d09-41cc-9701-9e9553558275",
+          "scales": [
+            {
+              "key": "97c46de9-9fcb-464b-af7c-5792bea577e2",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "157 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "4 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "74c6d141-3fd3-4836-ad7d-1cbd09d881d8",
+              "efficiencyClass": {
+                "index": 0,
+                "rating": "A"
+              },
+              "values": [
+                {
+                  "value": "4 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : A avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "252395555"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "585"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 090 €/mois Loyer charges comprises",
+          "ariaLabel": "1090 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "80 €/mois",
+            "ariaLabel": "80 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "26,08 €/mois/m²",
+            "ariaLabel": "26,08 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2020"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "3ème étage"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Garage"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "3ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "Garage"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "8c10782c-9319-4881-984f-8ea229d3cb67",
+          "url": "https://mms.seloger.com/8/c/1/0/8c10782c-9319-4881-984f-8ea229d3cb67.jpg?ci_seal=f57ac82f6f7564c3bdd94c30a8b945619fe24d21",
+          "alt": "Appartement à louer 1 090 € 2 pièces 1 chambre 41,8 m² 3ème étage Mazargues Marseille 9ème 13009",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6219a10b-b206-44a0-a892-d05cf054f2e9",
+          "url": "https://mms.seloger.com/6/2/1/9/6219a10b-b206-44a0-a892-d05cf054f2e9.jpg?ci_seal=782461ce87818196e11fc45b8fffe7df940928ce",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "64feeae2-8796-4081-96ff-59779fa6a2f8",
+          "url": "https://mms.seloger.com/6/4/f/e/64feeae2-8796-4081-96ff-59779fa6a2f8.jpg?ci_seal=9e1a53e5799a268fa1d5d91586b6681eea1f861c",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "46d396a2-5a39-4601-b48f-e90cd111a194",
+          "url": "https://mms.seloger.com/4/6/d/3/46d396a2-5a39-4601-b48f-e90cd111a194.jpg?ci_seal=8cbd48fdc9eb7cba01fab9817d2290ddfcf737c3",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "683e8b26-f58a-4c81-abb1-a7fc4d1d2d8f",
+          "url": "https://mms.seloger.com/6/8/3/e/683e8b26-f58a-4c81-abb1-a7fc4d1d2d8f.jpg?ci_seal=670e5c1165cb9df6b5c824a57c55f00038c80d7d",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "004f8de2-772c-4b90-8d31-c807a71fde29",
+          "url": "https://mms.seloger.com/0/0/4/f/004f8de2-772c-4b90-8d31-c807a71fde29.jpg?ci_seal=4770d850848a9e32a3abee6b262f54cafcf29505",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "832fc2f9-ff7d-4db6-919a-1460f3e99aa6",
+          "url": "https://mms.seloger.com/8/3/2/f/832fc2f9-ff7d-4db6-919a-1460f3e99aa6.jpg?ci_seal=39600be829efb4010be4ee196bdb939578a66162",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "aecc1ce4-18a2-4dc0-886d-779c31b707ab",
+          "url": "https://mms.seloger.com/a/e/c/c/aecc1ce4-18a2-4dc0-886d-779c31b707ab.jpg?ci_seal=0ed328a02c4cf61c70c43cf69be9d8f6b32176b2",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f8b55d14-033d-4da8-998e-7b39d7b8aeed",
+          "url": "https://mms.seloger.com/f/8/b/5/f8b55d14-033d-4da8-998e-7b39d7b8aeed.jpg?ci_seal=559e4448f5c3b8f88f9099a971ccfefd69c3a34f",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "252395555",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13009",
+      "city": "Marseille 9ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 17.74,
+        "accuracy": 1,
+        "high": "27,14",
+        "low": "13,85"
+      },
+      "markerPosition": 92,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "26,08",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement T2 Résidence Parc St Anne 13009",
+      "description": "St Anne - 46 Boulevard de la fabrique\r\n\r\nDans une résidence fermée et sécurisée, joli type 2 de 41m².\r\nIl se compose d'un hall d'entrée, d'une cuisine américaine entièrement équipée, d'un séjour donnant sur une terrasse, d'une chambre et d'une salle de bain avec WC séparés.\r\nUn garage vient compléter le bien au sous-sol de l'immeuble.\r\nClimatisation réversible.\r\nProche de toute commodités.\r\n\r\n13009 Marseille",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "27 jours en ligne",
+      "views": "327 vues",
+      "saves": "20 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25UC51VGN3KA",
+    "legacyId": "252395555",
+    "brand": "seloger",
+    "agencyId": "RC-067747",
+    "static": {
+      "phoneNumbers": [
+        "0491323030"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0491323030"
+      ]
+    },
+    "contactCard": {
+      "title": "CABINET ISTRIA",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0491323030"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/c/9/6/7/c9678108-41d4-42c2-8e25-a2bd0f1b18b4.jpg?ci_seal=d1d238c5d00d0426b8fdd26997bcb547b4cae80f",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "CABINET ISTRIA",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "0491323030"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/c/9/6/7/c9678108-41d4-42c2-8e25-a2bd0f1b18b4.jpg?ci_seal=d1d238c5d00d0426b8fdd26997bcb547b4cae80f"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "CABINET ISTRIA",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0491323030"
+      ],
+      "logoUrl": "https://mms.seloger.com/c/9/6/7/c9678108-41d4-42c2-8e25-a2bd0f1b18b4.jpg?ci_seal=d1d238c5d00d0426b8fdd26997bcb547b4cae80f",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "CABINET ISTRIA",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/c/9/6/7/c9678108-41d4-42c2-8e25-a2bd0f1b18b4.jpg?ci_seal=d1d238c5d00d0426b8fdd26997bcb547b4cae80f",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-68067/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "website": "http://www.cabinetistria.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-68067/",
+      "imprintUrl": null,
+      "feeUrl": "http://istria.lesty.immo//bexterimmo/pdf/printHono-noauth.php?agence=1",
+      "agencyLegalInformations": [
+        "Carte professionnelle B06-3356 délivrée par la Préfecture de BOUCHES DU RHONE",
+        "Garantie financière FNAIM pour un montant de 120 000 €",
+        "<b>Siège:</b> 13008 MARSEILLE",
+        "<b>RCS:</b> 432512127",
+        "<b>SIRET:</b> 43251212700031"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "24 rue du Commandant Rolland, 13008 Marseille",
+      "phoneNumbers": [
+        "0491323030"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13009",
+    "av_city": "Marseille 9ème",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25UC51VGN3KA",
+        "price": 1090,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 9ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13009",
+        "legacy_id": "252395555",
+        "product_type": "standard",
+        "client_id": "RC-067747",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "65806",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "13009",
+        "estate_type": 1,
+        "id": "252395555",
+        "id_duo": 252395555,
+        "id_solo": 252395555,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 9,
+        "position": 0,
+        "price": 1090,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 41.79,
+        "year_of_construction": 2008
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13009",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "252395555",
+      "prix": 1100,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 41.79,
+      "etage": 0,
+      "commodites": [
+        "box",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-9eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 9ème arrondissement 13009",
+          "hoverLabel": "Appartements à louer Marseille 9ème arrondissement 13009",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 41.79 m² 1090 € Mazargues Marseille (13009)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 41.79 m² 1090 € Mazargues Marseille (13009)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-9eme-13/mazargues/252395555.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-9eme-13/mazargues/252395555.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 41.79 m² 1090 € Mazargues Marseille (13009)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 41.79 m² 1090 € Mazargues Marseille (13009)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/8/c/1/0/8c10782c-9319-4881-984f-8ea229d3cb67.jpg?ci_seal=f57ac82f6f7564c3bdd94c30a8b945619fe24d21"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 41.79 m² 1090 € Mazargues Marseille (13009)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-9eme-13/mazargues/252395555.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 41.79 m² 1090 € Mazargues Marseille (13009)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 41.79 m² 1090 € Mazargues Marseille (13009)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/8/c/1/0/8c10782c-9319-4881-984f-8ea229d3cb67.jpg?ci_seal=f57ac82f6f7564c3bdd94c30a8b945619fe24d21"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 41.79 m² 1090 € Mazargues Marseille (13009)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 41.79 m² 1090 € Mazargues Marseille (13009)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-9eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 9ème arrondissement 13009",
+          "hoverLabel": "Appartements à louer Marseille 9ème arrondissement 13009",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-9eme-13/mazargues/252395555.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1087&priceMax=1308&priceMin=872",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1087",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR9",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25UC51VGN3KA"
+}

@@ -1,0 +1,1032 @@
+{
+  "brand": "seloger",
+  "id": "256XYVXAVZD1",
+  "metadata": {
+    "legacyId": "255880545",
+    "creationDate": "2025-12-05T03:44:00Z",
+    "updateDate": "2025-12-05T03:50:05.864Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 5ème",
+        "zipCode": "13005",
+        "district": "Saint Pierre"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.402777,
+          43.292652
+        ]
+      }
+    },
+    "description": {
+      "description": "Quartier Timone, à deux pas du métro dans la résidence contemporaine 'le Nobel'. Cet appartement situé en 5ème étage avec ascenseur offre un lumineux séjour avec cuisine ouverte aménagée (meubles hauts et bas, plaque de cuisson, hotte aspirante et frigo table top), une chambre avec un vaste rangement et une salle d'eau. Le chauffage et la production d'eau chaude sont individuels. Vous pourrez stationner un véhicule sur une place de parking privative dans le résidence.",
+      "texts": [
+        {
+          "text": "Quartier Timone, à deux pas du métro dans la résidence contemporaine 'le Nobel'. Cet appartement situé en 5ème étage avec ascenseur offre un lumineux séjour avec cuisine ouverte aménagée (meubles hauts et bas, plaque de cuisson, hotte aspirante et frigo table top), une chambre avec un vaste rangement et une salle d'eau. Le chauffage et la production d'eau chaude sont individuels. Vous pourrez stationner un véhicule sur une place de parking privative dans le résidence."
+        }
+      ],
+      "headline": "Appartement"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "38,8 m²",
+        "Étage 5/8"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38,8 m²",
+          "splitValue": "38,8",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 5/8",
+          "splitValue": "Étage",
+          "label": "5/8"
+        }
+      ],
+      "price": {
+        "value": "750 €",
+        "formatted": "750 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "749.96 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "523ff4f4-0697-418d-a8ea-207209871b80",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "038efea0-9b88-4200-9857-568dc818bf91",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "168 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "5 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "9957b2ae-bb4b-4514-b60d-912f74d55b7e",
+              "efficiencyClass": {
+                "index": 0,
+                "rating": "A"
+              },
+              "values": [
+                {
+                  "value": "5 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : A avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255880545"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "FL0845933"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "749,96 €/mois Loyer charges comprises",
+          "ariaLabel": "749.96 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "60 €/mois",
+            "ariaLabel": "60 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "19,35 €/mois/m²",
+            "ariaLabel": "19,35 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "553,46"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "5ème étage/8 étages"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Parking"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "WC dans la salle de bains"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "intercom",
+          "value": "Interphone"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "2dcc4d33-0695-4ea1-9c31-e18c965be8b7",
+          "url": "https://mms.seloger.com/2/d/c/c/2dcc4d33-0695-4ea1-9c31-e18c965be8b7.jpg?ci_seal=06cec915acb7d1ac8377e7c20dacc27b26ada0f0",
+          "alt": "Appartement à louer 750 € 2 pièces 38,8 m² Étage 5/8 Saint Pierre Marseille 5ème 13005",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b2db852b-2a2b-41c4-8196-d698e26e7112",
+          "url": "https://mms.seloger.com/b/2/d/b/b2db852b-2a2b-41c4-8196-d698e26e7112.jpg?ci_seal=7163d039cb23bd941a73b57a5b88f05254c0a71b",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "04d156c0-1889-472b-95ad-edd7e19dd692",
+          "url": "https://mms.seloger.com/0/4/d/1/04d156c0-1889-472b-95ad-edd7e19dd692.jpg?ci_seal=76151d5c942dc7471f7472d26b87460070c005ec",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4ed5902e-887c-4cd0-a08f-fb9fea3ce424",
+          "url": "https://mms.seloger.com/4/e/d/5/4ed5902e-887c-4cd0-a08f-fb9fea3ce424.jpg?ci_seal=fc26da18f02f89d688e9a52c382e00193834d316",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "bb995025-68a2-4e2b-877d-2c29f1e273e5",
+          "url": "https://mms.seloger.com/b/b/9/9/bb995025-68a2-4e2b-877d-2c29f1e273e5.jpg?ci_seal=18729fe8a985d3af11dcb4cc6d826883f365b9ce",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1c841a63-0db1-4636-b37d-045f30aef4d8",
+          "url": "https://mms.seloger.com/1/c/8/4/1c841a63-0db1-4636-b37d-045f30aef4d8.jpg?ci_seal=7e11d4e544e7732e73f4a525564c8cbf3a7bcc02",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "86260514-cb82-406d-90b3-bc6dbb5309b9",
+          "url": "https://mms.seloger.com/8/6/2/6/86260514-cb82-406d-90b3-bc6dbb5309b9.jpg?ci_seal=9e825a6a90667f48b55c247ec615b16b3d2d8398",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d446b6ae-27a7-498e-bce0-c67f3cb969d7",
+          "url": "https://mms.seloger.com/d/4/4/6/d446b6ae-27a7-498e-bce0-c67f3cb969d7.jpg?ci_seal=0b882c018096767bad172da0c020c264249e82b5",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "88048081-2bca-4c4c-8ac7-05ca88bd33b0",
+          "url": "https://mms.seloger.com/8/8/0/4/88048081-2bca-4c4c-8ac7-05ca88bd33b0.jpg?ci_seal=aed1134747570e7623de301e9aab858c4b7b7dd7",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255880545",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13005",
+      "city": "Marseille 5ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.08,
+        "accuracy": 2,
+        "high": "24,22",
+        "low": "12,15"
+      },
+      "markerPosition": 60,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "19,35",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement",
+      "description": "Quartier Timone, à deux pas du métro dans la résidence contemporaine 'le Nobel'. Cet appartement situé en 5ème étage avec ascenseur offre un lumineux séjour avec cuisine ouverte aménagée (meubles hauts et bas, plaque de cuisson, hotte aspirante et frigo table top), une chambre avec un vaste rangement et une salle d'eau. Le chauffage et la production d'eau chaude sont individuels. Vous pourrez stationner un véhicule sur une place de parking privative dans le résidence.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "4 jours en ligne",
+      "views": "150 vues",
+      "saves": "21 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "256XYVXAVZD1",
+    "legacyId": "255880545",
+    "brand": "seloger",
+    "agencyId": "RC-062303",
+    "static": {
+      "phoneNumbers": [
+        "0496121660"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0496121660"
+      ]
+    },
+    "contactCard": {
+      "title": "Lamy Location",
+      "subtitle": "Lamy Marseille Turcat Mery",
+      "phoneNumbers": [
+        "0496121660"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/b/c/5/1/bc51e6cb-b044-4eb6-a560-35be52d7a64a.jpg?ci_seal=107dfaadac8a7fc4a697110dd61ac52e8f380bc3",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Lamy Location",
+        "subtitle": "Lamy Marseille Turcat Mery",
+        "phoneNumbers": [
+          "0496121660"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/b/c/5/1/bc51e6cb-b044-4eb6-a560-35be52d7a64a.jpg?ci_seal=107dfaadac8a7fc4a697110dd61ac52e8f380bc3"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Lamy Marseille Turcat Mery",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Lamy Location",
+      "subtitle": "Lamy Location",
+      "phoneNumbers": [
+        "0496121660"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Lamy Location",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/b/c/5/1/bc51e6cb-b044-4eb6-a560-35be52d7a64a.jpg?ci_seal=107dfaadac8a7fc4a697110dd61ac52e8f380bc3",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-284225/"
+      },
+      "contactCard": {
+        "title": "Lamy Marseille Turcat Mery",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-284225/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 399381821",
+        "<b>SIRET:</b> 39938182100061"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "19 RUE DE VIENNE, 75008 PARIS",
+      "phoneNumbers": [
+        "0496121660"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13005",
+    "av_city": "Marseille 5ème",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "256XYVXAVZD1",
+        "price": 749.96,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 5ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13005",
+        "legacy_id": "255880545",
+        "product_type": "standard",
+        "client_id": "RC-062303",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "508549",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "13005",
+        "estate_type": 1,
+        "id": "255880545",
+        "id_duo": 255880545,
+        "id_solo": 255880545,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 9,
+        "position": 0,
+        "price": 749.96,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 38.75
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13005",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255880545",
+      "prix": 800,
+      "nb_pieces": 2,
+      "surface": 38.75,
+      "etage": 8,
+      "commodites": [
+        "ascenseur",
+        "parking%20ouvert"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-5eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 5ème arrondissement 13005",
+          "hoverLabel": "Appartements à louer Marseille 5ème arrondissement 13005",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 38.75 m² 749.96 € Saint Pierre Marseille (13005)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 38.75 m² 749.96 € Saint Pierre Marseille (13005)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-5eme-13/saint-pierre/255880545.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-5eme-13/saint-pierre/255880545.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 38.75 m² 749.96 € Saint Pierre Marseille (13005)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 38.75 m² 749.96 € Saint Pierre Marseille (13005)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/2/d/c/c/2dcc4d33-0695-4ea1-9c31-e18c965be8b7.jpg?ci_seal=06cec915acb7d1ac8377e7c20dacc27b26ada0f0"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 38.75 m² 749.96 € Saint Pierre Marseille (13005)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-5eme-13/saint-pierre/255880545.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 38.75 m² 749.96 € Saint Pierre Marseille (13005)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 38.75 m² 749.96 € Saint Pierre Marseille (13005)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/2/d/c/c/2dcc4d33-0695-4ea1-9c31-e18c965be8b7.jpg?ci_seal=06cec915acb7d1ac8377e7c20dacc27b26ada0f0"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 38.75 m² 749.96 € Saint Pierre Marseille (13005)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 38.75 m² 749.96 € Saint Pierre Marseille (13005)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-5eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 5ème arrondissement 13005",
+          "hoverLabel": "Appartements à louer Marseille 5ème arrondissement 13005",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-5eme-13/saint-pierre/255880545.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1060&priceMax=899.95&priceMin=599.97",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1060",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR5",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "256XYVXAVZD1"
+}

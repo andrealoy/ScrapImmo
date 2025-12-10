@@ -1,0 +1,1029 @@
+{
+  "brand": "seloger",
+  "id": "25VL8PP25UQ8",
+  "metadata": {
+    "legacyId": "252129387",
+    "creationDate": "2025-10-14T14:25:00Z",
+    "updateDate": "2025-11-28T17:41:17.049Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 1er",
+        "zipCode": "13001",
+        "district": "Noailles"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.378739,
+          43.295287
+        ]
+      }
+    },
+    "description": {
+      "description": "Nous vous proposons un appartement T1 bis de 32M² entièrement meublé, situé à proximité de toutes commodités (transports, commerces, restaurants).\r\n\r\nL'appartement se compose d'un espace de vie lumineux, et d'un coin nuit séparé. La cuisine dispose de tous les équipements nécessaires (four, frigo congélateur, micro ondes). La salle d'eau est moderne.\r\n\r\nParfait pour un étudiant, un jeune actif ou un pied-à-terre au cœur de Marseille, ce logement offre un cadre de vie agréable et pratique.\r\n\r\nDisponible tout de suite.",
+      "texts": [
+        {
+          "text": "Nous vous proposons un appartement T1 bis de 32M² entièrement meublé, situé à proximité de toutes commodités (transports, commerces, restaurants).\r\n\r\nL'appartement se compose d'un espace de vie lumineux, et d'un coin nuit séparé. La cuisine dispose de tous les équipements nécessaires (four, frigo congélateur, micro ondes). La salle d'eau est moderne.\r\n\r\nParfait pour un étudiant, un jeune actif ou un pied-à-terre au cœur de Marseille, ce logement offre un cadre de vie agréable et pratique.\r\n\r\nDisponible tout de suite."
+        }
+      ],
+      "headline": "T1 Bis meublé - 32m² - Centre ville"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer - logement étudiant",
+      "keyfacts": [
+        "1 pièce",
+        "1 chambre",
+        "32 m²",
+        "Étage 1/7"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "32 m²",
+          "splitValue": "32",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 1/7",
+          "splitValue": "Étage",
+          "label": "1/7"
+        }
+      ],
+      "price": {
+        "value": "721 €",
+        "formatted": "721 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "721 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "63a27023-d8e6-48fc-8a19-30016e129a07",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "f4078e72-cd6d-41fe-b7b4-955032f3efa6",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "170 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "5 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "c09a6d36-62b0-4739-9fa2-b00d3d1f2e41",
+              "efficiencyClass": {
+                "index": 0,
+                "rating": "A"
+              },
+              "values": [
+                {
+                  "value": "5 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : A avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "252129387"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "16VAC1-OC"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "721 €/mois Loyer charges comprises",
+          "ariaLabel": "721 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "40 €/mois",
+            "ariaLabel": "40 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "22,53 €/mois/m²",
+            "ariaLabel": "22,53 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1360"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "1er étage/7 étages"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de douches"
+        },
+        {
+          "icon": "floor-covering",
+          "value": "Revêtement du sol: Parquet"
+        },
+        {
+          "icon": "intercom",
+          "value": "Interphone"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "9350be89-ee75-4cae-b6b5-f72f60e978af",
+          "url": "https://mms.seloger.com/9/3/5/0/9350be89-ee75-4cae-b6b5-f72f60e978af.jpg?ci_seal=0e9774bad01c52c2bcd8b1f3a529594c5f80b2df",
+          "alt": "Appartement à louer - logement étudiant 721 € 1 pièce 1 chambre 32 m² Étage 1/7 Noailles Marseille 1er 13001",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d63238c5-3cdb-47ce-972d-98bee9e27625",
+          "url": "https://mms.seloger.com/d/6/3/2/d63238c5-3cdb-47ce-972d-98bee9e27625.jpg?ci_seal=f1ae6f7c249d174f2092e1027dfc9c2408ea1708",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9cda6741-86a4-4ee1-b4a2-10ba8eb3ebc5",
+          "url": "https://mms.seloger.com/9/c/d/a/9cda6741-86a4-4ee1-b4a2-10ba8eb3ebc5.jpg?ci_seal=db49fab11c8a46e53d9fcce751e8251f776958c2",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3efd87f1-feb5-407a-8326-cb1ed1e104f8",
+          "url": "https://mms.seloger.com/3/e/f/d/3efd87f1-feb5-407a-8326-cb1ed1e104f8.jpg?ci_seal=df3875aef34d5dff86749a421b41a9ba960607ff",
+          "classification": {
+            "name": "HOME_OFFICE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "326b5a9a-e68a-42b5-8f06-0f38546a0fc5",
+          "url": "https://mms.seloger.com/3/2/6/b/326b5a9a-e68a-42b5-8f06-0f38546a0fc5.jpg?ci_seal=648c72df2f915a7d9c4b2e345c40c554943c193d",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c49e65ae-ab52-4d02-bc92-5e931cb16be9",
+          "url": "https://mms.seloger.com/c/4/9/e/c49e65ae-ab52-4d02-bc92-5e931cb16be9.jpg?ci_seal=0f0b84da032f09b357156123e252d4a4d321bc5d",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e013595d-1fb7-43a2-902e-f8ee72fd3ef5",
+          "url": "https://mms.seloger.com/e/0/1/3/e013595d-1fb7-43a2-902e-f8ee72fd3ef5.jpg?ci_seal=356b5762f999ede53cef9a911c560f7d7b7311e4",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3b0a6ec4-4103-4e42-978a-ab42122f5917",
+          "url": "https://mms.seloger.com/3/b/0/a/3b0a6ec4-4103-4e42-978a-ab42122f5917.jpg?ci_seal=3a5b78ca642f7837ee60671f3f90956bb6fa263f",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "252129387",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13001",
+      "city": "Marseille 1er",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 15.67,
+        "accuracy": 2,
+        "high": "27,33",
+        "low": "10,17"
+      },
+      "markerPosition": 72,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "22,53",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "T1 Bis meublé - 32m² - Centre ville",
+      "description": "Nous vous proposons un appartement T1 bis de 32M² entièrement meublé, situé à proximité de toutes commodités (transports, commerces, restaurants).\r\n\r\nL'appartement se compose d'un espace de vie lumineux, et d'un coin nuit séparé. La cuisine dispose de tous les équipements nécessaires (four, frigo congélateur, micro ondes). La salle d'eau est moderne.\r\n\r\nParfait pour un étudiant, un jeune actif ou un pied-à-terre au cœur de Marseille, ce logement offre un cadre de vie agréable et pratique.\r\n\r\nDisponible tout de suite.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 mois en ligne",
+      "views": "281 vues",
+      "saves": "38 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25VL8PP25UQ8",
+    "legacyId": "252129387",
+    "brand": "seloger",
+    "agencyId": "RC-115927",
+    "static": {
+      "phoneNumbers": [
+        "0755926162"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0755926162"
+      ]
+    },
+    "contactCard": {
+      "title": "LOUER A MARSEILLE",
+      "subtitle": "Louer À Marseille",
+      "phoneNumbers": [
+        "0755926162"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "LOUER A MARSEILLE",
+        "subtitle": "Louer À Marseille",
+        "phoneNumbers": [
+          "0755926162"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Louer À Marseille",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "LOUER A MARSEILLE",
+      "subtitle": "LOUER A MARSEILLE",
+      "phoneNumbers": [
+        "0755926162"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "LOUER A MARSEILLE",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-404759/"
+      },
+      "contactCard": {
+        "title": "Louer À Marseille",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-404759/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 520648163",
+        "<b>SIRET:</b> 52064816300035"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "98 Avenue du Prado, 13008 Marseille",
+      "phoneNumbers": [
+        "0755926162"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13001",
+    "av_city": "Marseille 1er",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25VL8PP25UQ8",
+        "price": 721,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 1er",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13001",
+        "legacy_id": "252129387",
+        "product_type": "standard",
+        "client_id": "RC-115927",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "539983",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "13001",
+        "estate_type": 1,
+        "id": "252129387",
+        "id_duo": 252129387,
+        "id_solo": 252129387,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 8,
+        "position": 0,
+        "price": 721,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 32
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13001",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "252129387",
+      "prix": 800,
+      "nb_pieces": 1,
+      "nb_chambres": 1,
+      "surface": 32,
+      "etage": 7,
+      "commodites": [
+        "parquet",
+        "SalleDEau-douche"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-1er-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 1er arrondissement 13001",
+          "hoverLabel": "Appartements à louer Marseille 1er arrondissement 13001",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 32 m² 721 € Noailles Marseille (13001)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 32 m² 721 € Noailles Marseille (13001)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-1er-13/noailles/252129387.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-1er-13/noailles/252129387.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 32 m² 721 € Noailles Marseille (13001)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 32 m² 721 € Noailles Marseille (13001)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/9/3/5/0/9350be89-ee75-4cae-b6b5-f72f60e978af.jpg?ci_seal=0e9774bad01c52c2bcd8b1f3a529594c5f80b2df"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 32 m² 721 € Noailles Marseille (13001)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-1er-13/noailles/252129387.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 32 m² 721 € Noailles Marseille (13001)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 32 m² 721 € Noailles Marseille (13001)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/9/3/5/0/9350be89-ee75-4cae-b6b5-f72f60e978af.jpg?ci_seal=0e9774bad01c52c2bcd8b1f3a529594c5f80b2df"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 32 m² 721 € Noailles Marseille (13001)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 32 m² 721 € Noailles Marseille (13001)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-1er-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 1er arrondissement 13001",
+          "hoverLabel": "Appartements à louer Marseille 1er arrondissement 13001",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-1er-13/noailles/252129387.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1041&priceMax=865.2&priceMin=576.8",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1041",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR1",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25VL8PP25UQ8"
+}

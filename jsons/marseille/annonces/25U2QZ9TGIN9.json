@@ -1,0 +1,1122 @@
+{
+  "brand": "seloger",
+  "id": "25U2QZ9TGIN9",
+  "metadata": {
+    "legacyId": "243394011",
+    "creationDate": "2025-06-05T01:26:00Z",
+    "updateDate": "2025-08-07T01:45:08.598Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 3ème",
+        "zipCode": "13003",
+        "district": "Saint Mauront"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.372648,
+          43.315146
+        ]
+      }
+    },
+    "description": {
+      "description": "Quartier Saint-Mauront, à deux pas du métro National et proche des accès aux axes autoroutiers.Cet appartement situé en 11 ème étage avec ascenseur de résidence contemporaine offre une entrée, un séjour lumineux avec cuisine ouverte aménagée (meubles hauts et bas, plaque de cuisson et hotte aspirante), une terrasse exposée plein sud à la vue dégagée, une chambre et une salle d'eau. Le chauffage et la production d'eau chaude sont collectifs compris dans les charges.Vous pourrez stationner un véhicule sur une place de parking privative en sous-sol.Remplissez le formulaire de contacts depuis cette annonce pour vous permettre de déposer un dossier de candidature en ligne ou d'être recontacté.",
+      "texts": [
+        {
+          "text": "Quartier Saint-Mauront, à deux pas du métro National et proche des accès aux axes autoroutiers.Cet appartement situé en 11 ème étage avec ascenseur de résidence contemporaine offre une entrée, un séjour lumineux avec cuisine ouverte aménagée (meubles hauts et bas, plaque de cuisson et hotte aspirante), une terrasse exposée plein sud à la vue dégagée, une chambre et une salle d'eau. Le chauffage et la production d'eau chaude sont collectifs compris dans les charges.Vous pourrez stationner un véhicule sur une place de parking privative en sous-sol.Remplissez le formulaire de contacts depuis cette annonce pour vous permettre de déposer un dossier de candidature en ligne ou d'être recontacté."
+        }
+      ],
+      "headline": "Appartement"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "41,7 m²",
+        "Étage 11/15"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "41,7 m²",
+          "splitValue": "41,7",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 11/15",
+          "splitValue": "Étage",
+          "label": "11/15"
+        }
+      ],
+      "price": {
+        "value": "825 €",
+        "formatted": "825 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.selogerneuf.com/projet-invest/projet/type-bien/?utm_source=seloger&utm_campaign=medicis&utm_content=lien_prix_pdd",
+          "label": "Demander un financement",
+          "partnerName": "MEDICIS"
+        },
+        "ariaLabel": "825 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "16ef5644-6bf1-4bd2-85f3-018738cd9528",
+          "scales": [
+            {
+              "key": "08c6b2ab-e1c5-4c07-ba4b-c8aad146a6c2",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "123 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "24 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "b839bd81-7cb1-494d-b587-327a4282c46c",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "24 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "243394011"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "FL0830334"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "825 €/mois Loyer charges comprises",
+          "ariaLabel": "825 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "143 €/mois",
+            "ariaLabel": "143 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "19,78 €/mois/m²",
+            "ariaLabel": "19,78 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "682,00"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "11ème étage/15 étages"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Parking"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "terrace",
+          "value": "Terrasse"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition sud"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "Orientation",
+                "value": "Exposition sud"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "11ème étage/15 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              },
+              {
+                "icon": "terrace",
+                "value": "Terrasse"
+              },
+              {
+                "value": "Belle vue",
+                "icon": "with-view"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "Parking"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "3b2673b8-27d9-46e4-8f78-9e947046e93c",
+          "url": "https://mms.seloger.com/3/b/2/6/3b2673b8-27d9-46e4-8f78-9e947046e93c.jpg?ci_seal=9b61b112f0854a14c42a7a97dbed72f383c9b98c",
+          "alt": "Appartement à louer 825 € 2 pièces 1 chambre 41,7 m² Étage 11/15 Saint Mauront Marseille 3ème 13003",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "961c6e06-7668-4048-8f01-8d9e44712ca0",
+          "url": "https://mms.seloger.com/9/6/1/c/961c6e06-7668-4048-8f01-8d9e44712ca0.jpg?ci_seal=9044eff70e9a2273978a57110fdb753d48715932",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "035a6d0f-8bcb-4d2d-bae7-f91735f106d0",
+          "url": "https://mms.seloger.com/0/3/5/a/035a6d0f-8bcb-4d2d-bae7-f91735f106d0.jpg?ci_seal=a2163a6c42800f850524aa3e658696a3cfb1e610",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "7a1ab6bd-cbac-4a91-89b4-bac7e7aba637",
+          "url": "https://mms.seloger.com/7/a/1/a/7a1ab6bd-cbac-4a91-89b4-bac7e7aba637.jpg?ci_seal=6f9563f4a2536801c5884d7ee49e26785ae3ee15",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "f8d11612-3f69-4be8-b9e0-c3bdd3e8d05c",
+          "url": "https://mms.seloger.com/f/8/d/1/f8d11612-3f69-4be8-b9e0-c3bdd3e8d05c.jpg?ci_seal=296b1e16dbac9f0262a92710bc975d52ff2f8510",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "25e6f061-1c68-48e3-bcaf-0bf0b5a3db0d",
+          "url": "https://mms.seloger.com/2/5/e/6/25e6f061-1c68-48e3-bcaf-0bf0b5a3db0d.jpg?ci_seal=e259fb2a0884324c1a15f83a23803d57f01c4bb8",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "eb68638c-5353-4241-b29f-e476ebaaeaf4",
+          "url": "https://mms.seloger.com/e/b/6/8/eb68638c-5353-4241-b29f-e476ebaaeaf4.jpg?ci_seal=0780c22dee9b888949e87647379419b66f47b7c6",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "9abc1d20-44e7-464a-9c6b-170a25c1e404",
+          "url": "https://mms.seloger.com/9/a/b/c/9abc1d20-44e7-464a-9c6b-170a25c1e404.jpg?ci_seal=e6eab5029210b763a86b8ce006e1d61f364ca161",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        },
+        {
+          "key": "d2bcbe7b-8cf7-41a6-8f31-f66eac1d6c00",
+          "url": "https://mms.seloger.com/d/2/b/c/d2bcbe7b-8cf7-41a6-8f31-f66eac1d6c00.jpg?ci_seal=24b43892d0c41366f6184de67dd93eb2ebbf2892",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-0-0-3"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "243394011",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13003",
+      "city": "Marseille 3ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 15.26,
+        "accuracy": 1,
+        "high": "20,88",
+        "low": "11,62"
+      },
+      "markerPosition": 88,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "19,78",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement",
+      "description": "Quartier Saint-Mauront, à deux pas du métro National et proche des accès aux axes autoroutiers.Cet appartement situé en 11 ème étage avec ascenseur de résidence contemporaine offre une entrée, un séjour lumineux avec cuisine ouverte aménagée (meubles hauts et bas, plaque de cuisson et hotte aspirante), une terrasse exposée plein sud à la vue dégagée, une chambre et une salle d'eau. Le chauffage et la production d'eau chaude sont collectifs compris dans les charges.Vous pourrez stationner un véhicule sur une place de parking privative en sous-sol.Remplissez le formulaire de contacts depuis cette annonce pour vous permettre de déposer un dossier de candidature en ligne ou d'être recontacté.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "en juin 2025",
+      "views": "999+ vues",
+      "saves": "84 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25U2QZ9TGIN9",
+    "legacyId": "243394011",
+    "brand": "seloger",
+    "agencyId": "RC-062303",
+    "static": {
+      "phoneNumbers": [
+        "0496121660"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0496121660"
+      ]
+    },
+    "contactCard": {
+      "title": "Lamy Location",
+      "subtitle": "Lamy Marseille Turcat Mery",
+      "phoneNumbers": [
+        "0496121660"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/b/c/5/1/bc51e6cb-b044-4eb6-a560-35be52d7a64a.jpg?ci_seal=107dfaadac8a7fc4a697110dd61ac52e8f380bc3",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Lamy Location",
+        "subtitle": "Lamy Marseille Turcat Mery",
+        "phoneNumbers": [
+          "0496121660"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/b/c/5/1/bc51e6cb-b044-4eb6-a560-35be52d7a64a.jpg?ci_seal=107dfaadac8a7fc4a697110dd61ac52e8f380bc3"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Lamy Marseille Turcat Mery",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Lamy Location",
+      "subtitle": "Lamy Location",
+      "phoneNumbers": [
+        "0496121660"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Lamy Location",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/b/c/5/1/bc51e6cb-b044-4eb6-a560-35be52d7a64a.jpg?ci_seal=107dfaadac8a7fc4a697110dd61ac52e8f380bc3",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-284225/"
+      },
+      "contactCard": {
+        "title": "Lamy Marseille Turcat Mery",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-8eme-arrondissement-75008/agence-284225/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 399381821",
+        "<b>SIRET:</b> 39938182100061"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "19 RUE DE VIENNE, 75008 PARIS",
+      "phoneNumbers": [
+        "0496121660"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13003",
+    "av_city": "Marseille 3ème",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25U2QZ9TGIN9",
+        "price": 825,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 3ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13003",
+        "legacy_id": "243394011",
+        "product_type": "standard",
+        "client_id": "RC-062303",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "508549",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "13003",
+        "estate_type": 1,
+        "id": "243394011",
+        "id_duo": 243394011,
+        "id_solo": 243394011,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 9,
+        "position": 0,
+        "price": 825,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 41.7
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13003",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "243394011",
+      "prix": 900,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 41.7,
+      "etage": 15,
+      "commodites": [
+        "ascenseur",
+        "belleVue",
+        "parking%20ouvert",
+        "SalleDEau-douche",
+        "sud",
+        "terrasse"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-3eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 3ème arrondissement 13003",
+          "hoverLabel": "Appartements à louer Marseille 3ème arrondissement 13003",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 41.7 m² 825 € Saint Mauront Marseille (13003)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 41.7 m² 825 € Saint Mauront Marseille (13003)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-3eme-13/saint-mauront/243394011.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-3eme-13/saint-mauront/243394011.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 41.7 m² 825 € Saint Mauront Marseille (13003)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 41.7 m² 825 € Saint Mauront Marseille (13003)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/3/b/2/6/3b2673b8-27d9-46e4-8f78-9e947046e93c.jpg?ci_seal=9b61b112f0854a14c42a7a97dbed72f383c9b98c"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 41.7 m² 825 € Saint Mauront Marseille (13003)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-3eme-13/saint-mauront/243394011.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 41.7 m² 825 € Saint Mauront Marseille (13003)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 41.7 m² 825 € Saint Mauront Marseille (13003)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/3/b/2/6/3b2673b8-27d9-46e4-8f78-9e947046e93c.jpg?ci_seal=9b61b112f0854a14c42a7a97dbed72f383c9b98c"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 41.7 m² 825 € Saint Mauront Marseille (13003)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 41.7 m² 825 € Saint Mauront Marseille (13003)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-3eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 3ème arrondissement 13003",
+          "hoverLabel": "Appartements à louer Marseille 3ème arrondissement 13003",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-3eme-13/saint-mauront/243394011.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1051&priceMax=990&priceMin=660",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1051",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR3",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25U2QZ9TGIN9"
+}

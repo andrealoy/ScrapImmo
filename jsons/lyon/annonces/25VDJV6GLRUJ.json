@@ -1,0 +1,1155 @@
+{
+  "brand": "seloger",
+  "id": "25VDJV6GLRUJ",
+  "metadata": {
+    "legacyId": "255677013",
+    "creationDate": "2025-12-02T15:46:00Z",
+    "updateDate": "2025-12-03T01:21:09.4Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Lyon 3ème",
+        "zipCode": "69003",
+        "district": "Montchat"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.880985999999998,
+          45.748449999999934
+        ]
+      }
+    },
+    "description": {
+      "description": "Quartier MONCHAT, au 11 cours du docteur Long, niveau place Henri, à proximité de l'hôpital Edouard Herriot, dans résidence de standing, F2 de 41,81 m² en très bon état, situé au 1er étage avec ascenseur, se composant d'une pièce d'entrée séjour avec balcon et coin cuisine, d'une chambre, et d'une salle de bains avec wc.\nChauffage collectif Gaz avec compteurs calorifiques.\nEau froide et eau chaude compris dans les charges.\nGarage en sous-sol.\nLoyer mensuel de 890 € ( loyer 710 € + garage 80 € + provision sur charges locatives 45 € + provision consommation chauffage 30 € + provision sur consommation eau chaude 15 € + provision sur consommation eau froide 10 € ).\nHonoraire loi ALUR : 543,53 €.",
+      "texts": [
+        {
+          "text": "Quartier MONCHAT, au 11 cours du docteur Long, niveau place Henri, à proximité de l'hôpital Edouard Herriot, dans résidence de standing, F2 de 41,81 m² en très bon état, situé au 1er étage avec ascenseur, se composant d'une pièce d'entrée séjour avec balcon et coin cuisine, d'une chambre, et d'une salle de bains avec wc.\nChauffage collectif Gaz avec compteurs calorifiques.\nEau froide et eau chaude compris dans les charges.\nGarage en sous-sol.\nLoyer mensuel de 890 € ( loyer 710 € + garage 80 € + provision sur charges locatives 45 € + provision consommation chauffage 30 € + provision sur consommation eau chaude 15 € + provision sur consommation eau froide 10 € ).\nHonoraire loi ALUR : 543,53 €."
+        }
+      ],
+      "headline": "Appartement 2 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "41,8 m²",
+        "Étage 1/5"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "41,8 m²",
+          "splitValue": "41,8",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 1/5",
+          "splitValue": "Étage",
+          "label": "1/5"
+        }
+      ],
+      "price": {
+        "value": "890 €",
+        "formatted": "890 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "890 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "2013"
+        },
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Première occupation"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central: Radiateur"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "3df9f5a5-bd22-4472-82f2-2adcadbf6f6d",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "47112b95-f825-46db-90b0-29fec6eebb8b",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "59 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "14 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "18ceb9e7-16ec-4981-84e4-0ce628a6817f",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "14 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255677013"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "LONG"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "710 €/mois Loyer de base",
+          "ariaLabel": "710 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "100 €/mois",
+            "ariaLabel": "100 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "890 €/mois",
+            "ariaLabel": "890 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "16,98 €/mois/m²",
+            "ariaLabel": "16,98 euros par mètre carré"
+          },
+          {
+            "label": "Prix du parking",
+            "value": "inclus dans le loyer"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "790"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 15/12/2025"
+        },
+        {
+          "icon": "floors",
+          "value": "1er étage/5 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Kitchenette"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Box de stationnement"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Balcon (Total 5,4 m²)"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "availability",
+                "value": "disponible à partir du 15/12/2025"
+              },
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "Orientation",
+                "value": "Exposition: sud"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "1er étage/5 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Kitchenette"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              },
+              {
+                "icon": "cellar",
+                "value": "Pas de cave"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Balcon (Total 5,4 m²)"
+              },
+              {
+                "value": "Sans vis-à-vis",
+                "icon": "with-view"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "Box de stationnement"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "TV par câble",
+                "icon": "tv"
+              }
+            ],
+            "title": "Équipements"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "3848063e-cd9d-4a3b-a794-9e5997aec933",
+          "url": "https://mms.seloger.com/3/8/4/8/3848063e-cd9d-4a3b-a794-9e5997aec933.jpg?ci_seal=dec96dccc2bb84d511efbf79ecc8c3516f693b12",
+          "alt": "Appartement à louer 890 € 2 pièces 1 chambre 41,8 m² Étage 1/5 Montchat Lyon 3ème 69003",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a45e29c1-a541-4e8d-b1b7-65f50a65ddc7",
+          "url": "https://mms.seloger.com/a/4/5/e/a45e29c1-a541-4e8d-b1b7-65f50a65ddc7.jpg?ci_seal=47b4b12eb019c946dd01c972a57164fc036eb843",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0458314b-b239-4ae4-82a6-66949cd9c7a3",
+          "url": "https://mms.seloger.com/0/4/5/8/0458314b-b239-4ae4-82a6-66949cd9c7a3.jpg?ci_seal=35a36198027951676437bae219aa4de211a842a4",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0588768a-2059-4dfc-9523-e60afd5aeaaa",
+          "url": "https://mms.seloger.com/0/5/8/8/0588768a-2059-4dfc-9523-e60afd5aeaaa.jpg?ci_seal=818f7458103c67d770b830586964550011b37313",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c36dc1f3-509e-41fd-8d45-f05a57c9ae62",
+          "url": "https://mms.seloger.com/c/3/6/d/c36dc1f3-509e-41fd-8d45-f05a57c9ae62.jpg?ci_seal=5cab3a4c82fc3f0291b3fc10e73bf2d2f52b39b5",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255677013",
+      "federalStateGeoId": "AD04FR31",
+      "zip": "69003",
+      "city": "Lyon 3ème",
+      "country": "FRA",
+      "region": "Auvergne-Rhône-Alpes",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 17.18,
+        "accuracy": 3,
+        "high": "25,41",
+        "low": "13,02"
+      },
+      "markerPosition": 32,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "16,98",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 2 pièces",
+      "description": "Quartier MONCHAT, au 11 cours du docteur Long, niveau place Henri, à proximité de l'hôpital Edouard Herriot, dans résidence de standing, F2 de 41,81 m² en très bon état, situé au 1er étage avec ascenseur, se composant d'une pièce d'entrée séjour avec balcon et coin cuisine, d'une chambre, et d'une salle de bains avec wc.\nChauffage collectif Gaz avec compteurs calorifiques.\nEau froide et eau chaude compris dans les charges.\nGarage en sous-sol.\nLoyer mensuel de 890 € ( loyer 710 € + garage 80 € + provision sur charges locatives 45 € + provision consommation chauffage 30 € + provision sur consommation eau chaude 15 € + provision sur consommation eau froide 10 € ).\nHonoraire loi ALUR : 543,53 €.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "7 jours en ligne",
+      "views": "280 vues",
+      "saves": "19 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25VDJV6GLRUJ",
+    "legacyId": "255677013",
+    "brand": "seloger",
+    "agencyId": "RC-077724",
+    "static": {
+      "phoneNumbers": [
+        "0472840000"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0472840000"
+      ]
+    },
+    "contactCard": {
+      "title": "SERVIENT IMMOBILIER",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0472840000"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "SERVIENT IMMOBILIER",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "0472840000"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "SERVIENT IMMOBILIER",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0472840000"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "SERVIENT IMMOBILIER",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-3eme-arrondissement-69003/agence-10212/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-3eme-arrondissement-69003/agence-10212/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 420986192",
+        "<b>SIRET:</b> 42098619200011"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "6 RUE SERVIENT, 69003 LYON",
+      "phoneNumbers": [
+        "0472840000"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "69003",
+    "av_city": "Lyon",
+    "av_energy_certificate": "B",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25VDJV6GLRUJ",
+        "price": 890,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Lyon",
+        "region": "Auvergne-Rhône-Alpes",
+        "province": "Rhône",
+        "zip_code": "69003",
+        "building_state": "FIRST_TIME_USE",
+        "legacy_id": "255677013",
+        "product_type": "standard",
+        "client_id": "RC-077724",
+        "energy_certificate": "B"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "436450",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "B",
+        "estate_postalcode": "69003",
+        "estate_type": 1,
+        "id": "255677013",
+        "id_duo": 255677013,
+        "id_solo": 255677013,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 5,
+        "position": 0,
+        "price": 890,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 41.81,
+        "year_of_construction": 2013
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "69123",
+      "cp": "69003",
+      "geodp": "69",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255677013",
+      "prix": 900,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 41.81,
+      "etage": 5,
+      "commodites": [
+        "ascenseur",
+        "balcon",
+        "box",
+        "Chauffage-central",
+        "Chauffage-gaz",
+        "parquet",
+        "SalleDeBain-baignoire",
+        "sansVisAVis",
+        "sud"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "B"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-3eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 3ème arrondissement 69003",
+          "hoverLabel": "Appartements à louer Lyon 3ème arrondissement 69003",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 41.81 m² 890 € Montchat Lyon (69003)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 41.81 m² 890 € Montchat Lyon (69003)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/lyon-3eme-69/montchat/255677013.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-3eme-69/montchat/255677013.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 41.81 m² 890 € Montchat Lyon (69003)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 41.81 m² 890 € Montchat Lyon (69003)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/3/8/4/8/3848063e-cd9d-4a3b-a794-9e5997aec933.jpg?ci_seal=dec96dccc2bb84d511efbf79ecc8c3516f693b12"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 41.81 m² 890 € Montchat Lyon (69003)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-3eme-69/montchat/255677013.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 41.81 m² 890 € Montchat Lyon (69003)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 41.81 m² 890 € Montchat Lyon (69003)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/3/8/4/8/3848063e-cd9d-4a3b-a794-9e5997aec933.jpg?ci_seal=dec96dccc2bb84d511efbf79ecc8c3516f693b12"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 41.81 m² 890 € Montchat Lyon (69003)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 41.81 m² 890 € Montchat Lyon (69003)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-3eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 3ème arrondissement 69003",
+          "hoverLabel": "Appartements à louer Lyon 3ème arrondissement 69003",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/lyon-3eme-69/montchat/255677013.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR9344&priceMax=1068&priceMin=712",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR9344",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR19",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR28808",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR70",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR31",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25VDJV6GLRUJ"
+}

@@ -1,0 +1,1141 @@
+{
+  "brand": "seloger",
+  "id": "25IJPDCS8GNH",
+  "metadata": {
+    "legacyId": "256145781",
+    "creationDate": "2025-12-09T12:26:00Z",
+    "updateDate": "2025-12-09T12:31:11.574Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 9ème",
+        "zipCode": "13009",
+        "district": "La Panouse"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.42428,
+          43.25687
+        ]
+      }
+    },
+    "description": {
+      "description": "Votre Agence Orpi AIMH vous propose à la Location un Appartement à Marseille 13009 LE CABOT / avenue de la Panouse dans résidence sécurisée, Type 2 en rez-de-jardin de 34.34m², séjour ouvrant sur terrasse de 49.77m². verdure et calme absolu, Cuisine aménagée, chauffage et eau chaude individuels, salle de bains avec wc séparé, une chambre. Disponible Immédiatement. M/1663. Honoraires Locataire 446.42 euros (EDL inclus) Loyer 725 euros, Prov/Charges (Hors TOM) 55 euros , Dépôt Garantie 725 euros. Une annonce ORPI-AIMH",
+      "texts": [
+        {
+          "text": "Votre Agence Orpi AIMH vous propose à la Location un Appartement à Marseille 13009 LE CABOT / avenue de la Panouse dans résidence sécurisée, Type 2 en rez-de-jardin de 34.34m², séjour ouvrant sur terrasse de 49.77m². verdure et calme absolu, Cuisine aménagée, chauffage et eau chaude individuels, salle de bains avec wc séparé, une chambre. Disponible Immédiatement. M/1663. Honoraires Locataire 446.42 euros (EDL inclus) Loyer 725 euros, Prov/Charges (Hors TOM) 55 euros , Dépôt Garantie 725 euros. Une annonce ORPI-AIMH"
+        }
+      ],
+      "headline": "A Louer Appartement 13009 Marseille 2 pièce(s) 34.34 m2"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "2 pièces",
+        "1 chambre",
+        "34,3 m²",
+        "RDC/2"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambre",
+          "splitValue": "1",
+          "label": "chambre"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34,3 m²",
+          "splitValue": "34,3",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "RDC/2",
+          "splitValue": "RDC/2",
+          "label": ""
+        }
+      ],
+      "price": {
+        "value": "780 €",
+        "formatted": "780 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "780 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "e37b88c3-e286-4d4c-8721-7264d2995a6e",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 550 et 790 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 550 et 790 € par an. Prix moyens des énergies indexés au 31/12/2022 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "4077c477-d0e4-453e-aba4-c5191bcbe464",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "242 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "2cb8af27-7500-45dc-b796-d05e057e12c3",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "256145781"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "MHOQ-F5X-TN2"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "780 €/mois Loyer charges comprises",
+          "ariaLabel": "780 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "55 €/mois",
+            "ariaLabel": "55 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "22,71 €/mois/m²",
+            "ariaLabel": "22,71 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "725"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Rez-de-chaussée/2 étages"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "garden",
+          "value": "Jardin"
+        },
+        {
+          "icon": "terrace",
+          "value": "Terrasse"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "1 chambre"
+        },
+        {
+          "icon": "barrier-free",
+          "value": "Accessible aux personne à mobilité réduite"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "Rez-de-chaussée/2 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "barrier-free",
+                "value": "Accessible aux personne à mobilité réduite"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "bedroom",
+                "value": "1 chambre"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "terrace",
+                "value": "Terrasse"
+              },
+              {
+                "icon": "garden",
+                "value": "Jardin"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "8fb914bb-bf49-4ae6-8c1f-cd662712ae95",
+          "url": "https://mms.seloger.com/8/f/b/9/8fb914bb-bf49-4ae6-8c1f-cd662712ae95.jpg?ci_seal=11f7970759f35247d4c6f68e16aceb9ef75dc52f",
+          "alt": "Appartement à louer 780 € 2 pièces 1 chambre 34,3 m² RDC/2 La Panouse Marseille 9ème 13009",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1bd2bbbe-3164-4b71-84a2-7b701f935c2c",
+          "url": "https://mms.seloger.com/1/b/d/2/1bd2bbbe-3164-4b71-84a2-7b701f935c2c.jpg?ci_seal=658e8ca19ec0021b68d756dda4a5d0008d41a3e8",
+          "classification": {
+            "name": "YARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f25afb30-4729-4d20-a83a-01c8dcfd36ef",
+          "url": "https://mms.seloger.com/f/2/5/a/f25afb30-4729-4d20-a83a-01c8dcfd36ef.jpg?ci_seal=3b86a1d4ec6dcfc1f41267214f570031ff411eec",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2770a6d0-5744-4d8c-bbbb-1d0a15e653a8",
+          "url": "https://mms.seloger.com/2/7/7/0/2770a6d0-5744-4d8c-bbbb-1d0a15e653a8.jpg?ci_seal=312f690b05ad5be6666aed33af00ea4d30177365",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "189bf96d-a2d3-4067-993d-60bc44b83cd2",
+          "url": "https://mms.seloger.com/1/8/9/b/189bf96d-a2d3-4067-993d-60bc44b83cd2.jpg?ci_seal=9f3a583466e8cfae80b2a8b78673349981848389",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "04ff4d2a-16ae-4dea-a1a2-7ecd1835b14d",
+          "url": "https://mms.seloger.com/0/4/f/f/04ff4d2a-16ae-4dea-a1a2-7ecd1835b14d.jpg?ci_seal=c7dfdadf9bc00f28f260be6f7e7f730d6b4b24fb",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7ecc0f9d-56a2-4bc8-b265-22bbc356535e",
+          "url": "https://mms.seloger.com/7/e/c/c/7ecc0f9d-56a2-4bc8-b265-22bbc356535e.jpg?ci_seal=d81ba21d436a4299d88dd24c6cbcfe267b8860dd",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "75bde568-4ff6-4b46-aa12-4e7632e91f1f",
+          "url": "https://mms.seloger.com/7/5/b/d/75bde568-4ff6-4b46-aa12-4e7632e91f1f.jpg?ci_seal=b10b01df1392185f93ce6c3cf36efb2f665bc6f4",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d678fa3b-c61a-4417-8c72-53e906eb6a05",
+          "url": "https://mms.seloger.com/d/6/7/8/d678fa3b-c61a-4417-8c72-53e906eb6a05.jpg?ci_seal=9bc3050ae57474a750f7e1a88f260137f6c9bf8d",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": [
+        {
+          "urlType": "VIRTUAL_TOUR",
+          "url": "https://envisite.net/vtour/fr/vakxbz/frame",
+          "key": "40fe0003-ce9a-4af6-a514-46707773c94d",
+          "title": "Visite virtuelle",
+          "virtualTours": {},
+          "previewImage": {
+            "key": "8fb914bb-bf49-4ae6-8c1f-cd662712ae95",
+            "url": "https://mms.seloger.com/8/f/b/9/8fb914bb-bf49-4ae6-8c1f-cd662712ae95.jpg?ci_seal=11f7970759f35247d4c6f68e16aceb9ef75dc52f"
+          }
+        }
+      ]
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "256145781",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13009",
+      "city": "Marseille 9ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.28,
+        "accuracy": 1,
+        "high": "24,25",
+        "low": "12"
+      },
+      "markerPosition": 87,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "22,71",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "A Louer Appartement 13009 Marseille 2 pièce(s) 34.34 m2",
+      "description": "Votre Agence Orpi AIMH vous propose à la Location un Appartement à Marseille 13009 LE CABOT / avenue de la Panouse dans résidence sécurisée, Type 2 en rez-de-jardin de 34.34m², séjour ouvrant sur terrasse de 49.77m². verdure et calme absolu, Cuisine aménagée, chauffage et eau chaude individuels, salle de bains avec wc séparé, une chambre. Disponible Immédiatement. M/1663. Honoraires Locataire 446.42 euros (EDL inclus) Loyer 725 euros, Prov/Charges (Hors TOM) 55 euros , Dépôt Garantie 725 euros. Une annonce ORPI-AIMH",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 jour en ligne",
+      "views": "36 vues",
+      "saves": "5 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25IJPDCS8GNH",
+    "legacyId": "256145781",
+    "brand": "seloger",
+    "agencyId": "RC-025377",
+    "static": {
+      "phoneNumbers": [
+        "0487743978 / 0491165141"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0487743978 / 0491165141"
+      ]
+    },
+    "contactCard": {
+      "title": "Aimh",
+      "subtitle": "Aimh",
+      "phoneNumbers": [
+        "0487743978 / 0491165141"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/6/9/1/9/69197590-7073-4eec-9142-694dfc890cbb.jpg?ci_seal=24a213de11eee04b108ad1c3eaf6112d68cf771f",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Aimh",
+        "subtitle": "Aimh",
+        "phoneNumbers": [
+          "0487743978 / 0491165141"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/6/9/1/9/69197590-7073-4eec-9142-694dfc890cbb.jpg?ci_seal=24a213de11eee04b108ad1c3eaf6112d68cf771f"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Aimh",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Aimh",
+      "subtitle": "Aimh",
+      "phoneNumbers": [
+        "0487743978 / 0491165141"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Aimh",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/6/9/1/9/69197590-7073-4eec-9142-694dfc890cbb.jpg?ci_seal=24a213de11eee04b108ad1c3eaf6112d68cf771f",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-6659/"
+      },
+      "contactCard": {
+        "title": "Aimh",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.orpi.com/aimh",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-8eme-arrondissement-13008/agence-6659/",
+      "imprintUrl": null,
+      "feeUrl": "https://telemaque.orpi.coop/agence/586/20231006171953/bareme.pdf",
+      "agencyLegalInformations": [
+        "SARL (Société A Responsabilité Limitée) SARL au capital de 7 622,45 €",
+        "Carte professionnelle A063539 délivrée par la Préfecture de BOUCHES DU RHONE",
+        "Garantie financière FNAIM pour un montant de 320 000 €",
+        "<b>Siège:</b> 26 Avenue André Zénatti, 13008 Marseille",
+        "<b>RCS:</b> MARSEILLE 439582370",
+        "<b>SIRET:</b> 43958237000011"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "26 avenue Andre Zenatti, 13008 Marseille",
+      "phoneNumbers": [
+        "0487743978 / 0491165141"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13009",
+    "av_city": "Marseille 9ème",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25IJPDCS8GNH",
+        "price": 780,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 9ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13009",
+        "legacy_id": "256145781",
+        "product_type": "standard",
+        "client_id": "RC-025377",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "11174",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "13009",
+        "estate_type": 1,
+        "id": "256145781",
+        "id_duo": 256145781,
+        "id_solo": 256145781,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 1,
+        "nb_rooms": 2,
+        "parent_site": "SL",
+        "photos_nb": 9,
+        "position": 0,
+        "price": 780,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 34.34
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13009",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "256145781",
+      "prix": 800,
+      "nb_pieces": 2,
+      "nb_chambres": 1,
+      "surface": 34.34,
+      "etage": 2,
+      "commodites": [
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "handicape",
+        "rez-de-chaussee",
+        "SalleDeBain-baignoire",
+        "terrasse"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-9eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 9ème arrondissement 13009",
+          "hoverLabel": "Appartements à louer Marseille 9ème arrondissement 13009",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T2/F2 34.34 m² 780 € La Panouse Marseille (13009)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T2/F2 34.34 m² 780 € La Panouse Marseille (13009)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-9eme-13/la-panouse/256145781.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-9eme-13/la-panouse/256145781.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T2/F2 34.34 m² 780 € La Panouse Marseille (13009)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T2/F2 34.34 m² 780 € La Panouse Marseille (13009)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/8/f/b/9/8fb914bb-bf49-4ae6-8c1f-cd662712ae95.jpg?ci_seal=11f7970759f35247d4c6f68e16aceb9ef75dc52f"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T2/F2 34.34 m² 780 € La Panouse Marseille (13009)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-9eme-13/la-panouse/256145781.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T2/F2 34.34 m² 780 € La Panouse Marseille (13009)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T2/F2 34.34 m² 780 € La Panouse Marseille (13009)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/8/f/b/9/8fb914bb-bf49-4ae6-8c1f-cd662712ae95.jpg?ci_seal=11f7970759f35247d4c6f68e16aceb9ef75dc52f"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T2/F2 34.34 m² 780 € La Panouse Marseille (13009)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T2/F2 34.34 m² 780 € La Panouse Marseille (13009)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-9eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 9ème arrondissement 13009",
+          "hoverLabel": "Appartements à louer Marseille 9ème arrondissement 13009",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-9eme-13/la-panouse/256145781.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1088&priceMax=936&priceMin=624",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": true,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1088",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR9",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25IJPDCS8GNH"
+}

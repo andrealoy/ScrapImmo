@@ -1,0 +1,965 @@
+{
+  "brand": "seloger",
+  "id": "254Y3HK2ZW12",
+  "metadata": {
+    "creationDate": "2025-11-24T13:53:48.3675113Z",
+    "updateDate": "2025-11-24T13:53:48.3675100Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FR",
+        "city": "Lyon",
+        "zipCode": "69005",
+        "district": "Saint Irénée"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.801750999999999,
+          45.76281399999992
+        ]
+      }
+    },
+    "description": {
+      "description": "CHAMBRE EN COLOCATION \n\n107 Avenue Barthélémy Buyer, 69005 Lyon. \nBâtiment de standing.\nJ ai  1 chambre  en colocation  dans un appartement de 90 M2.  \nDroit à l APL.\n loyer 450€mbre  plus 50€ total   500€\n Tout inclus, différents charges et services : eau, électricité, chauffage, internet même   assurance,\nJoli  Résidence  avec grand Parc. Des jolies vues. \n Des places de parking dans la résidence, près de perrache et gorge de loup\nAppeler pour plus de renseignements. \nFácil pour aller écoles du 9ème.\ncampus René Cassin.  CCI  formation pro. et Paul Bocuse, et école d' ingénierie ecully.ecole centrale.   \n 11 minutes à pied de Loup. Bus 55 bus 90 en bas du bâtiment.",
+      "texts": [
+        {
+          "text": "CHAMBRE EN COLOCATION \n\n107 Avenue Barthélémy Buyer, 69005 Lyon. \nBâtiment de standing.\nJ ai  1 chambre  en colocation  dans un appartement de 90 M2.  \nDroit à l APL.\n loyer 450€mbre  plus 50€ total   500€\n Tout inclus, différents charges et services : eau, électricité, chauffage, internet même   assurance,\nJoli  Résidence  avec grand Parc. Des jolies vues. \n Des places de parking dans la résidence, près de perrache et gorge de loup\nAppeler pour plus de renseignements. \nFácil pour aller écoles du 9ème.\ncampus René Cassin.  CCI  formation pro. et Paul Bocuse, et école d' ingénierie ecully.ecole centrale.   \n 11 minutes à pied de Loup. Bus 55 bus 90 en bas du bâtiment."
+        }
+      ],
+      "headline": "Chambre en colocation près du gorge de loup et perrache"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "10 m²",
+        "Étage 11/13",
+        "disponible dès maintenant"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "10 m²",
+          "splitValue": "10",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 11/13",
+          "splitValue": "Étage",
+          "label": "11/13"
+        },
+        {
+          "type": "availability",
+          "value": "disponible dès maintenant",
+          "splitValue": "disponible",
+          "label": "dès maintenant"
+        }
+      ],
+      "price": {
+        "value": "500 €",
+        "formatted": "500 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "500 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Entretenu"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage central"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Pétrole"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "022d7d7e-71de-4f31-b52c-0d5df6e4ed4a",
+          "scales": [
+            {
+              "key": "66e7a51f-deb0-4a7a-8974-b02e39faee65",
+              "name": "Diagnostic de Performance Énergétique (DPE)",
+              "alternateText": "Un certificat énergétique n'est pas nécessaire pour ce bien.",
+              "ariaLabel": "Un certificat énergétique n'est pas nécessaire pour ce bien."
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "254Y3HK2ZW12"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "450 €/mois Loyer de base",
+          "ariaLabel": "450 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "50 €/mois",
+            "ariaLabel": "50 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "500 €/mois",
+            "ariaLabel": "500 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "45 €/mois/m²",
+            "ariaLabel": "45 euros par mètre carré"
+          },
+          {
+            "label": "Prix du parking",
+            "value": "inclus dans le loyer"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "900"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "11ème étage/13 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Parking"
+        },
+        {
+          "icon": "garden",
+          "value": "Jardin"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "flat-share-possible",
+          "value": "Colocation possible"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "0f6f1216-afdc-4ef0-954a-48f9eedfe7e0",
+          "url": "https://mms.seloger.com/0/f/6/f/0f6f1216-afdc-4ef0-954a-48f9eedfe7e0.jpg?ci_seal=b5c92233230a2b05d4bd39267ef56938fa5c89bb",
+          "description": "1000161546.jpg",
+          "alt": "Appartement à louer 500 € 1 pièce 10 m² Étage 11/13 disponible dès maintenant Saint Irénée Lyon 69005",
+          "title": "1000161546.jpg",
+          "ariaLabel": "1000161546.jpg",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "aa45242a-bc0c-4a34-adb8-5aa86545bf42",
+          "url": "https://mms.seloger.com/a/a/4/5/aa45242a-bc0c-4a34-adb8-5aa86545bf42.jpg?ci_seal=f43ce1ac51bba2b08d4f69e0225cbc34b3e75e95",
+          "description": "1000161315.jpg",
+          "title": "1000161315.jpg",
+          "ariaLabel": "1000161315.jpg",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6c171e7c-72e2-4fa3-a7b3-363eb1c85c7c",
+          "url": "https://mms.seloger.com/6/c/1/7/6c171e7c-72e2-4fa3-a7b3-363eb1c85c7c.jpg?ci_seal=6b2b4075d77ad219a2645157d3f47cfe01cb43c2",
+          "description": "1000166461.jpg",
+          "title": "1000166461.jpg",
+          "ariaLabel": "1000166461.jpg",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a340f9c5-6f20-4503-959a-2e4654cf347e",
+          "url": "https://mms.seloger.com/a/3/4/0/a340f9c5-6f20-4503-959a-2e4654cf347e.jpg?ci_seal=09b5632dddea13da851c83831091e7d5ba4f9dc8",
+          "description": "1000166456.jpg",
+          "title": "1000166456.jpg",
+          "ariaLabel": "1000166456.jpg",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f0ee1c6a-d9ef-4289-a3fc-35e34cbd9b1d",
+          "url": "https://mms.seloger.com/f/0/e/e/f0ee1c6a-d9ef-4289-a3fc-35e34cbd9b1d.jpg?ci_seal=e3fbc06e6e157e5520cda38dd7db48a737021910",
+          "description": "1000166459.jpg",
+          "title": "1000166459.jpg",
+          "ariaLabel": "1000166459.jpg",
+          "classification": {
+            "name": "HOME_OFFICE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ae1d8759-f0f9-4fc8-aa7e-92694cdebe39",
+          "url": "https://mms.seloger.com/a/e/1/d/ae1d8759-f0f9-4fc8-aa7e-92694cdebe39.jpg?ci_seal=25fa7babe4822821c1da40db53d2074782b197a1",
+          "description": "1000163647.jpg",
+          "title": "1000163647.jpg",
+          "ariaLabel": "1000163647.jpg",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "bcb66986-13ad-4d3b-9002-9ca11779f814",
+          "url": "https://mms.seloger.com/b/c/b/6/bcb66986-13ad-4d3b-9002-9ca11779f814.jpg?ci_seal=dc8b7d3355ccef45343c9869583a1f7fd2d4cbd4",
+          "description": "1000161320.jpg",
+          "title": "1000161320.jpg",
+          "ariaLabel": "1000161320.jpg",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "39b7198d-02ff-48b5-aa82-64909fd70c1c",
+          "url": "https://mms.seloger.com/3/9/b/7/39b7198d-02ff-48b5-aa82-64909fd70c1c.jpg?ci_seal=5055e93e58e7d8a2d8c7b6ce192d01eecca0e266",
+          "description": "1000161321.jpg",
+          "title": "1000161321.jpg",
+          "ariaLabel": "1000161321.jpg",
+          "classification": {
+            "name": "STAIRCASE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "aa0ea1cf-32dc-41f0-abc0-6e633a7a63c8",
+          "url": "https://mms.seloger.com/a/a/0/e/aa0ea1cf-32dc-41f0-abc0-6e633a7a63c8.jpg?ci_seal=cca6013412c5693159c3a3d038cdb133f5e0c29d",
+          "description": "1000161317.jpg",
+          "title": "1000161317.jpg",
+          "ariaLabel": "1000161317.jpg",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "federalStateGeoId": "AD04FR31",
+      "zip": "69005",
+      "city": "Lyon",
+      "country": "FR",
+      "region": "Auvergne-Rhône-Alpes",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 15.62,
+        "accuracy": 3,
+        "high": "25,25",
+        "low": "11,07"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "45",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Chambre en colocation près du gorge de loup et perrache",
+      "description": "CHAMBRE EN COLOCATION \n\n107 Avenue Barthélémy Buyer, 69005 Lyon. \nBâtiment de standing.\nJ ai  1 chambre  en colocation  dans un appartement de 90 M2.  \nDroit à l APL.\n loyer 450€mbre  plus 50€ total   500€\n Tout inclus, différents charges et services : eau, électricité, chauffage, internet même   assurance,\nJoli  Résidence  avec grand Parc. Des jolies vues. \n Des places de parking dans la résidence, près de perrache et gorge de loup\nAppeler pour plus de renseignements. \nFácil pour aller écoles du 9ème.\ncampus René Cassin.  CCI  formation pro. et Paul Bocuse, et école d' ingénierie ecully.ecole centrale.   \n 11 minutes à pied de Loup. Bus 55 bus 90 en bas du bâtiment.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "15 jours en ligne",
+      "views": "272 vues",
+      "saves": "13 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "254Y3HK2ZW12",
+    "brand": "seloger",
+    "agencyId": "86f61a72-4563-4a0d-aa71-c3be51800aa7",
+    "static": {
+      "phoneNumbers": [
+        "+33626751342"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33626751342"
+      ]
+    },
+    "contactCard": {
+      "title": "miladys",
+      "subtitle": "Propriétaire particulier",
+      "phoneNumbers": [
+        "+33626751342"
+      ],
+      "isPrivateOwner": true,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": false
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": true
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "miladys",
+        "subtitle": "Propriétaire particulier",
+        "phoneNumbers": [
+          "+33626751342"
+        ],
+        "isPrivateOwner": true,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à miladys",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Propriétaire particulier",
+      "phoneNumbers": [
+        "+33626751342"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": true
+    },
+    "provider": {
+      "intermediaryCard": {
+        "display": false,
+        "title": "",
+        "subtitle": ""
+      },
+      "contactCard": {
+        "title": "miladys",
+        "subtitle": "Propriétaire particulier",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": true,
+      "imprintUrl": null,
+      "agencyLegalInformations": [],
+      "displayLinks": false,
+      "phoneNumbers": [
+        "+33626751342"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "private",
+    "av_language": "fr",
+    "av_zip_code": "69005",
+    "av_city": "Lyon",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "254Y3HK2ZW12",
+        "price": 500,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Lyon",
+        "region": "Auvergne-Rhône-Alpes",
+        "province": "Rhône",
+        "currency": "EUR",
+        "zip_code": "69005",
+        "building_state": "WELL_KEPT",
+        "product_type": "standard",
+        "client_id": "86f61a72-4563-4a0d-aa71-c3be51800aa7"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_type": "particulier",
+        "distribution_type": "1",
+        "estate_postalcode": "69005",
+        "estate_type": 1,
+        "id_duo": null,
+        "id_solo": null,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 9,
+        "position": 0,
+        "price": 500,
+        "product_geolocation": "localisation_street",
+        "product_type": "client",
+        "product_variant": "classified",
+        "space": 0
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "69123",
+      "cp": "69005",
+      "geodp": "69",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "prix": 500,
+      "nb_pieces": 1,
+      "surface": 0,
+      "etage": 13,
+      "commodites": [
+        "ascenseur",
+        "Chauffage-central",
+        "Chauffage-fioul",
+        "Cuisine-équipée",
+        "jardin",
+        "parking%20ouvert"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-5eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 5ème arrondissement 69005",
+          "hoverLabel": "Appartements à louer Lyon 5ème arrondissement 69005",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 10 m² 500 € Champvert-Point du Jour-Saint Irénée Lyon (69005)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 10 m² 500 € Champvert-Point du Jour-Saint Irénée Lyon (69005)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/lyon-5eme-69/champvert-point-du-jour-saint-irenee/254Y3HK2ZW12.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-5eme-69/champvert-point-du-jour-saint-irenee/254Y3HK2ZW12.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 10 m² 500 € Champvert-Point du Jour-Saint Irénée Lyon (69005)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 10 m² 500 € Champvert-Point du Jour-Saint Irénée Lyon (69005)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/0/f/6/f/0f6f1216-afdc-4ef0-954a-48f9eedfe7e0.jpg?ci_seal=b5c92233230a2b05d4bd39267ef56938fa5c89bb"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 10 m² 500 € Champvert-Point du Jour-Saint Irénée Lyon (69005)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-5eme-69/champvert-point-du-jour-saint-irenee/254Y3HK2ZW12.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 10 m² 500 € Champvert-Point du Jour-Saint Irénée Lyon (69005)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 10 m² 500 € Champvert-Point du Jour-Saint Irénée Lyon (69005)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/0/f/6/f/0f6f1216-afdc-4ef0-954a-48f9eedfe7e0.jpg?ci_seal=b5c92233230a2b05d4bd39267ef56938fa5c89bb"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 10 m² 500 € Champvert-Point du Jour-Saint Irénée Lyon (69005)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 10 m² 500 € Champvert-Point du Jour-Saint Irénée Lyon (69005)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-5eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 5ème arrondissement 69005",
+          "hoverLabel": "Appartements à louer Lyon 5ème arrondissement 69005",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/lyon-5eme-69/champvert-point-du-jour-saint-irenee/254Y3HK2ZW12.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR9354&priceMax=600&priceMin=400",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR9354",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR21",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR28808",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR70",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR31",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ]
+  },
+  "cps": "254Y3HK2ZW12"
+}

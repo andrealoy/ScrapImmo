@@ -1,0 +1,1135 @@
+{
+  "brand": "seloger",
+  "id": "25WU6Z6UMZQP",
+  "metadata": {
+    "legacyId": "255174033",
+    "creationDate": "2025-11-25T16:13:00Z",
+    "updateDate": "2025-12-10T01:17:10.532Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Lyon 5ème",
+        "zipCode": "69005",
+        "district": "Vieux Lyon"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.828287125,
+          45.764068604
+        ]
+      }
+    },
+    "description": {
+      "description": "Vieux Lyon, quartier Saint Jean, au sein de très bel immeuble ancien, magnifique appartement de type 3 de 73.06m² entièrement rénové et meublé. Il se compose d'une entrée, un beau séjour avec une cuisine ouverte équipée, deux chambres avec des rangements, une salle de douche, un wc indépendant donnant accès à un espace buanderie. Lumineux, cet appartement est traversant, et traboule également avec le quai de Saône.\n Honoraires: 730€ + Frais d'état des lieux: 219€. Encadrement des loyers : Loyer de référence: 1088€HC / Loyer majoré: 1307€HC, Complément de loyer: 198€HC\n Contact Jérémy Mougin au zéro 624704923 ou par mail à l'adresse",
+      "texts": [
+        {
+          "text": "Vieux Lyon, quartier Saint Jean, au sein de très bel immeuble ancien, magnifique appartement de type 3 de 73.06m² entièrement rénové et meublé. Il se compose d'une entrée, un beau séjour avec une cuisine ouverte équipée, deux chambres avec des rangements, une salle de douche, un wc indépendant donnant accès à un espace buanderie. Lumineux, cet appartement est traversant, et traboule également avec le quai de Saône.\n Honoraires: 730€ + Frais d'état des lieux: 219€. Encadrement des loyers : Loyer de référence: 1088€HC / Loyer majoré: 1307€HC, Complément de loyer: 198€HC\n Contact Jérémy Mougin au zéro 624704923 ou par mail à l'adresse"
+        }
+      ],
+      "headline": "APPARTEMENT T3 - 73.06M² - 69005"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "76 m²",
+        "3ème étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "76 m²",
+          "splitValue": "76",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3ème étage",
+          "splitValue": "3ème",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 590 €",
+        "formatted": "1 590 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "1590 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Électrique"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "24a1fac5-fb15-42f2-91de-e31b925cf9dd",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 1530 et 2110 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 1530 et 2110 € par an. Prix moyens des énergies indexés au 09/12/2025 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "5d62e363-70e3-403c-b991-4aff2242b441",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "271 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "8 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est 0 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "39acc696-010e-4bf4-b4d0-481ea8c88398",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "8 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est 0 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255174033"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "7JEAN"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 590 €/mois Loyer charges comprises",
+          "ariaLabel": "1590 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "85 €/mois",
+            "ariaLabel": "85 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "20,92 €/mois/m²",
+            "ariaLabel": "20,92 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "3010"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "3ème étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de douches"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "3ème étage"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine ouverte, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Pas de balcon"
+              }
+            ],
+            "title": "Extérieur"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "afe69879-96a1-4e98-95d6-9740c906eff5",
+          "url": "https://mms.seloger.com/a/f/e/6/afe69879-96a1-4e98-95d6-9740c906eff5.jpg?ci_seal=40137cd8e3935e14b4120b6d603084ac5f9ff7ef",
+          "alt": "Appartement à louer 1 590 € 3 pièces 2 chambres 76 m² 3ème étage Vieux Lyon Lyon 5ème 69005",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ce37d805-a6f5-45f0-9616-4c4d5322ea17",
+          "url": "https://mms.seloger.com/c/e/3/7/ce37d805-a6f5-45f0-9616-4c4d5322ea17.jpg?ci_seal=88197bc8cf6d926913d19ec190a25c14c6ea4e63",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "73093940-9c8c-491b-b2c1-e5f569fe1a3e",
+          "url": "https://mms.seloger.com/7/3/0/9/73093940-9c8c-491b-b2c1-e5f569fe1a3e.jpg?ci_seal=0242127ec4e2275efc57473445811b8c300cb68b",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3b508bce-377d-406f-ab93-b8eb43203bd2",
+          "url": "https://mms.seloger.com/3/b/5/0/3b508bce-377d-406f-ab93-b8eb43203bd2.jpg?ci_seal=d999e097bea5691e2b57be04587982c59f54b4b0",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "93951217-9f45-4edc-bf6b-6242d1e8fa9c",
+          "url": "https://mms.seloger.com/9/3/9/5/93951217-9f45-4edc-bf6b-6242d1e8fa9c.jpg?ci_seal=e406293eefa5ded989bc09b9067bdfa3c1d2bf1b",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f6319cbc-cd89-4262-ba45-f638aab3a6a8",
+          "url": "https://mms.seloger.com/f/6/3/1/f6319cbc-cd89-4262-ba45-f638aab3a6a8.jpg?ci_seal=d26f7dc38981ad8492e6de6e81c8588beb9fed39",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "45e32756-2f44-4cde-9b27-bf3cfd60b1e7",
+          "url": "https://mms.seloger.com/4/5/e/3/45e32756-2f44-4cde-9b27-bf3cfd60b1e7.jpg?ci_seal=eb41c605dfadbdefadb6307334802e2f0f2ef8f8",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8ad8dfd5-89bb-47cd-ad09-724eee516a32",
+          "url": "https://mms.seloger.com/8/a/d/8/8ad8dfd5-89bb-47cd-ad09-724eee516a32.jpg?ci_seal=30f05b5254eede625b805b3f48ae26ab6270fcc8",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0d3013ae-f93b-4fa3-a707-565d92a781d6",
+          "url": "https://mms.seloger.com/0/d/3/0/0d3013ae-f93b-4fa3-a707-565d92a781d6.jpg?ci_seal=634f642f0a3168c072b5e600fbd0d70157aa82e6",
+          "classification": {
+            "name": "COURTYARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "670e1896-5943-4730-90b6-a361801308ca",
+          "url": "https://mms.seloger.com/6/7/0/e/670e1896-5943-4730-90b6-a361801308ca.jpg?ci_seal=9fe9e718104e1fd68bac9dbdeffaf2245b53a7b5",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255174033",
+      "federalStateGeoId": "AD04FR31",
+      "zip": "69005",
+      "city": "Lyon 5ème",
+      "country": "FRA",
+      "region": "Auvergne-Rhône-Alpes",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 19.91,
+        "accuracy": 3,
+        "high": "31,35",
+        "low": "14,49"
+      },
+      "markerPosition": 38,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "20,92",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "APPARTEMENT T3 - 73.06M² - 69005",
+      "description": "Vieux Lyon, quartier Saint Jean, au sein de très bel immeuble ancien, magnifique appartement de type 3 de 73.06m² entièrement rénové et meublé. Il se compose d'une entrée, un beau séjour avec une cuisine ouverte équipée, deux chambres avec des rangements, une salle de douche, un wc indépendant donnant accès à un espace buanderie. Lumineux, cet appartement est traversant, et traboule également avec le quai de Saône.\n Honoraires: 730€ + Frais d'état des lieux: 219€. Encadrement des loyers : Loyer de référence: 1088€HC / Loyer majoré: 1307€HC, Complément de loyer: 198€HC\n Contact Jérémy Mougin au zéro 624704923 ou par mail à l'adresse",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "14 jours en ligne",
+      "views": "91 vues",
+      "saves": "10 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25WU6Z6UMZQP",
+    "legacyId": "255174033",
+    "brand": "seloger",
+    "agencyId": "RC-021709",
+    "static": {
+      "phoneNumbers": [
+        "04 37 24 01 03"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "04 37 24 01 03"
+      ]
+    },
+    "contactCard": {
+      "title": "IBT ASSOCIES",
+      "subtitle": "Ibt Gestion",
+      "phoneNumbers": [
+        "04 37 24 01 03"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/2/c/0/a/2c0ac569-d3fd-4b8f-b865-f44f1c714cc1.jpg?ci_seal=27d7493050bc647aac5f221e932e6b69d7e6dcdb",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "IBT ASSOCIES",
+        "subtitle": "Ibt Gestion",
+        "phoneNumbers": [
+          "04 37 24 01 03"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/2/c/0/a/2c0ac569-d3fd-4b8f-b865-f44f1c714cc1.jpg?ci_seal=27d7493050bc647aac5f221e932e6b69d7e6dcdb"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Ibt Gestion",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "IBT ASSOCIES",
+      "subtitle": "IBT ASSOCIES",
+      "phoneNumbers": [
+        "04 37 24 01 03"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "IBT ASSOCIES",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/2/c/0/a/2c0ac569-d3fd-4b8f-b865-f44f1c714cc1.jpg?ci_seal=27d7493050bc647aac5f221e932e6b69d7e6dcdb",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-6eme-arrondissement-69006/agence-27261/"
+      },
+      "contactCard": {
+        "title": "Ibt Gestion",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.ibt-associes.com/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-6eme-arrondissement-69006/agence-27261/",
+      "imprintUrl": null,
+      "feeUrl": "https://www.ibt-gestion.com/i/redac/honoraires?honofor=1",
+      "agencyLegalInformations": [
+        "SARL IBT Gestion au capital de 7 500 €",
+        "<b>Siège:</b> 64, rue de la Tête d'or, 69006 Lyon",
+        "<b>RCS:</b> 447620725",
+        "<b>SIRET:</b> 44762072500047"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "22 rue Tronchet Lyon, 69006 Lyon 6ème",
+      "phoneNumbers": [
+        "04 37 24 01 03"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "69005",
+    "av_city": "Lyon",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25WU6Z6UMZQP",
+        "price": 1590,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Lyon",
+        "region": "Auvergne-Rhône-Alpes",
+        "province": "Rhône",
+        "zip_code": "69005",
+        "legacy_id": "255174033",
+        "product_type": "standard",
+        "client_id": "RC-021709",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "121436",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "69005",
+        "estate_type": 1,
+        "id": "255174033",
+        "id_duo": 255174033,
+        "id_solo": 255174033,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 10,
+        "position": 0,
+        "price": 1590,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 76
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "69123",
+      "cp": "69005",
+      "geodp": "69",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255174033",
+      "prix": 1600,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 76,
+      "commodites": [
+        "Chauffage-individuel",
+        "Chauffage-electrique",
+        "Cuisine-américaine",
+        "Cuisine-équipée",
+        "SalleDEau-douche",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-5eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 5ème arrondissement 69005",
+          "hoverLabel": "Appartements à louer Lyon 5ème arrondissement 69005",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 76 m² 1590 € Vieux Lyon Lyon (69005)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 76 m² 1590 € Vieux Lyon Lyon (69005)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/lyon-5eme-69/vieux-lyon/255174033.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-5eme-69/vieux-lyon/255174033.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 76 m² 1590 € Vieux Lyon Lyon (69005)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 76 m² 1590 € Vieux Lyon Lyon (69005)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/a/f/e/6/afe69879-96a1-4e98-95d6-9740c906eff5.jpg?ci_seal=40137cd8e3935e14b4120b6d603084ac5f9ff7ef"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 76 m² 1590 € Vieux Lyon Lyon (69005)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-5eme-69/vieux-lyon/255174033.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 76 m² 1590 € Vieux Lyon Lyon (69005)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 76 m² 1590 € Vieux Lyon Lyon (69005)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/a/f/e/6/afe69879-96a1-4e98-95d6-9740c906eff5.jpg?ci_seal=40137cd8e3935e14b4120b6d603084ac5f9ff7ef"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 76 m² 1590 € Vieux Lyon Lyon (69005)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 76 m² 1590 € Vieux Lyon Lyon (69005)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-5eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 5ème arrondissement 69005",
+          "hoverLabel": "Appartements à louer Lyon 5ème arrondissement 69005",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/lyon-5eme-69/vieux-lyon/255174033.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR9355&priceMax=1908&priceMin=1272",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR9355",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR21",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR28808",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR70",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR31",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25WU6Z6UMZQP"
+}

@@ -1,0 +1,1075 @@
+{
+  "brand": "seloger",
+  "id": "25VZYKDRJC1E",
+  "metadata": {
+    "legacyId": "251193935",
+    "creationDate": "2025-10-01T07:10:00Z",
+    "updateDate": "2025-10-21T12:57:05.872Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Nice",
+        "zipCode": "06000",
+        "district": "Fleurs-Gambetta "
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.254798,
+          43.694871
+        ]
+      }
+    },
+    "description": {
+      "description": "RUE DE FRANCE A DEUX PAS DE LA FACULTE DE DROIT, UN TRES BEAU STUDIO MEUBLE ENTIEREMENT RENOVE - Au deuxième étage avec ascenseur, dans une résidence sécurisée, un très beau studio meublé entièrement rénové avec terrasse au calme.\nLocation uniquement pour période étudiante jusqu'au 30/09 de chaque année.\nPas de possibilité de bail habitation 3 ans, appartement non disponibile les mois de juillet / août.\nEau chaude et chauffage électrique. \n Loyer de 850,00 euros par mois charges comprises dont 40,00 euros par mois de provision pour charges (soumis à la régularisation annuelle). \nMontant estimé des dépenses annuelles d'énergie pour un usage standard : entre 560 et 810 euros. Prix moyens des énergies indexés en 2023.",
+      "texts": [
+        {
+          "text": "RUE DE FRANCE A DEUX PAS DE LA FACULTE DE DROIT, UN TRES BEAU STUDIO MEUBLE ENTIEREMENT RENOVE - Au deuxième étage avec ascenseur, dans une résidence sécurisée, un très beau studio meublé entièrement rénové avec terrasse au calme.\nLocation uniquement pour période étudiante jusqu'au 30/09 de chaque année.\nPas de possibilité de bail habitation 3 ans, appartement non disponibile les mois de juillet / août.\nEau chaude et chauffage électrique. \n Loyer de 850,00 euros par mois charges comprises dont 40,00 euros par mois de provision pour charges (soumis à la régularisation annuelle). \nMontant estimé des dépenses annuelles d'énergie pour un usage standard : entre 560 et 810 euros. Prix moyens des énergies indexés en 2023."
+        }
+      ],
+      "headline": "Appartement"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "RDC"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "RDC",
+          "splitValue": "RDC",
+          "label": ""
+        }
+      ],
+      "price": {
+        "value": "850 €",
+        "formatted": "850 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "850 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "f9f2d49b-2390-4aa1-87b6-ceeaacc13437",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 560 et 810 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 560 et 810 € par an. Date d'indexation du prix des énergies non communiquée."
+            }
+          ],
+          "scales": [
+            {
+              "key": "60d15c63-be77-4a99-8911-8b068c391e47",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "261 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "27605e3d-50ce-4848-a024-38d43c540fb0",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "251193935"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "GES90060041-650"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "850 €/mois Loyer charges comprises",
+          "ariaLabel": "850 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "40 €/mois",
+            "ariaLabel": "40 €"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "810.0"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Rez-de-chaussée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "balcony",
+          "value": "Pas de balcon"
+        },
+        {
+          "icon": "terrace",
+          "value": "Terrasse"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "barrier-free",
+          "value": "Non accessible aux personnes à mobilité réduite"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "17df295b-74fa-45a9-95d9-9992efa28274",
+          "url": "https://mms.seloger.com/1/7/d/f/17df295b-74fa-45a9-95d9-9992efa28274.jpg?ci_seal=4adec23e231da79a099b449e7622dc39b4322eae",
+          "alt": "Appartement à louer 850 € 1 pièce RDC Fleurs-Gambetta  Nice 06000",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "05c1711c-7cf2-4624-9bc5-91c6302708ec",
+          "url": "https://mms.seloger.com/0/5/c/1/05c1711c-7cf2-4624-9bc5-91c6302708ec.jpg?ci_seal=0b8f4cb14bb544bcaa530a7fd2e2f1f8f5f4bb2f",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4c5a2428-138c-4a1f-9346-ffcfa91d8f20",
+          "url": "https://mms.seloger.com/4/c/5/a/4c5a2428-138c-4a1f-9346-ffcfa91d8f20.jpg?ci_seal=4937e21c1337d44351cf3a5ac4bc59073fa32e09",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a1e39f30-4642-4f14-a503-7bb1e216dd09",
+          "url": "https://mms.seloger.com/a/1/e/3/a1e39f30-4642-4f14-a503-7bb1e216dd09.jpg?ci_seal=66ad927670f0caa69e46889b4043eb033c19e2ca",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a8581b73-3b9b-45af-995e-e67909cbd7f8",
+          "url": "https://mms.seloger.com/a/8/5/8/a8581b73-3b9b-45af-995e-e67909cbd7f8.jpg?ci_seal=aea966fae43ad64867d6e6ae85379d45694be024",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "488625a1-f64a-4d0b-b133-4a615c4eed39",
+          "url": "https://mms.seloger.com/4/8/8/6/488625a1-f64a-4d0b-b133-4a615c4eed39.jpg?ci_seal=5ffc01f0b0f41f6fca0303aa0e3b45ff67615f70",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e0363552-e6f8-40be-b89a-748c74c9ae6b",
+          "url": "https://mms.seloger.com/e/0/3/6/e0363552-e6f8-40be-b89a-748c74c9ae6b.jpg?ci_seal=1920cd16b8918527fb83dfdf590458d110ea50c9",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "51c4f7aa-86e4-4330-b230-954233c2002f",
+          "url": "https://mms.seloger.com/5/1/c/4/51c4f7aa-86e4-4330-b230-954233c2002f.jpg?ci_seal=52bce1b497135c5de8d1d02a88ddb844b45908f6",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "27e98716-86e7-4257-a681-a1b712bde535",
+          "url": "https://mms.seloger.com/2/7/e/9/27e98716-86e7-4257-a681-a1b712bde535.jpg?ci_seal=c47a034bb292161211b4f87e1cbfa5b90e023f57",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e93c0225-721d-42ee-a518-e7421e88eec7",
+          "url": "https://mms.seloger.com/e/9/3/c/e93c0225-721d-42ee-a518-e7421e88eec7.jpg?ci_seal=fcdf5c4db956bd553b3f6bfd34523a051847a99c",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "251193935",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "06000",
+      "city": "Nice",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 19.94,
+        "accuracy": 2,
+        "high": "28,86",
+        "low": "14,80"
+      },
+      "markerPosition": null,
+      "hasMainPrice": true,
+      "isSale": false,
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement",
+      "description": "RUE DE FRANCE A DEUX PAS DE LA FACULTE DE DROIT, UN TRES BEAU STUDIO MEUBLE ENTIEREMENT RENOVE - Au deuxième étage avec ascenseur, dans une résidence sécurisée, un très beau studio meublé entièrement rénové avec terrasse au calme.\nLocation uniquement pour période étudiante jusqu'au 30/09 de chaque année.\nPas de possibilité de bail habitation 3 ans, appartement non disponibile les mois de juillet / août.\nEau chaude et chauffage électrique. \n Loyer de 850,00 euros par mois charges comprises dont 40,00 euros par mois de provision pour charges (soumis à la régularisation annuelle). \nMontant estimé des dépenses annuelles d'énergie pour un usage standard : entre 560 et 810 euros. Prix moyens des énergies indexés en 2023.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 mois en ligne",
+      "views": "999+ vues",
+      "saves": "50 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25VZYKDRJC1E",
+    "legacyId": "251193935",
+    "brand": "seloger",
+    "agencyId": "RC-062424",
+    "static": {
+      "phoneNumbers": [
+        "04 93 16 78 26"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "04 93 16 78 26"
+      ]
+    },
+    "contactCard": {
+      "title": "IMMOBILIERE TICHADOU",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "04 93 16 78 26"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/d/3/1/f/d31f1014-45f9-4192-907f-5a76965d684a.jpg?ci_seal=eaca6479fe45e638bfb4d27b145b33b75c0a18cb",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "IMMOBILIERE TICHADOU",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "04 93 16 78 26"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/d/3/1/f/d31f1014-45f9-4192-907f-5a76965d684a.jpg?ci_seal=eaca6479fe45e638bfb4d27b145b33b75c0a18cb"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "IMMOBILIERE TICHADOU",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "04 93 16 78 26"
+      ],
+      "logoUrl": "https://mms.seloger.com/d/3/1/f/d31f1014-45f9-4192-907f-5a76965d684a.jpg?ci_seal=eaca6479fe45e638bfb4d27b145b33b75c0a18cb",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "IMMOBILIERE TICHADOU",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/d/3/1/f/d31f1014-45f9-4192-907f-5a76965d684a.jpg?ci_seal=eaca6479fe45e638bfb4d27b145b33b75c0a18cb",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/nice-06000/agence-62468/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "website": "http://www.tichadou.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/nice-06000/agence-62468/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "SAS SAS Immobilière Tichadou au capital de 114 336,76 €",
+        "Carte professionnelle 320 et 463 délivrée par la Préfecture de Alpes Maritimes",
+        "<b>Siège:</b> 2 rue du Congrès, 06000 Nice",
+        "<b>RCS:</b> 300586765",
+        "<b>SIRET:</b> 30058676500012"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "2 RUE DU CONGRES, 06000 Nice",
+      "phoneNumbers": [
+        "04 93 16 78 26"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "06000",
+    "av_city": "Nizza",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25VZYKDRJC1E",
+        "price": 850,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Nizza",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "province": "Maritime Alps",
+        "zip_code": "06000",
+        "legacy_id": "251193935",
+        "product_type": "standard",
+        "client_id": "RC-062424",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "53094",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "06000",
+        "estate_type": 1,
+        "id": "251193935",
+        "id_duo": 251193935,
+        "id_solo": 251193935,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 10,
+        "position": 0,
+        "price": 850,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified"
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "06088",
+      "cp": "06000",
+      "geodp": "06",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "251193935",
+      "prix": 900,
+      "nb_pieces": 1,
+      "etage": 0,
+      "commodites": [
+        "ascenseur",
+        "rez-de-chaussee",
+        "terrasse"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/06/bien-appartement/",
+          "label": "Appartements à louer Alpes-Maritimes 06",
+          "hoverLabel": "Appartements à louer Alpes-Maritimes 06",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-nice-06/bien-appartement/",
+          "label": "Appartements à louer Nice 06000",
+          "hoverLabel": "Appartements à louer Nice 06000",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 850 € Fleurs-Gambetta  Nice (06000)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 850 € Fleurs-Gambetta  Nice (06000)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/nice-06/californie/251193935.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/nice-06/californie/251193935.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 850 € Fleurs-Gambetta  Nice (06000)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 850 € Fleurs-Gambetta  Nice (06000)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/1/7/d/f/17df295b-74fa-45a9-95d9-9992efa28274.jpg?ci_seal=4adec23e231da79a099b449e7622dc39b4322eae"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 850 € Fleurs-Gambetta  Nice (06000)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/nice-06/californie/251193935.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 850 € Fleurs-Gambetta  Nice (06000)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 850 € Fleurs-Gambetta  Nice (06000)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/1/7/d/f/17df295b-74fa-45a9-95d9-9992efa28274.jpg?ci_seal=4adec23e231da79a099b449e7622dc39b4322eae"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 850 € Fleurs-Gambetta  Nice (06000)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 850 € Fleurs-Gambetta  Nice (06000)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/06/bien-appartement/",
+          "label": "Appartements à louer Alpes-Maritimes 06",
+          "hoverLabel": "Appartements à louer Alpes-Maritimes 06",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-nice-06/bien-appartement/",
+          "label": "Appartements à louer Nice 06000",
+          "hoverLabel": "Appartements à louer Nice 06000",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/nice-06/californie/251193935.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#1030b0",
+    "textColor": "light",
+    "providerName": "IMMOBILIERE TICHADOU",
+    "logo": {
+      "src": "https://mms.seloger.com/d/3/1/f/d31f1014-45f9-4192-907f-5a76965d684a.jpg?ci_seal=eaca6479fe45e638bfb4d27b145b33b75c0a18cb",
+      "alt": "logo-RC-062424",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/b/a/5/8/ba586a1c-3121-4c82-815a-7c1e0a055daf.png?ci_eqs=&ci_seal=fa451cfc8672b22e2193744866d2c3f8cb21ddf9",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/nice-06000/agence-62468/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/b/a/5/8/ba586a1c-3121-4c82-815a-7c1e0a055daf.png?ci_eqs=&ci_seal=fa451cfc8672b22e2193744866d2c3f8cb21ddf9",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/nice-06000/agence-62468/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/0/5/8/a/058a9cfb-2502-4905-9ee6-b0c5012d9332.png?ci_eqs=&ci_seal=9bb660fbccefb3f923dd47ee73eff9487d9df76e",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/nice-06000/agence-62468/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR487&priceMax=1020&priceMin=680",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR487",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD08FR2038",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR6",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25VZYKDRJC1E"
+}

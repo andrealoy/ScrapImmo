@@ -1,0 +1,1173 @@
+{
+  "brand": "seloger",
+  "id": "256UE31589TF",
+  "metadata": {
+    "legacyId": "254794377",
+    "creationDate": "2025-11-20T10:17:00Z",
+    "updateDate": "2025-11-25T14:15:08.682Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Lyon 8ème",
+        "zipCode": "69008",
+        "district": "Le Bachut"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86259,
+          45.738335
+        ]
+      }
+    },
+    "description": {
+      "description": "LYON 98 Rue VILLON - Tram T2/T4.  Au 2ème étage sans ascenseur, T3 meublé de 70m² avec séjour, cuisine équipée (four, plaques, frigo-congélateur, Micro-onde, lave-vaisselle), 2 chambres. SDB et WC séparés. Buanderie avec lave-linge. Chauffage individuel gaz. Balcon. Loyer + Charges : 1.154,15€ Caution : 2.128,30€ Honoraires : 881,14€ TTC Disponibilité : 22 DECEMBRE Encadrement des loyers de la métropole de LYON :  Loyer de référence : 887,92€ Loyer de référence majoré : 1.064,15€",
+      "texts": [
+        {
+          "text": "LYON 98 Rue VILLON - Tram T2/T4.  Au 2ème étage sans ascenseur, T3 meublé de 70m² avec séjour, cuisine équipée (four, plaques, frigo-congélateur, Micro-onde, lave-vaisselle), 2 chambres. SDB et WC séparés. Buanderie avec lave-linge. Chauffage individuel gaz. Balcon. Loyer + Charges : 1.154,15€ Caution : 2.128,30€ Honoraires : 881,14€ TTC Disponibilité : 22 DECEMBRE Encadrement des loyers de la métropole de LYON :  Loyer de référence : 887,92€ Loyer de référence majoré : 1.064,15€"
+        }
+      ],
+      "headline": "Appartement 3 pièces"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "68 m²",
+        "Étage 2/4"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "68 m²",
+          "splitValue": "68",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 2/4",
+          "splitValue": "Étage",
+          "label": "2/4"
+        }
+      ],
+      "price": {
+        "value": "1 154 €",
+        "formatted": "1 154 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1154.15 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "yearOfConstruction",
+          "label": "Année de construction",
+          "value": "1930"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        },
+        {
+          "type": "energySource",
+          "label": "Sources d'énergie",
+          "value": "Gaz"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "3fd3b629-1e62-45ec-828f-b71daffbba77",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 1880 et 2600 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 1880 et 2600 € par an. Prix moyens des énergies indexés au 31/12/2022 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "c36138cd-a94a-412a-b79e-e1d383ede6b4",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "313 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "307 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "69 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est 307 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "2a32d012-5cbd-4eed-a19d-fa95f3132c62",
+              "efficiencyClass": {
+                "index": 4,
+                "rating": "E"
+              },
+              "values": [
+                {
+                  "value": "69 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : E avec une plage allant de A à G .La consommation d'énergie est 307 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "254794377"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "G301"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 064,15 €/mois Loyer de base",
+          "ariaLabel": "1064.15 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "90 €/mois",
+            "ariaLabel": "90 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 154,15 €/mois",
+            "ariaLabel": "1154.15 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "15,65 €/mois/m²",
+            "ariaLabel": "15,65 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "2128.30"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "2ème étage/4 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée, Cuisine intégrée"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC"
+        },
+        {
+          "icon": "balcony",
+          "value": "Balcon"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: ouest, est"
+        },
+        {
+          "value": "Sans vis-à-vis",
+          "icon": "with-view"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "Orientation",
+                "value": "Exposition: ouest, est"
+              },
+              {
+                "icon": "furnished",
+                "value": "Meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "2ème étage/4 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Pas d'ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée, Cuisine intégrée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC"
+              },
+              {
+                "icon": "livingRoom",
+                "value": "Salon (total 15 m²)"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "Balcon"
+              },
+              {
+                "value": "Sans vis-à-vis",
+                "icon": "with-view"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "4ee41c26-f029-410c-ae3b-f8a9d4eeb9a3",
+          "url": "https://mms.seloger.com/4/e/e/4/4ee41c26-f029-410c-ae3b-f8a9d4eeb9a3.jpg?ci_seal=221d5546f2d717ddf4c1918fa46fcb2a4afecd3b",
+          "alt": "Appartement à louer 1 154 € 3 pièces 2 chambres 68 m² Étage 2/4 Le Bachut Lyon 8ème 69008",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1b7f77f4-021c-40b3-ba6e-1af535390867",
+          "url": "https://mms.seloger.com/1/b/7/f/1b7f77f4-021c-40b3-ba6e-1af535390867.jpg?ci_seal=303f9afbcf957470c1b5d48219dae9efccf4abba",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "183f53c5-782d-4203-93b1-1cbd9b721e9b",
+          "url": "https://mms.seloger.com/1/8/3/f/183f53c5-782d-4203-93b1-1cbd9b721e9b.jpg?ci_seal=bc8866cfa93b51916be0d7c6ee548ef22074a6a6",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9bcfca36-afe8-4056-9b17-4680ad29c5a1",
+          "url": "https://mms.seloger.com/9/b/c/f/9bcfca36-afe8-4056-9b17-4680ad29c5a1.jpg?ci_seal=93181467286a7a8a0661eed51cd0b498e54f106a",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "cc24f611-b831-4ae6-8c20-1767f82ee803",
+          "url": "https://mms.seloger.com/c/c/2/4/cc24f611-b831-4ae6-8c20-1767f82ee803.jpg?ci_seal=c42a758efd764cb25da9fc5f2194d5d3b05e8233",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a73460d5-cfa0-4cf5-8270-72c9733e2767",
+          "url": "https://mms.seloger.com/a/7/3/4/a73460d5-cfa0-4cf5-8270-72c9733e2767.jpg?ci_seal=c5b80f1e052407947e293f88f89ba52ee601ac07",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "655b5579-4f5e-4c4e-a388-53882bbf7ea5",
+          "url": "https://mms.seloger.com/6/5/5/b/655b5579-4f5e-4c4e-a388-53882bbf7ea5.jpg?ci_seal=1057cb54b61c55a6b3a1fac9f4506129a5c4ed44",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4eb68263-8eaa-40d2-bb2c-d88808223d10",
+          "url": "https://mms.seloger.com/4/e/b/6/4eb68263-8eaa-40d2-bb2c-d88808223d10.jpg?ci_seal=be98a5de24635ad53fb324a201625a1f322178a4",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3c0f15ee-45f1-4eac-8113-d233d86413dc",
+          "url": "https://mms.seloger.com/3/c/0/f/3c0f15ee-45f1-4eac-8113-d233d86413dc.jpg?ci_seal=766c66f26991f85156a083c230ebd51f0daa2fca",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "254794377",
+      "federalStateGeoId": "AD04FR31",
+      "zip": "69008",
+      "city": "Lyon 8ème",
+      "country": "FRA",
+      "region": "Auvergne-Rhône-Alpes",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 15.51,
+        "accuracy": 4,
+        "high": "23,93",
+        "low": "11,30"
+      },
+      "markerPosition": 34,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "15,65",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 3 pièces",
+      "description": "LYON 98 Rue VILLON - Tram T2/T4.  Au 2ème étage sans ascenseur, T3 meublé de 70m² avec séjour, cuisine équipée (four, plaques, frigo-congélateur, Micro-onde, lave-vaisselle), 2 chambres. SDB et WC séparés. Buanderie avec lave-linge. Chauffage individuel gaz. Balcon. Loyer + Charges : 1.154,15€ Caution : 2.128,30€ Honoraires : 881,14€ TTC Disponibilité : 22 DECEMBRE Encadrement des loyers de la métropole de LYON :  Loyer de référence : 887,92€ Loyer de référence majoré : 1.064,15€",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "14 jours en ligne",
+      "views": "77 vues",
+      "saves": "1 favori"
+    }
+  },
+  "contactSections": {
+    "id": "256UE31589TF",
+    "legacyId": "254794377",
+    "brand": "seloger",
+    "agencyId": "RC-121560",
+    "static": {
+      "phoneNumbers": [
+        "0426173167"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0426173167"
+      ]
+    },
+    "contactCard": {
+      "title": "IMMOBILIERE DE L'AVENUE",
+      "subtitle": "Immobiliere de L'Avenue",
+      "phoneNumbers": [
+        "0426173167"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "IMMOBILIERE DE L'AVENUE",
+        "subtitle": "Immobiliere de L'Avenue",
+        "phoneNumbers": [
+          "0426173167"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Immobiliere de L'Avenue",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "IMMOBILIERE DE L'AVENUE",
+      "subtitle": "IMMOBILIERE DE L'AVENUE",
+      "phoneNumbers": [
+        "0426173167"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "IMMOBILIERE DE L'AVENUE",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-69007/agence-7226/"
+      },
+      "contactCard": {
+        "title": "Immobiliere de L'Avenue",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-69007/agence-7226/",
+      "imprintUrl": null,
+      "feeUrl": "http://vd.seloger.com/files/0/k/0/w/0k0wsl0h5a142tl8smskks8su48rg6mmcmqxzf280/FICHE+VITRINE+Hono.pdf",
+      "agencyLegalInformations": [
+        "IMMOBILIERE DE L'AVENUE",
+        "<b>Siège:</b> 6 RUE SAINT JEROME, 69007 LYON",
+        "<b>RCS:</b> 792491987",
+        "<b>SIRET:</b> 79249198700022"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "6 rue Saint Jérôme, 69007 Lyon",
+      "phoneNumbers": [
+        "0426173167"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "69008",
+    "av_city": "Lyon",
+    "av_energy_certificate": "E",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "256UE31589TF",
+        "price": 1154.15,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Lyon",
+        "region": "Auvergne-Rhône-Alpes",
+        "province": "Rhône",
+        "zip_code": "69008",
+        "legacy_id": "254794377",
+        "product_type": "standard",
+        "client_id": "RC-121560",
+        "energy_certificate": "E"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "100897",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "E",
+        "estate_postalcode": "69008",
+        "estate_type": 1,
+        "id": "254794377",
+        "id_duo": 254794377,
+        "id_solo": 254794377,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 9,
+        "position": 0,
+        "price": 1154.15,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 68,
+        "year_of_construction": 1930
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "69123",
+      "cp": "69008",
+      "geodp": "69",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "254794377",
+      "prix": 1200,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 68,
+      "etage": 4,
+      "commodites": [
+        "balcon",
+        "Chauffage-individuel",
+        "Chauffage-gaz",
+        "Cuisine-équipée",
+        "Cuisine-séparée",
+        "parquet",
+        "SalleDeBain-baignoire",
+        "sansVisAVis",
+        "Sejour"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "E"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-8eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 8ème arrondissement 69008",
+          "hoverLabel": "Appartements à louer Lyon 8ème arrondissement 69008",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T3/F3 68 m² 1154.15 € États-Unis Lyon (69008)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T3/F3 68 m² 1154.15 € États-Unis Lyon (69008)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/lyon-8eme-69/transvaal/254794377.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-8eme-69/transvaal/254794377.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T3/F3 68 m² 1154.15 € États-Unis Lyon (69008)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T3/F3 68 m² 1154.15 € États-Unis Lyon (69008)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/4/e/e/4/4ee41c26-f029-410c-ae3b-f8a9d4eeb9a3.jpg?ci_seal=221d5546f2d717ddf4c1918fa46fcb2a4afecd3b"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T3/F3 68 m² 1154.15 € États-Unis Lyon (69008)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/lyon-8eme-69/transvaal/254794377.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T3/F3 68 m² 1154.15 € États-Unis Lyon (69008)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T3/F3 68 m² 1154.15 € États-Unis Lyon (69008)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/4/e/e/4/4ee41c26-f029-410c-ae3b-f8a9d4eeb9a3.jpg?ci_seal=221d5546f2d717ddf4c1918fa46fcb2a4afecd3b"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T3/F3 68 m² 1154.15 € États-Unis Lyon (69008)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T3/F3 68 m² 1154.15 € États-Unis Lyon (69008)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/rhone-alpes.htm",
+          "label": "Appartements à louer Auvergne-Rhône-Alpes",
+          "hoverLabel": "Appartements à louer Auvergne-Rhône-Alpes",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/69/bien-appartement/",
+          "label": "Appartements à louer Rhône 69",
+          "hoverLabel": "Appartements à louer Rhône 69",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-lyon-8eme-69/bien-appartement/",
+          "label": "Appartements à louer Lyon 8ème arrondissement 69008",
+          "hoverLabel": "Appartements à louer Lyon 8ème arrondissement 69008",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/lyon-8eme-69/transvaal/254794377.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR9703&priceMax=1384.98&priceMin=923.32",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR9703",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR24",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR28808",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR70",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR31",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "256UE31589TF"
+}

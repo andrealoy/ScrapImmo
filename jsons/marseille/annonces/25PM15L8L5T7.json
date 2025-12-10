@@ -1,0 +1,1096 @@
+{
+  "brand": "seloger",
+  "id": "25PM15L8L5T7",
+  "metadata": {
+    "legacyId": "254216195",
+    "creationDate": "2025-11-12T19:23:00Z",
+    "updateDate": "2025-11-13T11:01:14.342Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 1er",
+        "zipCode": "13001",
+        "district": "Opéra"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.374641,
+          43.29277
+        ]
+      }
+    },
+    "description": {
+      "description": "Au Vieux-Port, à quelques pas des principaux sites touristiques de la ville, profitez d'un séjour tout confort dans notre appartement supérieur Méditerranée avec sa vue sur le Vieux-Port.\r\nL'appartement climatisé est entièrement équipé pour vous apporter un maximum de confort : literie haut de gamme en 160, TV écran plat, cuisine comportant tous les éléments pour la préparation des repas (micro ondes, plaques à induction, réfrigérateur, cafetière Nespresso, bouilloire).",
+      "texts": [
+        {
+          "text": "Au Vieux-Port, à quelques pas des principaux sites touristiques de la ville, profitez d'un séjour tout confort dans notre appartement supérieur Méditerranée avec sa vue sur le Vieux-Port.\r\nL'appartement climatisé est entièrement équipé pour vous apporter un maximum de confort : literie haut de gamme en 160, TV écran plat, cuisine comportant tous les éléments pour la préparation des repas (micro ondes, plaques à induction, réfrigérateur, cafetière Nespresso, bouilloire)."
+        }
+      ],
+      "headline": "Studio Méditerranée vue Vieux-Port"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "18 m²",
+        "dès le 31/12/2025"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "18 m²",
+          "splitValue": "18",
+          "label": "m²"
+        },
+        {
+          "type": "availability",
+          "value": "dès le 31/12/2025",
+          "splitValue": "dès",
+          "label": "le 31/12/2025"
+        }
+      ],
+      "price": {
+        "value": "1 070 €",
+        "formatted": "1 070 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "1070 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "39679ab5-9efa-443a-b97e-20e1463002de",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 340 et 500 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 340 et 500 € par an. Prix moyens des énergies indexés au 01/11/2023 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "3fff9298-c709-485d-989a-f6a545779111",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "172 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "4 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "8a9a3ddd-2e0d-4393-a4fc-b833a201c13b",
+              "efficiencyClass": {
+                "index": 0,
+                "rating": "A"
+              },
+              "values": [
+                {
+                  "value": "4 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : A avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "254216195"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "MC-41974"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 070 €/mois Loyer charges comprises",
+          "ariaLabel": "1070 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "50 €/mois",
+            "ariaLabel": "50 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "59,44 €/mois/m²",
+            "ariaLabel": "59,44 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "750"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 31/12/2025"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "4ea38b22-282e-4c33-9e47-7c7b2a806d4a",
+          "url": "https://mms.seloger.com/4/e/a/3/4ea38b22-282e-4c33-9e47-7c7b2a806d4a.jpg?ci_seal=42c099e6e84506371debea6c00bee75428952cc7",
+          "alt": "Appartement à louer 1 070 € 1 pièce 18 m² dès le 31/12/2025 Opéra Marseille 1er 13001",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2c503b90-e672-4c59-ac16-9f58841f5bd0",
+          "url": "https://mms.seloger.com/2/c/5/0/2c503b90-e672-4c59-ac16-9f58841f5bd0.jpg?ci_seal=1721c70ea38f83ed35c927074bf505b3baae7824",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2196d6e3-68f3-48b1-94d3-36fa37a1b21c",
+          "url": "https://mms.seloger.com/2/1/9/6/2196d6e3-68f3-48b1-94d3-36fa37a1b21c.jpg?ci_seal=56713d44a4b4555ca261f37e6a5b626491544bfc",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8088e3ba-77a5-4bf5-bd36-ffc70e1c4d62",
+          "url": "https://mms.seloger.com/8/0/8/8/8088e3ba-77a5-4bf5-bd36-ffc70e1c4d62.jpg?ci_seal=1fe9be4ebba728278a6ea19b0fc3c47bf5771d97",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0040bfd1-04da-46e9-a676-c322e05cf434",
+          "url": "https://mms.seloger.com/0/0/4/0/0040bfd1-04da-46e9-a676-c322e05cf434.jpg?ci_seal=ec684db7397134809c3f51c47f3568493e9fa5c8",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "db419c3d-9779-4941-a85e-6f1cc34b9a84",
+          "url": "https://mms.seloger.com/d/b/4/1/db419c3d-9779-4941-a85e-6f1cc34b9a84.jpg?ci_seal=0a5f2955afe9f3672572d51755e31db79c301750",
+          "classification": {
+            "name": "HOME_OFFICE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "63951bc9-e524-4a6e-becb-bf3fd87fc862",
+          "url": "https://mms.seloger.com/6/3/9/5/63951bc9-e524-4a6e-becb-bf3fd87fc862.jpg?ci_seal=3d045af155c93241c3d2decaae71d6a511410239",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ad048217-0399-4e52-a097-12ff8ad2c889",
+          "url": "https://mms.seloger.com/a/d/0/4/ad048217-0399-4e52-a097-12ff8ad2c889.jpg?ci_seal=e23290bec5d14ccb012bb1e3834df4449bac0e70",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d1bb711a-e66d-425b-acc7-a98c44e8813d",
+          "url": "https://mms.seloger.com/d/1/b/b/d1bb711a-e66d-425b-acc7-a98c44e8813d.jpg?ci_seal=3b8e0858f5d01b0e6960e68de4a29ec247749935",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e90f7265-5107-4047-8dee-c0f2537a5430",
+          "url": "https://mms.seloger.com/e/9/0/f/e90f7265-5107-4047-8dee-c0f2537a5430.jpg?ci_seal=8f17f5ea6e1acf8906fbee802799cf001a849966",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "41144f4b-6e9b-455a-b5d6-e8532f3bd34a",
+          "url": "https://mms.seloger.com/4/1/1/4/41144f4b-6e9b-455a-b5d6-e8532f3bd34a.jpg?ci_seal=4bd47e80673b553fecbdb2a0474bca81a184aa7f",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c96d6100-c63a-4f0f-8b99-4f2929d0c421",
+          "url": "https://mms.seloger.com/c/9/6/d/c96d6100-c63a-4f0f-8b99-4f2929d0c421.jpg?ci_seal=b925f7d5353e3763c3ffff7daae71aa0d4e408e8",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ea178ebd-ea06-46d1-818e-7aef0e5d54c2",
+          "url": "https://mms.seloger.com/e/a/1/7/ea178ebd-ea06-46d1-818e-7aef0e5d54c2.jpg?ci_seal=5b90ae4a652aa901d041ccab52ee438d73ee15b3",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c4344fe1-758b-4428-a48e-1bea53c9246f",
+          "url": "https://mms.seloger.com/c/4/3/4/c4344fe1-758b-4428-a48e-1bea53c9246f.jpg?ci_seal=e166efef3861e64cfb0969d3644599d3c52ae36b",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "1d4b5a80-a8f7-49f6-bdd6-4f287f4d7fa7",
+          "url": "https://mms.seloger.com/1/d/4/b/1d4b5a80-a8f7-49f6-bdd6-4f287f4d7fa7.jpg?ci_seal=64e58fcedf3308cd72c6273395e285faa3d058a4",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "a66c1a67-000a-4524-94c2-13c1eccef5aa",
+          "url": "https://mms.seloger.com/a/6/6/c/a66c1a67-000a-4524-94c2-13c1eccef5aa.jpg?ci_seal=de8f0c0568ac3287d917b18090773d3efb6bcb3d",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "67cabace-5aa4-483f-8825-26b7cdd29437",
+          "url": "https://mms.seloger.com/6/7/c/a/67cabace-5aa4-483f-8825-26b7cdd29437.jpg?ci_seal=fd0cc43457e8b04db96a7ca146b833d0c9648193",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "254216195",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13001",
+      "city": "Marseille 1er",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 17.59,
+        "accuracy": 1,
+        "high": "25,55",
+        "low": "12,48"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "59,44",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Studio Méditerranée vue Vieux-Port",
+      "description": "Au Vieux-Port, à quelques pas des principaux sites touristiques de la ville, profitez d'un séjour tout confort dans notre appartement supérieur Méditerranée avec sa vue sur le Vieux-Port.\r\nL'appartement climatisé est entièrement équipé pour vous apporter un maximum de confort : literie haut de gamme en 160, TV écran plat, cuisine comportant tous les éléments pour la préparation des repas (micro ondes, plaques à induction, réfrigérateur, cafetière Nespresso, bouilloire).",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "27 jours en ligne",
+      "views": "3 vues",
+      "saves": "2 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25PM15L8L5T7",
+    "legacyId": "254216195",
+    "brand": "seloger",
+    "agencyId": "RC-057364",
+    "static": {
+      "phoneNumbers": [
+        "01 76 44 06 66"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "01 76 44 06 66"
+      ]
+    },
+    "contactCard": {
+      "title": "WIZI",
+      "subtitle": "Agence Tyrell",
+      "phoneNumbers": [
+        "01 76 44 06 66"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/e/f/7/4/ef74585f-baa5-4ea1-856e-8f9d4b090f11.jpg?ci_seal=c4e14766c37b37f0336b65afde46fa2eff7e567e",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "WIZI",
+        "subtitle": "Agence Tyrell",
+        "phoneNumbers": [
+          "01 76 44 06 66"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/e/f/7/4/ef74585f-baa5-4ea1-856e-8f9d4b090f11.jpg?ci_seal=c4e14766c37b37f0336b65afde46fa2eff7e567e"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Agence Tyrell",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "WIZI",
+      "subtitle": "WIZI",
+      "phoneNumbers": [
+        "01 76 44 06 66"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "WIZI",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/e/f/7/4/ef74585f-baa5-4ea1-856e-8f9d4b090f11.jpg?ci_seal=c4e14766c37b37f0336b65afde46fa2eff7e567e",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/bagneux-92220/agence-7047/"
+      },
+      "contactCard": {
+        "title": "Agence Tyrell",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://wizi.io/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/bagneux-92220/agence-7047/",
+      "imprintUrl": null,
+      "feeUrl": "http://vd.seloger.com/files/2/8/0/q/280qp3db8ymodobj0gqwm14avaejhks5n3cjgo934/Capture+d_ecran+2023-06-09+a+09.51.25.png",
+      "agencyLegalInformations": [
+        "SAS TYRELL au capital de 903 809 €",
+        "Carte professionnelle CPI92012017000018448 délivrée par la Préfecture de PARIS",
+        "Garantie financière GALIAN pour un montant de 200 000 €",
+        "<b>Siège:</b> 23 avenue de la Motte-Picquet, 75007 PARIS",
+        "<b>RCS:</b> PARIS 819520222",
+        "<b>SIRET:</b> 81952022200012"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "55 rue Alphonse Pluchet, 92220 Bagneux",
+      "phoneNumbers": [
+        "01 76 44 06 66"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13001",
+    "av_city": "Marseille 1er",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25PM15L8L5T7",
+        "price": 1070,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 1er",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13001",
+        "legacy_id": "254216195",
+        "product_type": "standard",
+        "client_id": "RC-057364",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "200554",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "13001",
+        "estate_type": 1,
+        "id": "254216195",
+        "id_duo": 254216195,
+        "id_solo": 254216195,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 17,
+        "position": 0,
+        "price": 1070,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 18
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13001",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "254216195",
+      "prix": 1100,
+      "nb_pieces": 1,
+      "surface": 18,
+      "commodites": [
+        "ascenseur",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-1er-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 1er arrondissement 13001",
+          "hoverLabel": "Appartements à louer Marseille 1er arrondissement 13001",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 18 m² 1070 € Opéra Marseille (13001)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 18 m² 1070 € Opéra Marseille (13001)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-1er-13/opera/254216195.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-1er-13/opera/254216195.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 18 m² 1070 € Opéra Marseille (13001)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 18 m² 1070 € Opéra Marseille (13001)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/4/e/a/3/4ea38b22-282e-4c33-9e47-7c7b2a806d4a.jpg?ci_seal=42c099e6e84506371debea6c00bee75428952cc7"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 18 m² 1070 € Opéra Marseille (13001)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-1er-13/opera/254216195.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 18 m² 1070 € Opéra Marseille (13001)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 18 m² 1070 € Opéra Marseille (13001)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/4/e/a/3/4ea38b22-282e-4c33-9e47-7c7b2a806d4a.jpg?ci_seal=42c099e6e84506371debea6c00bee75428952cc7"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 18 m² 1070 € Opéra Marseille (13001)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 18 m² 1070 € Opéra Marseille (13001)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-1er-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 1er arrondissement 13001",
+          "hoverLabel": "Appartements à louer Marseille 1er arrondissement 13001",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-1er-13/opera/254216195.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1042&priceMax=1284&priceMin=856",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1042",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR1",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25PM15L8L5T7"
+}

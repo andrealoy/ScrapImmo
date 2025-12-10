@@ -1,0 +1,909 @@
+{
+  "brand": "seloger",
+  "id": "252ZB4IYH5M6",
+  "metadata": {
+    "legacyId": "254823835",
+    "creationDate": "2025-11-20T17:05:00Z",
+    "updateDate": "2025-11-20T17:10:12.448Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Lyon 9ème",
+        "zipCode": "69009",
+        "district": "La Duchère"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80052,
+          45.7875
+        ]
+      }
+    },
+    "description": {
+      "description": "EN EXCLUSIVITÉ ET SANS FRAIS D'AGENCE.\r\nDisopnible de suite\r\nRéférence : 104534\r\n\r\nLogement soumis à des plafonds de ressources dits 'PLS'\r\n\r\nLogement type T3 de 72m² au 1er étage avec ascenseur, situé 312 AVENUE ANDREI SAKHAROV 69009 LYON.\r\n\r\nMontant du loyer 854,94 euros/mois HC, montant des charges 212,21 euros/mois, loyer chargé : 1067.15 euros, cela comprend : les provisions de chauffages, d'ascenseur et l'entretien des communs.\r\n\r\nLe logement comprend une entrée, une pièce de vie, une chambre au RDC, la seconde à l'étage avec un dressing, une salle d'eau et toilettes séparés.\r\nDes commerces, écoles, bus 66 -C6- C14.",
+      "texts": [
+        {
+          "text": "EN EXCLUSIVITÉ ET SANS FRAIS D'AGENCE.\r\nDisopnible de suite\r\nRéférence : 104534\r\n\r\nLogement soumis à des plafonds de ressources dits 'PLS'\r\n\r\nLogement type T3 de 72m² au 1er étage avec ascenseur, situé 312 AVENUE ANDREI SAKHAROV 69009 LYON.\r\n\r\nMontant du loyer 854,94 euros/mois HC, montant des charges 212,21 euros/mois, loyer chargé : 1067.15 euros, cela comprend : les provisions de chauffages, d'ascenseur et l'entretien des communs.\r\n\r\nLe logement comprend une entrée, une pièce de vie, une chambre au RDC, la seconde à l'étage avec un dressing, une salle d'eau et toilettes séparés.\r\nDes commerces, écoles, bus 66 -C6- C14."
+        }
+      ],
+      "headline": "Duplex Duchère"
+    },
+    "hardFacts": {
+      "title": "Duplex à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "72 m²",
+        "RDC/16"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "72 m²",
+          "splitValue": "72",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "RDC/16",
+          "splitValue": "RDC/16",
+          "label": ""
+        }
+      ],
+      "price": {
+        "value": "1 067 €",
+        "formatted": "1 067 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1067.15 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "79814db2-d33e-44f1-bc8d-e39f00783a2b",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 620 et 890 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 620 et 890 € par an. Prix moyens des énergies indexés au 24/06/2025 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "de17e20c-b3f3-4db4-86d5-b0ac93927602",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "111 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "13 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "58141fcc-d5f9-4982-9822-be99d2ba2b12",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "13 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "254823835"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "104534"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "854,94 €/mois Loyer de base",
+          "ariaLabel": "854.94 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "212,21 €/mois",
+            "ariaLabel": "212.21 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 067,15 €/mois",
+            "ariaLabel": "1067.15 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "11,87 €/mois/m²",
+            "ariaLabel": "11,87 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "854.94"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "Rez-de-chaussée/16 étages"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "2 chambres"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de douches"
+        },
+        {
+          "icon": "separateEntrance",
+          "value": "Entrée séparée"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "abee6187-1e6e-4440-a7ef-22d49f72fb3f",
+          "url": "https://mms.seloger.com/a/b/e/e/abee6187-1e6e-4440-a7ef-22d49f72fb3f.jpg?ci_seal=917ddf5e721cbc80ba722855d7010b66ef47e823",
+          "alt": "Duplex à louer 1 067 € 3 pièces 2 chambres 72 m² RDC/16 La Duchère Lyon 9ème 69009",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "d9c37e53-6828-4c5d-86b2-965326d9f139",
+          "url": "https://mms.seloger.com/d/9/c/3/d9c37e53-6828-4c5d-86b2-965326d9f139.jpg?ci_seal=ecae5566015cb41afc2e6263c3954930efac2afd",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f943acfb-e454-404a-9eb2-96006edac1e5",
+          "url": "https://mms.seloger.com/f/9/4/3/f943acfb-e454-404a-9eb2-96006edac1e5.jpg?ci_seal=864c62d638191b13bae11de08cedba06f2a46377",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "24b74ee2-5928-4e6b-8484-63bcbd41cfc5",
+          "url": "https://mms.seloger.com/2/4/b/7/24b74ee2-5928-4e6b-8484-63bcbd41cfc5.jpg?ci_seal=fd6d55733e54c13bf59db15c3034c054df3846b4",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "dca4461e-a906-436b-9b01-496bbaf006b3",
+          "url": "https://mms.seloger.com/d/c/a/4/dca4461e-a906-436b-9b01-496bbaf006b3.jpg?ci_seal=fce8a5832c98b0460b4876e8f1332122a0979c9a",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4c7a4f0b-8beb-4363-ab95-f1dd5f6a6920",
+          "url": "https://mms.seloger.com/4/c/7/a/4c7a4f0b-8beb-4363-ab95-f1dd5f6a6920.jpg?ci_seal=05acfd749ffb859f4608cb6bc0b2f01c1822e629",
+          "classification": {
+            "name": "CLOSET",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "804b8e34-a343-4c94-915f-00a640d3fd30",
+          "url": "https://mms.seloger.com/8/0/4/b/804b8e34-a343-4c94-915f-00a640d3fd30.jpg?ci_seal=de527c9c1fd5974a1a88a2dcfb27fd5f24911632",
+          "classification": {
+            "name": "STAIRCASE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "605b672e-eb22-423d-beb4-2013f8a738c3",
+          "url": "https://mms.seloger.com/6/0/5/b/605b672e-eb22-423d-beb4-2013f8a738c3.jpg?ci_seal=a81b9d2aa11b9893df2ccd43bf8da94f4b46968f",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "548dc9a8-4101-4194-98a9-99b1fb5c6fb6",
+          "url": "https://mms.seloger.com/5/4/8/d/548dc9a8-4101-4194-98a9-99b1fb5c6fb6.jpg?ci_seal=199ee9bd757e831eac2593746418e9f0c0ef0456",
+          "classification": {
+            "name": "YARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4434d37f-c500-40a4-85fa-c575ca290329",
+          "url": "https://mms.seloger.com/4/4/3/4/4434d37f-c500-40a4-85fa-c575ca290329.jpg?ci_seal=a3040e2186d6db72155e076d0e51b489a986fcc8",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "bec61504-d222-4138-bef6-092185913d15",
+          "url": "https://mms.seloger.com/b/e/c/6/bec61504-d222-4138-bef6-092185913d15.jpg?ci_seal=21c4d12b226d3fd83a3599ab90d4b4af98dcb80e",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "254823835",
+      "federalStateGeoId": "AD04FR31",
+      "zip": "69009",
+      "city": "Lyon 9ème",
+      "country": "FRA",
+      "region": "Auvergne-Rhône-Alpes",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 16.31,
+        "accuracy": 3,
+        "high": "25,96",
+        "low": "11,89"
+      },
+      "markerPosition": 0,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "11,87",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Duplex Duchère",
+      "description": "EN EXCLUSIVITÉ ET SANS FRAIS D'AGENCE.\r\nDisopnible de suite\r\nRéférence : 104534\r\n\r\nLogement soumis à des plafonds de ressources dits 'PLS'\r\n\r\nLogement type T3 de 72m² au 1er étage avec ascenseur, situé 312 AVENUE ANDREI SAKHAROV 69009 LYON.\r\n\r\nMontant du loyer 854,94 euros/mois HC, montant des charges 212,21 euros/mois, loyer chargé : 1067.15 euros, cela comprend : les provisions de chauffages, d'ascenseur et l'entretien des communs.\r\n\r\nLe logement comprend une entrée, une pièce de vie, une chambre au RDC, la seconde à l'étage avec un dressing, une salle d'eau et toilettes séparés.\r\nDes commerces, écoles, bus 66 -C6- C14.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "19 jours en ligne",
+      "views": "424 vues",
+      "saves": "10 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "252ZB4IYH5M6",
+    "legacyId": "254823835",
+    "brand": "seloger",
+    "agencyId": "RC-100711",
+    "static": {
+      "phoneNumbers": [
+        "06.37.58.79.69"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "06.37.58.79.69"
+      ]
+    },
+    "contactCard": {
+      "title": "SACVL",
+      "subtitle": "Nathalie",
+      "phoneNumbers": [
+        "06.37.58.79.69"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/3/4/4/2/3442634d-e4cf-4860-9596-07e99e110e1a.jpg?ci_seal=9b96e623c7c17d37e77b937e5e791003db090974",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "SACVL",
+        "subtitle": "Nathalie",
+        "phoneNumbers": [
+          "06.37.58.79.69"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/3/4/4/2/3442634d-e4cf-4860-9596-07e99e110e1a.jpg?ci_seal=9b96e623c7c17d37e77b937e5e791003db090974"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Nathalie",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "SACVL",
+      "subtitle": "SACVL",
+      "phoneNumbers": [
+        "06.37.58.79.69"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "SACVL",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/3/4/4/2/3442634d-e4cf-4860-9596-07e99e110e1a.jpg?ci_seal=9b96e623c7c17d37e77b937e5e791003db090974",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-5eme-arrondissement-69005/agence-57113/"
+      },
+      "contactCard": {
+        "title": "Nathalie",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://www.sacvl.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-5eme-arrondissement-69005/agence-57113/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "<b>Siège:</b> 36, quai Fulchiron, 69005 LYON",
+        "<b>RCS:</b> 954502142",
+        "<b>SIRET:</b> 95450214200050"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "36 quai Fulchiron, 69005 Lyon 5ème",
+      "phoneNumbers": [
+        "06.37.58.79.69"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "69009",
+    "av_city": "Lyon",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "252ZB4IYH5M6",
+        "price": 1067.15,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Lyon",
+        "region": "Auvergne-Rhône-Alpes",
+        "province": "Rhône",
+        "zip_code": "69009",
+        "legacy_id": "254823835",
+        "product_type": "standard",
+        "client_id": "RC-100711",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "54267",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "69009",
+        "estate_type": 9,
+        "id": "254823835",
+        "id_duo": 254823835,
+        "id_solo": 254823835,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 11,
+        "position": 0,
+        "price": 1067.15,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 72
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "69123",
+      "cp": "69009",
+      "geodp": "69",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "254823835",
+      "prix": 1100,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 72,
+      "etage": 16,
+      "commodites": [
+        "ascenseur",
+        "rez-de-chaussee",
+        "SalleDEau-douche"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {},
+    "headInfo": {
+      "title": "",
+      "titleWithCount": "",
+      "description": "",
+      "canonical": "",
+      "robots": "",
+      "breadcrumb": [],
+      "redirectUrl": ""
+    }
+  },
+  "farbwelt": {
+    "color": "#f01010",
+    "textColor": "dark",
+    "providerName": "SACVL",
+    "logo": {
+      "src": "https://mms.seloger.com/3/4/4/2/3442634d-e4cf-4860-9596-07e99e110e1a.jpg?ci_seal=9b96e623c7c17d37e77b937e5e791003db090974",
+      "alt": "logo-RC-100711",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/e/0/2/f/e02fc5cd-3fc6-41b4-95fe-71b9d82bd1f2.png?ci_eqs=&ci_seal=29a90fdcbf635c838a5cff6d0a3401f212810ff4",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-5eme-arrondissement-69005/agence-57113/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/e/0/2/f/e02fc5cd-3fc6-41b4-95fe-71b9d82bd1f2.png?ci_eqs=&ci_seal=29a90fdcbf635c838a5cff6d0a3401f212810ff4",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-5eme-arrondissement-69005/agence-57113/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/c/e/2/0/ce206a23-004a-4306-ad9f-b7bedcd8a81b.png?ci_eqs=&ci_seal=a47de41933b4e4f197e4d1f08a6fdac4a73bb770",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/lyon-5eme-arrondissement-69005/agence-57113/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR9369&priceMax=1280.58&priceMin=853.72",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR9369",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR25",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR28808",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR70",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR31",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "propertySubType": "MULTI_STOREY",
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "252ZB4IYH5M6"
+}

@@ -1,0 +1,1067 @@
+{
+  "brand": "seloger",
+  "id": "25XQP6LFDLK5",
+  "metadata": {
+    "legacyId": "255180035",
+    "creationDate": "2025-11-25T16:18:00Z",
+    "updateDate": "2025-12-08T13:50:09.253Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 8ème",
+        "zipCode": "13008",
+        "district": "Sainte Anne"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.396279,
+          43.26132399999989
+        ]
+      }
+    },
+    "description": {
+      "description": "LA CITE RADIEUSE DU CORBUSIER - Square Habitat vous propose dans la célèbre résidence le Corbusier un grand Type 3 en duplex de 127,09m² au 6ème étage avec ascenseur. Il se compose d'une entrée,  séjour pourvu d'une grande hauteur sous plafond ouvrant sur le balcon avec vue dégagée sur les collines, cuisine aménagée. A l'étage, une mezzanine attenante à la salle de bains , 2 chambres avec vue imprenable mer dont une de 25,08m²,  une salle d'eau et toilettes séparées. Possibilité de louer 1 box fermé en sus pour 120 €/mois. Chauffage compris dans les charges.\nAdresse : Résidence Corbusier 280 Bd Michelet 13008 Marseille",
+      "texts": [
+        {
+          "text": "LA CITE RADIEUSE DU CORBUSIER - Square Habitat vous propose dans la célèbre résidence le Corbusier un grand Type 3 en duplex de 127,09m² au 6ème étage avec ascenseur. Il se compose d'une entrée,  séjour pourvu d'une grande hauteur sous plafond ouvrant sur le balcon avec vue dégagée sur les collines, cuisine aménagée. A l'étage, une mezzanine attenante à la salle de bains , 2 chambres avec vue imprenable mer dont une de 25,08m²,  une salle d'eau et toilettes séparées. Possibilité de louer 1 box fermé en sus pour 120 €/mois. Chauffage compris dans les charges.\nAdresse : Résidence Corbusier 280 Bd Michelet 13008 Marseille"
+        }
+      ],
+      "headline": "Appartement 3 pièces"
+    },
+    "hardFacts": {
+      "title": "Duplex à louer",
+      "keyfacts": [
+        "3 pièces",
+        "2 chambres",
+        "127,1 m²",
+        "Étage 6/9"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "127,1 m²",
+          "splitValue": "127,1",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "Étage 6/9",
+          "splitValue": "Étage",
+          "label": "6/9"
+        }
+      ],
+      "price": {
+        "value": "1 600 €",
+        "formatted": "1 600 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.seloger.com/demenagement_formulaire?utm_source=form_SL&utm_medium=sl-lien-prix-location-pagesdetails-seloger-location1",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_COMPAREZ"
+        },
+        "ariaLabel": "1600 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "10d42713-59b0-4552-ab03-c18caa1b323d",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 1460 et 2020 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 1460 et 2020 € par an. Date d'indexation du prix des énergies non communiquée."
+            }
+          ],
+          "scales": [
+            {
+              "key": "c03bf921-16c2-457c-839a-c8cc6ea2dca9",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "141 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "106 kWh/m².an",
+                  "label": "Énergie finale"
+                },
+                {
+                  "value": "19 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est 106 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "73367ae1-6c17-4972-a608-913b43b5c115",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "19 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est 106 kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255180035"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "5498"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 370 €/mois Loyer de base",
+          "ariaLabel": "1370 €/mois Loyer de base"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "200 €/mois",
+            "ariaLabel": "200 €"
+          },
+          {
+            "label": "Loyer charges comprises",
+            "value": "1 600 €/mois",
+            "ariaLabel": "1600 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "10,78 €/mois/m²",
+            "ariaLabel": "10,78 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1370"
+          }
+        ]
+      }
+    },
+    "coOwnership": {
+      "items": []
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "6ème étage/9 étages"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Kitchenette"
+        },
+        {
+          "icon": "elevator",
+          "value": "Ascenseur"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "2 boxs de stationnement"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "balcony",
+          "value": "2 balcons"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "Orientation",
+          "value": "Exposition: est"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "Orientation",
+                "value": "Exposition: est"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "6ème étage/9 étages"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "elevator",
+                "value": "Ascenseur"
+              }
+            ],
+            "title": "Accessibilité"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Kitchenette"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain; 1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "1 WC séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "2 chambres"
+              },
+              {
+                "icon": "floor-covering",
+                "value": "Revêtement du sol: Parquet"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "balcony",
+                "value": "2 balcons"
+              },
+              {
+                "value": "Belle vue, Sans vis-à-vis",
+                "icon": "with-view"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "2 boxs de stationnement"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "TV par câble",
+                "icon": "tv"
+              }
+            ],
+            "title": "Équipements"
+          },
+          {
+            "elements": [
+              {
+                "icon": "intercom",
+                "value": "Interphone"
+              },
+              {
+                "value": "Gardien",
+                "icon": "custodian"
+              },
+              {
+                "value": "Digicode",
+                "icon": "digital-lock"
+              }
+            ],
+            "title": "Sécurité et services"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "7b6fe441-a5f0-4fd9-9d73-64551029718a",
+          "url": "https://mms.seloger.com/7/b/6/f/7b6fe441-a5f0-4fd9-9d73-64551029718a.jpg?ci_seal=370371ab621d094b859898721827e4dbe113adc9",
+          "alt": "Duplex à louer 1 600 € 3 pièces 2 chambres 127,1 m² Étage 6/9 Sainte Anne Marseille 8ème 13008",
+          "classification": {
+            "name": "BUILDING_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ac194840-f900-419d-afc9-678abe8b533c",
+          "url": "https://mms.seloger.com/a/c/1/9/ac194840-f900-419d-afc9-678abe8b533c.jpg?ci_seal=0741ae977ccc038d69b5ded2244b9a530ee8c1ee",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6304e121-4b5c-47a8-b5a0-92f3a2443ed0",
+          "url": "https://mms.seloger.com/6/3/0/4/6304e121-4b5c-47a8-b5a0-92f3a2443ed0.jpg?ci_seal=058845882b2c7ce827e74cda3ee72bae5ae82f8c",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c3247fae-2ea0-4ad5-b506-e63cfc6935b5",
+          "url": "https://mms.seloger.com/c/3/2/4/c3247fae-2ea0-4ad5-b506-e63cfc6935b5.jpg?ci_seal=795f126a50f3ec314f5b6c2fe424fffa9f114a62",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "de80591a-dbeb-4ed7-a5e8-c770b6f30b77",
+          "url": "https://mms.seloger.com/d/e/8/0/de80591a-dbeb-4ed7-a5e8-c770b6f30b77.jpg?ci_seal=7f37387bf1ce8564e01a5671a674b21fd5e65073",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "51d9ccad-35a0-44c1-844a-4c6c36effa44",
+          "url": "https://mms.seloger.com/5/1/d/9/51d9ccad-35a0-44c1-844a-4c6c36effa44.jpg?ci_seal=7a4fb6fdb086aab687fd383baa545888669e7990",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "72c7c79a-214f-4d2a-9488-20a294815ee4",
+          "url": "https://mms.seloger.com/7/2/c/7/72c7c79a-214f-4d2a-9488-20a294815ee4.jpg?ci_seal=5a4c9806d0344b7401cb95e21c2afc74b4d0c50f",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "e95b0909-0c2b-48c0-bdf5-6892518e3dd6",
+          "url": "https://mms.seloger.com/e/9/5/b/e95b0909-0c2b-48c0-bdf5-6892518e3dd6.jpg?ci_seal=9e745348218b92035fc5646e80e9c85c37394aad",
+          "classification": {
+            "name": "STAIRCASE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c09a6cc7-7621-4b6f-ac75-6b9eaf1aef71",
+          "url": "https://mms.seloger.com/c/0/9/a/c09a6cc7-7621-4b6f-ac75-6b9eaf1aef71.jpg?ci_seal=33fdf133b62ca36e3e8f443721e296102df0e272",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7f60b814-4cb5-4054-98fd-be6c2e988df5",
+          "url": "https://mms.seloger.com/7/f/6/0/7f60b814-4cb5-4054-98fd-be6c2e988df5.jpg?ci_seal=7fd55f097ac99755ac51fbfa908f13b185faaa70",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b36e2933-81b3-40c9-a716-a3076d87a0a5",
+          "url": "https://mms.seloger.com/b/3/6/e/b36e2933-81b3-40c9-a716-a3076d87a0a5.jpg?ci_seal=ecf568a06876752c4f540ba937050b4b59e63d42",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5d97cd3c-51d9-4b71-b94d-03f91a456dc5",
+          "url": "https://mms.seloger.com/5/d/9/7/5d97cd3c-51d9-4b71-b94d-03f91a456dc5.jpg?ci_seal=5b928fe4883bb847455a524fd31b2d414dfc72b9",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "75815d91-8dce-4e57-a330-00b6768fe474",
+          "url": "https://mms.seloger.com/7/5/8/1/75815d91-8dce-4e57-a330-00b6768fe474.jpg?ci_seal=0b97dd81180a9f80f23cc5d60e85cb06cb4a7e1e",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "427f8818-e554-4187-bad4-2db437ac5ca3",
+          "url": "https://mms.seloger.com/4/2/7/f/427f8818-e554-4187-bad4-2db437ac5ca3.jpg?ci_seal=3f9933664e3e25a1dd084ff6c61cf97a45e2759e",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7cc35129-f297-4c6d-9680-544eaf38fbbc",
+          "url": "https://mms.seloger.com/7/c/c/3/7cc35129-f297-4c6d-9680-544eaf38fbbc.jpg?ci_seal=33d4aa1f62eb1b42b6a98222d0e336353ebe7052",
+          "classification": {
+            "name": "EXTERIOR_VIEW",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ddcf634b-edbd-4cd6-b3ba-aebeb1861b1e",
+          "url": "https://mms.seloger.com/d/d/c/f/ddcf634b-edbd-4cd6-b3ba-aebeb1861b1e.jpg?ci_seal=39a7b47b6e0816f31b71332019a376eea4ccf562",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "aa4a936a-9d46-4f5a-a7e9-c95520da1f75",
+          "url": "https://mms.seloger.com/a/a/4/a/aa4a936a-9d46-4f5a-a7e9-c95520da1f75.jpg?ci_seal=9a8acd8cba5a3a4c476e6c80568d8871c69ec488",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "55a2a8b1-7c0c-403f-875e-656988c25517",
+          "url": "https://mms.seloger.com/5/5/a/2/55a2a8b1-7c0c-403f-875e-656988c25517.jpg?ci_seal=d834019034de5a5437ea4479c76d413ba132a6ec",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "130f2cbf-a46f-48d9-b964-910a72e92318",
+          "url": "https://mms.seloger.com/1/3/0/f/130f2cbf-a46f-48d9-b964-910a72e92318.jpg?ci_seal=f7c49d96bef78fef7eaf29609e190b0fab5bafcb",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "439c6430-8f9c-4eb3-84db-d1c207fce8e1",
+          "url": "https://mms.seloger.com/4/3/9/c/439c6430-8f9c-4eb3-84db-d1c207fce8e1.jpg?ci_seal=2a82f553b573a4e917e7e73f7e16823d534a0dc8",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4f2fd4d2-2d7a-4455-b985-0f5cd828847e",
+          "url": "https://mms.seloger.com/4/f/2/f/4f2fd4d2-2d7a-4455-b985-0f5cd828847e.jpg?ci_seal=2e7731f9999a4a35bb0ad80178c20be540f11851",
+          "classification": {
+            "name": "HALLWAY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255180035",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13008",
+      "city": "Marseille 8ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 17.54,
+        "accuracy": 1,
+        "high": "28,68",
+        "low": "13,78"
+      },
+      "markerPosition": 0,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "10,78",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Appartement 3 pièces",
+      "description": "LA CITE RADIEUSE DU CORBUSIER - Square Habitat vous propose dans la célèbre résidence le Corbusier un grand Type 3 en duplex de 127,09m² au 6ème étage avec ascenseur. Il se compose d'une entrée,  séjour pourvu d'une grande hauteur sous plafond ouvrant sur le balcon avec vue dégagée sur les collines, cuisine aménagée. A l'étage, une mezzanine attenante à la salle de bains , 2 chambres avec vue imprenable mer dont une de 25,08m²,  une salle d'eau et toilettes séparées. Possibilité de louer 1 box fermé en sus pour 120 €/mois. Chauffage compris dans les charges.\nAdresse : Résidence Corbusier 280 Bd Michelet 13008 Marseille",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "14 jours en ligne",
+      "views": "505 vues",
+      "saves": "26 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25XQP6LFDLK5",
+    "legacyId": "255180035",
+    "brand": "seloger",
+    "agencyId": "RC-1832138",
+    "static": {
+      "phoneNumbers": [
+        "+33(0)491153032"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+33(0)491153032"
+      ]
+    },
+    "contactCard": {
+      "title": "Square Habitat - Cabinet Lieutaud Gestion",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "+33(0)491153032"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "Square Habitat - Cabinet Lieutaud Gestion",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "+33(0)491153032"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "Square Habitat - Cabinet Lieutaud Gestion",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "+33(0)491153032"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "Square Habitat - Cabinet Lieutaud Gestion",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-2eme-arrondissement-13002/agence-278137/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-2eme-arrondissement-13002/agence-278137/",
+      "imprintUrl": null,
+      "feeUrl": "https://www.squarehabitat.fr/medias/files/01000000-c800-0242-a4d0-08dda1e2ae9e.pdf",
+      "agencyLegalInformations": [
+        "<b>RCS:</b> 523779585",
+        "<b>SIRET:</b> 52377958500083"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "10 PLACE DE LA JOLIETTE Atrium 10 4, 13002 MARSEILLE",
+      "phoneNumbers": [
+        "+33(0)491153032"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13008",
+    "av_city": "Marseille 8ème",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25XQP6LFDLK5",
+        "price": 1600,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 8ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13008",
+        "legacy_id": "255180035",
+        "product_type": "standard",
+        "client_id": "RC-1832138",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "506602",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "13008",
+        "estate_type": 9,
+        "id": "255180035",
+        "id_duo": 255180035,
+        "id_solo": 255180035,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 2,
+        "nb_rooms": 3,
+        "parent_site": "SL",
+        "photos_nb": 21,
+        "position": 0,
+        "price": 1600,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 127.09
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13008",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255180035",
+      "prix": 1600,
+      "nb_pieces": 3,
+      "nb_chambres": 2,
+      "surface": 127.09,
+      "etage": 9,
+      "commodites": [
+        "ascenseur",
+        "balcon",
+        "belleVue",
+        "box",
+        "parquet",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire",
+        "sansVisAVis",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {},
+    "headInfo": {
+      "title": "",
+      "titleWithCount": "",
+      "description": "",
+      "canonical": "",
+      "robots": "",
+      "breadcrumb": [],
+      "redirectUrl": ""
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1082&priceMax=1920&priceMin=1280",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1082",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR8",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "propertySubType": "MULTI_STOREY",
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25XQP6LFDLK5"
+}

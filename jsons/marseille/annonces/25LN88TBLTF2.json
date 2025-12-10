@@ -1,0 +1,1094 @@
+{
+  "brand": "seloger",
+  "id": "25LN88TBLTF2",
+  "metadata": {
+    "legacyId": "255804381",
+    "creationDate": "2025-12-04T10:45:00Z",
+    "updateDate": "2025-12-04T10:50:28.566Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 2ème",
+        "zipCode": "13002",
+        "district": "Hôtel de Ville"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3725861,
+          43.2974294
+        ]
+      }
+    },
+    "description": {
+      "description": "Dans un immeuble haussmannien, proximité immédiate du vieux port, secteur république. Grand appartement de type 4 comprenant une vaste pièce à vivre lumineuse avec son coin cuisine américaine équipé (plaques, hotte, meubles de cuisine) espaces salle à manger et salon séparés,  3 chambres dont 2 avec placards, une salle de bain et un wc séparé.",
+      "texts": [
+        {
+          "text": "Dans un immeuble haussmannien, proximité immédiate du vieux port, secteur république. Grand appartement de type 4 comprenant une vaste pièce à vivre lumineuse avec son coin cuisine américaine équipé (plaques, hotte, meubles de cuisine) espaces salle à manger et salon séparés,  3 chambres dont 2 avec placards, une salle de bain et un wc séparé."
+        }
+      ],
+      "headline": "APPARTEMENT DE TYPE 4 PROCHE VIEUX PORT"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "4 pièces",
+        "3 chambres",
+        "93 m²",
+        "1er étage"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "4 pièces",
+          "splitValue": "4",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "3 chambres",
+          "splitValue": "3",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "93 m²",
+          "splitValue": "93",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1er étage",
+          "splitValue": "1er",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 322 €",
+        "formatted": "1 322 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "1322 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage individuel"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "ffea4bc1-346e-45f9-a530-c177b1163c9f",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "20585f08-6c3f-4b90-a34d-65fd901dad1b",
+              "efficiencyClass": {
+                "index": 3,
+                "rating": "D"
+              },
+              "values": [
+                {
+                  "value": "236 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : D avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "cc1e185b-0a63-48a6-b9ba-7bf270693c59",
+              "efficiencyClass": {
+                "index": 1,
+                "rating": "B"
+              },
+              "values": [
+                {
+                  "value": "7 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : B avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "255804381"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "MARSEILLE2CHR6"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 322 €/mois Loyer charges comprises",
+          "ariaLabel": "1322 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "82 €/mois",
+            "ariaLabel": "82 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "14,22 €/mois/m²",
+            "ariaLabel": "14,22 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1240"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "1er étage"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine ouverte, Cuisine intégrée"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "1 WC séparées"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        },
+        {
+          "icon": "bedroom",
+          "value": "3 chambres"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain"
+        },
+        {
+          "icon": "closet",
+          "value": "Placard"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "e4311f69-1985-496c-a9a4-c3ace9893256",
+          "url": "https://mms.seloger.com/e/4/3/1/e4311f69-1985-496c-a9a4-c3ace9893256.jpg?ci_seal=e7dd7bbf3089f7c6f9e4821951654d30d081d0d6",
+          "alt": "Appartement à louer 1 322 € 4 pièces 3 chambres 93 m² 1er étage Hôtel de Ville Marseille 2ème 13002",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "78207eb7-de63-4149-a7f3-5a828bf03681",
+          "url": "https://mms.seloger.com/7/8/2/0/78207eb7-de63-4149-a7f3-5a828bf03681.jpg?ci_seal=7b0ade69f84a54d50cd4d9d35ec4eccc5d53a369",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "32860229-990e-432c-ba02-735feebbd0b3",
+          "url": "https://mms.seloger.com/3/2/8/6/32860229-990e-432c-ba02-735feebbd0b3.jpg?ci_seal=9b64513ba2a06b8e49898303e419610253590bc9",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "4c3beadc-b658-4f1f-82aa-5d0f5fa98413",
+          "url": "https://mms.seloger.com/4/c/3/b/4c3beadc-b658-4f1f-82aa-5d0f5fa98413.jpg?ci_seal=17db1b933ea01f3e183950545030f291e9293664",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "552a68fd-9192-4615-889f-f95a7d701fc7",
+          "url": "https://mms.seloger.com/5/5/2/a/552a68fd-9192-4615-889f-f95a7d701fc7.jpg?ci_seal=039e03ab76602c6ee49e46f7a4c2ce7f29a8b4e9",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c461ae30-2096-4dea-9e49-7fea6a6ecef5",
+          "url": "https://mms.seloger.com/c/4/6/1/c461ae30-2096-4dea-9e49-7fea6a6ecef5.jpg?ci_seal=9e7eec00483b6b53c77b5b473ca5d3d728e0df78",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2e15adb1-a5d2-42c8-9bd2-03a75ff484ab",
+          "url": "https://mms.seloger.com/2/e/1/5/2e15adb1-a5d2-42c8-9bd2-03a75ff484ab.jpg?ci_seal=db980b54e43c7c35cacc963e2738aa5ce5c70d78",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "0212a897-5af4-4c8e-bcf2-f517894c5beb",
+          "url": "https://mms.seloger.com/0/2/1/2/0212a897-5af4-4c8e-bcf2-f517894c5beb.jpg?ci_seal=f25c5602d6c84553746da4f5965220a903eebf4a",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7276f981-cc6e-47b7-88d3-61f84559217e",
+          "url": "https://mms.seloger.com/7/2/7/6/7276f981-cc6e-47b7-88d3-61f84559217e.jpg?ci_seal=3165ba8956fdfec06b933429f3d3a674b80319e3",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "255804381",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13002",
+      "city": "Marseille 2ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 15.87,
+        "accuracy": 1,
+        "high": "24,80",
+        "low": "11,30"
+      },
+      "markerPosition": 22,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "14,22",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "APPARTEMENT DE TYPE 4 PROCHE VIEUX PORT",
+      "description": "Dans un immeuble haussmannien, proximité immédiate du vieux port, secteur république. Grand appartement de type 4 comprenant une vaste pièce à vivre lumineuse avec son coin cuisine américaine équipé (plaques, hotte, meubles de cuisine) espaces salle à manger et salon séparés,  3 chambres dont 2 avec placards, une salle de bain et un wc séparé.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "5 jours en ligne",
+      "views": "115 vues",
+      "saves": "6 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25LN88TBLTF2",
+    "legacyId": "255804381",
+    "brand": "seloger",
+    "agencyId": "RC-048165",
+    "static": {
+      "phoneNumbers": [
+        "06 79 35 24 76"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "06 79 35 24 76"
+      ]
+    },
+    "contactCard": {
+      "title": "OIKO GESTION",
+      "subtitle": "Coralie Roux",
+      "phoneNumbers": [
+        "06 79 35 24 76"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/0/f/5/4/0f54233a-541d-47c0-8060-86893062ec06.jpg?ci_seal=bc896b610f305a398859de2d5a28cc90465870f3",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "OIKO GESTION",
+        "subtitle": "Coralie Roux",
+        "phoneNumbers": [
+          "06 79 35 24 76"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/0/f/5/4/0f54233a-541d-47c0-8060-86893062ec06.jpg?ci_seal=bc896b610f305a398859de2d5a28cc90465870f3"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Coralie Roux",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "OIKO GESTION",
+      "subtitle": "OIKO GESTION",
+      "phoneNumbers": [
+        "06 79 35 24 76"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "OIKO GESTION",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/0/f/5/4/0f54233a-541d-47c0-8060-86893062ec06.jpg?ci_seal=bc896b610f305a398859de2d5a28cc90465870f3",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/paris-9eme-arrondissement-75009/agence-21789/"
+      },
+      "contactCard": {
+        "title": "Coralie Roux",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "https://www.oikogestion.fr/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/paris-9eme-arrondissement-75009/agence-21789/",
+      "imprintUrl": null,
+      "feeUrl": "http://vd.seloger.com/files/1/w/d/a/1wdaauxhy9xl8dids5zzgdhhcfjqi7quntltbz18g/HONORAIRES+COM+A+LA+CHARGE+DU+LOCATAIRE_page-0001.jpg",
+      "agencyLegalInformations": [
+        "SAS OIKO GESTION au capital de 74 650 €",
+        "Carte professionnelle 75012018000038713 délivrée par la Préfecture de Hauts de Seine",
+        "Garantie financière GALIAN pour un montant de 7 000 100 €",
+        "<b>Siège:</b> 14 rue Ballu, 75009 PARIS",
+        "<b>RCS:</b> NANTERRE 519555973",
+        "<b>SIRET:</b> 51955597300048"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "14 Rue Ballu, 75009 PARIS 9 ème",
+      "phoneNumbers": [
+        "06 79 35 24 76"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13002",
+    "av_city": "Marseille 2ème",
+    "av_energy_certificate": "D",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25LN88TBLTF2",
+        "price": 1322,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 2ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13002",
+        "legacy_id": "255804381",
+        "product_type": "standard",
+        "client_id": "RC-048165",
+        "energy_certificate": "D"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "116383",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "D",
+        "estate_postalcode": "13002",
+        "estate_type": 1,
+        "id": "255804381",
+        "id_duo": 255804381,
+        "id_solo": 255804381,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 3,
+        "nb_rooms": 4,
+        "parent_site": "SL",
+        "photos_nb": 9,
+        "position": 0,
+        "price": 1322,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 93
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13002",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "255804381",
+      "prix": 1400,
+      "nb_pieces": 4,
+      "nb_chambres": 3,
+      "surface": 93,
+      "commodites": [
+        "Chauffage-individuel",
+        "Cuisine-américaine",
+        "Cuisine-équipée",
+        "SalleDeBain-baignoire",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "D"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-2eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 2ème arrondissement 13002",
+          "hoverLabel": "Appartements à louer Marseille 2ème arrondissement 13002",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer T4/F4 93 m² 1322 € Hôtel de Ville Marseille (13002)",
+      "titleWithCount": "",
+      "description": "Appartement à louer T4/F4 93 m² 1322 € Hôtel de Ville Marseille (13002)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-2eme-13/hotel-de-ville/255804381.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-2eme-13/hotel-de-ville/255804381.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer T4/F4 93 m² 1322 € Hôtel de Ville Marseille (13002)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer T4/F4 93 m² 1322 € Hôtel de Ville Marseille (13002)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/e/4/3/1/e4311f69-1985-496c-a9a4-c3ace9893256.jpg?ci_seal=e7dd7bbf3089f7c6f9e4821951654d30d081d0d6"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer T4/F4 93 m² 1322 € Hôtel de Ville Marseille (13002)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-2eme-13/hotel-de-ville/255804381.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer T4/F4 93 m² 1322 € Hôtel de Ville Marseille (13002)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer T4/F4 93 m² 1322 € Hôtel de Ville Marseille (13002)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/e/4/3/1/e4311f69-1985-496c-a9a4-c3ace9893256.jpg?ci_seal=e7dd7bbf3089f7c6f9e4821951654d30d081d0d6"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer T4/F4 93 m² 1322 € Hôtel de Ville Marseille (13002)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer T4/F4 93 m² 1322 € Hôtel de Ville Marseille (13002)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-2eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 2ème arrondissement 13002",
+          "hoverLabel": "Appartements à louer Marseille 2ème arrondissement 13002",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-2eme-13/hotel-de-ville/255804381.htm"
+    }
+  },
+  "farbwelt": {
+    "color": "#10b050",
+    "textColor": "dark",
+    "providerName": "OIKO GESTION",
+    "logo": {
+      "src": "https://mms.seloger.com/0/f/5/4/0f54233a-541d-47c0-8060-86893062ec06.jpg?ci_seal=bc896b610f305a398859de2d5a28cc90465870f3",
+      "alt": "logo-RC-048165",
+      "extension": ""
+    },
+    "teasers": [
+      {
+        "type": "MediumRectangleTop",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/f/5/9/1/f5911f46-bbf8-47ee-bbd2-a91ee183cca7.png?ci_eqs=&ci_seal=80ffa612c8be4fb79f9ac2e5d01783a21bb28950",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-9eme-arrondissement-75009/agence-21789/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MediumRectangleBottom",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/f/5/9/1/f5911f46-bbf8-47ee-bbd2-a91ee183cca7.png?ci_eqs=&ci_seal=80ffa612c8be4fb79f9ac2e5d01783a21bb28950",
+          "alt": "MediumRectangleBottom"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-9eme-arrondissement-75009/agence-21789/",
+          "isExternal": false
+        }
+      },
+      {
+        "type": "MobileBanner",
+        "image": {
+          "src": "https://cdnihddipa.cloudimg.io/8/7/7/9/877962c5-1ac6-47a7-bf87-1a4f8bbc7d49.png?ci_eqs=&ci_seal=c5ba33dbe4cabf4dfd56dc2507e81dcd31f7e04d",
+          "alt": "MediumRectangleTop"
+        },
+        "linkTarget": {
+          "href": "https://www.seloger.com/professionnels/agences-immobilieres/paris-9eme-arrondissement-75009/agence-21789/",
+          "isExternal": false
+        }
+      }
+    ]
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1047&priceMax=1586.4&priceMin=1057.6",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": true,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1047",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR2",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25LN88TBLTF2"
+}

@@ -1,0 +1,1159 @@
+{
+  "brand": "seloger",
+  "id": "25423AJ1HVM4",
+  "metadata": {
+    "legacyId": "254176659",
+    "creationDate": "2025-11-12T11:32:00Z",
+    "updateDate": "2025-11-14T09:40:08.095Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 8ème",
+        "zipCode": "13008",
+        "district": "Bonneveine"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.386134,
+          43.251002
+        ]
+      }
+    },
+    "description": {
+      "description": "Bonneveine, au calme et au soleil.  Maison Type 5 en R+1 de 141 m2 habitable sur parcelle de 300m2 avec garage, terrasse, et piscine. L'ensemble en parfait état, avec de belles prestations. En rez-de-chaussée : séjour spacieux, grande cuisine indépendante aménagée et équipée, un cabinet de toilette. A l'étage, les quatre chambres avec placard, une salle de bains, une salle d'eau et un wc séparé. Grande terrasse avec piscine sécurisée par alarme. Plancher chauffant rafraichissant. A voir absolument. Rare en location. Les honoraires de location comprennent l'état des lieux d'entrée.",
+      "texts": [
+        {
+          "text": "Bonneveine, au calme et au soleil.  Maison Type 5 en R+1 de 141 m2 habitable sur parcelle de 300m2 avec garage, terrasse, et piscine. L'ensemble en parfait état, avec de belles prestations. En rez-de-chaussée : séjour spacieux, grande cuisine indépendante aménagée et équipée, un cabinet de toilette. A l'étage, les quatre chambres avec placard, une salle de bains, une salle d'eau et un wc séparé. Grande terrasse avec piscine sécurisée par alarme. Plancher chauffant rafraichissant. A voir absolument. Rare en location. Les honoraires de location comprennent l'état des lieux d'entrée."
+        }
+      ],
+      "headline": "Maison T5 Garage Piscine Bonneveine"
+    },
+    "hardFacts": {
+      "title": "Maison à louer",
+      "keyfacts": [
+        "5 pièces",
+        "4 chambres",
+        "141 m²",
+        "300 m² de terrain"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "5 pièces",
+          "splitValue": "5",
+          "label": "pièces"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "4 chambres",
+          "splitValue": "4",
+          "label": "chambres"
+        },
+        {
+          "type": "livingSpace",
+          "value": "141 m²",
+          "splitValue": "141",
+          "label": "m²"
+        },
+        {
+          "type": "plotSpace",
+          "value": "300 m² de terrain",
+          "splitValue": "300",
+          "label": "m² de terrain"
+        }
+      ],
+      "price": {
+        "value": "3 850 €",
+        "formatted": "3 850 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "3850 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "state",
+          "label": "État",
+          "value": "Première occupation"
+        },
+        {
+          "type": "heatingSystem",
+          "label": "Type de chauffage",
+          "value": "Chauffage au sol"
+        }
+      ],
+      "certificates": [
+        {
+          "key": "bc7ebefa-56d3-4d22-a176-c17dd5e40774",
+          "features": [
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Après le 1er juillet 2021"
+            }
+          ],
+          "scales": [
+            {
+              "key": "26f82ee0-a8f9-4d4e-9161-574a35d69386",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "128 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "4 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": "Passoire énergétique"
+                },
+                {
+                  "label": "G",
+                  "value": "Passoire énergétique"
+                }
+              ],
+              "type": "FR_ENERGY_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "21bbfd10-a06a-4c67-bdc3-5911a634fbf7",
+              "efficiencyClass": {
+                "index": 0,
+                "rating": "A"
+              },
+              "values": [
+                {
+                  "value": "4 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": ""
+                },
+                {
+                  "label": "B",
+                  "value": ""
+                },
+                {
+                  "label": "C",
+                  "value": ""
+                },
+                {
+                  "label": "D",
+                  "value": ""
+                },
+                {
+                  "label": "E",
+                  "value": ""
+                },
+                {
+                  "label": "F",
+                  "value": ""
+                },
+                {
+                  "label": "G",
+                  "value": ""
+                }
+              ],
+              "type": "FR_GHG_AFTER_2021",
+              "ariaLabel": "EfficiencyClass : A avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "254176659"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "Maison T5 Garage Piscine Bonneveine"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "3 850 €/mois Loyer charges comprises",
+          "ariaLabel": "3850 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Prix ​​au m²",
+            "value": "27,30 €/mois/m²",
+            "ariaLabel": "27,30 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "3850"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "floors",
+          "value": "1 étage"
+        },
+        {
+          "icon": "plotSpace",
+          "value": "300 m² de terrain"
+        },
+        {
+          "icon": "kitchen",
+          "value": "Cuisine séparée"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Garage"
+        },
+        {
+          "icon": "toilet-amenities",
+          "value": "2 WCs séparées"
+        },
+        {
+          "icon": "terrace",
+          "value": "Terrasse"
+        },
+        {
+          "icon": "calm",
+          "value": "Calme"
+        },
+        {
+          "icon": "furnished",
+          "value": "Non meublé"
+        }
+      ],
+      "details": {
+        "categories": [
+          {
+            "elements": [
+              {
+                "icon": "calm",
+                "value": "Calme"
+              },
+              {
+                "icon": "furnished",
+                "value": "Non meublé"
+              },
+              {
+                "icon": "floors",
+                "value": "1 étage"
+              },
+              {
+                "icon": "plotSpace",
+                "value": "300 m² de terrain"
+              }
+            ],
+            "title": "Informations générales"
+          },
+          {
+            "elements": [
+              {
+                "icon": "kitchen",
+                "value": "Cuisine séparée"
+              },
+              {
+                "icon": "bathroom-amenities",
+                "value": "1 salle de bain; 1 salle de douches"
+              },
+              {
+                "icon": "toilet-amenities",
+                "value": "2 WCs séparées"
+              },
+              {
+                "icon": "bedroom",
+                "value": "4 chambres"
+              },
+              {
+                "icon": "separateEntrance",
+                "value": "Entrée séparée"
+              }
+            ],
+            "title": "Intérieur"
+          },
+          {
+            "elements": [
+              {
+                "icon": "terrace",
+                "value": "Terrasse"
+              },
+              {
+                "icon": "parking-lots",
+                "value": "Garage"
+              }
+            ],
+            "title": "Extérieur"
+          },
+          {
+            "elements": [
+              {
+                "value": "Piscine",
+                "icon": "swimming-pool"
+              }
+            ],
+            "title": "Équipements"
+          }
+        ]
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "6173c1be-2724-4e1d-8f55-f1472d07ab35",
+          "url": "https://mms.seloger.com/6/1/7/3/6173c1be-2724-4e1d-8f55-f1472d07ab35.jpg?ci_seal=2c1e3090492eeac46278dcda4a3a5b0572c4352a",
+          "alt": "Maison à louer 3 850 € 5 pièces 4 chambres 141 m² 300 m² de terrain Bonneveine Marseille 8ème 13008",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "be21eb00-317e-430f-b747-3ade12f95c34",
+          "url": "https://mms.seloger.com/b/e/2/1/be21eb00-317e-430f-b747-3ade12f95c34.jpg?ci_seal=e22dfe0bcba25ad4a2f09a272722906f15a6db63",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ee6c7379-bbd1-49f7-8371-7843cfc4e9fc",
+          "url": "https://mms.seloger.com/e/e/6/c/ee6c7379-bbd1-49f7-8371-7843cfc4e9fc.jpg?ci_seal=902d2fb9302907285c41cc47ab66da9cfa3ab116",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "85815d8b-dc35-4f12-a46e-c2334ee60e62",
+          "url": "https://mms.seloger.com/8/5/8/1/85815d8b-dc35-4f12-a46e-c2334ee60e62.jpg?ci_seal=1bddd8155011939d31c69fe8befcc1ae60ac993a",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6ef38923-7ddd-4624-89c8-0213fbf92a20",
+          "url": "https://mms.seloger.com/6/e/f/3/6ef38923-7ddd-4624-89c8-0213fbf92a20.jpg?ci_seal=16b7bc1f12d30c663ce5758913c19c4525587b3d",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "5fb6a8a3-9233-4da9-8a20-d90548ebf6fc",
+          "url": "https://mms.seloger.com/5/f/b/6/5fb6a8a3-9233-4da9-8a20-d90548ebf6fc.jpg?ci_seal=de079f75019fec6ec13d8a2e74628971cbccffbe",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "34fedfd3-d871-4278-accf-ee80e1b30c8b",
+          "url": "https://mms.seloger.com/3/4/f/e/34fedfd3-d871-4278-accf-ee80e1b30c8b.jpg?ci_seal=67c76844b7269ad723023461b06d7c236ece4209",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "cf950f08-e278-430f-af7f-4ee567c9e2c3",
+          "url": "https://mms.seloger.com/c/f/9/5/cf950f08-e278-430f-af7f-4ee567c9e2c3.jpg?ci_seal=33c56f0fac8c79be7cca88da67d75082cfb4e62e",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9d0bc4b4-4386-477c-8a78-c86334020879",
+          "url": "https://mms.seloger.com/9/d/0/b/9d0bc4b4-4386-477c-8a78-c86334020879.jpg?ci_seal=ba253add15e4b0e74754113e393da4199ea4be9e",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "9c940eec-1527-479d-9707-66173d22b8e0",
+          "url": "https://mms.seloger.com/9/c/9/4/9c940eec-1527-479d-9707-66173d22b8e0.jpg?ci_seal=927a098bc0fc7b96f8daf37ab13700d66e6feedc",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ceea328a-f33b-4fce-97ee-34e6367aae6e",
+          "url": "https://mms.seloger.com/c/e/e/a/ceea328a-f33b-4fce-97ee-34e6367aae6e.jpg?ci_seal=bf62f2f60260b05a4424087d17d531438c05ea05",
+          "classification": {
+            "name": "SWIMMING_POOL",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "52dee1d4-16e2-4a76-aa96-3d62576d7bc5",
+          "url": "https://mms.seloger.com/5/2/d/e/52dee1d4-16e2-4a76-aa96-3d62576d7bc5.jpg?ci_seal=3ed936f13c6d68c633bd2ea51e8fc08e67341adb",
+          "classification": {
+            "name": "SWIMMING_POOL",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "10b181a5-282f-402d-a5d4-a739a6b46c32",
+          "url": "https://mms.seloger.com/1/0/b/1/10b181a5-282f-402d-a5d4-a739a6b46c32.jpg?ci_seal=b020a2e3c4e94bd30b31dadffa1d5a956887d409",
+          "classification": {
+            "name": "GARAGE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "254176659",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13008",
+      "city": "Marseille 8ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 17,
+        "accuracy": 1,
+        "high": "21,98",
+        "low": "12,82"
+      },
+      "markerPosition": 100,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "27,30",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Maison T5 Garage Piscine Bonneveine",
+      "description": "Bonneveine, au calme et au soleil.  Maison Type 5 en R+1 de 141 m2 habitable sur parcelle de 300m2 avec garage, terrasse, et piscine. L'ensemble en parfait état, avec de belles prestations. En rez-de-chaussée : séjour spacieux, grande cuisine indépendante aménagée et équipée, un cabinet de toilette. A l'étage, les quatre chambres avec placard, une salle de bains, une salle d'eau et un wc séparé. Grande terrasse avec piscine sécurisée par alarme. Plancher chauffant rafraichissant. A voir absolument. Rare en location. Les honoraires de location comprennent l'état des lieux d'entrée.",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "26 jours en ligne",
+      "views": "227 vues",
+      "saves": "3 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25423AJ1HVM4",
+    "legacyId": "254176659",
+    "brand": "seloger",
+    "agencyId": "RC-072252",
+    "static": {
+      "phoneNumbers": [
+        "0491811757 / 06 15 43 36 17"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "0491811757 / 06 15 43 36 17"
+      ]
+    },
+    "contactCard": {
+      "title": "SATIMMO",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0491811757 / 06 15 43 36 17"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": null,
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "SATIMMO",
+        "subtitle": "Agence professionnelle",
+        "phoneNumbers": [
+          "0491811757 / 06 15 43 36 17"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": null
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Mon message",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "SATIMMO",
+      "subtitle": "Agence professionnelle",
+      "phoneNumbers": [
+        "0491811757 / 06 15 43 36 17"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "SATIMMO",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-06-13442/agence-64514/"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Votre contact",
+        "display": false,
+        "logoUrl": null
+      },
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/marseille-06-13442/agence-64514/",
+      "imprintUrl": null,
+      "agencyLegalInformations": [
+        "SARL Satimmo au capital de 7 622,45 €",
+        "Carte professionnelle A06 2986 délivrée par la Préfecture de BOUCHES DU RHONES",
+        "Garantie financière MMA pour un montant de 30 000 €",
+        "<b>Siège:</b> 100 rue Edmond ROSTAND, 13006 MARSEILLE",
+        "<b>RCS:</b> 13 414970798",
+        "<b>SIRET:</b> 41497079800016"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "100 rue Edmond Rostand BP 110, 13442 Marseille Cedex 06",
+      "phoneNumbers": [
+        "0491811757 / 06 15 43 36 17"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_5",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13008",
+    "av_city": "Marseille 8ème",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25423AJ1HVM4",
+        "price": 3850,
+        "estate_type": "av_5",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 8ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13008",
+        "building_state": "FIRST_TIME_USE",
+        "legacy_id": "254176659",
+        "product_type": "standard",
+        "client_id": "RC-072252",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "52601",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "13008",
+        "estate_type": 2,
+        "id": "254176659",
+        "id_duo": 254176659,
+        "id_solo": 254176659,
+        "list_name": "detail",
+        "media": 0,
+        "nb_bedrooms": 4,
+        "nb_rooms": 5,
+        "parent_site": "SL",
+        "photos_nb": 13,
+        "position": 0,
+        "price": 3850,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 141
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13008",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "2",
+      "naturebien": "1",
+      "idtiers": "254176659",
+      "prix": 3900,
+      "nb_pieces": 5,
+      "nb_chambres": 4,
+      "surface": 141,
+      "surf_terrain": 300,
+      "etage": 1,
+      "commodites": [
+        "box",
+        "Chauffage-sol",
+        "Cuisine-séparée",
+        "piscine",
+        "SalleDEau-douche",
+        "SalleDeBain-baignoire",
+        "terrasse",
+        "ToiletteSeparee"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 1,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-maison/france.htm",
+          "label": "Maisons à louer France",
+          "hoverLabel": "Maisons à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-maison/provence-alpes-cote-d-azur.htm",
+          "label": "Maisons à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Maisons à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-maison/",
+          "label": "Maisons à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Maisons à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-8eme-13/bien-maison/",
+          "label": "Maisons à louer Marseille 8ème arrondissement 13008",
+          "hoverLabel": "Maisons à louer Marseille 8ème arrondissement 13008",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Maison à louer T5/F5 141 m² 3850 € Bonneveine Marseille (13008)",
+      "titleWithCount": "",
+      "description": "Maison à louer T5/F5 141 m² 3850 € Bonneveine Marseille (13008)",
+      "canonical": "https://www.seloger.com/annonces/locations/maison/marseille-8eme-13/bonneveine/254176659.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/maison/marseille-8eme-13/bonneveine/254176659.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Maison à louer T5/F5 141 m² 3850 € Bonneveine Marseille (13008)"
+        },
+        {
+          "property": "description",
+          "content": "Maison à louer T5/F5 141 m² 3850 € Bonneveine Marseille (13008)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/6/1/7/3/6173c1be-2724-4e1d-8f55-f1472d07ab35.jpg?ci_seal=2c1e3090492eeac46278dcda4a3a5b0572c4352a"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Maison à louer T5/F5 141 m² 3850 € Bonneveine Marseille (13008)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/maison/marseille-8eme-13/bonneveine/254176659.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Maison à louer T5/F5 141 m² 3850 € Bonneveine Marseille (13008)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Maison à louer T5/F5 141 m² 3850 € Bonneveine Marseille (13008)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/6/1/7/3/6173c1be-2724-4e1d-8f55-f1472d07ab35.jpg?ci_seal=2c1e3090492eeac46278dcda4a3a5b0572c4352a"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Maison à louer T5/F5 141 m² 3850 € Bonneveine Marseille (13008)"
+          },
+          {
+            "type": "name",
+            "content": "Maison à louer T5/F5 141 m² 3850 € Bonneveine Marseille (13008)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-maison/france.htm",
+          "label": "Maisons à louer France",
+          "hoverLabel": "Maisons à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-maison/provence-alpes-cote-d-azur.htm",
+          "label": "Maisons à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Maisons à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-maison/",
+          "label": "Maisons à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Maisons à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-8eme-13/bien-maison/",
+          "label": "Maisons à louer Marseille 8ème arrondissement 13008",
+          "hoverLabel": "Maisons à louer Marseille 8ème arrondissement 13008",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/maison/marseille-8eme-13/bonneveine/254176659.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=House&locations=NBH2FR1074&priceMax=4620&priceMin=3080",
+  "tags": {
+    "isExclusive": true,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "HOUSE",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1074",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR8",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25423AJ1HVM4"
+}

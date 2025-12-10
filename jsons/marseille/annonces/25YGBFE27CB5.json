@@ -1,0 +1,1084 @@
+{
+  "brand": "seloger",
+  "id": "25YGBFE27CB5",
+  "metadata": {
+    "legacyId": "252424321",
+    "creationDate": "2025-10-18T10:21:00Z",
+    "updateDate": "2025-10-19T09:40:18.878Z",
+    "status": {
+      "status": true,
+      "enrichments": {
+        "contactSettings": false,
+        "geo": false,
+        "intermediary": false,
+        "media": false,
+        "onlineId": false
+      }
+    },
+    "isNewBuildProject": false
+  },
+  "sections": {
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Marseille 7ème",
+        "zipCode": "13007",
+        "district": "Le Pharo"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3588124,
+          43.2902063
+        ]
+      }
+    },
+    "description": {
+      "description": "Charmant appartement T2 de 47 m² (Loi Carrez), en rez-de-jardin d'un immeuble typiquement marseillais, idéalement situé au 7 rue César Aleman (13007), à deux pas de la plage des Catalans.\r\n\r\nCe lieu au style loft se compose d'un séjour lumineux et climatisé avec cuisine américaine équipée, donnant sur un jardin de 54 m² exposé plein Sud, au calme absolu. Aménagé pour profiter pleinement des beaux jours, cet extérieur offre un véritable espace de détente, protégé de l'agitation urbaine, où le chant des oiseaux vient parfaire l'ambiance paisible.\r\n\r\nLa chambre cosy est accessible par des portes à galandage, tout comme la salle d'eau moderne avec douche à l'italienne et WC.\r\n\r\nUn lieu de vie rare, dans un quartier central proche de toutes les commodités, du parc du Pharo, de la Corniche et de la plage!",
+      "texts": [
+        {
+          "text": "Charmant appartement T2 de 47 m² (Loi Carrez), en rez-de-jardin d'un immeuble typiquement marseillais, idéalement situé au 7 rue César Aleman (13007), à deux pas de la plage des Catalans.\r\n\r\nCe lieu au style loft se compose d'un séjour lumineux et climatisé avec cuisine américaine équipée, donnant sur un jardin de 54 m² exposé plein Sud, au calme absolu. Aménagé pour profiter pleinement des beaux jours, cet extérieur offre un véritable espace de détente, protégé de l'agitation urbaine, où le chant des oiseaux vient parfaire l'ambiance paisible.\r\n\r\nLa chambre cosy est accessible par des portes à galandage, tout comme la salle d'eau moderne avec douche à l'italienne et WC.\r\n\r\nUn lieu de vie rare, dans un quartier central proche de toutes les commodités, du parc du Pharo, de la Corniche et de la plage!"
+        }
+      ],
+      "headline": "Rez de jardin plage des Catalans"
+    },
+    "hardFacts": {
+      "title": "Appartement à louer",
+      "keyfacts": [
+        "1 pièce",
+        "47 m²",
+        "dès le 24/01/2026"
+      ],
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièce",
+          "splitValue": "1",
+          "label": "pièce"
+        },
+        {
+          "type": "livingSpace",
+          "value": "47 m²",
+          "splitValue": "47",
+          "label": "m²"
+        },
+        {
+          "type": "availability",
+          "value": "dès le 24/01/2026",
+          "splitValue": "dès",
+          "label": "le 24/01/2026"
+        }
+      ],
+      "price": {
+        "value": "1 300 €",
+        "formatted": "1 300 €/mois",
+        "modifiers": "/mois",
+        "unitPostfix": {
+          "unitTime": "/mois"
+        },
+        "additionalInformation": "charges comprises",
+        "addition": {
+          "value": "cc",
+          "priceLabelDesc": "charges comprises"
+        },
+        "financialLink": {
+          "href": "https://www.nextories.com/partner/landing/seloger?utm_source=seloger&utm_medium=nativelien-prix-loc-2&utm_campaign=nativelienprix-pagesdetails-seloger-location2",
+          "label": "Demander un financement",
+          "partnerName": "NEXTORIES_RESERVEZ"
+        },
+        "ariaLabel": "1300 €",
+        "chargesLabel": "cc"
+      }
+    },
+    "energy": {
+      "certificates": [
+        {
+          "key": "8a61b158-cbf9-41c0-a62b-e5f9aaba79d9",
+          "features": [
+            {
+              "type": "minMaxEstimation",
+              "label": "Estimation de la facture énergétique",
+              "value": "entre 530 et 780 €/an"
+            },
+            {
+              "type": "nameOfCertificate",
+              "label": "Diagnostic réalisé",
+              "value": "Avant le 1er juillet 2021"
+            },
+            {
+              "type": "estimationDescription",
+              "label": "estimationDescription",
+              "value": "Montant estimé des dépenses annuelles d'énergie pour un usage standard: entre 530 et 780 € par an. Prix moyens des énergies indexés au 01/01/2025 (abonnement compris)."
+            }
+          ],
+          "scales": [
+            {
+              "key": "1c63c67c-b49f-44c2-af35-0739ef1e10c2",
+              "efficiencyClass": {
+                "index": 2,
+                "rating": "C"
+              },
+              "values": [
+                {
+                  "value": "131 kWh/m².an",
+                  "label": "Consommation (énergie primaire)"
+                },
+                {
+                  "value": "3 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Diagnostic de performance énergétique (DPE)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 50"
+                },
+                {
+                  "label": "B",
+                  "value": "51 - 90"
+                },
+                {
+                  "label": "C",
+                  "value": "91 - 150"
+                },
+                {
+                  "label": "D",
+                  "value": "151 - 230"
+                },
+                {
+                  "label": "E",
+                  "value": "231 - 330"
+                },
+                {
+                  "label": "F",
+                  "value": "331 - 450"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 450"
+                }
+              ],
+              "type": "FR_ENERGY_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : C avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            },
+            {
+              "key": "d7d40460-41cd-48ef-a4cd-8571607f889a",
+              "efficiencyClass": {
+                "index": 0,
+                "rating": "A"
+              },
+              "values": [
+                {
+                  "value": "3 kg CO₂/m².an",
+                  "label": "Émissions"
+                }
+              ],
+              "name": "Indice d'émission de gaz à effet de serre (GES)",
+              "segments": [
+                {
+                  "label": "A",
+                  "value": "<= 5"
+                },
+                {
+                  "label": "B",
+                  "value": "6 - 10"
+                },
+                {
+                  "label": "C",
+                  "value": "11 - 20"
+                },
+                {
+                  "label": "D",
+                  "value": "21 - 35"
+                },
+                {
+                  "label": "E",
+                  "value": "36 - 55"
+                },
+                {
+                  "label": "F",
+                  "value": "56 - 80"
+                },
+                {
+                  "label": "G",
+                  "value": ">= 80"
+                }
+              ],
+              "type": "FR_GHG_BEFORE_2021",
+              "ariaLabel": "EfficiencyClass : A avec une plage allant de A à G .La consommation d'énergie est undefined kWhEP/m².an kilowattheures par mètre carré.",
+              "displayUnhappyHouseIcon": false
+            }
+          ]
+        }
+      ],
+      "hasScales": true
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Identifiant",
+          "value": "252424321"
+        },
+        {
+          "label": "Référence annonce",
+          "value": "MC-43635"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "label": "Loyer charges comprises",
+          "value": "1 300 €/mois Loyer charges comprises",
+          "ariaLabel": "1300 €/mois Loyer charges comprises"
+        },
+        "details": [
+          {
+            "label": "Coûts supplémentaires",
+            "value": "50 €/mois",
+            "ariaLabel": "50 €"
+          },
+          {
+            "label": "Prix ​​au m²",
+            "value": "27,66 €/mois/m²",
+            "ariaLabel": "27,66 euros par mètre carré"
+          },
+          {
+            "label": "Dépôt de garantie",
+            "value": "1800"
+          }
+        ]
+      }
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "availability",
+          "value": "disponible à partir du 24/01/2026"
+        },
+        {
+          "icon": "elevator",
+          "value": "Pas d'ascenseur"
+        },
+        {
+          "icon": "cellar",
+          "value": "Pas de cave"
+        },
+        {
+          "icon": "garden",
+          "value": "Jardin"
+        },
+        {
+          "icon": "furnished",
+          "value": "Meublé"
+        },
+        {
+          "icon": "bathroom-amenities",
+          "value": "1 salle de bain"
+        }
+      ],
+      "details": null
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "304c0f8e-e6cc-4628-927a-143f8ba9c661",
+          "url": "https://mms.seloger.com/3/0/4/c/304c0f8e-e6cc-4628-927a-143f8ba9c661.jpg?ci_seal=bbde513bd450b79e940e39a7644dd1b74e6bbd9e",
+          "alt": "Appartement à louer 1 300 € 1 pièce 47 m² dès le 24/01/2026 Le Pharo Marseille 7ème 13007",
+          "classification": {
+            "name": "YARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7c4a857c-3d9e-4b94-87f1-3adca17b0938",
+          "url": "https://mms.seloger.com/7/c/4/a/7c4a857c-3d9e-4b94-87f1-3adca17b0938.jpg?ci_seal=134c05dd2a53fd590153facfc8d546c06ad43dce",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "18cc623d-8584-4cc8-a655-08e6f8f3be89",
+          "url": "https://mms.seloger.com/1/8/c/c/18cc623d-8584-4cc8-a655-08e6f8f3be89.jpg?ci_seal=951552602ff1a9aae9fa57e170530b729f933eaa",
+          "classification": {
+            "name": "COURTYARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "51c60af9-d40d-41ac-9b57-c0fe99baab44",
+          "url": "https://mms.seloger.com/5/1/c/6/51c60af9-d40d-41ac-9b57-c0fe99baab44.jpg?ci_seal=cdd14f7458718574b5d5a9676224d12d2f216206",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f6f2912c-1a42-4903-a4e4-2745f23cadf7",
+          "url": "https://mms.seloger.com/f/6/f/2/f6f2912c-1a42-4903-a4e4-2745f23cadf7.jpg?ci_seal=078d5f81cad94dc8c18e743809347d76c6890cd1",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "acc96e1f-aa10-4cc6-a21c-16cd2081c281",
+          "url": "https://mms.seloger.com/a/c/c/9/acc96e1f-aa10-4cc6-a21c-16cd2081c281.jpg?ci_seal=fc85985d7ca6aa6a825d6f63c03940b2eb263602",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "ec461395-6530-4b62-88f2-6d05e751398f",
+          "url": "https://mms.seloger.com/e/c/4/6/ec461395-6530-4b62-88f2-6d05e751398f.jpg?ci_seal=c3f24c4ffc7ae0611dc0aeaa02f67fe8e3e332bf",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fe20aa91-336f-4fa4-9ea4-69f4b26e1ba2",
+          "url": "https://mms.seloger.com/f/e/2/0/fe20aa91-336f-4fa4-9ea4-69f4b26e1ba2.jpg?ci_seal=be6d4749b53c12866feb2dbe714ec53785f0ae1d",
+          "classification": {
+            "name": "KITCHEN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "7a476a07-f598-4836-9ff2-29525a36a130",
+          "url": "https://mms.seloger.com/7/a/4/7/7a476a07-f598-4836-9ff2-29525a36a130.jpg?ci_seal=b6904ffa7d1da6640a2fb571506bb2be9d7bf875",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8ed6791e-dfb0-4598-b259-d2095af5a059",
+          "url": "https://mms.seloger.com/8/e/d/6/8ed6791e-dfb0-4598-b259-d2095af5a059.jpg?ci_seal=cce16ab5effec7c121917abd1b9b9d69c5a135c0",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "c70ad311-e04a-4c3c-be4b-3e13f16fbbe2",
+          "url": "https://mms.seloger.com/c/7/0/a/c70ad311-e04a-4c3c-be4b-3e13f16fbbe2.jpg?ci_seal=c032c6742cba6dbaf972e68c7f6fb90ffdf131a8",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "52222430-4fbe-4c08-8ab7-c65a58dc04cc",
+          "url": "https://mms.seloger.com/5/2/2/2/52222430-4fbe-4c08-8ab7-c65a58dc04cc.jpg?ci_seal=78003bb05ee0f1c0eb833f100cc5b6630a2f26f6",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "bf1687e0-5607-41c4-bb92-4cd010298ca6",
+          "url": "https://mms.seloger.com/b/f/1/6/bf1687e0-5607-41c4-bb92-4cd010298ca6.jpg?ci_seal=f59f828212f2174d1a85720dd90b6387730a6aed",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "43aa4182-5f78-4dca-8cad-b9c9479cc92e",
+          "url": "https://mms.seloger.com/4/3/a/a/43aa4182-5f78-4dca-8cad-b9c9479cc92e.jpg?ci_seal=7a6f8375ba4435b90c908198fb7a5873ecbb791a",
+          "classification": {
+            "name": "YARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "53204594-c6d4-4005-8aa6-c2ee97e63e88",
+          "url": "https://mms.seloger.com/5/3/2/0/53204594-c6d4-4005-8aa6-c2ee97e63e88.jpg?ci_seal=f51328fd8e6e94bfed4e11dd70e0ab7c0a909c0f",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "seloger",
+      "id": "252424321",
+      "federalStateGeoId": "AD04FR33",
+      "zip": "13007",
+      "city": "Marseille 7ème",
+      "country": "FRA",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "showRentLabel": true,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "priceComparison": {
+      "data": {
+        "value": 18.15,
+        "accuracy": 1,
+        "high": "28,81",
+        "low": "12,52"
+      },
+      "markerPosition": 93,
+      "hasMainPrice": true,
+      "isSale": false,
+      "pricePerSqm": "27,66",
+      "legalText": "Le prix au m2 est automatiquement calculé par Se Loger en fonction du prix de vente et du nombre de m2 du bien. La comparaison est réalisée à partir des informations relatives au prix du marché sur le même secteur dont dispose Se Loger. Cette information ne préjuge en aucun cas de l'évaluation du bien, qui dépend de son état, ses caractéristiques et de sa localisation."
+    },
+    "mainDescription": {
+      "headline": "Rez de jardin plage des Catalans",
+      "description": "Charmant appartement T2 de 47 m² (Loi Carrez), en rez-de-jardin d'un immeuble typiquement marseillais, idéalement situé au 7 rue César Aleman (13007), à deux pas de la plage des Catalans.\r\n\r\nCe lieu au style loft se compose d'un séjour lumineux et climatisé avec cuisine américaine équipée, donnant sur un jardin de 54 m² exposé plein Sud, au calme absolu. Aménagé pour profiter pleinement des beaux jours, cet extérieur offre un véritable espace de détente, protégé de l'agitation urbaine, où le chant des oiseaux vient parfaire l'ambiance paisible.\r\n\r\nLa chambre cosy est accessible par des portes à galandage, tout comme la salle d'eau moderne avec douche à l'italienne et WC.\r\n\r\nUn lieu de vie rare, dans un quartier central proche de toutes les commodités, du parc du Pharo, de la Corniche et de la plage!",
+      "metadata": {
+        "language": "fr"
+      }
+    },
+    "areaDescription": {
+      "headline": "Emplacement"
+    },
+    "extendedInfoDescription": {
+      "headline": "Informations supplémentaires"
+    },
+    "statistics": {
+      "published": "1 mois en ligne",
+      "views": "293 vues",
+      "saves": "11 favoris"
+    }
+  },
+  "contactSections": {
+    "id": "25YGBFE27CB5",
+    "legacyId": "252424321",
+    "brand": "seloger",
+    "agencyId": "RC-057364",
+    "static": {
+      "phoneNumbers": [
+        "01 76 44 06 66"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "01 76 44 06 66"
+      ]
+    },
+    "contactCard": {
+      "title": "WIZI",
+      "subtitle": "Agence Tyrell",
+      "phoneNumbers": [
+        "01 76 44 06 66"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.seloger.com/e/f/7/4/ef74585f-baa5-4ea1-856e-8f9d4b090f11.jpg?ci_seal=c4e14766c37b37f0336b65afde46fa2eff7e567e",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": null,
+        "display": false
+      }
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "WIZI",
+        "subtitle": "Agence Tyrell",
+        "phoneNumbers": [
+          "01 76 44 06 66"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.seloger.com/e/f/7/4/ef74585f-baa5-4ea1-856e-8f9d4b090f11.jpg?ci_seal=c4e14766c37b37f0336b65afde46fa2eff7e567e"
+      },
+      "displayOwnerFlag": true,
+      "subjectLabel": "Votre message à Agence Tyrell",
+      "shouldSendLeadValue": true
+    },
+    "mobilePhones": {
+      "title": "WIZI",
+      "subtitle": "WIZI",
+      "phoneNumbers": [
+        "01 76 44 06 66"
+      ],
+      "logoUrl": null,
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "WIZI",
+        "subtitle": "Agence professionnelle",
+        "display": true,
+        "logoUrl": "https://mms.seloger.com/e/f/7/4/ef74585f-baa5-4ea1-856e-8f9d4b090f11.jpg?ci_seal=c4e14766c37b37f0336b65afde46fa2eff7e567e",
+        "logoHref": "https://www.seloger.com/professionnels/agences-immobilieres/bagneux-92220/agence-7047/"
+      },
+      "contactCard": {
+        "title": "Agence Tyrell",
+        "subtitle": "Votre contact",
+        "display": true,
+        "logoUrl": null
+      },
+      "website": "http://wizi.io/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.seloger.com/professionnels/agences-immobilieres/bagneux-92220/agence-7047/",
+      "imprintUrl": null,
+      "feeUrl": "http://vd.seloger.com/files/2/8/0/q/280qp3db8ymodobj0gqwm14avaejhks5n3cjgo934/Capture+d_ecran+2023-06-09+a+09.51.25.png",
+      "agencyLegalInformations": [
+        "SAS TYRELL au capital de 903 809 €",
+        "Carte professionnelle CPI92012017000018448 délivrée par la Préfecture de PARIS",
+        "Garantie financière GALIAN pour un montant de 200 000 €",
+        "<b>Siège:</b> 23 avenue de la Motte-Picquet, 75007 PARIS",
+        "<b>RCS:</b> PARIS 819520222",
+        "<b>SIRET:</b> 81952022200012"
+      ],
+      "publisherType": "AGENCY",
+      "displayLinks": true,
+      "address": "55 rue Alphonse Pluchet, 92220 Bagneux",
+      "phoneNumbers": [
+        "01 76 44 06 66"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": false
+    }
+  },
+  "tracking": {
+    "av_category": "classified",
+    "av_initiative": "wl_cdp",
+    "av_environment": "live",
+    "av_estate_type_global": "av_2",
+    "av_distribution_type_global": "1",
+    "av_client_type": "pro",
+    "av_language": "fr",
+    "av_zip_code": "13007",
+    "av_city": "Marseille 7ème",
+    "av_energy_certificate": "C",
+    "av_items": [
+      {
+        "index": 0,
+        "name": "classified",
+        "list_name": "classified_detail",
+        "id": "25YGBFE27CB5",
+        "price": 1300,
+        "estate_type": "av_2",
+        "distribution_type": "1",
+        "country": "France",
+        "city": "Marseille 7ème",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "zip_code": "13007",
+        "legacy_id": "252424321",
+        "product_type": "standard",
+        "client_id": "RC-057364",
+        "energy_certificate": "C"
+      }
+    ]
+  },
+  "legacyTracking": {
+    "site": "SL",
+    "pagename": "detail",
+    "environment": "prod",
+    "language": "fr",
+    "temp_variable_1": "WL",
+    "products": [
+      {
+        "client_id": "200554",
+        "client_type": "pro",
+        "distribution_type": "1",
+        "energy_letter": "C",
+        "estate_postalcode": "13007",
+        "estate_type": 1,
+        "id": "252424321",
+        "id_duo": 252424321,
+        "id_solo": 252424321,
+        "list_name": "detail",
+        "media": 0,
+        "nb_rooms": 1,
+        "parent_site": "SL",
+        "photos_nb": 15,
+        "position": 0,
+        "price": 1300,
+        "product_geolocation": "localisation_street",
+        "product_type": "estate",
+        "product_variant": "classified",
+        "space": 47
+      }
+    ]
+  },
+  "advertising": {
+    "slots_config": [
+      {
+        "id": "div-gam-ad-desktop-top-banner",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/leaderboard",
+        "size": [
+          728,
+          90
+        ],
+        "specificTargeting": {
+          "pos": "leaderboard"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-1",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-haut",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-haut"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-medium-rectangle-2",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-bas",
+        "size": [
+          [
+            300,
+            250
+          ],
+          "fluid"
+        ],
+        "specificTargeting": {
+          "pos": "pave-bas"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          [
+            624,
+            468
+          ],
+          [
+            300,
+            250
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "desktop"
+      },
+      {
+        "id": "ad-banner-mobile",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/banniere-mobile",
+        "size": [
+          [
+            320,
+            50
+          ],
+          [
+            320,
+            100
+          ],
+          [
+            320,
+            150
+          ]
+        ],
+        "specificTargeting": {
+          "pos": "banniere-mobile"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-masonry",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/image-galerie",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "image-galerie"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "ad-carousel",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/pave-carrousel",
+        "size": [
+          300,
+          250
+        ],
+        "specificTargeting": {
+          "pos": "pave-carrousel"
+        },
+        "device": "mobile"
+      },
+      {
+        "id": "rental-link",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/lien",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "Lien"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-1-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native1",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native1"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-2-commercial",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native2",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native2"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-3-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native3",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native3"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-4-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native4",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native4"
+        },
+        "device": "all"
+      },
+      {
+        "id": "partnerbox-5-tools-and-service",
+        "adUnit": "/199043128/360-seloger/location/general/page-de-detail/native5",
+        "size": "fluid",
+        "specificTargeting": {
+          "pos": "native5"
+        },
+        "device": "all"
+      }
+    ],
+    "tracking_config": {
+      "localite": "13055",
+      "cp": "13007",
+      "geodp": "13",
+      "pays": "250",
+      "idtt": "1",
+      "idtypebien": "1",
+      "naturebien": "1",
+      "idtiers": "252424321",
+      "prix": 1300,
+      "nb_pieces": 1,
+      "surface": 47,
+      "commodites": [
+        "rez-de-chaussee",
+        "SalleDeBain-baignoire"
+      ],
+      "mensualitefinance": 0,
+      "si_parking": 0,
+      "DPE": "C"
+    }
+  },
+  "seo": {
+    "breadcrumb": {
+      "type": "cdp-breadcrumb",
+      "name": "breadcrumb",
+      "title": "cdp-breadcrumb",
+      "slug": "cdp-breadcrumb",
+      "links": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-7eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 7ème arrondissement 13007",
+          "hoverLabel": "Appartements à louer Marseille 7ème arrondissement 13007",
+          "serpKey": ""
+        },
+        {
+          "order": 100,
+          "url": "",
+          "label": "Annonce",
+          "hoverLabel": "Annonce",
+          "serpKey": ""
+        }
+      ]
+    },
+    "headInfo": {
+      "title": "Appartement à louer studios et studettes 47 m² 1300 € Le Pharo Marseille (13007)",
+      "titleWithCount": "",
+      "description": "Appartement à louer studios et studettes 47 m² 1300 € Le Pharo Marseille (13007)",
+      "canonical": "https://www.seloger.com/annonces/locations/appartement/marseille-7eme-13/le-pharo/252424321.htm",
+      "robots": "index, follow, max-snippet:-1",
+      "icons": [
+        {
+          "relation": "shortcut icon",
+          "link": "https://www.seloger.com/favicon.ico",
+          "type": "image/ico"
+        }
+      ],
+      "openGraphs": [
+        {
+          "property": "locale",
+          "content": "fr_FR"
+        },
+        {
+          "property": "url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-7eme-13/le-pharo/252424321.htm"
+        },
+        {
+          "property": "type",
+          "content": "website"
+        },
+        {
+          "property": "site_name",
+          "content": "SeLoger"
+        },
+        {
+          "property": "title",
+          "content": "Appartement à louer studios et studettes 47 m² 1300 € Le Pharo Marseille (13007)"
+        },
+        {
+          "property": "description",
+          "content": "Appartement à louer studios et studettes 47 m² 1300 € Le Pharo Marseille (13007)"
+        },
+        {
+          "property": "image",
+          "content": "https://mms.seloger.com/3/0/4/c/304c0f8e-e6cc-4628-927a-143f8ba9c661.jpg?ci_seal=bbde513bd450b79e940e39a7644dd1b74e6bbd9e"
+        }
+      ],
+      "socials": [
+        {
+          "name": "twitter:card",
+          "content": "Appartement à louer studios et studettes 47 m² 1300 € Le Pharo Marseille (13007)"
+        },
+        {
+          "name": "twitter:url",
+          "content": "https://www.seloger.com/annonces/locations/appartement/marseille-7eme-13/le-pharo/252424321.htm"
+        },
+        {
+          "name": "twitter:site",
+          "content": "@seloger"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Appartement à louer studios et studettes 47 m² 1300 € Le Pharo Marseille (13007)"
+        },
+        {
+          "name": "twitter:description",
+          "content": "Appartement à louer studios et studettes 47 m² 1300 € Le Pharo Marseille (13007)"
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://mms.seloger.com/3/0/4/c/304c0f8e-e6cc-4628-927a-143f8ba9c661.jpg?ci_seal=bbde513bd450b79e940e39a7644dd1b74e6bbd9e"
+        }
+      ],
+      "structuredData": [
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "Organization"
+          },
+          {
+            "type": "name",
+            "content": "SeLoger"
+          },
+          {
+            "type": "address",
+            "content": "2 Rue des Italiens, 75009 Paris"
+          },
+          {
+            "type": "telephone",
+            "content": "01 53 38 28 00"
+          },
+          {
+            "type": "url",
+            "content": "https://www.seloger.com/"
+          },
+          {
+            "type": "logo",
+            "content": "https://static-seloger.com/commons/header/logo_header.svg"
+          }
+        ],
+        [
+          {
+            "type": "@context",
+            "content": "https://schema.org"
+          },
+          {
+            "type": "@type",
+            "content": "RealEstateListing"
+          },
+          {
+            "type": "datePosted",
+            "content": ""
+          },
+          {
+            "type": "description",
+            "content": "Appartement à louer studios et studettes 47 m² 1300 € Le Pharo Marseille (13007)"
+          },
+          {
+            "type": "name",
+            "content": "Appartement à louer studios et studettes 47 m² 1300 € Le Pharo Marseille (13007)"
+          }
+        ]
+      ],
+      "breadcrumb": [
+        {
+          "order": 1,
+          "url": "https://www.seloger.com/",
+          "label": "Immobilier",
+          "hoverLabel": "Immobilier",
+          "serpKey": ""
+        },
+        {
+          "order": 2,
+          "url": "https://www.seloger.com/immobilier/pays/locations/bien-appartement/france.htm",
+          "label": "Appartements à louer France",
+          "hoverLabel": "Appartements à louer France",
+          "serpKey": ""
+        },
+        {
+          "order": 3,
+          "url": "https://www.seloger.com/immobilier/locations/bien-appartement/provence-alpes-cote-d-azur.htm",
+          "label": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "hoverLabel": "Appartements à louer Provence-Alpes-Côte d'Azur",
+          "serpKey": ""
+        },
+        {
+          "order": 4,
+          "url": "https://www.seloger.com/immobilier/locations/13/bien-appartement/",
+          "label": "Appartements à louer Bouches-du-Rhône 13",
+          "hoverLabel": "Appartements à louer Bouches-du-Rhône 13",
+          "serpKey": ""
+        },
+        {
+          "order": 5,
+          "url": "https://www.seloger.com/immobilier/locations/immo-marseille-7eme-13/bien-appartement/",
+          "label": "Appartements à louer Marseille 7ème arrondissement 13007",
+          "hoverLabel": "Appartements à louer Marseille 7ème arrondissement 13007",
+          "serpKey": ""
+        }
+      ],
+      "redirectUrl": "https://www.seloger.com/annonces/locations/appartement/marseille-7eme-13/le-pharo/252424321.htm"
+    }
+  },
+  "defaultBackToSearch": "distributionTypes=Rent&estateTypes=Apartment&locations=NBH2FR1070&priceMax=1560&priceMin=1040",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false,
+    "isHdExclusive": false
+  },
+  "rawData": {
+    "distributionType": "RENT",
+    "propertyType": "APARTMENT",
+    "geoIdHierarchy": [
+      {
+        "id": "NBH2FR1070",
+        "typeKey": "NBH2"
+      },
+      {
+        "id": "AD09FR7",
+        "typeKey": "AD09"
+      },
+      {
+        "id": "AD08FR4491",
+        "typeKey": "AD08"
+      },
+      {
+        "id": "AD06FR13",
+        "typeKey": "AD06"
+      },
+      {
+        "id": "AD04FR33",
+        "typeKey": "AD04"
+      },
+      {
+        "id": "AD03FR2",
+        "typeKey": "AD03"
+      },
+      {
+        "id": "AD02FR1",
+        "typeKey": "AD02"
+      }
+    ],
+    "distributionSubType": {
+      "rent": "CLASSIC"
+    }
+  },
+  "cps": "25YGBFE27CB5"
+}
