@@ -3,6 +3,7 @@ import pandas as pd
 import pydeck as pdk
 import plotly.express as px
 import os 
+import json 
 
 from pathlib import Path
 from services.gpt_assistant import GPTAssistant
@@ -380,7 +381,14 @@ if st.session_state.get("show_viz", False):
     # -------------------------------------------------------------------
     st.markdown("---")
     st.header("🤖 Assistant IA — Analyse automatique du marché immobilier")
-
+    KEY_FILE = Path("config/api_key.json")
+    if KEY_FILE.exists():
+        try:
+            saved_key = json.loads(KEY_FILE.read_text()).get("openai_api_key", "")
+            if saved_key:
+                st.session_state["openai_api_key"] = saved_key
+        except:
+            pass
     # Vérifier qu’une clé API a bien été enregistrée dans la page Config
     if "openai_api_key" not in st.session_state:
         st.warning("🔑 Ajoutez d'abord votre clé API dans la page **Configuration**.")
